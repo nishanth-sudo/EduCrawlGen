@@ -1,0 +1,77 @@
+XMLTutorial
+XML AJAX
+XML DOM
+XPathTutorial
+XSLTTutorial
+XQueryTutorial
+XMLDTD
+XSDSchema
+XSDData Types
+WebServices
+XML Examples
+References
+XMLTutorial
+Learn XML
+XML stands for eXtensible Markup Language.
+XML was designed to store and transport data.
+XML was designed to be both human- and machine-readable.
+XML Example 1
+Display the XML File »Display the XML File as a Note »
+XML Example 2
+Display the XML File »Display with XSLT »
+Header
+Why Study XML?
+XML plays an important role in many different IT systems.
+XML is often used for distributing data over the Internet.
+It is important (for all types of software developers!) to have a good understanding of XML.
+What You Will Learn
+This tutorial will give you a solid understanding of:
+What is XML?
+How does XML work?
+How can I use XML?
+What can I use XML for?
+Important XML Standards
+This tutorial will also dig deep into the following important XML standards:
+XML AJAX
+XML DOM
+XML XPath
+XML XSLT
+XML XQuery
+XML DTD
+XML Schema
+XML Services
+We recommend reading this tutorial, in the sequence listed in the left menu.
+Learn by Examples
+Examples are better than 1000 words. Examples are often easier to understand 
+than text explanations.
+This tutorial supplements all explanations with clarifying "Try it Yourself" examples.
+XML Examples
+AJAX Examples
+DOM Examples
+XPath Examples
+XSLT Examples
+XML Quiz Test
+Test your XML skills at W3Schools!
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+Kickstart your career
+Get certified by completingthecourse
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_xml_default.asp_0.png
+www.w3schools.com_xml_default.asp_1.png

@@ -1,0 +1,47 @@
+jQuery Tutorial
+jQuery Effects
+jQuery HTML
+jQuery Traversing
+jQuery AJAX
+jQuery Misc
+jQuery Examples
+jQuery References
+jQueryTutorial
+Learn jQuery
+jQuery is a JavaScript Library.
+jQuery greatly simplifies JavaScript programming.
+jQuery is easy to learn.
+Examples in Each Chapter
+Our "Try it Yourself" editor makes it easy to learn jQuery. You can edit code and view the result in your browser:
+Example
+Click on the "Try it Yourself" button to see how it works.
+jQuery Exercises
+jQuery Examples
+Learn by examples! At W3Schools you will find a lot of jQuery examples to edit and test yourself.
+jQuery Quiz Test
+Test your jQuery skills at W3Schools!
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+jQuery References
+At W3Schools you will find a complete reference of all jQuery selectors, methods, properties and events.
+Kickstart your career
+Get certified by completingthecourse
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_jquery_default.asp_0.png
+www.w3schools.com_jquery_default.asp_1.png

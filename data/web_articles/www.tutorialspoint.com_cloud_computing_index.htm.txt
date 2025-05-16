@@ -1,0 +1,145 @@
+Cloud Computing Basics
+Cloud Computing - Home
+Cloud Computing - Overview
+Cloud Computing - Evolution
+Cloud Computing - Characteristics
+Cloud Computing - Advantages
+Cloud Computing - Planning
+Cloud Computing - Technologies
+Cloud Computing - Architecture
+Cloud Computing - Infrastructure
+Cloud Deployment Models
+Public Cloud Model
+Private Cloud Model
+Hybrid Cloud Model
+Community Cloud Model
+Cloud Service Models
+Infrastructure Service
+Platform Service
+Software ervice
+Identity Service
+Network Service
+IaaS, PaaS, and SaaS
+Cloud Virtualization
+Cloud Computing Virtualization
+Server Virtualization
+Data Virtualization
+Software Virtualization
+Storage Virtualization
+Network Virtualization
+Linux Virtualization
+Cloud Advanced Concepts
+Cloud Computing - Management
+Cloud Computing - Data Storage
+Cloud Computing - Security
+Cloud Computing - Operation
+Cloud Computing - Applications
+Cloud Computing - Providers
+Cloud Computing - Challenges
+Cloud Computing - Mobile
+Google Cloud Platform
+Cloud Computing - Multitenancy
+Hypervisor Security
+Cloud Computing - Principles
+Security Architecture
+Fault Tolerance
+Cloud Computing - Resiliency
+Service Level Agreements
+Cloud Networking
+Server Consolidation
+Cloud Computing - Scaling
+Autoscaling vs Load Balancer
+Scalability and Elasticity
+Cloud Bursting vs Cloud Scaling
+Resource Pooling
+Load Balancing
+Security Threats in Implementation  SaaS
+Cloud Computing - Data Center
+Cloud Computing - Aneka
+Cloud Computing - Rapid Elasticity
+Cloud Computing - Xaas
+Cloud Computing - DaaS
+Cloud Computing - CaaS
+Cloud Computing - Roots
+Cloud Hosting vs Web Hosting
+Colocation vs Cloud
+iCloud Drive vs Dropbox
+SAP vs Oracle Cloud
+Cloud Computing vs Data Science
+Cloud Integration Platform
+Onedrive and iCloud
+Private Cloud and On-premise
+What is Cloudcraft
+Bitbucket Cloud API
+Akamai vs Cloudflare
+AWS CloudWatch vs Datadog
+Cloud Burst
+Cloudflare vs CloudFront
+Elastic Cloud on Azure
+Cloud Useful Resources
+Cloud Computing - Quick Guide
+Cloud Computing - Useful Resources
+Cloud Computing - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Cloud Computing Tutorial
+Cloud Computing provides us means by which we can access the applications as utilities over the internet. It allows us to create, configure, and customize the business applications online.
+This tutorial will take you through a step-by-step approach while learning Cloud Computing concepts.
+What is Cloud Computing?
+Cloud computing is a way for providing computing resources over internet. The computing resources include physical orvirtual servers, data storage, networking capabilities, application development tools, software, analytic platforms and more.
+The termcloudin cloud computing refers tointernet. When we use cloud services, we are basically accessing remote servers, powerful mainframe computers housed in large data centers, through the internet. The cloud computing model gives users, greater flexibility and scalability compared to traditional on-premises infrastructure.
+Benefits of Cloud Computing
+The cloud computing provides several benefits such flexibility and reliability, increased performance and efficiency, and lower IT costs, when compared to on-premises compute resources. In on-premises, the company owns and maintains physical data centers and servers. Lets discuss some benefits as follows −
+Cost Savings− organizations can rent computing resources on-demand instead of buying expensive physical servers.  You can choose any cloud service model and you only pay for the resources you actually use.
+Scalability− organizations can quickly scale up and scale down their compute resources to meet the changing demands. The benefits of cloud computing services include the ability to scale elastically.
+Performance− Cloud computing offers greater performance by reducing the network latency for applications.
+Reliability− Cloud computing makes data backup, disaster recovery easier and less expensive.
+Productivity− On-premises datacenters typically require a lot of hardware and software setup, other time-consuming IT management chores. Cloud computing removes the need for many of these tasks, improving the performance of IT teams.
+Security− Cloud computing providers offers security for your data, applications, etc., from potential threats.
+Types of Cloud Computing
+There are mainly four types of cloud computing models −
+Public Cloud Model
+Private Cloud Model
+Hybrid Cloud Model
+Community Cloud Model
+These models are used to deploy cloud services. Within these deployment models, there are mainly four cloud services: software as a service (SaaS), platform as a service (PaaS), infrastructure as a service (IaaS) and serverless computing.
+Why to Learn Cloud Computing?
+Cloud Computing is one of the growing technologies, that offers many benefits to the businesses. As an employee, a career in cloud computing is also equally beneficial for you. Learning cloud computing would help build a career in a field that is high in demand. It opens up to various job opportunities and helps you stay intent with evolving technologies.
+There is high demand for cloud engineers as more and more organizations come to rely on cloud computing technology. There are many career paths along with cloud engineer, such as cloud architect, cloud administrator, cloud security specialist, etc.
+Who Should Learn Cloud Computing
+This reference has been prepared for the beginners to help them to understand basic-to-advanced concepts related to Cloud Computing. This tutorial will give you enough understanding on Cloud Computing concepts from where you can take yourself to a higher level of expertise.
+Prerequisites to Learn Cloud Computing
+Before proceeding with this tutorial, you should have basic knowledge of Computers, Internet, Database and Networking concepts. Such basic knowledge will help you in understanding the Cloud Computing concepts and move fast on the learning track.
+FAQs on Cloud Computing
+In this section, we have collected a set ofFrequently Asked Questions(FAQs) onCloud Computingfollowed by their answers −
+1. What is scalability in cloud computing?
+In cloud computing, the scalability is referred as the cloud systems ability to increase or decrease IT or compute resources as needed. When the demand for the compute resources increase or decrease, the cloud computing infrastructure should be able to handle these fluctuations.
+2. What is elasticity in cloud computing?
+Elasticity in cloud computing refers to the ability of cloud computing system to automatically adjust the changing demands. This is done by adding or removing the cloud compute resources such as memory, storage, and processing power.
+3. What are cloud delivery models?
+Cloud delivery models are ways to provide cloud services to end users. These models include type of cloud and service model. The type of cloud includes public, private and hybrid, and service model includes Software as a Service (SaaS), Infrastructure as a Service (IaaS), Platform as a Service (PaaS), etc.
+4. What is cloud storage?
+Cloud storage is mode of data storage in which data is stored on remote servers. These servers are managed by a third party provider who is responsible for managing and securing data stored on its infrastructure.
+5. What is API gateway?
+API gateway is an API management tool that provides management, monitoring, and authentication for your APIs. An API gateway enables several APIs to work together as a single gateway to provide a consistent user experience.
+6. What are computing resources?
+Compute resources in cloud computing can refer to hardware and software such storage, processing power, databases, networking, analytics, artificial intelligence, and software applications. The main goal of cloud computing is to provide these resources over the internet (cloud).
+7. What is IT infrastructure?
+TheIT infrastructurein cloud computing is collection of the hardware and software that are needed to enable cloud computing services. This includes computing power, networking, storage, and virtualization resources.
+8. What is Virtualization?
+Virtualizationin cloud computing is a technique that allows for more efficient use of physical computer hardware and is the foundation of cloud computing. It creates virtual versions of physical hardware, networks, and storage.
+9. What is hypervisor in cloud computing?
+A hypervisor is a software that you can use to run multiple virtual machines (VMs) on a single physical machine. Every virtual machine has its own operating system and applications.
+10. What is a virtual machine in cloud computing?
+A virtual machine is computing environment that functions as an actual computer system with its own CPU, memory, storage and, network interface.
+11. What is a container?
+In cloud computing, a container is a lightweight package of software that contains all necessary components, such as files, libraries and environment variables, to run in any environment.

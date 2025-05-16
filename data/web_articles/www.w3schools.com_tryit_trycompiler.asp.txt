@@ -1,0 +1,6 @@
+Input
++
++
+Confirm your selection
+The source code will be changed.
+Are you sure you want to discard it and move to a new language?

@@ -1,0 +1,54 @@
+MongoDBTutorial
+MongoDB Exercises
+MongoDB Tutorial
+Learn MongoDB
+MongoDB is a document database. It stores data in a type of JSON format called BSON.
+If you are unfamiliar with JSON, check out ourJSON tutorial.
+A record in MongoDB is a document, which is a data structure composed of key value pairs similar to the structure of JSON objects.
+A MongoDB Document
+Records in a MongoDB database are called documents, and the field values may include numbers, strings, booleans, arrays, or even nested documents.
+Example Document
+{
+	title: "Post Title 1",
+	body: "Body of post.",
+	category: "News",
+	likes: 1,
+	tags: ["news", "events"],
+	date: Date()
+}
+{
+	title: "Post Title 1",
+	body: "Body of post.",
+	category: "News",
+	likes: 1,
+	tags: ["news", "events"],
+	date: Date()
+}
+Learning by Examples
+Our "Show MongoDB" tool makes it easy to demonstrate MongoDB. It shows both the code and the result.
+Example
+Find all documents that have a category of "news".
+db.posts.find( {category: "News"} )
+db.posts.find( {category: "News"} )
+Learning by Exercises
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_mongodb_index.php_0.png
+www.w3schools.com_mongodb_index.php_1.png

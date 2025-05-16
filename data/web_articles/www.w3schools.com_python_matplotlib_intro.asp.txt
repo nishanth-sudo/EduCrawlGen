@@ -1,0 +1,33 @@
+PythonTutorial
+File Handling
+Python Modules
+Python Matplotlib
+Machine Learning
+Python MySQL
+Python MongoDB
+Python Reference
+Module Reference
+Python How To
+Python Examples
+MatplotlibTutorial
+What is Matplotlib?
+Matplotlib is a low level graph plotting library in python that serves as a visualization utility.
+Matplotlib was created by John D. Hunter.
+Matplotlib is open source and we can use it freely.
+Matplotlib is mostly written in python, a few segments are written in C, Objective-C and Javascript for Platform compatibility.
+Where is the Matplotlib Codebase?
+The source code for Matplotlib is located at this github repositoryhttps://github.com/matplotlib/matplotlib
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_python_matplotlib_intro.asp_0.png
+www.w3schools.com_python_matplotlib_intro.asp_1.png
+www.w3schools.com_python_matplotlib_intro.asp_2.png

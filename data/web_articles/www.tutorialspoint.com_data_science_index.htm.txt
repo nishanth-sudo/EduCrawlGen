@@ -1,0 +1,1532 @@
+
+
+Data Science - Home
+Data Science - Getting Started
+Data Science - What is Data?
+Data science - Lifecycle
+Data Science - Prerequisites
+Data Science - Applications
+Data Science - Machine Learning
+Data Science - Data Analysis
+Data Science - Tools in Demand
+Data Science - Careers
+Data Science - Scientists
+Data Scientist - Salary
+Data Science - Resources
+Data Science - Interview Questions
+Data Science Useful Resources
+Data Science - Quick Guide
+Data Science - Useful Resources
+Data Science - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Data Science Tutorial
+The world is now ruled by data. This has caused an exceptional need for Data Scientists. We have already encountered data science in various ways, whether you use a search engine to get information on the Internet or ask your mobile device for directions, you are engaging with data science applications. Data Science has been important in handling some of our most routine everyday activities for numerous years. You will be able to handle the data in the most efficient manner if you have a good knowledge of data science.
+What is Data Science?
+Data Science is also known as data-driven science, which makes use of scientific methods, processes, and systems to extract knowledge or insights from data in various forms, i.e. either structured or unstructured. Data Science uses the most advanced hardware, programming systems, and algorithms to solve problems that have to do with data. It is where artificial intelligence is going.
+Data Science Applications
+The following are the applications of data science:
+Gaming Industry
+Health Care
+Medical Image Analysis
+Predictive Analysis
+Image Recognition
+Recommendation systems
+Airline Routing Planning
+Finance
+Improvement in Health Care services
+Computer Vision
+Efficient Management of Energy
+Internet Search
+Speech Recognition
+Education
+Data Science Careers / Job Opportunities
+The following are some career paths and job opportunities in data science:
+Data Analyst
+Data Scientist
+Database Administrator
+Big Data Engineer
+Data Mining Engineer
+Machine Learning Engineer
+Data Architect
+Hadoop Engineer
+Data Warehouse Architect
+Audience: Who Can Learn Data Science?
+This tutorial is designed for anyone willing to start their career in data science as this tutorial is all about what is data science, important tools for data science, courses, top interview questions asked, the salary of a data scientist, how to make a career in data science, and what are the future opportunities.
+Prerequisites to Learn Data Science
+Before proceeding with this tutorial, you should have a basic knowledge of writing code in Python programming language, using any Python IDE, and execution of Python programs. If you are completely new to Python then please refer to our Python tutorial, which is available athttps://www.tutorialspoint.com/python/index.htmto get a sound understanding of the language.
+Here are some of the technical concepts you should be aware of before starting with Data Science: Statistics, Machine learning, Data modelling, Databases, and programming in python.
+
+10,000+
+Video Courses
+5,000+
+Expert Trainers
+100M+
+Learners Served
+50,000+
+Learning Hours
+Online CertificationPrograms
+Become an expert in top technologies with our extensive online certification programs
+Most Popular
+DevOps Certification 2025
+Tutorialspoint
+8Courses |1eBook
+Business Analytics Certification 2025
+Tutorialspoint
+7Courses |1eBook
+Python Programming Certification 2025
+Tutorialspoint
+9Courses |1eBook
+Data Science Certification 2025
+Tutorialspoint
+7Courses |1eBook
+Ethical Hacking Certification 2025
+Tutorialspoint
+9Courses |1eBook
+Featured
+DevOps Certification 2025
+Tutorialspoint
+8Courses |1eBook
+Cyber Security Certification 2025
+Tutorialspoint
+8Courses |1eBook
+Blockchain Certification 2025
+Tutorialspoint
+7Courses |1eBook
+Linux System Administrator Certification 2025
+Tutorialspoint
+7Courses |1eBook
+C# and .NET Certification 2025
+Tutorialspoint
+4Courses |1eBook
+Most Popular
+Featured
+DevOps Certification 2025
+Tutorialspoint
+8Courses 					 |1eBook
+Business Analytics Certification 2025
+Tutorialspoint
+7Courses |1eBook
+Python Programming Certification 2025
+Tutorialspoint
+9Courses |1eBook
+Data Science Certification 2025
+Tutorialspoint
+7Courses 					 |1eBook
+Ethical Hacking Certification 2025
+Tutorialspoint
+9Courses |1eBook
+Java Certification 2025
+Tutorialspoint
+7Courses |1eBook
+DevOps Certification 2025
+Tutorialspoint
+8Courses 					 |1eBook
+Cyber Security Certification 2025
+Tutorialspoint
+8Courses 					 |1eBook
+Blockchain Certification 2025
+Tutorialspoint
+7Courses 					 |1eBook
+Linux System Administrator Certification 2025
+Tutorialspoint
+7Courses |1eBook
+C# and .NET Certification 2025
+Tutorialspoint
+4Courses |1eBook
+Artificial Intelligence and Machine Learning Certification 2025
+Tutorialspoint
+7Courses |1eBook
+AnnualMembership
+Become a valued member of Tutorials Point and enjoy unlimited access to our vast library of top-rated Video Courses
+LatestUpdates -April, 2025
+Newly Added and Updated Tutorials
+StartLearning
+CheatsheetsInstant Learning
+RoadmapsMastery Blueprint
+Build YourCareer With Us
+Data ScienceTechnologies
+AI/MLTechnologies
+Full StackWeb Developer
+JavaFull Stack Developer
+Start Codingin Seconds
+Coding Ground For Developers
+Code, Edit, Run and Share
+Ignite your coding potential on Coding Ground - an immersive online platform for hands-on learning, collaboration, and skill development.
+TutorialsLibrary
+Master any technology with our largest free online Library
+Latest Technologies
+Bitcoin Tutorial
+Blockchain Tutorial
+Blue Prism
+Ethereum Tutorial
+Python Blockchain
+Computer Science
+Computer Fundamentals
+Compiler Design
+Operating System
+Data Structure
+DBMS Tutorial
+Machine Learning
+Machine Learning
+TensorFlow Tutorial
+ML with Python
+AI with Python
+Time Series
+Web Development
+HTML Tutorial
+CSS Tutorial
+Javascript Tutorial
+PHP Tutorial
+Angular 4 Tutorial
+Programming Tutorials
+HTML Tutorial
+C++ Tutorial
+Java8 Tutorial
+Python Tutorial
+Scala Tutorial
+Java Technologies
+Java8 Tutorial
+JDBC Tutorial
+SWING Tutorial
+Servlets Tutorial
+Spring Tutorial
+Mobile App Development
+Android Tutorial
+Swift Tutorial
+IOS Tutorial
+Kotlin Tutorial
+Xamarian Tutorial
+Database Tutorials
+Mongo DB Tutorial
+PL / SQL Tutorial
+SQL Tutorial
+DB2 Tutorial
+MySQL Tutorial
+Microsoft Technologies
+ASP.NET
+Entity Framework
+VB.NET Tutorial
+Microsoft Project
+Microsoft Excel
+Big Data and Analytics
+Big Data Analytics
+Hadoop Tutorial
+SAS Tutorial
+QlikView Tutorial
+Power BI Tutorial
+Most PopularTools
+Utilize the frequently used tools for your needs
+QR Code Generator
+JAVA Formatter
+Image Optimizer
+White Board
+Image Editor
+Javascript Minifier
+Document Viewer
+Python Formatter
+Annual Membership
+Become a valued member of Tutorials Point and enjoy unlimited access to our vast library of top-rated Video Courses
+Online Certifications
+Master prominent technologies at full length and become a valued certified professional.
+
+Free Online Whiteboard
+
+|Personal AI Study Assistant
+Here's your answer for:What is this
+AI-generated response will be displayed here...
+
+Online Programming Compilers
+C
+C++
+Python
+Java
+C#
+Php
+Scala
+Swift
+HTML
+CSS3
+JavaScript
+SQL Editor
+Golang
+Ruby
+Lua
+Code, Edit, Run and Share
+Log InSign Up
+Start Coding
+Ada(Gnat)
+Algol-68
+Angular JS
+Ascii Doc
+Assembly
+Awk
+Bash Shell
+Befunge
+Bootstrap
+Brainf**k
+C
+Chipmunk BASIC
+Clojure
+Cobol
+CoffeeScript
+C++
+C#
+CSS3
+Dart
+D3.js
+D Language
+Embedded C
+Erlang
+Elixir
+Factor
+Fantom
+Fortran-95
+Forth
+F#
+Free Basic
+Groovy
+Golang
+Haxe
+Haskell
+HTML5
+ilasm
+Intercal
+ICON
+Javascript
+Java 8
+Julia
+Jython
+JQuery
+JQuery Mobile
+JQuery UI
+Kotlin
+Ksh Shell
+Latex
+Lisp
+Linux Terminal
+LOLCODE
+Lua
+Lua Terminal
+Matlab/Octave
+Matplotlib
+Malbolge
+Markdown
+MathML
+Mozart-OZ
+Nimrod
+Node.js
+NumPy
+Node.js Terminal
+Numpy Terminal
+Objective-C
+OCaml
+Octave Terminal
+P5.js
+Pascal
+PARI/GP
+Pawn
+Perl
+PHP
+PHP Terminal
+Pike
+Prolog
+Processing.js
+Python
+reStructure
+Rexx
+R Programming
+R Terminal
+Ruby Terminal
+Ruby
+Rust
+SciPy
+SciPy Terminal
+Smalltalk
+SML/NJ
+Simula
+SQLite SQL
+Swift 4.0
+Tcl
+Tex
+Typescript
+Unlambda
+VB.NET
+Verilog
+VueJS
+Web View
+Whitespace
+Ya Basic
+Yasm
+Coding Ground: Popular Compilers & Terminals
+Explore our wide range of editors, terminals, compilers, and interpreters that support almost all technologies with absolutely no strings!
+Data ScienceTechnologies
+Top ProgrammingLanguages
+OnlineTerminals
+Online Compiler& Interpreters
+Web Development Technologies
+Document Editors
+The Best of Tutorials Point
+Make the most of our free vast library of text tutorials curated by industry veterans for your wealth of knowledge
+Technical Question and Answer
+Stay informed about the latest trends and best practices of all technologies in one place
+Premium Courses & Certifications
+Explore our thoughtfully collected courses and expert-curated certifications to grow professionally and personally
+Expert Tutors
+Learn from top-rated global instructors that bring industry expertise for your digital training
+
+Job Categories
+Python
+Java Developer
+Fresher Entry Level
+Part Time
+Full Stack Developer
+Online Freelance
+DevOps
+React Developer
+Software Developer
+Web Developer
+Cloud Computing
+Cloud Engineer
+Data Science
+Artificial Intelligence
+Machine Learning
+Work From Home
+Backend Developer
+Javascript
+PHP Developer
+AI Data Scientist
+Web Design
+Front End Developer
+C++ Developer
+AI Engineer
+UI/UX Designer
+Event Management
+Wordpress Developer
+Assistant Manager
+Copywriter
+Virtual Assistant
+Mobile App Developer
+C Programming
+C# Developer
+Database Manager
+Social Media Manager
+Market Research
+Data Analyst
+MySQL
+Cloud Architect
+Operations Manager
+Management
+IoT Solutions Architect
+HTML
+Warehouse
+Software Architect
+Blockchain Engineer
+Big Data Engineer
+Cyber Security Engineer
+Brand Strategist
+Node.js Developer
+IOS Developer
+Applications Architect
+Business Analyst
+Android Developer
+Product Manager
+Data Architect
+Healthcare
+Cyber Security
+Application Analyst
+Financial Analyst
+Real Estate
+Software Test Engineer
+Machine Operator
+Project Manager
+Ethical Hacking
+Office Assistant
+Telemarketer
+Web Development
+Engineering
+Dentist
+System Analyst
+Journalist
+Google Ads
+Data Structure
+Data Entry Online
+Physician
+Facebook Ads
+Social Media Marketing
+SEO
+Quality Analyst
+Software Engineer
+Pediatrician
+Psychiatrist
+SAP
+SQL
+Power BI
+Tableau
+Salesforce
+MongoDB
+Scrum Master
+Networking
+Neurologists
+Medical Assistants
+Mechanical Engineering
+Nurse Practitioner
+Transcriptionist
+Research Analyst
+RDBMS
+Civil Engineering
+Medical Assistant
+Operating System
+Marketing
+Graphic Design
+Sales
+Air traffic controller
+Teaching
+Banking
+RPA Developer
+Finance
+Angular Developer
+Digital Marketing
+Human Resources
+Enterprise Architect
+Technical Writer
+Database Administrator
+Mental Health Counselor
+Pharmacist
+Computer Network Architect
+Sales Manager
+Financial Advisor
+Hardware Design Engineer
+Swift Developer
+Growth Manager
+Robotics Engineer
+Consulting
+Bootstrap Developer
+Medical Coding
+MS Excel
+Business Development
+Medical Lab Technician
+Pharmacy Technician
+Accounting
+Management Trainee
+Video Editor
+Supply Chain Management
+Customer Service
+Interior Designer
+Telecom
+Automation Test Engineer
+Site Reliability Engineer
+Information Security Analyst
+Loan Officer
+Job Search
+Welcome to Tutorials Point Job Search
+Job Search by Tutorials Point is an all-new futuristic job search space where you can search, apply, and land your dream job.
+Tutorials Point has been and continues to be the thought leader in promoting self-paced learning in a complete online setup.
+Job Search is the next step in helping valued learners and aspirants of Tutorials Point to get the best opportunities around the world as conveniently as possible.
+Explore high-paying job opportunities and start applying to get the opportunity you have been looking for.
+Why choose Tutorials Point Job search
+Tutorials Point has earned millions of loyal visitors who use the vast library of free text tutorials, online courses, graded certification programs, and its sophisticatedCoding Ground.
+The Job Search by Tutorials Point is the latest integration on the website designed to help learners with upskilling, getting certified, and applying for relevant jobs.
+The latest Job Search portal has a database that amplifies continuously with job requirements in countries like the US, UK, Canada, India, etc. With such a promising database, it gets easier to find the right job and get noticed by recruiters.
+How to apply for jobs on Tutorials Point?
+The latest Job Search by Tutorials Point is the easiest job portal to use. You just have to go through the following steps:
+Go to the websitehttps://www.tutorialspoint.com/job_search.php
+Enter the role you are looking for in the ‘Search Jobs’ space.
+Enter the city in which you are looking for the job in the ‘Search Locations’ space.
+After entering the details, click on the ‘Search’ button.
+The search widgets provide personalized results as per your requirements. Whether you are looking forjobs in USA, Canada, or the UK, you can go through the list of relevant jobs. Click the ones that match your expertise and then go with ‘Apply.’
+If you would like to know more about the job requirements, click on ‘see full description.’
+What are the highest-paying and trending Tech jobs?
+Tech jobs are career-defining roles that are high-paying and ever-evolving. To make your job search easier, Tutorials Point has curated a list of high-paying tech jobs in popular cities in the US, UK, Canada, India, etc. It helps to know the popular tech jobs such asPython jobsthat are currently high-paying and their responsibilities.
+If you are wondering what trending tech jobs you can apply for, check out the list and pick the career path that is right for you with our all-new Job Search.Software Engineering ManagerA Software Engineering Manager is one of the leading roles amongUSA jobsthat is responsible for software engineers working under them. They oversee the design and development of software and applications ensuring that the output matches the business requirements.The average base salary of a Software Engineering Manager in the US as of 2023 is $159,765 per year, according to Indeed.IT Security SpecialistIT Security Specialists ensure that the digital system of a company is secure. They are responsible for securing the computer systems by understanding the cyber security threats, technologies, and implementing countermeasures.The average base salary of an IT Security Specialist is $111,242 per year.Development Operations ManagerA Development Operations Manager works closely with development teams to optimize daily operations and ensure a smooth workflow for project development. They are also responsible for strategizing business-level policies, budgeting, and procedures.The average base salary of a Development Operations Manager is $100,200 per year.Application AnalystApplication Analysts administer, monitor, and maintain software applications and company infrastructures. They are responsible for developing applications that meet the business requirementsThe average base salary of an Application Analyst is $80,334 per year.Machine Learning EngineerA Machine Learning Engineer leverages AI ML skills, implements ML algorithms, design and develop ML systems, and conduct experiments. Along with a strong skill set in programming and AI, it is important for a Machine Learning Engineer to possess knowledge of data science and statistics.The average base salary of a Machine Learning Engineer is $236,066 per yearApplication DeveloperAn Application Developer is responsible for the well-being of an application. They also create and maintain the source code for new applications. They take necessary action in an application to improve the performance.The average base salary of an Application Developer is $87,869 per year.User Interface DesignerA User Interface (UI) Designer is responsible for the graphical user interface of a website, an app, or a device. They are responsible for enhancing the user experience by enabling them to quickly accomplish their goals.The average base salary of a User Interface Designer is $89,774 per year.User Experience DesignerA User Experience (UX) Designer is responsible for ensuring the app, website, or software is intuitive and user-friendly.  They conduct effective research and strategize methods to elevate the user experience.The average base salary of a User Experience Designer is $104,220 per year.Business Intelligence AnalystA Business Intelligence Analyst can contribute greatly to the business's success. They analyze the complex set of data in an organization to draw better insights and provide recommendations for business growth.The average base salary of a Business Intelligence Analyst is $90,077 per year.Software Test EngineerSoftware Test Engineers test if the software developed functions the way it is designed. They need to be familiar with prominent testing tools and methods to evaluate the software and run various tests.The average base salary of a Software Test Engineer is $102,056 per year.Information Technology ManagerInformation Technology Managers plan, implement, and maintain IT systems and strategies. They oversee all computer-related tasks, problems, and solutions in an organization. In some cases, they are also held responsible for the IT budget.The average base salary of an Information Technology Manager is $98,940 per year.Web DeveloperWeb Developers are responsible for building web pages and maintaining the capacity and performance of the website. A Web Developer needs to be able to work with prominent programming languages such as JavaScript, PHP, CSS, HTML, and more.The average base salary of a Web Developer is $81,554 per year.Cloud EngineerA Cloud Engineer is responsible for maintaining the cloud infrastructures. They integrate and optimize cloud computing services that host the company’s data. Their responsibilities may also extend to cloud architecture, development, and administration.The average base salary of a Cloud Engineer is $122,816 per yearBusiness AnalystBusiness Analysts bring business and IT together to improve the processes and performance of organizations. A Business Analyst is responsible for research and analysis of business data and acts as a liaison between business and IT to draw desired outputs.The average base salary of a Business Analyst is $100,102 per year.Digital MarketerA Digital Marketer leverages digital channels to drive campaigns that increase brand awareness and boost lead generation. They use their extensive knowledge of search engines, social media, websites, and online advertising to promote business and its products.The average base salary of a Digital Marketer is $115,162 per yearData ScientistA Data Scientist is responsible for analyzing large amounts of unstructured data gathered from various sources. A Data Scientist identifies the patterns and draws insights to help businesses make better decisions.The average base salary of a Data Scientist is $149,398 per year.This is an exhaustive list of trending and high-paying tech jobs for you to get started. Check out Tutorials Point Job Search to explore even more opportunities that meet your expertise.Tips to grab high-paying jobsNow that we have covered the top tech jobs, let us look at how you can land the best role with a few tips.Pick a specific area in an industry that you are interested in. Upskill and grow expertise in that area.Focus on building a strong network with individuals who share similar interests in the industry.Leverage social media platforms to show your expertise. LinkedIn offers a supportive platform to share your views and solutions.Keep a look out for your desired employers and keep on researching for potential employers.Adapt continuous learning to always stay up-to-date with the latest trends.Always to land leadership roles. The expertise you build must make you a leader in the industry you choose.Build a strong portfolio that reflects your expertise. Draft an articulate and compelling resume that speaks of your achievements.Check out Job Search byTutorials Pointnow and start looking for your dream job.
+Software Engineering Manager
+A Software Engineering Manager is one of the leading roles amongUSA jobsthat is responsible for software engineers working under them. They oversee the design and development of software and applications ensuring that the output matches the business requirements.
+The average base salary of a Software Engineering Manager in the US as of 2023 is $159,765 per year, according to Indeed.
+IT Security Specialist
+IT Security Specialists ensure that the digital system of a company is secure. They are responsible for securing the computer systems by understanding the cyber security threats, technologies, and implementing countermeasures.
+The average base salary of an IT Security Specialist is $111,242 per year.
+Development Operations Manager
+A Development Operations Manager works closely with development teams to optimize daily operations and ensure a smooth workflow for project development. They are also responsible for strategizing business-level policies, budgeting, and procedures.
+The average base salary of a Development Operations Manager is $100,200 per year.
+Application Analyst
+Application Analysts administer, monitor, and maintain software applications and company infrastructures. They are responsible for developing applications that meet the business requirements
+The average base salary of an Application Analyst is $80,334 per year.
+Machine Learning Engineer
+A Machine Learning Engineer leverages AI ML skills, implements ML algorithms, design and develop ML systems, and conduct experiments. Along with a strong skill set in programming and AI, it is important for a Machine Learning Engineer to possess knowledge of data science and statistics.The average base salary of a Machine Learning Engineer is $236,066 per yearApplication DeveloperAn Application Developer is responsible for the well-being of an application. They also create and maintain the source code for new applications. They take necessary action in an application to improve the performance.The average base salary of an Application Developer is $87,869 per year.User Interface DesignerA User Interface (UI) Designer is responsible for the graphical user interface of a website, an app, or a device. They are responsible for enhancing the user experience by enabling them to quickly accomplish their goals.The average base salary of a User Interface Designer is $89,774 per year.User Experience DesignerA User Experience (UX) Designer is responsible for ensuring the app, website, or software is intuitive and user-friendly.  They conduct effective research and strategize methods to elevate the user experience.The average base salary of a User Experience Designer is $104,220 per year.Business Intelligence AnalystA Business Intelligence Analyst can contribute greatly to the business's success. They analyze the complex set of data in an organization to draw better insights and provide recommendations for business growth.The average base salary of a Business Intelligence Analyst is $90,077 per year.Software Test EngineerSoftware Test Engineers test if the software developed functions the way it is designed. They need to be familiar with prominent testing tools and methods to evaluate the software and run various tests.The average base salary of a Software Test Engineer is $102,056 per year.Information Technology ManagerInformation Technology Managers plan, implement, and maintain IT systems and strategies. They oversee all computer-related tasks, problems, and solutions in an organization. In some cases, they are also held responsible for the IT budget.The average base salary of an Information Technology Manager is $98,940 per year.Web DeveloperWeb Developers are responsible for building web pages and maintaining the capacity and performance of the website. A Web Developer needs to be able to work with prominent programming languages such as JavaScript, PHP, CSS, HTML, and more.The average base salary of a Web Developer is $81,554 per year.Cloud EngineerA Cloud Engineer is responsible for maintaining the cloud infrastructures. They integrate and optimize cloud computing services that host the company’s data. Their responsibilities may also extend to cloud architecture, development, and administration.The average base salary of a Cloud Engineer is $122,816 per yearBusiness AnalystBusiness Analysts bring business and IT together to improve the processes and performance of organizations. A Business Analyst is responsible for research and analysis of business data and acts as a liaison between business and IT to draw desired outputs.The average base salary of a Business Analyst is $100,102 per year.Digital MarketerA Digital Marketer leverages digital channels to drive campaigns that increase brand awareness and boost lead generation. They use their extensive knowledge of search engines, social media, websites, and online advertising to promote business and its products.The average base salary of a Digital Marketer is $115,162 per yearData ScientistA Data Scientist is responsible for analyzing large amounts of unstructured data gathered from various sources. A Data Scientist identifies the patterns and draws insights to help businesses make better decisions.The average base salary of a Data Scientist is $149,398 per year.This is an exhaustive list of trending and high-paying tech jobs for you to get started. Check out Tutorials Point Job Search to explore even more opportunities that meet your expertise.Tips to grab high-paying jobsNow that we have covered the top tech jobs, let us look at how you can land the best role with a few tips.Pick a specific area in an industry that you are interested in. Upskill and grow expertise in that area.Focus on building a strong network with individuals who share similar interests in the industry.Leverage social media platforms to show your expertise. LinkedIn offers a supportive platform to share your views and solutions.Keep a look out for your desired employers and keep on researching for potential employers.Adapt continuous learning to always stay up-to-date with the latest trends.Always to land leadership roles. The expertise you build must make you a leader in the industry you choose.Build a strong portfolio that reflects your expertise. Draft an articulate and compelling resume that speaks of your achievements.Check out Job Search byTutorials Pointnow and start looking for your dream job.
+The average base salary of a Machine Learning Engineer is $236,066 per yearApplication DeveloperAn Application Developer is responsible for the well-being of an application. They also create and maintain the source code for new applications. They take necessary action in an application to improve the performance.The average base salary of an Application Developer is $87,869 per year.User Interface DesignerA User Interface (UI) Designer is responsible for the graphical user interface of a website, an app, or a device. They are responsible for enhancing the user experience by enabling them to quickly accomplish their goals.The average base salary of a User Interface Designer is $89,774 per year.User Experience DesignerA User Experience (UX) Designer is responsible for ensuring the app, website, or software is intuitive and user-friendly.  They conduct effective research and strategize methods to elevate the user experience.The average base salary of a User Experience Designer is $104,220 per year.Business Intelligence AnalystA Business Intelligence Analyst can contribute greatly to the business's success. They analyze the complex set of data in an organization to draw better insights and provide recommendations for business growth.The average base salary of a Business Intelligence Analyst is $90,077 per year.Software Test EngineerSoftware Test Engineers test if the software developed functions the way it is designed. They need to be familiar with prominent testing tools and methods to evaluate the software and run various tests.The average base salary of a Software Test Engineer is $102,056 per year.Information Technology ManagerInformation Technology Managers plan, implement, and maintain IT systems and strategies. They oversee all computer-related tasks, problems, and solutions in an organization. In some cases, they are also held responsible for the IT budget.The average base salary of an Information Technology Manager is $98,940 per year.Web DeveloperWeb Developers are responsible for building web pages and maintaining the capacity and performance of the website. A Web Developer needs to be able to work with prominent programming languages such as JavaScript, PHP, CSS, HTML, and more.The average base salary of a Web Developer is $81,554 per year.Cloud EngineerA Cloud Engineer is responsible for maintaining the cloud infrastructures. They integrate and optimize cloud computing services that host the company’s data. Their responsibilities may also extend to cloud architecture, development, and administration.The average base salary of a Cloud Engineer is $122,816 per yearBusiness AnalystBusiness Analysts bring business and IT together to improve the processes and performance of organizations. A Business Analyst is responsible for research and analysis of business data and acts as a liaison between business and IT to draw desired outputs.The average base salary of a Business Analyst is $100,102 per year.Digital MarketerA Digital Marketer leverages digital channels to drive campaigns that increase brand awareness and boost lead generation. They use their extensive knowledge of search engines, social media, websites, and online advertising to promote business and its products.The average base salary of a Digital Marketer is $115,162 per yearData ScientistA Data Scientist is responsible for analyzing large amounts of unstructured data gathered from various sources. A Data Scientist identifies the patterns and draws insights to help businesses make better decisions.The average base salary of a Data Scientist is $149,398 per year.This is an exhaustive list of trending and high-paying tech jobs for you to get started. Check out Tutorials Point Job Search to explore even more opportunities that meet your expertise.Tips to grab high-paying jobsNow that we have covered the top tech jobs, let us look at how you can land the best role with a few tips.Pick a specific area in an industry that you are interested in. Upskill and grow expertise in that area.Focus on building a strong network with individuals who share similar interests in the industry.Leverage social media platforms to show your expertise. LinkedIn offers a supportive platform to share your views and solutions.Keep a look out for your desired employers and keep on researching for potential employers.Adapt continuous learning to always stay up-to-date with the latest trends.Always to land leadership roles. The expertise you build must make you a leader in the industry you choose.Build a strong portfolio that reflects your expertise. Draft an articulate and compelling resume that speaks of your achievements.Check out Job Search byTutorials Pointnow and start looking for your dream job.
+Application Developer
+An Application Developer is responsible for the well-being of an application. They also create and maintain the source code for new applications. They take necessary action in an application to improve the performance.
+The average base salary of an Application Developer is $87,869 per year.
+User Interface Designer
+A User Interface (UI) Designer is responsible for the graphical user interface of a website, an app, or a device. They are responsible for enhancing the user experience by enabling them to quickly accomplish their goals.
+The average base salary of a User Interface Designer is $89,774 per year.
+User Experience Designer
+A User Experience (UX) Designer is responsible for ensuring the app, website, or software is intuitive and user-friendly.  They conduct effective research and strategize methods to elevate the user experience.
+The average base salary of a User Experience Designer is $104,220 per year.
+Business Intelligence Analyst
+A Business Intelligence Analyst can contribute greatly to the business's success. They analyze the complex set of data in an organization to draw better insights and provide recommendations for business growth.
+The average base salary of a Business Intelligence Analyst is $90,077 per year.
+Software Test Engineer
+Software Test Engineers test if the software developed functions the way it is designed. They need to be familiar with prominent testing tools and methods to evaluate the software and run various tests.
+The average base salary of a Software Test Engineer is $102,056 per year.
+Information Technology Manager
+Information Technology Managers plan, implement, and maintain IT systems and strategies. They oversee all computer-related tasks, problems, and solutions in an organization. In some cases, they are also held responsible for the IT budget.
+The average base salary of an Information Technology Manager is $98,940 per year.
+Web Developer
+Web Developers are responsible for building web pages and maintaining the capacity and performance of the website. A Web Developer needs to be able to work with prominent programming languages such as JavaScript, PHP, CSS, HTML, and more.
+The average base salary of a Web Developer is $81,554 per year.
+Cloud Engineer
+A Cloud Engineer is responsible for maintaining the cloud infrastructures. They integrate and optimize cloud computing services that host the company’s data. Their responsibilities may also extend to cloud architecture, development, and administration.
+The average base salary of a Cloud Engineer is $122,816 per yearBusiness AnalystBusiness Analysts bring business and IT together to improve the processes and performance of organizations. A Business Analyst is responsible for research and analysis of business data and acts as a liaison between business and IT to draw desired outputs.The average base salary of a Business Analyst is $100,102 per year.Digital MarketerA Digital Marketer leverages digital channels to drive campaigns that increase brand awareness and boost lead generation. They use their extensive knowledge of search engines, social media, websites, and online advertising to promote business and its products.The average base salary of a Digital Marketer is $115,162 per yearData ScientistA Data Scientist is responsible for analyzing large amounts of unstructured data gathered from various sources. A Data Scientist identifies the patterns and draws insights to help businesses make better decisions.The average base salary of a Data Scientist is $149,398 per year.This is an exhaustive list of trending and high-paying tech jobs for you to get started. Check out Tutorials Point Job Search to explore even more opportunities that meet your expertise.Tips to grab high-paying jobsNow that we have covered the top tech jobs, let us look at how you can land the best role with a few tips.Pick a specific area in an industry that you are interested in. Upskill and grow expertise in that area.Focus on building a strong network with individuals who share similar interests in the industry.Leverage social media platforms to show your expertise. LinkedIn offers a supportive platform to share your views and solutions.Keep a look out for your desired employers and keep on researching for potential employers.Adapt continuous learning to always stay up-to-date with the latest trends.Always to land leadership roles. The expertise you build must make you a leader in the industry you choose.Build a strong portfolio that reflects your expertise. Draft an articulate and compelling resume that speaks of your achievements.Check out Job Search byTutorials Pointnow and start looking for your dream job.
+Business Analyst
+Business Analysts bring business and IT together to improve the processes and performance of organizations. A Business Analyst is responsible for research and analysis of business data and acts as a liaison between business and IT to draw desired outputs.The average base salary of a Business Analyst is $100,102 per year.Digital MarketerA Digital Marketer leverages digital channels to drive campaigns that increase brand awareness and boost lead generation. They use their extensive knowledge of search engines, social media, websites, and online advertising to promote business and its products.The average base salary of a Digital Marketer is $115,162 per yearData ScientistA Data Scientist is responsible for analyzing large amounts of unstructured data gathered from various sources. A Data Scientist identifies the patterns and draws insights to help businesses make better decisions.The average base salary of a Data Scientist is $149,398 per year.This is an exhaustive list of trending and high-paying tech jobs for you to get started. Check out Tutorials Point Job Search to explore even more opportunities that meet your expertise.Tips to grab high-paying jobsNow that we have covered the top tech jobs, let us look at how you can land the best role with a few tips.Pick a specific area in an industry that you are interested in. Upskill and grow expertise in that area.Focus on building a strong network with individuals who share similar interests in the industry.Leverage social media platforms to show your expertise. LinkedIn offers a supportive platform to share your views and solutions.Keep a look out for your desired employers and keep on researching for potential employers.Adapt continuous learning to always stay up-to-date with the latest trends.Always to land leadership roles. The expertise you build must make you a leader in the industry you choose.Build a strong portfolio that reflects your expertise. Draft an articulate and compelling resume that speaks of your achievements.Check out Job Search byTutorials Pointnow and start looking for your dream job.
+The average base salary of a Business Analyst is $100,102 per year.
+Digital Marketer
+A Digital Marketer leverages digital channels to drive campaigns that increase brand awareness and boost lead generation. They use their extensive knowledge of search engines, social media, websites, and online advertising to promote business and its products.
+The average base salary of a Digital Marketer is $115,162 per year
+Data Scientist
+A Data Scientist is responsible for analyzing large amounts of unstructured data gathered from various sources. A Data Scientist identifies the patterns and draws insights to help businesses make better decisions.
+The average base salary of a Data Scientist is $149,398 per year.
+This is an exhaustive list of trending and high-paying tech jobs for you to get started. Check out Tutorials Point Job Search to explore even more opportunities that meet your expertise.
+Tips to grab high-paying jobs
+Now that we have covered the top tech jobs, let us look at how you can land the best role with a few tips.
+Pick a specific area in an industry that you are interested in. Upskill and grow expertise in that area.
+Focus on building a strong network with individuals who share similar interests in the industry.
+Leverage social media platforms to show your expertise. LinkedIn offers a supportive platform to share your views and solutions.
+Keep a look out for your desired employers and keep on researching for potential employers.
+Adapt continuous learning to always stay up-to-date with the latest trends.
+Always to land leadership roles. The expertise you build must make you a leader in the industry you choose.
+Build a strong portfolio that reflects your expertise. Draft an articulate and compelling resume that speaks of your achievements.
+Check out Job Search byTutorials Pointnow and start looking for your dream job.
+
+Software Development Tools
+Frequently used Tools for Software's Professionals
+QR Code Generator
+White Board
+XML Editor
+XML Formatter
+Javascript Minifier
+Javascript Formatter
+Python Formatter
+Online Ping Test
+Online OS Detection
+Base64 Encoding
+Image Editor
+Net Meeting
+JSON Editor
+JSON Formatter
+XML Minifier
+Java Formatter
+Ruby Formatter
+Trace Route a Server
+Host IP Lookup
+Base64 Decoding
+Document Viewer
+Latex Editor
+SQL Formatter
+SQL Minifier
+JSON Minifier
+PHP Formatter
+HTML Formatter
+DNS Lookup
+Google Hacking Tests
+Image Optimizer
+Latex Equation Editor
+CSS Formatter
+CSS Minifier
+C/C++ Formatter
+Perl Formatter
+Whois Lookup
+Open Port Scan
+Verify Email Address
+
+Data Structure
+Networking
+RDBMS
+Operating System
+Java
+MS Excel
+iOS
+HTML
+CSS
+Android
+Python
+C Programming
+C++
+C#
+MongoDB
+MySQL
+Javascript
+PHP
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+HR Interview Questions
+Computer Glossary
+Who is Who
+Exit vs Exit in C/C++
+618 Views
+In C/C++, both exit() and _Exit() are used to terminate a program. The exit() performs cleanup like flushing output, closing files, and calling functions, while _Exit() ends the program immediately without doing any cleanup. Now, let us learn the difference between exit() and _Exit() individually in C/C++. C++ exit() Function The exit() function is used to clean up before terminating the program. It calls functions registered with atexit(), flushes file buffers, and returns control to the operating system. Syntax Following is the syntax for exit() function: void exit(int status_value);  Example In this example, we print "Program is running..." and ...Read More
+Fastest Algorithm to Find Prime Numbers Using C++
+3K+ Views
+The fastest algorithm to find the prime numbers is the Sieve of Eratosthenes algorithm. It is one of the most efficient ways to find the prime numbers smaller than n when n is smaller than around 10 million.  In this article, we have a given number as 'num'. Our task is to find all the prime numbers less than or equal to num using Sieve of Eratosthenes algorithm in C++. Example Here is an example to find prime numbers less than 10: Input: num = 10  Output: 2 3 5 7   The explanation of the above ...Read More
+Find Longest Increasing Subsequence in C++
+903 Views
+A subsequence is a sequence that can be derived from another sequence by deleting some elements and without changing the order of elements in sequence. For example, the sequences [3, 10], [3, 2, 20] and [3, 10, 20] are some of the subsequences of [3, 10, 2, 1, 20].  Longest Increasing Subsequence(LIS) is the longest of all the subsequences that are having elements in increasing order. In this article, we will learn how to write a C++ program to find the length of longest increasing subsequence for a given sequence. In other words, we are provided with a sequence ...Read More
+Difference between Relational Operator and std::string::compare in C++
+339 Views
+In C++, both relational Operators (==) with std::string and std::string::compare() are used to compare two strings for equality, but there's a minor difference in both of these; == compares and returns the results in Boolean, whereas compare() checks lexicographically and returns the result in integers.     In this article, we will see a more detailed comparison between these two methods and their uses in different scenarios. The == Operator The relational operator (==) is used to compare two values; it checks if the two given values are equal or not and returns the result in Boolean (True ...Read More
+Semicolons in C++
+1K+ Views
+A semicolon in C++ is used to terminate or end the statement; it tells the compiler that this particular instruction is completed.According to the ISO C++ specifications, the lexical representation of C++ programs (breaking down code into small parts) is called tokens. Some of these tokens are punctuators, which are special symbols used to structure your code. The semicolon is one of these punctuators.
+Example
+Here is the following basic example code showcasing the working of a semicolon in C++.
+#include 
+using namespace std;
+
+int main() {
+    int x = 5;  // End of declaration statement
+    x = 10;     // End of assignment statement
+    cout
+How Does a Vector Work in C++
+291 Views
+In C++, a vector is a dynamic array that can grow or shrink automatically. It can store elements in a row (contiguous memory) and resizes itself when needed. When it runs out of space, it creates a bigger array, copies the old data, and adds the new one. So, you can easily add, remove, or access elements using functions like push_back(), size(), and erase(). Basic Operations (push_back, access) A vector stores elements in a contiguous memory block. You can add elements using push_back() and access them using [] or at(). Syntax Following is the syntax is as follows: vector vec; ...Read More
+C++ Program to Perform Addition Using Bitwise Operators
+2K+ Views
+Bitwise operators are used for representing binary integers, where the operator directly performs operations on the individual bits of integer values. To perform an addition operation using bitwise operators, use operators like AND, XOR, and NOT. The OR operator cannot perform addition on its own because, 1 | 1 results in 1, but we need 2 as the output. Therefore, you can use the other three operators to implement the logic of addition. You can see the tabular representation of biwise operators by taking binary bits as 0 and 1.           ...Read More
+Left Shift and Right Shift Operators in C/C++
+2K+ Views
+Both the left shift and right shift are known as bitwise shift operators. These operators are useful for working with binary integers by shifting the bits to the left or right.
+Below is the mathematical representation of the left and right shift operators:
+// left shift operator
+x > n means (x/2n)
+
+What is Left Shift Operator?
+In the left shift operator, the left operand value is moved left by the number of bits specified by the right operand.
+Syntax
+The basic syntax of left shift operator as follows:
+Convert Numbers to Words Using Python
+1K+ Views
+The given task is to convert the numerical values to their respective word representation (i.e, we need to spell the numbers in text ). For example, if the given numbers are 1, 2, 29, the resultant values would be: one, two, twenty-nine, respectively. We can do so, using the function(s) available in the num2word library. Converting Numbers to Words Using num2word() The num2words() is a function of the Python library with the same name (num2words). This is used to convert numbers like 56 to words like fifty-six. In addition to the numerical parameters, this function accepts two optional parameters -   ...Read More
+Declare Global Variable in Python Class
+11K+ Views
+A global variable is a variable with global scope, meaning it is visible and accessible throughout the program.     The collection of all global variables is known as the global environment or global scope of the program. The variables declared outside the function are, by default, global variables.  We use the global keyword before a variable inside a function or method to indicate that we are referring to the global variable rather than creating a new local one. The following is the syntax to declare a global variable inside a function ...Read More
+
+Practice & Coding PlaygroundYour Journey to become Coding Expert Begins Here
+How itWorks?
+Step 1
+Choose a Programming Language
+Step 2
+Choose Your Level of Certification
+Step 3
+Solve the Given Problems Online
+Step 4
+Earn Your Badges and Certificate
+Unlockyour Badges
+Basic
+Intermediate
+Advanced
+Start Solving Problems and unlockyour first badge.
+CertificationLevels
+Basic Level– For beginners exploring the basics of coding and syntax.
+Intermediate Level- For advanced coders skilled in complex logic and
+						problem-solving.
+Advanced Level- For the highest level, symbolizing
+						expert-level mastery and authority in coding.
+Certification AttemptRules
+Before you start learning any programming language and attempt for the certificate, please make sure you have gone through the following rules:
+You are open to secure Basic to Advanced certificate anytime. Every problem provided as a part of Certificate carries associated mark based on certificate complexity.
+Every certificate will be provided with total percentage of marks secured and attempt number which have been used to secure the certificate. Higher percentage of marks and lower attempt certificate will have higher weightage.
+Every wrong answer submission will be counted as zero mark.
+Every problem provides it’s solution which you can see anytime during your journey. But if you see the solution before submitting your solution then you will get zero marks for that problem.
+You can earn multiple certificates of the same level but once started, you will have to complete a certificate first before starting new certificate of the same level.
+You can submit only a single solution for any given problem and once submitted, given solution can’t be modified.
+CourseCertification
+Once earned a certificate, you will be able to download and print it
+					or share it on social media like linkedin, facebook etc.
+Practice Certification×
+Select Language
+Python
+C#
+C++
+Select Certificate Levels
+
+10,000+
+Video Courses
+5,000+
+Expert Trainers
+100M+
+Learners Served
+50,000+
+Learning Hours
+Online CertificationPrograms
+Become an expert in top technologies with our extensive online certification programs
+Most Popular
+DevOps Certification 2025
+Tutorialspoint
+8Courses |1eBook
+Business Analytics Certification 2025
+Tutorialspoint
+7Courses |1eBook
+Python Programming Certification 2025
+Tutorialspoint
+9Courses |1eBook
+Data Science Certification 2025
+Tutorialspoint
+7Courses |1eBook
+Ethical Hacking Certification 2025
+Tutorialspoint
+9Courses |1eBook
+Featured
+DevOps Certification 2025
+Tutorialspoint
+8Courses |1eBook
+Cyber Security Certification 2025
+Tutorialspoint
+8Courses |1eBook
+Blockchain Certification 2025
+Tutorialspoint
+7Courses |1eBook
+Linux System Administrator Certification 2025
+Tutorialspoint
+7Courses |1eBook
+C# and .NET Certification 2025
+Tutorialspoint
+4Courses |1eBook
+Most Popular
+Featured
+DevOps Certification 2025
+Tutorialspoint
+8Courses 					 |1eBook
+Business Analytics Certification 2025
+Tutorialspoint
+7Courses |1eBook
+Python Programming Certification 2025
+Tutorialspoint
+9Courses |1eBook
+Data Science Certification 2025
+Tutorialspoint
+7Courses 					 |1eBook
+Ethical Hacking Certification 2025
+Tutorialspoint
+9Courses |1eBook
+Java Certification 2025
+Tutorialspoint
+7Courses |1eBook
+DevOps Certification 2025
+Tutorialspoint
+8Courses 					 |1eBook
+Cyber Security Certification 2025
+Tutorialspoint
+8Courses 					 |1eBook
+Blockchain Certification 2025
+Tutorialspoint
+7Courses 					 |1eBook
+Linux System Administrator Certification 2025
+Tutorialspoint
+7Courses |1eBook
+C# and .NET Certification 2025
+Tutorialspoint
+4Courses |1eBook
+Artificial Intelligence and Machine Learning Certification 2025
+Tutorialspoint
+7Courses |1eBook
+AnnualMembership
+Become a valued member of Tutorials Point and enjoy unlimited access to our vast library of top-rated Video Courses
+LatestUpdates -April, 2025
+Newly Added and Updated Tutorials
+StartLearning
+CheatsheetsInstant Learning
+RoadmapsMastery Blueprint
+Build YourCareer With Us
+Data ScienceTechnologies
+AI/MLTechnologies
+Full StackWeb Developer
+JavaFull Stack Developer
+Start Codingin Seconds
+Coding Ground For Developers
+Code, Edit, Run and Share
+Ignite your coding potential on Coding Ground - an immersive online platform for hands-on learning, collaboration, and skill development.
+TutorialsLibrary
+Master any technology with our largest free online Library
+Latest Technologies
+Bitcoin Tutorial
+Blockchain Tutorial
+Blue Prism
+Ethereum Tutorial
+Python Blockchain
+Computer Science
+Computer Fundamentals
+Compiler Design
+Operating System
+Data Structure
+DBMS Tutorial
+Machine Learning
+Machine Learning
+TensorFlow Tutorial
+ML with Python
+AI with Python
+Time Series
+Web Development
+HTML Tutorial
+CSS Tutorial
+Javascript Tutorial
+PHP Tutorial
+Angular 4 Tutorial
+Programming Tutorials
+HTML Tutorial
+C++ Tutorial
+Java8 Tutorial
+Python Tutorial
+Scala Tutorial
+Java Technologies
+Java8 Tutorial
+JDBC Tutorial
+SWING Tutorial
+Servlets Tutorial
+Spring Tutorial
+Mobile App Development
+Android Tutorial
+Swift Tutorial
+IOS Tutorial
+Kotlin Tutorial
+Xamarian Tutorial
+Database Tutorials
+Mongo DB Tutorial
+PL / SQL Tutorial
+SQL Tutorial
+DB2 Tutorial
+MySQL Tutorial
+Microsoft Technologies
+ASP.NET
+Entity Framework
+VB.NET Tutorial
+Microsoft Project
+Microsoft Excel
+Big Data and Analytics
+Big Data Analytics
+Hadoop Tutorial
+SAS Tutorial
+QlikView Tutorial
+Power BI Tutorial
+Most PopularTools
+Utilize the frequently used tools for your needs
+QR Code Generator
+JAVA Formatter
+Image Optimizer
+White Board
+Image Editor
+Javascript Minifier
+Document Viewer
+Python Formatter
+Annual Membership
+Become a valued member of Tutorials Point and enjoy unlimited access to our vast library of top-rated Video Courses
+Online Certifications
+Master prominent technologies at full length and become a valued certified professional.
+
+Data Science - Home
+Data Science - Getting Started
+Data Science - What is Data?
+Data science - Lifecycle
+Data Science - Prerequisites
+Data Science - Applications
+Data Science - Machine Learning
+Data Science - Data Analysis
+Data Science - Tools in Demand
+Data Science - Careers
+Data Science - Scientists
+Data Scientist - Salary
+Data Science - Resources
+Data Science - Interview Questions
+Data Science Useful Resources
+Data Science - Quick Guide
+Data Science - Useful Resources
+Data Science - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Data Science Tutorial
+The world is now ruled by data. This has caused an exceptional need for Data Scientists. We have already encountered data science in various ways, whether you use a search engine to get information on the Internet or ask your mobile device for directions, you are engaging with data science applications. Data Science has been important in handling some of our most routine everyday activities for numerous years. You will be able to handle the data in the most efficient manner if you have a good knowledge of data science.
+What is Data Science?
+Data Science is also known as data-driven science, which makes use of scientific methods, processes, and systems to extract knowledge or insights from data in various forms, i.e. either structured or unstructured. Data Science uses the most advanced hardware, programming systems, and algorithms to solve problems that have to do with data. It is where artificial intelligence is going.
+Data Science Applications
+The following are the applications of data science:
+Gaming Industry
+Health Care
+Medical Image Analysis
+Predictive Analysis
+Image Recognition
+Recommendation systems
+Airline Routing Planning
+Finance
+Improvement in Health Care services
+Computer Vision
+Efficient Management of Energy
+Internet Search
+Speech Recognition
+Education
+Data Science Careers / Job Opportunities
+The following are some career paths and job opportunities in data science:
+Data Analyst
+Data Scientist
+Database Administrator
+Big Data Engineer
+Data Mining Engineer
+Machine Learning Engineer
+Data Architect
+Hadoop Engineer
+Data Warehouse Architect
+Audience: Who Can Learn Data Science?
+This tutorial is designed for anyone willing to start their career in data science as this tutorial is all about what is data science, important tools for data science, courses, top interview questions asked, the salary of a data scientist, how to make a career in data science, and what are the future opportunities.
+Prerequisites to Learn Data Science
+Before proceeding with this tutorial, you should have a basic knowledge of writing code in Python programming language, using any Python IDE, and execution of Python programs. If you are completely new to Python then please refer to our Python tutorial, which is available athttps://www.tutorialspoint.com/python/index.htmto get a sound understanding of the language.
+Here are some of the technical concepts you should be aware of before starting with Data Science: Statistics, Machine learning, Data modelling, Databases, and programming in python.
+
+Data Science - Home
+Data Science - Getting Started
+Data Science - What is Data?
+Data science - Lifecycle
+Data Science - Prerequisites
+Data Science - Applications
+Data Science - Machine Learning
+Data Science - Data Analysis
+Data Science - Tools in Demand
+Data Science - Careers
+Data Science - Scientists
+Data Scientist - Salary
+Data Science - Resources
+Data Science - Interview Questions
+Data Science Useful Resources
+Data Science - Quick Guide
+Data Science - Useful Resources
+Data Science - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Data Science Tutorial
+The world is now ruled by data. This has caused an exceptional need for Data Scientists. We have already encountered data science in various ways, whether you use a search engine to get information on the Internet or ask your mobile device for directions, you are engaging with data science applications. Data Science has been important in handling some of our most routine everyday activities for numerous years. You will be able to handle the data in the most efficient manner if you have a good knowledge of data science.
+What is Data Science?
+Data Science is also known as data-driven science, which makes use of scientific methods, processes, and systems to extract knowledge or insights from data in various forms, i.e. either structured or unstructured. Data Science uses the most advanced hardware, programming systems, and algorithms to solve problems that have to do with data. It is where artificial intelligence is going.
+Data Science Applications
+The following are the applications of data science:
+Gaming Industry
+Health Care
+Medical Image Analysis
+Predictive Analysis
+Image Recognition
+Recommendation systems
+Airline Routing Planning
+Finance
+Improvement in Health Care services
+Computer Vision
+Efficient Management of Energy
+Internet Search
+Speech Recognition
+Education
+Data Science Careers / Job Opportunities
+The following are some career paths and job opportunities in data science:
+Data Analyst
+Data Scientist
+Database Administrator
+Big Data Engineer
+Data Mining Engineer
+Machine Learning Engineer
+Data Architect
+Hadoop Engineer
+Data Warehouse Architect
+Audience: Who Can Learn Data Science?
+This tutorial is designed for anyone willing to start their career in data science as this tutorial is all about what is data science, important tools for data science, courses, top interview questions asked, the salary of a data scientist, how to make a career in data science, and what are the future opportunities.
+Prerequisites to Learn Data Science
+Before proceeding with this tutorial, you should have a basic knowledge of writing code in Python programming language, using any Python IDE, and execution of Python programs. If you are completely new to Python then please refer to our Python tutorial, which is available athttps://www.tutorialspoint.com/python/index.htmto get a sound understanding of the language.
+Here are some of the technical concepts you should be aware of before starting with Data Science: Statistics, Machine learning, Data modelling, Databases, and programming in python.
+
+Data Science - Home
+Data Science - Getting Started
+Data Science - What is Data?
+Data science - Lifecycle
+Data Science - Prerequisites
+Data Science - Applications
+Data Science - Machine Learning
+Data Science - Data Analysis
+Data Science - Tools in Demand
+Data Science - Careers
+Data Science - Scientists
+Data Scientist - Salary
+Data Science - Resources
+Data Science - Interview Questions
+Data Science Useful Resources
+Data Science - Quick Guide
+Data Science - Useful Resources
+Data Science - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Data Science Tutorial
+The world is now ruled by data. This has caused an exceptional need for Data Scientists. We have already encountered data science in various ways, whether you use a search engine to get information on the Internet or ask your mobile device for directions, you are engaging with data science applications. Data Science has been important in handling some of our most routine everyday activities for numerous years. You will be able to handle the data in the most efficient manner if you have a good knowledge of data science.
+What is Data Science?
+Data Science is also known as data-driven science, which makes use of scientific methods, processes, and systems to extract knowledge or insights from data in various forms, i.e. either structured or unstructured. Data Science uses the most advanced hardware, programming systems, and algorithms to solve problems that have to do with data. It is where artificial intelligence is going.
+Data Science Applications
+The following are the applications of data science:
+Gaming Industry
+Health Care
+Medical Image Analysis
+Predictive Analysis
+Image Recognition
+Recommendation systems
+Airline Routing Planning
+Finance
+Improvement in Health Care services
+Computer Vision
+Efficient Management of Energy
+Internet Search
+Speech Recognition
+Education
+Data Science Careers / Job Opportunities
+The following are some career paths and job opportunities in data science:
+Data Analyst
+Data Scientist
+Database Administrator
+Big Data Engineer
+Data Mining Engineer
+Machine Learning Engineer
+Data Architect
+Hadoop Engineer
+Data Warehouse Architect
+Audience: Who Can Learn Data Science?
+This tutorial is designed for anyone willing to start their career in data science as this tutorial is all about what is data science, important tools for data science, courses, top interview questions asked, the salary of a data scientist, how to make a career in data science, and what are the future opportunities.
+Prerequisites to Learn Data Science
+Before proceeding with this tutorial, you should have a basic knowledge of writing code in Python programming language, using any Python IDE, and execution of Python programs. If you are completely new to Python then please refer to our Python tutorial, which is available athttps://www.tutorialspoint.com/python/index.htmto get a sound understanding of the language.
+Here are some of the technical concepts you should be aware of before starting with Data Science: Statistics, Machine learning, Data modelling, Databases, and programming in python.
+
+Data Science - Home
+Data Science - Getting Started
+Data Science - What is Data?
+Data science - Lifecycle
+Data Science - Prerequisites
+Data Science - Applications
+Data Science - Machine Learning
+Data Science - Data Analysis
+Data Science - Tools in Demand
+Data Science - Careers
+Data Science - Scientists
+Data Scientist - Salary
+Data Science - Resources
+Data Science - Interview Questions
+Data Science Useful Resources
+Data Science - Quick Guide
+Data Science - Useful Resources
+Data Science - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Data Science Tutorial
+The world is now ruled by data. This has caused an exceptional need for Data Scientists. We have already encountered data science in various ways, whether you use a search engine to get information on the Internet or ask your mobile device for directions, you are engaging with data science applications. Data Science has been important in handling some of our most routine everyday activities for numerous years. You will be able to handle the data in the most efficient manner if you have a good knowledge of data science.
+What is Data Science?
+Data Science is also known as data-driven science, which makes use of scientific methods, processes, and systems to extract knowledge or insights from data in various forms, i.e. either structured or unstructured. Data Science uses the most advanced hardware, programming systems, and algorithms to solve problems that have to do with data. It is where artificial intelligence is going.
+Data Science Applications
+The following are the applications of data science:
+Gaming Industry
+Health Care
+Medical Image Analysis
+Predictive Analysis
+Image Recognition
+Recommendation systems
+Airline Routing Planning
+Finance
+Improvement in Health Care services
+Computer Vision
+Efficient Management of Energy
+Internet Search
+Speech Recognition
+Education
+Data Science Careers / Job Opportunities
+The following are some career paths and job opportunities in data science:
+Data Analyst
+Data Scientist
+Database Administrator
+Big Data Engineer
+Data Mining Engineer
+Machine Learning Engineer
+Data Architect
+Hadoop Engineer
+Data Warehouse Architect
+Audience: Who Can Learn Data Science?
+This tutorial is designed for anyone willing to start their career in data science as this tutorial is all about what is data science, important tools for data science, courses, top interview questions asked, the salary of a data scientist, how to make a career in data science, and what are the future opportunities.
+Prerequisites to Learn Data Science
+Before proceeding with this tutorial, you should have a basic knowledge of writing code in Python programming language, using any Python IDE, and execution of Python programs. If you are completely new to Python then please refer to our Python tutorial, which is available athttps://www.tutorialspoint.com/python/index.htmto get a sound understanding of the language.
+Here are some of the technical concepts you should be aware of before starting with Data Science: Statistics, Machine learning, Data modelling, Databases, and programming in python.
+
+Data Science - Home
+Data Science - Getting Started
+Data Science - What is Data?
+Data science - Lifecycle
+Data Science - Prerequisites
+Data Science - Applications
+Data Science - Machine Learning
+Data Science - Data Analysis
+Data Science - Tools in Demand
+Data Science - Careers
+Data Science - Scientists
+Data Scientist - Salary
+Data Science - Resources
+Data Science - Interview Questions
+Data Science Useful Resources
+Data Science - Quick Guide
+Data Science - Useful Resources
+Data Science - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Data Science Tutorial
+The world is now ruled by data. This has caused an exceptional need for Data Scientists. We have already encountered data science in various ways, whether you use a search engine to get information on the Internet or ask your mobile device for directions, you are engaging with data science applications. Data Science has been important in handling some of our most routine everyday activities for numerous years. You will be able to handle the data in the most efficient manner if you have a good knowledge of data science.
+What is Data Science?
+Data Science is also known as data-driven science, which makes use of scientific methods, processes, and systems to extract knowledge or insights from data in various forms, i.e. either structured or unstructured. Data Science uses the most advanced hardware, programming systems, and algorithms to solve problems that have to do with data. It is where artificial intelligence is going.
+Data Science Applications
+The following are the applications of data science:
+Gaming Industry
+Health Care
+Medical Image Analysis
+Predictive Analysis
+Image Recognition
+Recommendation systems
+Airline Routing Planning
+Finance
+Improvement in Health Care services
+Computer Vision
+Efficient Management of Energy
+Internet Search
+Speech Recognition
+Education
+Data Science Careers / Job Opportunities
+The following are some career paths and job opportunities in data science:
+Data Analyst
+Data Scientist
+Database Administrator
+Big Data Engineer
+Data Mining Engineer
+Machine Learning Engineer
+Data Architect
+Hadoop Engineer
+Data Warehouse Architect
+Audience: Who Can Learn Data Science?
+This tutorial is designed for anyone willing to start their career in data science as this tutorial is all about what is data science, important tools for data science, courses, top interview questions asked, the salary of a data scientist, how to make a career in data science, and what are the future opportunities.
+Prerequisites to Learn Data Science
+Before proceeding with this tutorial, you should have a basic knowledge of writing code in Python programming language, using any Python IDE, and execution of Python programs. If you are completely new to Python then please refer to our Python tutorial, which is available athttps://www.tutorialspoint.com/python/index.htmto get a sound understanding of the language.
+Here are some of the technical concepts you should be aware of before starting with Data Science: Statistics, Machine learning, Data modelling, Databases, and programming in python.
+
+Data Science - Home
+Data Science - Getting Started
+Data Science - What is Data?
+Data science - Lifecycle
+Data Science - Prerequisites
+Data Science - Applications
+Data Science - Machine Learning
+Data Science - Data Analysis
+Data Science - Tools in Demand
+Data Science - Careers
+Data Science - Scientists
+Data Scientist - Salary
+Data Science - Resources
+Data Science - Interview Questions
+Data Science Useful Resources
+Data Science - Quick Guide
+Data Science - Useful Resources
+Data Science - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Data Science Tutorial
+The world is now ruled by data. This has caused an exceptional need for Data Scientists. We have already encountered data science in various ways, whether you use a search engine to get information on the Internet or ask your mobile device for directions, you are engaging with data science applications. Data Science has been important in handling some of our most routine everyday activities for numerous years. You will be able to handle the data in the most efficient manner if you have a good knowledge of data science.
+What is Data Science?
+Data Science is also known as data-driven science, which makes use of scientific methods, processes, and systems to extract knowledge or insights from data in various forms, i.e. either structured or unstructured. Data Science uses the most advanced hardware, programming systems, and algorithms to solve problems that have to do with data. It is where artificial intelligence is going.
+Data Science Applications
+The following are the applications of data science:
+Gaming Industry
+Health Care
+Medical Image Analysis
+Predictive Analysis
+Image Recognition
+Recommendation systems
+Airline Routing Planning
+Finance
+Improvement in Health Care services
+Computer Vision
+Efficient Management of Energy
+Internet Search
+Speech Recognition
+Education
+Data Science Careers / Job Opportunities
+The following are some career paths and job opportunities in data science:
+Data Analyst
+Data Scientist
+Database Administrator
+Big Data Engineer
+Data Mining Engineer
+Machine Learning Engineer
+Data Architect
+Hadoop Engineer
+Data Warehouse Architect
+Audience: Who Can Learn Data Science?
+This tutorial is designed for anyone willing to start their career in data science as this tutorial is all about what is data science, important tools for data science, courses, top interview questions asked, the salary of a data scientist, how to make a career in data science, and what are the future opportunities.
+Prerequisites to Learn Data Science
+Before proceeding with this tutorial, you should have a basic knowledge of writing code in Python programming language, using any Python IDE, and execution of Python programs. If you are completely new to Python then please refer to our Python tutorial, which is available athttps://www.tutorialspoint.com/python/index.htmto get a sound understanding of the language.
+Here are some of the technical concepts you should be aware of before starting with Data Science: Statistics, Machine learning, Data modelling, Databases, and programming in python.
+
+Data Science - Home
+Data Science - Getting Started
+Data Science - What is Data?
+Data science - Lifecycle
+Data Science - Prerequisites
+Data Science - Applications
+Data Science - Machine Learning
+Data Science - Data Analysis
+Data Science - Tools in Demand
+Data Science - Careers
+Data Science - Scientists
+Data Scientist - Salary
+Data Science - Resources
+Data Science - Interview Questions
+Data Science Useful Resources
+Data Science - Quick Guide
+Data Science - Useful Resources
+Data Science - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Data Science Tutorial
+The world is now ruled by data. This has caused an exceptional need for Data Scientists. We have already encountered data science in various ways, whether you use a search engine to get information on the Internet or ask your mobile device for directions, you are engaging with data science applications. Data Science has been important in handling some of our most routine everyday activities for numerous years. You will be able to handle the data in the most efficient manner if you have a good knowledge of data science.
+What is Data Science?
+Data Science is also known as data-driven science, which makes use of scientific methods, processes, and systems to extract knowledge or insights from data in various forms, i.e. either structured or unstructured. Data Science uses the most advanced hardware, programming systems, and algorithms to solve problems that have to do with data. It is where artificial intelligence is going.
+Data Science Applications
+The following are the applications of data science:
+Gaming Industry
+Health Care
+Medical Image Analysis
+Predictive Analysis
+Image Recognition
+Recommendation systems
+Airline Routing Planning
+Finance
+Improvement in Health Care services
+Computer Vision
+Efficient Management of Energy
+Internet Search
+Speech Recognition
+Education
+Data Science Careers / Job Opportunities
+The following are some career paths and job opportunities in data science:
+Data Analyst
+Data Scientist
+Database Administrator
+Big Data Engineer
+Data Mining Engineer
+Machine Learning Engineer
+Data Architect
+Hadoop Engineer
+Data Warehouse Architect
+Audience: Who Can Learn Data Science?
+This tutorial is designed for anyone willing to start their career in data science as this tutorial is all about what is data science, important tools for data science, courses, top interview questions asked, the salary of a data scientist, how to make a career in data science, and what are the future opportunities.
+Prerequisites to Learn Data Science
+Before proceeding with this tutorial, you should have a basic knowledge of writing code in Python programming language, using any Python IDE, and execution of Python programs. If you are completely new to Python then please refer to our Python tutorial, which is available athttps://www.tutorialspoint.com/python/index.htmto get a sound understanding of the language.
+Here are some of the technical concepts you should be aware of before starting with Data Science: Statistics, Machine learning, Data modelling, Databases, and programming in python.
+
+Data Science - Home
+Data Science - Getting Started
+Data Science - What is Data?
+Data science - Lifecycle
+Data Science - Prerequisites
+Data Science - Applications
+Data Science - Machine Learning
+Data Science - Data Analysis
+Data Science - Tools in Demand
+Data Science - Careers
+Data Science - Scientists
+Data Scientist - Salary
+Data Science - Resources
+Data Science - Interview Questions
+Data Science Useful Resources
+Data Science - Quick Guide
+Data Science - Useful Resources
+Data Science - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Data Science Tutorial
+The world is now ruled by data. This has caused an exceptional need for Data Scientists. We have already encountered data science in various ways, whether you use a search engine to get information on the Internet or ask your mobile device for directions, you are engaging with data science applications. Data Science has been important in handling some of our most routine everyday activities for numerous years. You will be able to handle the data in the most efficient manner if you have a good knowledge of data science.
+What is Data Science?
+Data Science is also known as data-driven science, which makes use of scientific methods, processes, and systems to extract knowledge or insights from data in various forms, i.e. either structured or unstructured. Data Science uses the most advanced hardware, programming systems, and algorithms to solve problems that have to do with data. It is where artificial intelligence is going.
+Data Science Applications
+The following are the applications of data science:
+Gaming Industry
+Health Care
+Medical Image Analysis
+Predictive Analysis
+Image Recognition
+Recommendation systems
+Airline Routing Planning
+Finance
+Improvement in Health Care services
+Computer Vision
+Efficient Management of Energy
+Internet Search
+Speech Recognition
+Education
+Data Science Careers / Job Opportunities
+The following are some career paths and job opportunities in data science:
+Data Analyst
+Data Scientist
+Database Administrator
+Big Data Engineer
+Data Mining Engineer
+Machine Learning Engineer
+Data Architect
+Hadoop Engineer
+Data Warehouse Architect
+Audience: Who Can Learn Data Science?
+This tutorial is designed for anyone willing to start their career in data science as this tutorial is all about what is data science, important tools for data science, courses, top interview questions asked, the salary of a data scientist, how to make a career in data science, and what are the future opportunities.
+Prerequisites to Learn Data Science
+Before proceeding with this tutorial, you should have a basic knowledge of writing code in Python programming language, using any Python IDE, and execution of Python programs. If you are completely new to Python then please refer to our Python tutorial, which is available athttps://www.tutorialspoint.com/python/index.htmto get a sound understanding of the language.
+Here are some of the technical concepts you should be aware of before starting with Data Science: Statistics, Machine learning, Data modelling, Databases, and programming in python.
+
+Data Science - Home
+Data Science - Getting Started
+Data Science - What is Data?
+Data science - Lifecycle
+Data Science - Prerequisites
+Data Science - Applications
+Data Science - Machine Learning
+Data Science - Data Analysis
+Data Science - Tools in Demand
+Data Science - Careers
+Data Science - Scientists
+Data Scientist - Salary
+Data Science - Resources
+Data Science - Interview Questions
+Data Science Useful Resources
+Data Science - Quick Guide
+Data Science - Useful Resources
+Data Science - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Data Science Tutorial
+The world is now ruled by data. This has caused an exceptional need for Data Scientists. We have already encountered data science in various ways, whether you use a search engine to get information on the Internet or ask your mobile device for directions, you are engaging with data science applications. Data Science has been important in handling some of our most routine everyday activities for numerous years. You will be able to handle the data in the most efficient manner if you have a good knowledge of data science.
+What is Data Science?
+Data Science is also known as data-driven science, which makes use of scientific methods, processes, and systems to extract knowledge or insights from data in various forms, i.e. either structured or unstructured. Data Science uses the most advanced hardware, programming systems, and algorithms to solve problems that have to do with data. It is where artificial intelligence is going.
+Data Science Applications
+The following are the applications of data science:
+Gaming Industry
+Health Care
+Medical Image Analysis
+Predictive Analysis
+Image Recognition
+Recommendation systems
+Airline Routing Planning
+Finance
+Improvement in Health Care services
+Computer Vision
+Efficient Management of Energy
+Internet Search
+Speech Recognition
+Education
+Data Science Careers / Job Opportunities
+The following are some career paths and job opportunities in data science:
+Data Analyst
+Data Scientist
+Database Administrator
+Big Data Engineer
+Data Mining Engineer
+Machine Learning Engineer
+Data Architect
+Hadoop Engineer
+Data Warehouse Architect
+Audience: Who Can Learn Data Science?
+This tutorial is designed for anyone willing to start their career in data science as this tutorial is all about what is data science, important tools for data science, courses, top interview questions asked, the salary of a data scientist, how to make a career in data science, and what are the future opportunities.
+Prerequisites to Learn Data Science
+Before proceeding with this tutorial, you should have a basic knowledge of writing code in Python programming language, using any Python IDE, and execution of Python programs. If you are completely new to Python then please refer to our Python tutorial, which is available athttps://www.tutorialspoint.com/python/index.htmto get a sound understanding of the language.
+Here are some of the technical concepts you should be aware of before starting with Data Science: Statistics, Machine learning, Data modelling, Databases, and programming in python.
+
+TopCategories

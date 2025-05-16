@@ -1,0 +1,1216 @@
+
+
+Learn to Code
+With the world's largest web developer site.
+HTML
+The language for building web pages
+HTML Example:
+CSS
+The language for styling web pages
+CSS Example:
+JavaScript
+The language for programming web pages
+JavaScript Example:
+Python
+A popular programming language
+Python Example:
+SQL
+A language for accessing databases
+SQL Example:
+PHP
+jQuery
+Java
+C++
+W3.CSS
+Bootstrap
+C
+C#
+R
+Kotlin
+Node.js
+React
+JSON
+Vue
+MySQL
+XML
+Sass
+Icons
+RWD
+Graphics
+SVG
+Canvas
+Raspberry Pi
+CyberSecurity
+Colors
+Git
+Matplotlib
+NumPy
+Pandas
+SciPy
+ASP
+AngularJS
+AppML
+Go
+TypeScript
+Django
+MongoDB
+Statistics
+Data Science
+PostgreSQL
+HowTo
+Code Game
+Spaces
+Typing Speed
+Excel
+DSA - DataStructures andAlgorithms
+Machine Learning
+Artificial Intelligence
+Introduction to Programming
+Bash
+Log in/ Sign Up
+Sign Up for Free
+Code Editor
+W3Schools Spaces
+If you want to create your own website, check outW3Schools Spaces.
+It is free to use, and does not require any setup:
+Become a Plus User
+And unlock powerful features:
+Browse W3Schoolswithout ads
+Build and host Websites
+Unlimited challenges
+Unlimited practice tests
+Get extra credits
+Priority support
+For Teachers
+Streamline your teaching:
+Manage your classroom
+Ready-to-use learning materials
+Customize study plans
+Track student progress
+Interactive coding challenges
+Color Picker
+Code Game
+Help the Lynx collect pine cones!
+Play Game
+Exercises and Quizzes
+Exercises
+Quizzes
+Web Templates
+Browse Templates
+Kickstart your career
+Get certified by completing a course
+How To Section
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+Learn to Code
+With the world's largest web developer site.
+HTML
+The language for building web pages
+HTML Example:
+CSS
+The language for styling web pages
+CSS Example:
+JavaScript
+The language for programming web pages
+JavaScript Example:
+Python
+A popular programming language
+Python Example:
+SQL
+A language for accessing databases
+SQL Example:
+PHP
+jQuery
+Java
+C++
+W3.CSS
+Bootstrap
+C
+C#
+R
+Kotlin
+Node.js
+React
+JSON
+Vue
+MySQL
+XML
+Sass
+Icons
+RWD
+Graphics
+SVG
+Canvas
+Raspberry Pi
+CyberSecurity
+Colors
+Git
+Matplotlib
+NumPy
+Pandas
+SciPy
+ASP
+AngularJS
+AppML
+Go
+TypeScript
+Django
+MongoDB
+Statistics
+Data Science
+PostgreSQL
+HowTo
+Code Game
+Spaces
+Typing Speed
+Excel
+DSA - DataStructures andAlgorithms
+Machine Learning
+Artificial Intelligence
+Introduction to Programming
+Bash
+Log in/ Sign Up
+Sign Up for Free
+Code Editor
+W3Schools Spaces
+If you want to create your own website, check outW3Schools Spaces.
+It is free to use, and does not require any setup:
+Become a Plus User
+And unlock powerful features:
+Browse W3Schoolswithout ads
+Build and host Websites
+Unlimited challenges
+Unlimited practice tests
+Get extra credits
+Priority support
+For Teachers
+Streamline your teaching:
+Manage your classroom
+Ready-to-use learning materials
+Customize study plans
+Track student progress
+Interactive coding challenges
+Color Picker
+Code Game
+Help the Lynx collect pine cones!
+Play Game
+Exercises and Quizzes
+Exercises
+Quizzes
+Web Templates
+Browse Templates
+Kickstart your career
+Get certified by completing a course
+How To Section
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+W3Schools Academy
+Articles for Teachers
+How TO
+Watch
+Full Demo
+Get a demo of how W3Schools Academy works!
+Teach Coding
+With W3Schools
+            Academy
+Everything you need to teach coding. From class managementpersonalized learning paths to ready-to-use
+              content andengaging code challenges that keep your students motivated.
+Everything you need to teach coding. From class management andpersonalized learning paths to
+            ready-to-use content andengaging code challenges that keep your students motivated.
+Manage your classroom
+Simplify administrative tasks so you can spend more time teaching and engaging with your students.
+Streamline classroom management with tools like:Automated gradingReal time analyticsEasy-to-use and user friendlyProvide instant feedback
+Automated grading
+Real time analytics
+Easy-to-use and user friendly
+Provide instant feedback
+Create study plans
+Use flexible study plan tools for your class or individual students. Choose
+            from our pre-made resources, add your own content, or combine both.
+Choose from 40+ pre-made resources
+Adapts to their pace and learning style
+Personalised education with tailored content
+Saves time by planning ahead
+Data-driven insights
+Access analytics to track student performance, generate progress reports to
+            identify improvement areas, and use attention tiles to spot students needing extra support.
+Visualize key metrics such as:
+Completion rates
+Time spent on tasks
+Understanding of core concepts
+Provide instant feedback
+Leverage real-time feedback to adjust your teaching strategies and student
+            learning paths. Whether through automated grading of coding assignments or personalized suggestions.
+W3Schools Academy helps you provide instant, meaningful feedback to students. Adapt lessons based on
+            performance to ensure every student is on the right path.
+Code challenges
+Keep your students engaged with hands-on code challenges that let them practice
+            and test what they've learned.
+Access to several hundred code challenges
+Auto-graded for instant feedback
+Manually graded for personalised guidance
+From simple exercises to complex tasks
+Academy Studio
+Encourage collaboration with hands on projects and code challenges in your
+            classroom with Academy Studio:
+Create your own code challenges
+Create your own template projects
+Feedback with multiple cursors, comments, and discussions
+Review work in real time and share ideas
+Ad-free for focused learning
+Enhance the learning experience by unlocking ad-free content. Keep your students
+            focused andengaged without distractions, ensuring better concentration and deeper understanding of the
+            material.
+Pre-made teaching materials
+Save time with W3Schools Academy's extensive library of pre-made teaching materials.Choose from 40+ lessonsIncluding interactive guidesQuizzes in every courseCode challengesExams with certification
+Choose from 40+ lessons
+Including interactive guides
+Quizzes in every course
+Code challenges
+Exams with certification
+Certification Exams
+Help your students stand out by guiding them to earn certifications that matter.
+            W3Schools Academy offers certification exams that are directly integrated into the learning platform.
+These exams are adaptive, adjusting to different skill levels, and provide
+            immediate results and feedback. Equip your students with the opportunity to achieve certifications that
+            align with industry standards, enhancing their learning journey.
+Build projects with Spaces
+With W3Schools online IDE Spaces, students can practice web development by working on front-end, back-end,
+            or full-stack projects directly in the browser.70 + templates or begin from scratchIncludes tools that assist studentsOwn subdomain, hosting, and SSL certificateConnect to Github, download as ZIP and much more
+70 + templates or begin from scratch
+Includes tools that assist students
+Own subdomain, hosting, and SSL certificate
+Connect to Github, download as ZIP and much more
+Get started in a few simple steps
+Setting up your classroom with W3Schools Academy is quick and effortless. Sign
+            up, customize learning paths,invite students, and start teaching with real-time analytics and adaptive
+            tools to enhance the learning experience.
+WatchProduct Demo
+Get an inside look at W3Schools Academy - designed to
+            help teachers like you manage classrooms, engage students with interactive coding, and track their progress,
+            all in one place.
+What educators says
+Nesta Paul Katende
+Founder & CEO Otic Foundation
+Otic Foundation
+"We chose W3Schools Academy because of its proven ability
+            to
+            deliver high-quality education. With clear, concise, and interactive tutorials, W3Schools makes learning
+            accessible to everyone."
+Brian Moran
+Co-Founder
+Boolean Girl
+"Boolean Girl was looking for a single platform to teach
+            Python
+            and Web development to students. We already used W3Schools as a reference platform in our teaching so it
+            made sense to also use the development environment."
+Gavin Taylor
+Head of Adult Education
+LearnTech
+"W3Schools classroom solution allows students to complete
+            the
+            courses, and our tutors to monitor progress, set goals and provide support where needed. We recommend this
+            classroom tool with W3Schools courses."
+Classrooms Pricing
+Straightforward and no surprises
+Setting up your classroom with W3Schools Academy is quick and effortless. Sign
+            up, customize learning paths,invite students, and start teaching with real-time analytics and adaptive
+            tools to enhance the learning experience.
+$1.99/month per student
+Essentials
+Makes teaching easier by providing the basic tools to manage your
+              classroom and focus on your students learning
+Admin dashboardCentralized control panel for managing classroom settings, viewing student
+                    activity, and accessing teaching resources.
+Track progress
+Study Plans
+Ad-Free Learning
+Basic Spaces
+*Minimum 10
+              students and a 3-month
+              commitment to get started
+$5.99/month per student
+Full Access
+Gives you everything you need to keep your students engaged and
+              motivated
+All in Essentials
+All Exams with Certifications
+Code Challenges
+Fullstack Spaces
+W3Schools Academy Studio
+*Minimum 10
+              students and a
+              3-monthcommitment to get started
+$1.99/month per student
+Essentials
+Makes teaching easier by providing the basic tools to manage your
+              classroom and focus on your students learning
+Admin dashboardCentralized control panel for managing classroom settings, viewing student
+                    activity, and accessing teaching resources.
+Track progress
+Study Plans
+Ad-Free Learning
+Basic Spaces
+*Minimum 10 students and a 3-month
+              commitment to get started
+Anything else on your mind?
+Do you have any questions regarding W3Schools Academy for teachers?Send an email tosales@w3schools.com, and we'll get back to you soon!
+Send an email tosales@w3schools.com, and we'll get back to you soon!
+Send an email tosales@w3schools.com, and we'll get back to you soon!
+FAQ - Teachers
+W3Schools Academy simplifies classroom management with real-time
+            tracking, automated grading, and detailed progress reports. Teachers can easily monitor student performance,
+            provide feedback, and adjust learning goals to enhance the teaching process.
+Yes! W3Schools Academy offers tools to create personalized study plans
+            for each student. This allows you to cater to different learning paces and styles, ensuring every student
+            stays engaged and on track.
+Our platform provides a rich library of ready-made teaching materials,
+            including interactive courses, lessons, quizzes, coding challenges, and how-to guides. These resources save
+            you time and help create more engaging learning experiences.
+Academy Studio is an online code editor that supports real-time
+            collaboration features like multiple cursors, comments, and group discussions. It allows students to work
+            together on projects and learn from one another, enhancing the classroom dynamic.
+Students can take certification exams directly at W3Schools. These
+            exams are designed to adapt to different skill levels and provide instant feedback, helping students gain
+            valuable, industry-recognized credentials.
+W3Schools Academy offers data-driven insights through performance
+            dashboards and detailed progress reports. These tools help teachers monitor class and individual progress,
+            identify areas for improvement, and make informed decisions to support student success.
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+Create a Free Website
+Coding Skills
+AI Tutor
+Websites
+Securely
+Powerful Code Editor
+Choose your Plan
+By subscribing to a plan you support the W3Schools mission to makelearning available to everyone - no matter their background.
+$0/Forever
+This is for you that are beginning to explore coding and web development
+Track your progress
+Set your goals
+Build and host 1 static website
+100 credits/monthAccess various AI features like W3Schools kAI coding tutor and interview preparation.
+No support
+$14.99/Month
+This is for you that want to learn and reach your goals faster. Build fullstack projects, ad free experience.
+Ad-free experience
+Unlimited challenges
+Unlimited practice tests
+Build and host 15 static websites
+Build and host 1 full stack server
+Choose from 75+ templates
+10000 credits/monthAccess various AI features like W3Schools kAI coding tutor and interview preparation.
+Cancel anytime
+For teachers
+Spend less time on admin tasks while engaging your students. Help them learn, practice and collaborate. All in one place.
+Ad-free for focused learning
+Dashboard to manage your classroom
+Study plans for structured learning
+Track progress with insights
+Interactive code challenges and projects
+Access to all courses and certification exams
+Spaces for building and publishing projects
+25% OFF
+You can also buy a domain or connect an existing one.
+kAI
+Just landed inSpaces
+Learn to code more effectivelyand intelligently with kAI - AI tutor
+Hi! I'm kAI, W3Schools AI Tutor...
+Feel free to ask me any coding-related questions, and I'll do my best to assist you.
+I can help you checking your code for errors, improving your code's structure, explaining coding concepts in a clear and understandable way, and more...
+I can even create complete websites for you based on your input, so what are you waiting for?
+Practice Makes Perfect
+Save Time with Templates
+Super Simple to Share
+Included for free in all plans
+Want custom domains?
+How it works
+Coding Made Easy
+Cloud-based
+Terminal & Log
+How To Libraries
+Database
+File Navigator
+Package Manager
+Analytics
+Environment Manager
+Save Time & Money.
+All Your Files in One Place.
+Fix Your Code Faster.
+Get Full Data Visibility.
+Increased Control and Security.
+Find What You Need Quicker.
+Get Traffic Insights.
+Get Inspired
+Frequently Asked Questions
+With Basic Spaces, you can build frontend websites. Whereas with Fullstack Spaces, you can build frontend and backend websites.
+Basic Spaces include HTML, CSS, and Javascript. Full Stack Spaces include everything in Basic Spaces plus PHP, Python, React.js, Vue.js, Node.js, Handlebars, and Django.
+Your subscription will be automatically renewed every month.
+Your access to all the benefits for the paid period of time will continue. However, the subscription will not be renewed automatically.
+To subscribe W3Schools accounts for multiple users, you can contact sales@w3schools.com
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+W3Schools Plus
+Unlock Powerful Features
+By subscribing to a plan you support the W3Schools mission to makelearning available to everyone - no matter their background.
+$0/Forever
+This is for you that are beginning to explore coding and web development
+Track your progress
+Set your goals
+Build and host 1 static website
+100 credits/monthAccess various AI features like W3Schools kAI coding tutor and interview preparation.
+No support
+$14.99/Month
+This is for you that want to learn and reach your goals faster. Build fullstack projects, ad free experience.
+Ad-free experience
+Unlimited challenges
+Unlimited practice tests
+Build and host 15 static websites
+Build and host 1 full stack server
+Choose from 75+ templates
+10000 credits/monthAccess various AI features like W3Schools kAI coding tutor and interview preparation.
+Cancel anytime
+For teachers
+Spend less time on admin tasks while engaging your students. Help them learn, practice and collaborate. All in one place.
+Ad-free for focused learning
+Dashboard to manage your classroom
+Study plans for structured learning
+Track progress with insights
+Interactive code challenges and projects
+Access to all courses and certification exams
+Spaces for building and publishing projects
+No More Ads
+More Spaces!
+Learn from proven tutorials used by millions of learners!
+Our platform has been used by learners for over 23 years, with a continuously growing audience of learners and constantly updated and improved learning material!
+W3Schools Spaces
+CodeWebsites directly in the browser - No setup required
+Sign Up For Free
+Read More
+Check outour plans hereto view the difference.
+Your subscription will be automatically renewed every month.
+Your access to all the benefits for the paid period of time will continue, however the subscription will not be renewed automatically.
+To subscribe W3Schools accounts for multiple users, you can contact sales@w3schools.com
+Have some questions?Visit our support page
+Subscribe for $14.99/month
+Cancel anytime.
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+HTMLTutorial
+HTMLForms
+HTMLGraphics
+HTMLMedia
+HTMLAPIs
+HTMLExamples
+HTMLReferences
+HTMLTutorial
+Learn HTML
+HTML is the standard markup language for Web pages.
+With HTML you can create your own Website.
+HTML is easy to learn - You will enjoy it!
+Easy Learning with HTML "Try it Yourself"
+With our "Try it Yourself" editor, you can edit the HTML code and view the 
+result:
+Example
+Click on the "Try it Yourself" button to see how it works.
+HTML Examples
+In this HTML tutorial, you will find more than 200 examples. With our online 
+"Try it Yourself" editor, you can edit and test each example yourself!
+Go to HTML Examples!
+HTML Exercises
+Many chapters in this tutorial end with an exercise where you can check your level of knowledge.
+See all HTML Exercises
+HTML Quiz Test
+Test your HTML skills with our HTML Quiz!
+Start HTML Quiz!
+Track Your Progress
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+HTML References
+At W3Schools you will find complete references about HTML elements, 
+attributes, events, color names, entities, character-sets, URL encoding, 
+language codes, HTTP messages, browser support, and more:
+Kickstart your career
+Get certified by completingthecourse
+Video: HTML for Beginners
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+HTMLReferences
+HTMLTags
+HTMLElement Reference
+HTML Tags Ordered Alphabetically
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+CSSTutorial
+CSS Advanced
+CSSFlexbox
+CSSGrid
+CSSResponsive
+CSSSASS
+CSSExamples
+CSSReferences
+CSSTutorial
+Learn CSS
+CSS is the language we use to style an HTML document.
+CSS describes how HTML elements should be displayed.
+This tutorial will teach you CSS from basic to advanced.
+Examples in Each Chapter
+This CSS tutorial contains hundreds of CSS examples.
+With our online editor, you can edit the CSS, and click on a button to view the result.
+CSS Example
+Click on the "Try it Yourself" button to see how it works.
+CSS Examples
+Learn from over 300 examples! With our editor, you can edit the CSS, and click on a
+button to view the result.
+Go to CSS Examples!
+Use the Menu
+We recommend reading this tutorial, in the sequence listed in the menu.
+If you have a large screen, the menu will always be present on the left.
+If you have a small screen, open the menu by clicking the top menu sign☰.
+CSS Templates
+We have created some responsive W3.CSS templates for you to use.
+You are free to modify, save, share, and use them in all your projects.
+Free CSS Templates!
+CSS Exercises
+Many chapters in this tutorial end with an exercise where you can check your level of knowledge.
+See all CSS Exercises
+CSS Quiz
+Test your CSS skills with a quiz.
+Start CSS Quiz!
+Track Your Progress
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+CSS References
+At W3Schools you will find complete CSS references of all properties and selectors with syntax, examples, browser support, and more.
+Kickstart your career
+Get certified by completingthecourse
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+CSSReferences
+CSSProperties
+CSSReference
+CSS Properties
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+break-after
+break-before
+break-inside
+Q
+R
+S
+T
+U
+V
+W
+Z
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+CSSTutorial
+CSS Advanced
+CSSFlexbox
+CSSGrid
+CSSResponsive
+CSSSASS
+CSSExamples
+CSSReferences
+Responsive Web Design -Introduction
+What is Responsive Web Design?
+Responsive web design makes your web page look good on all devices.
+Responsive web design uses only HTML and CSS.
+Responsive web design is not a program or a JavaScript.
+Designing For The Best Experience For All Users
+Web pages can be viewed using many different devices: desktops, tablets, and phones.
+Your web page should look good, and be easy to use, regardless of the device.
+Web pages should not leave out information to fit smaller devices, but rather adapt its content to fit any device:
+It is called responsive web design when you use CSS and HTML to resize, hide, shrink, enlarge, or move the content to make it look good on any screen.
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+Bootstrap Versions
+Bootstrap is the world's most famous free CSS framework.You can choose between the following versions:
+Learn Bootstrap 3 »
+Bootstrap 3 is the most stable version of Bootstrap, and it is still supported by the team for critical bugfixes and documentation changes.
+Learn Bootstrap 4 »
+Bootstrap 4 is a newer version of Bootstrap; with new components, faster stylesheet and more responsiveness. However, Internet Explorer 9 and down is not supported.
+Learn Bootstrap 5 »
+Bootstrap 5 is thenewestversion of Bootstrap; with a smooth overhaul. However, Internet Explorer 11 and down is not supported, and jQuery is replaced with vanilla JavaScript.
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+W3.CSS
+W3.CSS Colors
+Web Building
+Examples
+References
+W3.CSSTutorial
+W3.CSS is a CSS framework for developing websites and web apps.
+It provides equality for all browsers (Chrome, Edge, Firefox, Safari, Opera) on all devices
+(Desktop, Laptop, Tablet, Mobile).
+W3.CSS is free, open source, and uses standard CSS only (no JavaScript).
+Note
+w3-gridandw3-flexis new inW3.CSS 5.0.
+w3-grid vs w3-flex
+w3-gridis for two-dimensional layout, with rows AND columns.
+w3-flexis for one-dimensional layout, with rows OR columns.
+Example
+A Quality Alternative to Bootstrap
+W3.CSSis a modern CSS framework developed by theW3Schoolsteam.
+It's similar to Bootstrap when it comes to build responsive, mobile-friendly websites,
+but it is lighter, simpler, and faster, and does not rely on JavaScript or external libraries like jQuery.
+"Make it as simple as possible, but not simpler."Albert Einstein
+How To Use W3.CSS
+To use W3.CSS in your web site, just add a link tow3.cssfrom your web pages:
+Example
+Or download w3.css from:
+https://www.w3schools.com/w3css/5/w3.css
+and add a local link to your downloaded w3.css file:
+Example
+W3.CSS Crash Course
+How to create web page
+that looks nice on all devices (desktop, laptop, tablet, and phone).
+Start the Crash Course » » »
+W3.CSS Web Site Templates
+We have created 50 responsive W3CSS templates for you to use.
+You are free to modify, save, share, use or do whatever you want with them:
+Catering Template
+See Demo »Portfolio TemplateSee Demo »Architect TemplateSee Demo »Cafe TemplateSee Demo »Wedding TemplateSee Demo »House Design TemplateSee Demo »Food TemplateSee Demo »See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+Portfolio Template
+See Demo »Architect TemplateSee Demo »Cafe TemplateSee Demo »Wedding TemplateSee Demo »House Design TemplateSee Demo »Food TemplateSee Demo »See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+Architect Template
+See Demo »Cafe TemplateSee Demo »Wedding TemplateSee Demo »House Design TemplateSee Demo »Food TemplateSee Demo »See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+Cafe Template
+See Demo »Wedding TemplateSee Demo »House Design TemplateSee Demo »Food TemplateSee Demo »See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+Wedding Template
+See Demo »House Design TemplateSee Demo »Food TemplateSee Demo »See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+House Design Template
+See Demo »Food TemplateSee Demo »See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+Food Template
+See Demo »See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+See All Templates »
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+W3.CSS
+W3.CSS Colors
+Web Building
+Examples
+References
+W3.CSS Reference
+W3.CSS Classes
+Container
+Table
+Card
+Responsive
+Layout
+Navigation
+Button
+Input
+Modal
+Animation
+Font and Text
+Display
+Effect
+Background Color
+Text Color
+Hover
+Round
+Padding
+Margin
+Border
+Container Classes
+Table Classes
+Card Classes
+Responsive Classes
+Layout Classes
+Bar Classes - Navigation
+Dropdown Classes
+Button Classes
+Input Classes
+Modal Classes
+Animation Classes
+Font and Text Classes
+New in Version 5
+Display Classes
+Effect Classes
+Background Color Classes
+Red
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-red
+Pink
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-pink
+Purple
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-purple
+Deep Purple
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-deep-purple
+Indigo
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-indigo
+Cobalt
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-cobalt
+Blue
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-blue
+Light Blue
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-light-blue
+Cyan
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-cyan
+Aqua
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-aqua
+Teal
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-teal
+Emerald
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-emerald
+Green
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-green
+Light Green
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-light-green
+LimeLondon is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.w3-lime
+Lime
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-lime
+KhakiLondon is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.w3-khaki
+Khaki
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-khaki
+YellowLondon is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.w3-yellow
+Yellow
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-yellow
+AmberLondon is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.w3-amber
+Amber
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-amber
+OrangeLondon is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.w3-orange
+Orange
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-orange
+Deep Orange
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-deep-orange
+Blue Gray
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-blue-gray
+OliveLondon is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.w3-olive
+Olive
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-olive
+TaupeLondon is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.w3-taupe
+Taupe
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-taupe
+Sienna
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-sienna
+BrownLondon is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.w3-brown
+Brown
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-brown
+Crimson
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-win8-crimson
+SandLondon is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.w3-sand
+Sand
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-sand
+White
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-white
+Paper
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-paper
+Light Gray
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-light-gray
+GrayLondon is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.w3-gray
+Gray
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-gray
+Dark Gray
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-dark-gray
+Asphalt
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-asphalt
+Black
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-black
+Pale Red
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-pale-red
+Pale Yellow
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-pale-yellow
+Pale Green
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-pale-green
+Pale Blue
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-pale-blue
+DANGER
+Red often indicates a dangerous or negative situation.
+w3-danger
+WARNING
+Orange often indicates a warning that might need attention.
+w3-warning
+SUCCESS
+Green often indicates something successful or positive.
+w3-success
+Info
+Blue often indicates a neutral informative change or action.
+w3-info
+Note
+Yellow is often used for notifications.
+w3-danger, w3-warning, w3-sucess, w3-info, w3-note are new in W3.CSS version 5.0.
+w3-note
+Transparent
+London is the most populous city in the United Kingdom, with a metropolitan area of over 9 million inhabitants.
+w3-transparent
+Hover Color Classes
+The colors above can also be used as hover classes:
+Text Color Classes
+Hover Text Classes
+The text classes above can also be used as hover classes:
+Other Hover Classes
+Round Classes
+Padding Classes
+Margin Classes
+Border Classes
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+SassTutorial
+SassFunctions
+SassCertificate
+SassTutorial
+Learn Sass
+Sass is a CSS pre-processor.
+Sass reduces repetition of CSS and therefore saves time.
+Examples in Each Chapter
+Our "Show Sass" tool makes it easy to learn Sass, it shows both the code and the result.
+Sass Example
+Run Example »
+Sass Function References
+At W3Schools you will find complete references of all Sass functions with syntax and examples.
+Sass String Functions
+Sass Numeric Functions
+Sass List Functions
+Sass Map Functions
+Sass Selector Functions
+Sass Introspection Functions
+Sass Color Functions
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+SassTutorial
+SassFunctions
+SassCertificate
+SassString Functions
+Sass String Functions
+The string functions are used to manipulate and get information about 
+strings.
+Sass strings are 1-based. The first character in a string is at index 1, not 
+0.
+The following table lists all string functions in Sass:
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+ColorsTutorial
+ColorSchemes
+ColorTrends
+ColorStandards
+Colors Tutorial
+Colors are displayed combining RED, GREEN, and BLUE light.
+Color Names
+With CSS, colors can be set by using color names:
+Example
+CSS Color Values
+With CSS, colors can be specified in different ways:
+By color names
+As RGB values
+As hexadecimal values
+As HSL values (CSS3)
+As HWB values (CSS4)
+With thecurrentcolorkeyword
+currentcolor
+RGB Colors
+RGB color values are supported in all browsers.
+An RGB color value is specified with: rgb(RED,GREEN,BLUE).
+Each parameter defines the intensity of the color as an integer between 0 and 255.
+For example, rgb(0,0,255) is rendered as blue, 
+because the blue parameter is set to its highest value (255) and the others are set to 0.
+Example
+Shades of gray are often defined using equal values for all the 3 light sources:
+Example
+Hexadecimal Colors
+Hexadecimal color values are also supported in all browsers.
+A hexadecimal color is specified with:
+#RRGGBB.
+RR (red), GG (green) and BB (blue) are hexadecimal integers between 00 and 
+FF specifying the intensity of the color.
+For example, #0000FF is displayed as blue, because the blue component is set to its highest value (FF) and the others are set to 
+00.
+Example
+Shades of gray are often defined using equal values for all the 3 light sources:
+Example
+Upper Case or Lower Case?
+You can use upper case or lower case letters to specify hexadecimal values.
+Lower case are easier to write. Upper case are easier to read.
+Color Names
+CSS supports 140 standard color names.
+In the next chapter you will find a complete alphabetical list of color names 
+with hexadecimal values:
+The currentcolor Keyword
+Thecurrentcolorkeyword refers to the value of the color property of an element.
+currentcolor
+Example
+The border color of the following <div> element will be blue, because the 
+ text color of the <div> element is blue:
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+ColorsTutorial
+ColorSchemes
+ColorTrends
+ColorStandards
+Colors - FS 595
+The FS 595 Color Standard
+The Federal Standard 595 was originally created by the US General Services Administration.
+The standard is a set of color shades, each with a unique five digit reference number.
+The first number defines the finish. The second number defines the color.
+FS 595 Highway Colors
+The numbers in parentheses are references to 
+FS 595.
+The #hex values are non official approximate values intended to simulate 
+highway colors in HTML:
+Example
+The w3-highway-xxxnames are references to the color libraryw3-colors-highway:
+Example
+Downloads
+FS 595 color libraries can be downloaded from:W3.CSS Color Libraries.
+FS 595 Safety Colors
+The numbers in parentheses are references to 
+FS 595.
+The hex values are non official approximate values intended to simulate 
+safety colors in HTML:
+Example
+The w3-safety-xxxnames are references to the color libraryw3-colors-safety:
+Example
+FS 595 Camouflage Colors
+The numbers in parentheses are references to FS 595.
+The hex values are non official approximate values intended to simulate camouflage colors in HTML:
+Example
+The w3-camo-xxxnames are references to the color libraryw3-colors-camo:
+Example
+ANA Colors (Army Navy Aero)
+The hex values are non official approximate values intended to simulate ANA colors in HTML:
+Example
+The values in parentheses are references to the color libraryw3-colors-ana.css:
+Example
+FS 595C
+FS 595C is the latest known version of the FS 595 standard.
+These hex values are non official approximate values intended to simulate FS 595C colors in HTML:
+Confusing names (Insignia White is defined for both 17875 and 37875) errors and duplicates also exist in the original.
+Source:http://quicksearch.dla.mil/qsDocDetails.aspx?ident_number=53815
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+IconsTutorial
+Font Awesome 5
+Font Awesome 4
+Bootstrap
+Google
+Icons Tutorial
+How To Add Icons
+To insert an icon, add the name of the icon class to any inline HTML element.
+The<i>and<span>elements are widely used to add 
+icons.
+<i>
+<span>
+All the icons in the icon libraries below, are scalable vector icons that can 
+be customized with CSS (size, color, shadow, etc.)
+Font Awesome 5 Icons
+To use the Free Font Awesome 5 icons, go tofontawesome.comand sign in to get a code to use in your web pages.
+Read more about how to get started with Font Awesome in ourFont Awesome 5chapter.
+Note:No downloading or installation is required!
+Example
+Font Awesome 4 Icons
+To use the Font Awesome 4 icons, add the following line inside the<head>section of your HTML page:
+<head>
+Note:No downloading or installation is required!
+Example
+Bootstrap 3 Icons
+To use the Bootstrap 3 glyphicons, add the following line inside the<head>section of your HTML page:
+<head>
+Note:No downloading or installation is required!
+Example
+Note:Glyphicons are not supported in Bootstrap 4.
+For more information about Bootstrap 3 and Glyphicons, visit ourBootstrap 3 Tutorial.
+Google Icons
+To use the Google icons, add the following line inside the<head>section of your HTML page:
+<head>
+Note:No downloading or installation is required!
+Example
+For a complete list of ALL icons (font awesome, bootstrap and google), visit theIcon Reference.
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+IconsTutorial
+Font Awesome 5
+Font Awesome 4
+Bootstrap
+Google
+Icons Reference
+Show icons from:
+Font Awesome 5
+Font Awesome 4
+Bootstrap
+Google
+Font Awesome 5:
+Font Awesome 4:
+Bootstrap:
+Google:
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+
+HTML Graphics
+SVG Tutorial
+Canvas Tutorial
+Canvas Clock
+Plotting
+Google Maps
+HTML Game
+SVGTutorial
+Learn SVG
+SVG stands for Scalable Vector Graphics.
+SVG defines vector-based graphics in XML format.
+SVG graphics are scalable, and do not lose any quality if they are zoomed or resized.
+SVG is supported by all major browsers.
+Examples in Each Chapter
+With our "Try it Yourself" editor, you can edit the SVG, and click on a button to view the result.
+SVG Example
+What you should already know
+Before you continue, you should have a basic understanding of the following:
+HTML
+Basic XML
+If you want to study these subjects first, find the tutorials on ourHome page.
+What is SVG?
+SVG stands for Scalable Vector Graphics
+SVG is used to define vector-based graphics for the Web
+SVG defines graphics in XML format
+Each element and attribute in SVG files can be animated
+SVG is a W3C recommendation
+SVG integrates with other standards, such as CSS, DOM, XSL and JavaScript
+SVG is a W3C Recommendation
+SVG 1.0 became a W3C Recommendation on 4 September 2001.
+SVG 1.1 became a W3C Recommendation on 14 January 2003.
+SVG 1.1 (Second Edition) became a W3C Recommendation on 16 August 2011.
+SVG Advantages
+Advantages of using SVG over other image formats (like JPEG 
+and GIF) are:
+SVG images can be created and edited with any text editor
+SVG images can be searched, indexed, scripted, and compressed
+SVG images are scalable
+SVG images can be printed with high quality at any resolution
+SVG images are zoomable
+SVG graphics do NOT lose any quality if they are zoomed or resized
+SVG is an open standard
+SVG files are pure XML
+How does it Work?
+SVG has elements and attributes for rectangles, circles, ellipses, lines, 
+polygons, curves, and more.
+SVG also supports filter and blur effects, gradients, rotations, animations, 
+interactivity with JavaScript, and more.
+A simple SVG document consists of the <svg> root element and several basic 
+shape elements that will build a graphic together.
+Creating SVG Images
+SVG images can be created with any text editor, or with a drawing program, likeInkscape.
+For you to learn the concept and basics of SVG, this tutorial will just use 
+plain text to teach you SVG.
+The next page shows how to embed an SVG image directly into an HTML page!
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com

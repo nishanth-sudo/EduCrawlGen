@@ -1,0 +1,87 @@
+Machine Learning
+TensorFlow
+Example 1
+Example 2
+JS Graphics
+History
+Mathematics
+Statistics
+Machine Learning
+Machine Learningis a subfield ofArtificial intelligence
+"Learning machines to imitate human intelligence"
+Machine Learning (ML)
+Traditional programminguses algorithmsto produce results from data:
+Data + Algorithms =Results
+Machine learningcreates algorithmsfrom data and results:
+Data + Results =Algorithms
+Neural Networks (NN)
+Neural Networksis:
+A programming technique
+A method used in machine learning
+A software that learns from mistakes
+Neural Networksare based on how the human brain works:Neurons are sending messages to each other.
+While the neurons are trying to solve a problem (over and over again),
+it is strengthening the connections that lead to success and diminishing the connections that lead to failure.
+Perceptrons
+ThePerceptrondefines the first step into Neural Networks.
+It represents a single neuron with only one input layer, and no hidden layers.
+Learn how to program a perceptron.
+Neural Networks
+Neural Networks areMulti-Layer Perceptrons.
+In its simplest form, a neural network is made up from:
+An input layer (yellow)
+A hidden layer (blue)
+An output layer (red)
+In theNeural Network Model, input data (yellow) are processed against
+a hidden layer (blue) before producing the final output (red).
+The First Layer:The yellow perceptrons are making simple decisions based on the input.
+Each single decision is sent to the perceptrons in the next layer.
+The Second Layer:The blue perceptrons are making decisions by weighing
+the results from the first layer. This layer make more complex decisions
+at a more abstract level than the first layer.
+Deep Neural Networks
+Deep Neural Networksare made up of several hidden layers of neural networks
+that perform complex operations on massive amounts of data.
+Each successive layer uses the preceding layer as input.
+For instance, optical reading uses low layers to identify edges, and higher 
+layers to identify letters.
+In theDeep Neural Network Model, input data (yellow) are processed against
+a hidden layer (blue) and modified against more hidden layers (green) to produce the final output (red).
+The First Layer:The yellow perceptrons are making simple decisions based on the input.
+Each single decision is sent to the perceptrons in the next layer.
+The Second Layer:The blue perceptrons are making decisions by weighing
+the results from the first layer. This layer make more complex decisions
+at a more abstract level than the first layer.
+The Third Layer:Even more complex decisions are made by the green perceptrons.
+Deep Learning (DL)
+Deep Learningis a subset of Machine Learning.
+Deep Learning is responsible for the AI boom of the last years.
+Deep learning is an advanced type of ML that handles complex tasks like image recognition.
+Machine Learning
+Deep Learning
+A subset of AI
+A subset of Machine Learning
+Uses smaller data sets
+Uses larger datasets
+Trained by humans
+Learns on its own
+Creates simple algorithms
+Creates complex algorithms
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_ai_default.asp_0.jpg
+www.w3schools.com_ai_default.asp_1.jpg
+www.w3schools.com_ai_default.asp_2.jpg
+www.w3schools.com_ai_default.asp_3.jpg
+www.w3schools.com_ai_default.asp_4.jpg
+www.w3schools.com_ai_default.asp_5.png
+www.w3schools.com_ai_default.asp_6.png

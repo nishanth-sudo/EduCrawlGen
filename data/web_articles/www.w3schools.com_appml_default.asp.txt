@@ -1,0 +1,84 @@
+AppMLTutorial
+AppML Cases
+AppML Client
+AppML Server
+AppML Cloud
+AppMLReference
+AppMLTutorial
+AppML Brings Data to HTML
+"No Nonsense Web Applications"
+Introduction
+The Web is growing fast, and the amount of data in Cyberspace is growing even faster.
+Every day new information systems are developed, and every day new users are connected,
+and data can be accessed 24/7 from anywhere in the world.
+Faster and better software development methods are desperately needed.
+Along these lines, W3Schools has developed a very flexible technique for retrieving, displaying, and manipulate data,
+without the need for traditional programming.
+Cooperating with Jan Egil Refsnes, W3schools has developed a vocabulary for defining Web applications.
+The vocabulary is called AppML (Application Modeling Language).
+AppML uses the most up-to-date techniques and ideas of modern Web development with focus on:
+Low Cost
+Rapid and Agile Web Develoment
+Optimized for Cloud Computing
+High Speed and Low Bandwidth Consumption
+MVC (Model View Controller) Architecture
+Full Separation of Content from Presentation
+Highly Scalable and Testable
+Easy Configuration and Reconfiguration
+AppML supports the functions you find in other frameworks like
+React, Angular, and Vue, but AppML is much easier to use, and much easier to understand.
+What is AppML?
+AppML stands forApplicationModelingLanguage.
+AppML is not a programming language. It is descriptive language (a language for describing applications).
+It is built around familiar Web application concepts like:
+Forms
+Lists
+Reports
+Filters
+Functions
+Databases
+AppML runs in any HTML page. No installation is required.
+AppML is a tool for bringing data to HTML applications:
+From Objects
+From JSON files
+From Text files
+From XML files
+From databases
+ObjectsJSON FilesText FilesXML FilesPHP/MySQL
+Why AppML?
+HTML is not very suitable for describing web applications.
+AppML is made for web applications:
+AppML extends HTML with dataattributes.
+AppML addscontrollersto HTML, to control the behavior of 
+HTML data.
+AppML is very easy to understand and extraordinarily quick to develop.
+AppML Example
+This example shows how easy AppML can bring data to HTML:
+AppML Example
+AppML is a tool for easy, rapid, and agile web application development.
+Easy and Agile
+On today's market, there are many frameworks (tools or libraries) designed to 
+extend HTML.
+Most of these frameworks manipulate HTML, CSS or JavaScript in a way that 
+makes them difficult to use (especially when used in combination).
+AppML is different. You have 
+full HTML, CSS, and JavaScript freedom.
+AppML makes it easy to create Single Page Applications (SPA) in a very clean 
+and efficient way.
+Even if you have never worked with web development before, you will find AppML 
+very easy to use.
+If you are an experienced web developer, you will soon discover 
+the power of AppML.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_appml_default.asp_0.png
+www.w3schools.com_appml_default.asp_1.png

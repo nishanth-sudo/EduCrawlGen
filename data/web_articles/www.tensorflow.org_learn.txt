@@ -1,0 +1,2154 @@
+
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Learn
+TensorFlow
+Learn
+Introduction to TensorFlow
+TensorFlow makes it easy for beginners and experts to create machine learning models for desktop, mobile, web, and cloud. See the sections below to get started.
+Learn the foundations of TensorFlow with tutorials for beginners and experts to help you create your next machine learning project.
+Use TensorFlow.js to create new machine learning models and deploy existing models with JavaScript.
+Run inference with LiteRT on mobile and embedded devices like Android, iOS, Edge TPU, and Raspberry Pi.
+Deploy a production-ready ML pipeline for training and inference using TFX.
+An end-to-end platform for machine learning
+Prepare and load data for successful ML outcomes
+Data can be the most important factor in the success of your ML endeavors.
+TensorFlow offers multiple data tools to help you consolidate, clean and preprocess data at scale:
+Standard datasetsfor initial training and validation
+Standard datasetsfor initial training and validation
+Highly scalabledata pipelinesfor loading data
+Highly scalabledata pipelinesfor loading data
+Preprocessing layersfor common input transformations
+Preprocessing layersfor common input transformations
+Tools tovalidateandtransformlarge datasets
+Tools tovalidateandtransformlarge datasets
+Additionally,responsible AItools help you uncover and eliminate bias in your data to produce fair, ethical outcomes from your models.
+Build and fine-tune models with the TensorFlow ecosystem
+Explore an entire ecosystem built on theCore frameworkthat streamlines model construction, training, and export. TensorFlow supports distributed training, immediate model iteration and easy debugging withKeras, and much more. Tools likeModel AnalysisandTensorBoardhelp you track development and improvement through your model’s lifecycle.To help you get started, find collections of pre-trained models atTensorFlow Hubfrom Google and the community, or implementations of state-of-the art research models in theModel Garden. These libraries of high level components allow you to take powerful models, and fine-tune them on new data or customize them to perform new tasks.
+Deploy models on-device, in the browser, on-prem, or in the cloud
+TensorFlow provides robust capabilities to deploy your models on any environment - servers, edge devices, browsers, mobile, microcontrollers, CPUs, GPUs, FPGAs.TensorFlow Servingcan run ML models at production scale on the most advanced processors in the world, including Google's custom Tensor Processing Units (TPUs).If you need to analyze data close to its source to reduce latency and improve data privacy, theLiteRTframework lets you run models on mobile devices, edge computing devices, and even microcontrollers, and theTensorFlow.jsframework lets you run machine learning with just a web browser.
+Implement MLOps for production ML
+The TensorFlow platform helps you implement best practices for data automation, model tracking, performance monitoring, and model retraining.Using production-level tools to automate and track model training over the lifetime of a product, service, or business process is critical to success.TFXprovides software frameworks and tooling for full MLOps deployments, detecting issues as your data and models evolve over time.
+Looking to expand your ML knowledge?
+TensorFlow is easier to use with a basic understanding of machine learning principles and core concepts. Learn and apply fundamental machine learning practices to develop your skills.
+Begin with curated curriculums to improve your skills in foundational ML areas.
+Get started with TensorFlow
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Learn
+TensorFlow
+Learn
+Introduction to TensorFlow
+TensorFlow makes it easy for beginners and experts to create machine learning models for desktop, mobile, web, and cloud. See the sections below to get started.
+Learn the foundations of TensorFlow with tutorials for beginners and experts to help you create your next machine learning project.
+Use TensorFlow.js to create new machine learning models and deploy existing models with JavaScript.
+Run inference with LiteRT on mobile and embedded devices like Android, iOS, Edge TPU, and Raspberry Pi.
+Deploy a production-ready ML pipeline for training and inference using TFX.
+An end-to-end platform for machine learning
+Prepare and load data for successful ML outcomes
+Data can be the most important factor in the success of your ML endeavors.
+TensorFlow offers multiple data tools to help you consolidate, clean and preprocess data at scale:
+Standard datasetsfor initial training and validation
+Standard datasetsfor initial training and validation
+Highly scalabledata pipelinesfor loading data
+Highly scalabledata pipelinesfor loading data
+Preprocessing layersfor common input transformations
+Preprocessing layersfor common input transformations
+Tools tovalidateandtransformlarge datasets
+Tools tovalidateandtransformlarge datasets
+Additionally,responsible AItools help you uncover and eliminate bias in your data to produce fair, ethical outcomes from your models.
+Build and fine-tune models with the TensorFlow ecosystem
+Explore an entire ecosystem built on theCore frameworkthat streamlines model construction, training, and export. TensorFlow supports distributed training, immediate model iteration and easy debugging withKeras, and much more. Tools likeModel AnalysisandTensorBoardhelp you track development and improvement through your model’s lifecycle.To help you get started, find collections of pre-trained models atTensorFlow Hubfrom Google and the community, or implementations of state-of-the art research models in theModel Garden. These libraries of high level components allow you to take powerful models, and fine-tune them on new data or customize them to perform new tasks.
+Deploy models on-device, in the browser, on-prem, or in the cloud
+TensorFlow provides robust capabilities to deploy your models on any environment - servers, edge devices, browsers, mobile, microcontrollers, CPUs, GPUs, FPGAs.TensorFlow Servingcan run ML models at production scale on the most advanced processors in the world, including Google's custom Tensor Processing Units (TPUs).If you need to analyze data close to its source to reduce latency and improve data privacy, theLiteRTframework lets you run models on mobile devices, edge computing devices, and even microcontrollers, and theTensorFlow.jsframework lets you run machine learning with just a web browser.
+Implement MLOps for production ML
+The TensorFlow platform helps you implement best practices for data automation, model tracking, performance monitoring, and model retraining.Using production-level tools to automate and track model training over the lifetime of a product, service, or business process is critical to success.TFXprovides software frameworks and tooling for full MLOps deployments, detecting issues as your data and models evolve over time.
+Looking to expand your ML knowledge?
+TensorFlow is easier to use with a basic understanding of machine learning principles and core concepts. Learn and apply fundamental machine learning practices to develop your skills.
+Begin with curated curriculums to improve your skills in foundational ML areas.
+Get started with TensorFlow
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+TensorFlow
+Get started with TensorFlow
+TensorFlow makes it easy to create ML models that can run in any environment.
+Learn how to use the intuitive APIs through interactive code samples.
+importtensorflowastfmnist=tf.keras.datasets.mnist(x_train,y_train),(x_test,y_test)=mnist.load_data()x_train,x_test=x_train/255.0,x_test/255.0model=tf.keras.models.Sequential([tf.keras.layers.Flatten(input_shape=(28,28)),tf.keras.layers.Dense(128,activation='relu'),tf.keras.layers.Dropout(0.2),tf.keras.layers.Dense(10,activation='softmax')])model.compile(optimizer='adam',loss='sparse_categorical_crossentropy',metrics=['accuracy'])model.fit(x_train,y_train,epochs=5)model.evaluate(x_test,y_test)
+Solve real-world problems with ML
+Explore examples of how TensorFlow is used to advance research and build AI-powered applications.
+Explore the latest advancements in running models client-side with speakers from Chrome, MediaPipe, Intel, Hugging Face, Microsoft, LangChain, and more.
+GNNs can process complex relationships between objects, making them a powerful technique for traffic forecasting, medical discovery, and more.
+Learn how Spotify uses the TensorFlow ecosystem to design an extendable offline simulator and train RL Agents to generate playlists.
+What's new in TensorFlow
+Read the latest announcements from the TensorFlow team and community.
+Explore the ecosystem
+Discover production-tested tools to accelerate modeling, deployment, and other workflows.
+LibraryTensorFlow.jsTrain and run models directly in the browser using JavaScript or Node.js.
+Library
+TensorFlow.js
+Train and run models directly in the browser using JavaScript or Node.js.
+LibraryLiteRTDeploy ML on mobile and edge devices such as Android, iOS, Raspberry Pi, and Edge TPU.
+Library
+LiteRT
+Deploy ML on mobile and edge devices such as Android, iOS, Raspberry Pi, and Edge TPU.
+APItf.dataPreprocess data and create input pipelines for ML models.
+API
+tf.data
+Preprocess data and create input pipelines for ML models.
+LibraryTFXCreate production ML pipelines and implement MLOps best practices.
+Library
+TFX
+Create production ML pipelines and implement MLOps best practices.
+APItf.kerasCreate ML models with TensorFlow's high-level API.
+API
+tf.keras
+Create ML models with TensorFlow's high-level API.
+ResourceKaggle ModelsFind pre-trained models ready for fine-tuning and deployment.
+Resource
+Kaggle Models
+Find pre-trained models ready for fine-tuning and deployment.
+ResourceTensorFlow DatasetsBrowse the collection of standard datasets for initial training and validation.
+Resource
+TensorFlow Datasets
+Browse the collection of standard datasets for initial training and validation.
+ToolTensorBoardVisualize and track development of ML models.
+Tool
+TensorBoard
+Visualize and track development of ML models.
+ML models & datasets
+Pretrained models and ready-to-use datasets for image, text, audio, and video use cases.
+Libraries & extensions
+Packages for domain-specific applications and APIs for languages other than Python.
+Developer tools
+Tools to evaluate models, optimize performance, and productionize ML workflows.
+Collaborate, find support, and share your projects by joining interest groups or attending developer events.
+New to machine learning? Begin with TensorFlow's curated curriculums or browse the resource library of books, online courses, and videos.
+Stay connected
+Learn the latest in machine learning and TensorFlow by following our channels or signing up for the newsletter. View past newsletters in thearchive.
+Start building with TensorFlow
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Install
+TensorFlow
+Install
+Install TensorFlow 2
+TensorFlow is tested and supported on the following 64-bit systems:
+Python 3.8–3.11
+Ubuntu 16.04 or later
+Windows 7 or later (withC++ redistributable)
+macOS 10.12.6 (Sierra) or later (no GPU support)
+WSL2 via Windows 10 19044 or higher including GPUs (Experimental)
+# Requires the latest pippip install --upgrade pip# Current stable release for CPU and GPUpip install tensorflow# Or try the preview build (unstable)pip install tf-nightly
+pip install --upgrade pip
+pip install tensorflow
+pip install tf-nightly
+Download a package
+Install TensorFlow with Python'spippackage manager.
+pip
+Official packages available for Ubuntu, Windows, and macOS.
+Run a TensorFlow container
+TheTensorFlow
+  Docker imagesare already configured to run TensorFlow. ADockercontainer runs in a
+  virtual environment and is the easiest way to set up GPU support.
+dockerpulltensorflow/tensorflow:latest# Download latest stable imagedocker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyter server
+dockerpulltensorflow/tensorflow:latest# Download latest stable image
+docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyter server
+Google Colab: An easy way to learn and use TensorFlow
+No install necessary—run theTensorFlow tutorialsdirectly in
+  the browser withColaboratory, a Google research project created to help disseminate
+  machine learning education and research. It's a Jupyter notebook environment that requires
+  no setup to use and runs entirely in the cloud.Read the blog post.
+Build your first ML app
+Web developers
+Mobile developers
+Except as otherwise noted, the content of this page is licensed under theCreative Commons Attribution 4.0 License, and code samples are licensed under theApache 2.0 License. For details, see theGoogle Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2023-03-24 UTC.
+
+English
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+TensorFlow Core
+TensorFlow
+Learn
+TensorFlow Core
+The TensorFlow tutorials are written as Jupyter notebooks and run directly in Google Colab—a hosted notebook environment that requires no setup. At the top of each tutorial, you'll see aRun in Google Colabbutton. Click the button to open the notebook and run the code yourself.
+For beginners
+Beginner quickstart
+model.fit
+Keras basics
+Load data
+tf.data
+For experts
+Advanced quickstart
+Customization
+Distributed training
+Video tutorials
+TensorFlow ML Zero to Hero
+Basic Computer Vision with ML
+Libraries and extensions
+chevron_rightTensorBoardGet started with TensorBoardLogging training metrics in Keras
+TensorBoard
+Get started with TensorBoard
+Logging training metrics in Keras
+chevron_rightTensorFlow HubObject detectionArbitrary style transfer
+TensorFlow Hub
+Object detection
+Arbitrary style transfer
+chevron_rightModel OptimizationMagnitude-based weight pruning with KerasPost-training quantization
+Model Optimization
+Magnitude-based weight pruning with Keras
+Post-training quantization
+chevron_rightTensorFlow FederatedFederated learning for image classificationFederated learning for text generation
+TensorFlow Federated
+Federated learning for image classification
+Federated learning for text generation
+chevron_rightNeural Structured LearningNatural graph regularization for document classificationSynthetic graph regularization for sentiment classification
+Neural Structured Learning
+Natural graph regularization for document classification
+Synthetic graph regularization for sentiment classification
+chevron_rightTensorFlow GraphicsObject pose alignmentMesh segmentation
+TensorFlow Graphics
+Object pose alignment
+Mesh segmentation
+chevron_rightSIG AddonsImage operations in TensorFlow AddonsNormalization layers in TensorFlow Addons.
+SIG Addons
+Image operations in TensorFlow Addons
+Normalization layers in TensorFlow Addons.
+chevron_rightTFXTFX developer tutorialServe a model with TensorFlow Serving
+TFX
+TFX developer tutorial
+Serve a model with TensorFlow Serving
+chevron_rightDatasetsUsing TensorFlow Datasets
+Datasets
+Using TensorFlow Datasets
+chevron_rightProbabilityTensorFlow distributions introductionProbabilistic regression
+Probability
+TensorFlow distributions introduction
+Probabilistic regression
+chevron_rightXLAClassifying CIFAR-10 with XLAUse XLA with tf.function
+XLA
+Classifying CIFAR-10 with XLA
+Use XLA with tf.function
+chevron_rightDecision ForestsTrain a decision forest modelUse text and NN features with decision forests
+Decision Forests
+Train a decision forest model
+Use text and NN features with decision forests
+chevron_rightTensorFlow AgentsTrain a deep-Q network with TF AgentsReinforcement learning environments
+TensorFlow Agents
+Train a deep-Q network with TF Agents
+Reinforcement learning environments
+chevron_rightTensorFlow RankingTF-Ranking Keras user guideTF Ranking for sparse features
+TensorFlow Ranking
+TF-Ranking Keras user guide
+TF Ranking for sparse features
+chevron_rightMagentaGenerating Piano music with TransformerGANSynth
+Magenta
+Generating Piano music with Transformer
+GANSynth
+TensorFlow updates
+Except as otherwise noted, the content of this page is licensed under theCreative Commons Attribution 4.0 License, and code samples are licensed under theApache 2.0 License. For details, see theGoogle Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2023-09-19 UTC.
+
+English
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+TensorFlow Core
+TensorFlow
+Learn
+TensorFlow Core
+Guide
+TensorFlow 2 focuses on simplicity and ease of use, with updates like eager execution, intuitive higher-level APIs, and flexible model building on any platform.
+Many guides are written as Jupyter notebooks and run directly in Google Colab—a hosted notebook environment that requires no setup. Click theRun in Google Colabbutton.
+Essential documentation
+Install TensorFlow
+Migrate to TensorFlow 2
+Keras
+TensorFlow basics
+Data input pipelines
+tf.data
+TensorFlow 2 best practices
+Save a model
+Accelerators
+Performance
+Libraries and extensions
+chevron_rightTensorFlow Decision ForestsA library to train, run and interpret decision forest models (e.g., Random Forests, Gradient Boosted Trees) in TensorFlow.
+TensorFlow Decision Forests
+chevron_rightTensorFlow HubA library for the publication, discovery, and consumption of reusable parts of machine learning models.
+TensorFlow Hub
+chevron_rightServingA TFX serving system for ML models, designed for high-performance in production environments.
+Serving
+chevron_rightTensorFlow FederatedA framework for machine learning and other computations on decentralized data.
+TensorFlow Federated
+chevron_rightNeural Structured LearningA learning paradigm to train neural networks by leveraging structured signals in addition to feature inputs.
+Neural Structured Learning
+chevron_rightTensorFlow GraphicsA library of computer graphics functionalities ranging from cameras, lights, and materials to renderers.
+TensorFlow Graphics
+chevron_rightSIG AddonsExtra functionality for TensorFlow, maintained by SIG Addons.
+SIG Addons
+chevron_rightTensorBoardA suite of visualization tools to understand, debug, and optimize TensorFlow programs.
+TensorBoard
+chevron_rightDatasetsA collection of datasets ready to use with TensorFlow.
+Datasets
+chevron_rightModel OptimizationThe TensorFlow Model Optimization Toolkit is a suite of tools for optimizing ML models for deployment and execution.
+Model Optimization
+chevron_rightProbabilityTensorFlow Probability is a library for probabilistic reasoning and statistical analysis.
+Probability
+chevron_rightMLIRMLIR unifies the infrastructure for high-performance ML models in TensorFlow.
+MLIR
+chevron_rightXLAA domain-specific compiler for linear algebra that accelerates TensorFlow models with potentially no source code changes.
+XLA
+chevron_rightSIG IODataset, streaming, and file system extensions, maintained by SIG IO.
+SIG IO
+Except as otherwise noted, the content of this page is licensed under theCreative Commons Attribution 4.0 License, and code samples are licensed under theApache 2.0 License. For details, see theGoogle Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2023-03-02 UTC.
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Ecosystem
+TensorFlow
+Ecosystem
+Learn ML
+Master your path
+To become an expert in machine learning, you first need a strong foundation infour learning areas: coding, math, ML theory, and how to build your own ML project from start to finish.
+Begin with TensorFlow'scurated curriculumsto improve these four skills, or choose your own learning path by exploring ourresource librarybelow.
+The four areas of machine learning education
+When beginning your educational path, it's important to first understand how to learn ML. We've broken the learning process into four areas of knowledge, with each area providing a foundational piece of the ML puzzle. To help you on your path, we've identified books, videos, and online courses that will uplevel your abilities, and prepare you to use ML for your projects. Start with our guided curriculums designed to increase your knowledge, or choose your own path by exploring our resource library.
+Coding skills:Building ML models involves much more than just knowing ML concepts—it requires coding in order to do the data management, parameter tuning, and parsing results needed to test and optimize your model.
+Coding skills:Building ML models involves much more than just knowing ML concepts—it requires coding in order to do the data management, parameter tuning, and parsing results needed to test and optimize your model.
+Math and stats:ML is a math heavy discipline, so if you plan to modify ML models or build new ones from scratch, familiarity with the underlying math concepts is crucial to the process.
+Math and stats:ML is a math heavy discipline, so if you plan to modify ML models or build new ones from scratch, familiarity with the underlying math concepts is crucial to the process.
+ML theory:Knowing the basics of ML theory will give you a foundation to build on, and help you troubleshoot when something goes wrong.
+ML theory:Knowing the basics of ML theory will give you a foundation to build on, and help you troubleshoot when something goes wrong.
+Build your own projects:Getting hands on experience with ML is the best way to put your knowledge to the test, so don't be afraid to dive in early with a simplecolabortutorialto get some practice.
+Build your own projects:Getting hands on experience with ML is the best way to put your knowledge to the test, so don't be afraid to dive in early with a simplecolabortutorialto get some practice.
+TensorFlow curriculums
+Start learning with one of our guided curriculums containing recommended courses, books, and videos.
+Learn the basics of ML with this collection of books and online courses. You will be introduced to ML and guided through deep learning using TensorFlow 2.0. Then you will have the opportunity to practice what you learn with beginner tutorials.
+Once you understand the basics of machine learning, take your abilities to the next level by diving into theoretical understanding of neural networks, deep learning, and improving your knowledge of the underlying math concepts.
+Learn the basics of developing machine learning models in JavaScript, and how to deploy directly in the browser. You will get a high-level introduction on deep learning and on how to get started with TensorFlow.js through hands-on exercises.
+Educational resources
+Choose your own learning path, and explore books, courses, videos, and exercises recommended by the TensorFlow team to teach you the foundations of ML.
+Books
+Reading is one of the best ways to understand the foundations of ML and deep learning. Books can give you the theoretical understanding necessary to help you learn new concepts more quickly in the future.
+This introductory book provides a code-first approach to learn how to implement the most common ML scenarios, such as computer vision, natural language processing (NLP), and sequence modeling for web, mobile, cloud, and embedded runtimes.
+This book is a practical, hands-on introduction to Deep Learning with Keras.
+Using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—this book helps you gain an intuitive understanding of the concepts and tools for building intelligent systems.
+This Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general, and deep learning in particular.
+This book provides a theoretical background on neural networks. It does not use TensorFlow, but is a great reference for students interested in learning more.
+A hands-on end-to-end approach to TensorFlow.js fundamentals for a broad technical audience. Once you finish this book, you'll know how to build and deploy production-ready deep learning systems with TensorFlow.js.
+Written by the main authors of the TensorFlow library, this book provides fascinating use cases and in-depth instruction for deep learning apps in JavaScript in your browser or on Node.
+Online courses
+Taking a multi-part online course is a good way to learn the basic concepts of ML. Many courses provide great visual explainers, and the tools needed to start applying machine learning directly at work, or with your personal projects.
+DeepLearning.AI
+Developed in collaboration with the TensorFlow team, this course is part of the TensorFlow Developer Specialization and will teach you best practices for using TensorFlow.
+In this online course developed by the TensorFlow team and Udacity, you'll learn how to build deep learning applications with TensorFlow.
+DeepLearning.AI
+In this four-course Specialization taught by a TensorFlow developer, you'll explore the tools and software developers use to build scalable AI-powered algorithms in TensorFlow.
+Google Developers
+The Machine Learning Crash Course with TensorFlow APIs is a self-study guide for aspiring machine learning practitioners. It features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
+In this course from MIT, you will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow.
+DeepLearning.AI
+In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects and build a career in AI. You will master not only the theory, but also see how it is applied in industry.
+DeepLearning.AI
+You've learned how to build and train models. Now learn to navigate various deployment scenarios and use data more effectively to train your model in this four-course Specialization.
+DeepLearning.AI
+This specialization is for software and ML engineers with a foundational understanding of TensorFlow who are looking to expand their knowledge and skill set by learning advanced TensorFlow features to build powerful models.
+Learn how you can get more eyes on your cutting edge research, or deliver super powers in your web apps in future work for your clients or the company you work for with web-based machine learning.
+Math concepts
+To go deeper with your ML knowledge, these resources can help you understand the underlying math concepts necessary for higher level advancement.
+A bird's-eye view of linear algebra for machine learning. Never taken linear algebra or know a little about the basics, and want to get a feel for how it's used in ML? Then this video is for you.
+Imperial College London
+This online specialization from Coursera aims to bridge the gap of mathematics and machine learning, getting you up to speed in the underlying mathematics to build an intuitive understanding, and relating it to Machine Learning and Data Science.
+3blue1brown centers around presenting math with a visuals-first approach. In this video series, you will learn the basics of a neural network and how it works through math concepts.
+A series of short, visual videos from 3blue1brown that explain the geometric understanding of matrices, determinants, eigen-stuffs and more.
+A series of short, visual videos from 3blue1brown that explain the fundamentals of calculus in a way that give you a strong understanding of the fundamental theorems, and not just how the equations work.
+This introductory course from MIT covers matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
+This introductory calculus course from MIT covers differentiation and integration of functions of one variable, with applications.
+A visual introduction to probability and statistics.
+This book provides an accessible overview of the field of statistical learning, an essential toolset for making sense of the vast and complex world of datasets needed to train models in machine learning.
+TensorFlow resources
+We've gathered our favorite resources to help you get started with TensorFlow libraries and frameworks specific to your needs. Jump to our sections forTensorFlow.js,LiteRT, andTFX.You can also browse the official TensorFlowguideandtutorialsfor the latest examples and colabs.
+Machine Learning Foundations is a free training course where you'll learn the fundamentals of building machine learned models using TensorFlow.
+This ML Tech Talk is designed for those that know the basics of Machine Learning but need an overview on the fundamentals of TensorFlow (tensors, variables, and gradients without using high level APIs).
+This ML Tech Talk includes representation learning, families of neural networks and their applications, a first look inside a deep neural network, and many code examples and concepts from TensorFlow.
+In this series, the TensorFlow Team looks at various parts of TensorFlow from a coding perspective, with videos for use of TensorFlow's high-level APIs, natural language processing, neural structured learning, and more.
+Learn to spot the most common ML use cases including analyzing multimedia, building smart search, transforming data, and how to quickly build them into your app with user-friendly tools.
+For Javascript
+Explore the latest resources atTensorFlow.js.
+Get a practical working knowledge of using ML in the browser with JavaScript. Learn how to write custom models from a blank canvas, retrain models via transfer learning, and convert models from Python.
+A hands-on end-to-end approach to TensorFlow.js fundamentals for a broad technical audience. Once you finish this book, you'll know how to build and deploy production-ready deep learning systems with TensorFlow.js.
+A 3-part series that explores both training and executing machine learned models with TensorFlow.js, and shows you how to create a machine learning model in JavaScript that executes directly in the browser.
+Go from zero to hero with web ML using TensorFlow.js. Learn how to create next generation web apps that can run client side and be used on almost any device.
+Part of a larger series on machine learning and building neural networks, this video playlist focuses on TensorFlow.js, the core API, and how to use the JavaScript library to train and deploy ML models.
+For Mobile & Edge
+Explore the latest resources atGoogle AI Edge.
+Google Developers
+Learn how to build your first on-device ML app through learning pathways that provide step-by-step guides for common use cases including audio classification, visual product search, and more.
+Learn how to deploy deep learning models on mobile and embedded devices with LiteRT in this course, developed by the TensorFlow team and Udacity as a practical approach to model deployment for software developers.
+For Production
+Explore the latest resources atTFX.
+Get a hands-on look at how to put together a production pipeline system with TFX. We'll quickly cover everything from data acquisition, model building, through to deployment and management.
+This book walks you through the steps of automating an ML pipeline using the TensorFlow ecosystem. The machine learning examples in this book are based on TensorFlow and Keras, but the core concepts can be applied to any framework.
+DeepLearning.AI
+Expand your production engineering capabilities in this four-course specialization. Learn how to conceptualize, build, and maintain integrated systems that continuously operate in production.
+This advanced course covers TFX components, pipeline orchestration and automation, and how to manage ML metadata with Google Cloud.
+Human-centered AI
+When designing an ML model, or building AI-driven applications, it's important to consider the people interacting with the product, and the best way to build fairness, interpretability, privacy, and security into these AI systems.
+Learn how to integrate Responsible AI practices into your ML workflow using TensorFlow.
+This guidebook from Google will help you build human-centered AI products. It'll enable you to avoid common mistakes, design excellent experiences, and focus on people as you build AI-driven applications.
+This one-hour module within Google's MLCC introduces learners to different types of human biases that can manifest in training data, as well as strategies for identifying, and evaluating their effects.
+Join TensorFlow's global community
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+日本語
+한국어
+TensorFlow v2.16.1
+TensorFlow
+API
+TensorFlow v2.16.1
+TensorFlow API VersionsStay organized with collectionsSave and categorize content based on your preferences.
+The following versions of the TensorFlow api-docs are currently available.
+Major features, improvements, and changes of each version are available in therelease notes.
+TensorFlow 2
+r2.17-release notes
+r2.16-release notes
+r2.15-release notes
+r2.14-release notes
+r2.13-release notes
+r2.12-release notes
+r2.11-release notes
+r2.10-release notes
+r2.9-release notes
+r2.8-release notes
+r2.7-release notes
+r2.6-release notes
+r2.5-release notes
+r2.4-release notes
+r2.3-release notes
+r2.2-release notes
+r2.1-release notes
+r2.0-release notes
+TensorFlow 1
+r1.15-release notes
+r1.14-release notes
+r1.13-release notes
+r1.12-release notes
+r1.11-release notes
+r1.10-release notes
+r1.9-release notes
+r1.8-release notes
+r1.7-release notes
+r1.6-release notes
+r1.5-release notes
+r1.4-release notes
+r1.3-release notes
+r1.2-release notes
+r1.1-release notes
+r1.0-release notes
+Earlier branches of the documentation can be found onGitHub.
+Except as otherwise noted, the content of this page is licensed under theCreative Commons Attribution 4.0 License, and code samples are licensed under theApache 2.0 License. For details, see theGoogle Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates. Some content is licensed under thenumpy license.
+Last updated 2024-07-24 UTC.
+
+English
+中文 – 简体
+TensorFlow v2.16.1
+TensorFlow
+API
+TensorFlow v2.16.1
+Python
+Module: tfStay organized with collectionsSave and categorize content based on your preferences.
+TensorFlow
+pipinstalltensorflow
+pipinstalltensorflow
+Modules
+audiomodule: Public API for tf._api.v2.audio namespace
+audio
+autodiffmodule: Public API for tf._api.v2.autodiff namespace
+autodiff
+autographmodule: Public API for tf._api.v2.autograph namespace
+autograph
+bitwisemodule: Public API for tf._api.v2.bitwise namespace
+bitwise
+compatmodule: Public API for tf._api.v2.compat namespace
+compat
+configmodule: Public API for tf._api.v2.config namespace
+config
+datamodule: Public API for tf._api.v2.data namespace
+data
+debuggingmodule: Public API for tf._api.v2.debugging namespace
+debugging
+distributemodule: Public API for tf._api.v2.distribute namespace
+distribute
+dtypesmodule: Public API for tf._api.v2.dtypes namespace
+dtypes
+errorsmodule: Public API for tf._api.v2.errors namespace
+errors
+experimentalmodule: Public API for tf._api.v2.experimental namespace
+experimental
+feature_columnmodule: Public API for tf._api.v2.feature_column namespace
+feature_column
+graph_utilmodule: Public API for tf._api.v2.graph_util namespace
+graph_util
+imagemodule: Public API for tf._api.v2.image namespace
+image
+iomodule: Public API for tf._api.v2.io namespace
+io
+kerasmodule: DO NOT EDIT.
+keras
+linalgmodule: Public API for tf._api.v2.linalg namespace
+linalg
+litemodule: Public API for tf._api.v2.lite namespace
+lite
+lookupmodule: Public API for tf._api.v2.lookup namespace
+lookup
+mathmodule: Public API for tf._api.v2.math namespace
+math
+mlirmodule: Public API for tf._api.v2.mlir namespace
+mlir
+nestmodule: Public API for tf._api.v2.nest namespace
+nest
+nnmodule: Public API for tf._api.v2.nn namespace
+nn
+profilermodule: Public API for tf._api.v2.profiler namespace
+profiler
+quantizationmodule: Public API for tf._api.v2.quantization namespace
+quantization
+queuemodule: Public API for tf._api.v2.queue namespace
+queue
+raggedmodule: Public API for tf._api.v2.ragged namespace
+ragged
+randommodule: Public API for tf._api.v2.random namespace
+random
+raw_opsmodule: Public API for tf._api.v2.raw_ops namespace
+raw_ops
+saved_modelmodule: Public API for tf._api.v2.saved_model namespace
+saved_model
+setsmodule: Public API for tf._api.v2.sets namespace
+sets
+signalmodule: Public API for tf._api.v2.signal namespace
+signal
+sparsemodule: Public API for tf._api.v2.sparse namespace
+sparse
+stringsmodule: Public API for tf._api.v2.strings namespace
+strings
+summarymodule: Public API for tf._api.v2.summary namespace
+summary
+sysconfigmodule: Public API for tf._api.v2.sysconfig namespace
+sysconfig
+testmodule: Public API for tf._api.v2.test namespace
+test
+tpumodule: Public API for tf._api.v2.tpu namespace
+tpu
+trainmodule: Public API for tf._api.v2.train namespace
+train
+typesmodule: Public API for tf._api.v2.types namespace
+types
+versionmodule: Public API for tf._api.v2.version namespace
+version
+xlamodule: Public API for tf._api.v2.xla namespace
+xla
+Classes
+class AggregationMethod: A class listing aggregation methods used to combine gradients.
+class AggregationMethod
+class CriticalSection: Critical section.
+class CriticalSection
+class DType: Represents the type of the elements in aTensor.
+class DType
+Tensor
+class DeviceSpec: Represents a (possibly partial) specification for a TensorFlow device.
+class DeviceSpec
+class GradientTape: Record operations for automatic differentiation.
+class GradientTape
+class Graph: A TensorFlow computation, represented as a dataflow graph.
+class Graph
+class IndexedSlices: A sparse representation of a set of tensor slices at given indices.
+class IndexedSlices
+class IndexedSlicesSpec: Type specification for atf.IndexedSlices.
+class IndexedSlicesSpec
+tf.IndexedSlices
+class Module: Base neural network module class.
+class Module
+class Operation: Represents a graph node that performs computation on tensors.
+class Operation
+class OptionalSpec: Type specification fortf.experimental.Optional.
+class OptionalSpec
+tf.experimental.Optional
+class RaggedTensor: Represents a ragged tensor.
+class RaggedTensor
+class RaggedTensorSpec: Type specification for atf.RaggedTensor.
+class RaggedTensorSpec
+tf.RaggedTensor
+class RegisterGradient: A decorator for registering the gradient function for an op type.
+class RegisterGradient
+class SparseTensor: Represents a sparse tensor.
+class SparseTensor
+class SparseTensorSpec: Type specification for atf.sparse.SparseTensor.
+class SparseTensorSpec
+tf.sparse.SparseTensor
+class Tensor: Atf.Tensorrepresents a multidimensional array of elements.
+class Tensor
+tf.Tensor
+class TensorArray: Class wrapping dynamic-sized, per-time-step, Tensor arrays.
+class TensorArray
+class TensorArraySpec: Type specification for atf.TensorArray.
+class TensorArraySpec
+tf.TensorArray
+class TensorShape: Represents the shape of aTensor.
+class TensorShape
+Tensor
+class TensorSpec: Describes the type of a tf.Tensor.
+class TensorSpec
+class TypeSpec: Specifies a TensorFlow value type.
+class TypeSpec
+class UnconnectedGradients: Controls how gradient computation behaves when y does not depend on x.
+class UnconnectedGradients
+class Variable: See thevariable guide.
+class Variable
+class VariableAggregation: Indicates how a distributed variable will be aggregated.
+class VariableAggregation
+class VariableSynchronization: Indicates when a distributed variable will be synced.
+class VariableSynchronization
+class constant_initializer: Initializer that generates tensors with constant values.
+class constant_initializer
+class name_scope: A context manager for use when defining a Python op.
+class name_scope
+class ones_initializer: Initializer that generates tensors initialized to 1.
+class ones_initializer
+class random_normal_initializer: Initializer that generates tensors with a normal distribution.
+class random_normal_initializer
+class random_uniform_initializer: Initializer that generates tensors with a uniform distribution.
+class random_uniform_initializer
+class zeros_initializer: Initializer that generates tensors initialized to 0.
+class zeros_initializer
+Functions
+Assert(...): Asserts that the given condition is true.
+Assert(...)
+abs(...): Computes the absolute value of a tensor.
+abs(...)
+acos(...): Computes acos of x element-wise.
+acos(...)
+acosh(...): Computes inverse hyperbolic cosine of x element-wise.
+acosh(...)
+add(...): Returns x + y element-wise.
+add(...)
+add_n(...): Returns the element-wise sum of a list of tensors.
+add_n(...)
+approx_top_k(...): Returns min/max k values and their indices of the input operand in an approximate manner.
+approx_top_k(...)
+argmax(...): Returns the index with the largest value across axes of a tensor.
+argmax(...)
+argmin(...): Returns the index with the smallest value across axes of a tensor.
+argmin(...)
+argsort(...): Returns the indices of a tensor that give its sorted order along an axis.
+argsort(...)
+as_dtype(...): Converts the giventype_valueto atf.DType.
+as_dtype(...)
+type_value
+tf.DType
+as_string(...): Converts each entry in the given tensor to strings.
+as_string(...)
+asin(...): Computes the trignometric inverse sine of x element-wise.
+asin(...)
+asinh(...): Computes inverse hyperbolic sine of x element-wise.
+asinh(...)
+assert_equal(...): Assert the conditionx == yholds element-wise.
+assert_equal(...)
+x == y
+assert_greater(...): Assert the conditionx > yholds element-wise.
+assert_greater(...)
+x > y
+assert_less(...): Assert the conditionx < yholds element-wise.
+assert_less(...)
+x < y
+assert_rank(...): Assert thatxhas rank equal torank.
+assert_rank(...)
+x
+rank
+atan(...): Computes the trignometric inverse tangent of x element-wise.
+atan(...)
+atan2(...): Computes arctangent ofy/xelement-wise, respecting signs of the arguments.
+atan2(...)
+y/x
+atanh(...): Computes inverse hyperbolic tangent of x element-wise.
+atanh(...)
+batch_to_space(...): BatchToSpace for N-D tensors of type T.
+batch_to_space(...)
+bitcast(...): Bitcasts a tensor from one type to another without copying data.
+bitcast(...)
+boolean_mask(...): Apply boolean mask to tensor.
+boolean_mask(...)
+broadcast_dynamic_shape(...): Computes the shape of a broadcast given symbolic shapes.
+broadcast_dynamic_shape(...)
+broadcast_static_shape(...): Computes the shape of a broadcast given known shapes.
+broadcast_static_shape(...)
+broadcast_to(...): Broadcast an array for a compatible shape.
+broadcast_to(...)
+case(...): Create a case operation.
+case(...)
+cast(...): Casts a tensor to a new type.
+cast(...)
+clip_by_global_norm(...): Clips values of multiple tensors by the ratio of the sum of their norms.
+clip_by_global_norm(...)
+clip_by_norm(...): Clips tensor values to a maximum L2-norm.
+clip_by_norm(...)
+clip_by_value(...): Clips tensor values to a specified min and max.
+clip_by_value(...)
+complex(...): Converts two real numbers to a complex number.
+complex(...)
+concat(...): Concatenates tensors along one dimension.
+concat(...)
+cond(...): Returntrue_fn()if the predicatepredis true elsefalse_fn().
+cond(...)
+true_fn()
+pred
+false_fn()
+constant(...): Creates a constant tensor from a tensor-like object.
+constant(...)
+control_dependencies(...): Wrapper forGraph.control_dependencies()using the default graph.
+control_dependencies(...)
+Graph.control_dependencies()
+conv(...): Computes a N-D convolution given (N+1+batch_dims)-Dinputand (N+2)-Dfiltertensors.
+conv(...)
+input
+filter
+conv2d_backprop_filter_v2(...): Computes the gradients of convolution with respect to the filter.
+conv2d_backprop_filter_v2(...)
+conv2d_backprop_input_v2(...): Computes the gradients of convolution with respect to the input.
+conv2d_backprop_input_v2(...)
+convert_to_tensor(...): Converts the givenvalueto aTensor.
+convert_to_tensor(...)
+value
+Tensor
+cos(...): Computes cos of x element-wise.
+cos(...)
+cosh(...): Computes hyperbolic cosine of x element-wise.
+cosh(...)
+cumsum(...): Compute the cumulative sum of the tensorxalongaxis.
+cumsum(...)
+x
+axis
+custom_gradient(...): Decorator to define a function with a custom gradient.
+custom_gradient(...)
+device(...): Specifies the device for ops created/executed in this context.
+device(...)
+divide(...): Computes Python style division ofxbyy.
+divide(...)
+x
+y
+dynamic_partition(...): Partitionsdataintonum_partitionstensors using indices frompartitions.
+dynamic_partition(...)
+data
+num_partitions
+partitions
+dynamic_stitch(...): Interleave the values from thedatatensors into a single tensor.
+dynamic_stitch(...)
+data
+edit_distance(...): Computes the Levenshtein distance between sequences.
+edit_distance(...)
+eig(...): Computes the eigen decomposition of a batch of matrices.
+eig(...)
+eigvals(...): Computes the eigenvalues of one or more matrices.
+eigvals(...)
+einsum(...): Tensor contraction over specified indices and outer product.
+einsum(...)
+ensure_shape(...): Updates the shape of a tensor and checks at runtime that the shape holds.
+ensure_shape(...)
+equal(...): Returns the truth value of (x == y) element-wise.
+equal(...)
+executing_eagerly(...): Checks whether the current thread has eager execution enabled.
+executing_eagerly(...)
+exp(...): Computes exponential of x element-wise.  \(y = e^x\).
+exp(...)
+expand_dims(...): Returns a tensor with a length 1 axis inserted at indexaxis.
+expand_dims(...)
+axis
+extract_volume_patches(...): Extractpatchesfrominputand put them in the"depth"output dimension. 3D extension ofextract_image_patches.
+extract_volume_patches(...)
+patches
+input
+"depth"
+extract_image_patches
+eye(...): Construct an identity matrix, or a batch of matrices.
+eye(...)
+fftnd(...): ND fast Fourier transform.
+fftnd(...)
+fill(...): Creates a tensor filled with a scalar value.
+fill(...)
+fingerprint(...): Generates fingerprint values.
+fingerprint(...)
+floor(...): Returns element-wise largest integer not greater than x.
+floor(...)
+foldl(...): foldl on the list of tensors unpacked fromelemson dimension 0. (deprecated argument values)
+foldl(...)
+elems
+foldr(...): foldr on the list of tensors unpacked fromelemson dimension 0. (deprecated argument values)
+foldr(...)
+elems
+function(...): Compiles a function into a callable TensorFlow graph. (deprecated arguments) (deprecated arguments) (deprecated arguments)
+function(...)
+gather(...): Gather slices from params axisaxisaccording to indices. (deprecated arguments)
+gather(...)
+axis
+gather_nd(...): Gather slices fromparamsinto a Tensor with shape specified byindices.
+gather_nd(...)
+params
+indices
+get_current_name_scope(...): Returns current full name scope specified bytf.name_scope(...)s.
+get_current_name_scope(...)
+tf.name_scope(...)
+get_logger(...): Return TF logger instance.
+get_logger(...)
+get_static_value(...): Returns the constant value of the given tensor, if efficiently calculable.
+get_static_value(...)
+grad_pass_through(...): Creates a grad-pass-through op with the forward behavior provided in f.
+grad_pass_through(...)
+gradients(...): Constructs symbolic derivatives of sum ofysw.r.t. x inxs.
+gradients(...)
+ys
+xs
+greater(...): Returns the truth value of (x > y) element-wise.
+greater(...)
+greater_equal(...): Returns the truth value of (x >= y) element-wise.
+greater_equal(...)
+group(...): Create an op that groups multiple operations.
+group(...)
+guarantee_const(...): Promise to the TF runtime that the input tensor is a constant. (deprecated)
+guarantee_const(...)
+hessians(...): Constructs the Hessian of sum ofyswith respect toxinxs.
+hessians(...)
+ys
+x
+xs
+histogram_fixed_width(...): Return histogram of values.
+histogram_fixed_width(...)
+histogram_fixed_width_bins(...): Bins the given values for use in a histogram.
+histogram_fixed_width_bins(...)
+identity(...): Return a Tensor with the same shape and contents as input.
+identity(...)
+identity_n(...): Returns a list of tensors with the same shapes and contents as the input
+identity_n(...)
+ifftnd(...): ND inverse fast Fourier transform.
+ifftnd(...)
+import_graph_def(...): Imports the graph fromgraph_definto the current defaultGraph. (deprecated arguments)
+import_graph_def(...)
+graph_def
+Graph
+init_scope(...): A context manager that lifts ops out of control-flow scopes and function-building graphs.
+init_scope(...)
+inside_function(...): Indicates whether the caller code is executing inside atf.function.
+inside_function(...)
+tf.function
+irfftnd(...): ND inverse real fast Fourier transform.
+irfftnd(...)
+is_symbolic_tensor(...): Test iftensoris a symbolic Tensor.
+is_symbolic_tensor(...)
+tensor
+is_tensor(...): Checks whetherxis a TF-native type that can be passed to many TF ops.
+is_tensor(...)
+x
+less(...): Returns the truth value of (x < y) element-wise.
+less(...)
+less_equal(...): Returns the truth value of (x <= y) element-wise.
+less_equal(...)
+linspace(...): Generates evenly-spaced values in an interval along a given axis.
+linspace(...)
+load_library(...): Loads a TensorFlow plugin.
+load_library(...)
+load_op_library(...): Loads a TensorFlow plugin, containing custom ops and kernels.
+load_op_library(...)
+logical_and(...): Returns the truth value of x AND y element-wise.
+logical_and(...)
+logical_not(...): Returns the truth value ofNOT xelement-wise.
+logical_not(...)
+NOT x
+logical_or(...): Returns the truth value of x OR y element-wise.
+logical_or(...)
+make_ndarray(...): Create a numpy ndarray from a tensor.
+make_ndarray(...)
+make_tensor_proto(...): Create a TensorProto.
+make_tensor_proto(...)
+map_fn(...): Transformselemsby applyingfnto each element unstacked on axis 0. (deprecated arguments)
+map_fn(...)
+elems
+fn
+matmul(...): Multiplies matrixaby matrixb, producinga*b.
+matmul(...)
+a
+b
+a
+b
+matrix_square_root(...): Computes the matrix square root of one or more square matrices:
+matrix_square_root(...)
+maximum(...): Returns the max of x and y (i.e. x > y ? x : y) element-wise.
+maximum(...)
+meshgrid(...): Broadcasts parameters for evaluation on an N-D grid.
+meshgrid(...)
+minimum(...): Returns the min of x and y (i.e. x < y ? x : y) element-wise.
+minimum(...)
+multiply(...): Returns an element-wise x * y.
+multiply(...)
+negative(...): Computes numerical negative value element-wise.
+negative(...)
+no_gradient(...): Specifies that ops of typeop_typeis not differentiable.
+no_gradient(...)
+op_type
+no_op(...): Does nothing. Only useful as a placeholder for control edges.
+no_op(...)
+nondifferentiable_batch_function(...): Batches the computation done by the decorated function.
+nondifferentiable_batch_function(...)
+norm(...): Computes the norm of vectors, matrices, and tensors.
+norm(...)
+not_equal(...): Returns the truth value of (x != y) element-wise.
+not_equal(...)
+numpy_function(...): Wraps a python function and uses it as a TensorFlow op.
+numpy_function(...)
+one_hot(...): Returns a one-hot tensor.
+one_hot(...)
+ones(...): Creates a tensor with all elements set to one (1).
+ones(...)
+ones_like(...): Creates a tensor of all ones that has the same shape as the input.
+ones_like(...)
+pad(...): Pads a tensor.
+pad(...)
+parallel_stack(...): Stacks a list of rank-Rtensors into one rank-(R+1)tensor in parallel.
+parallel_stack(...)
+R
+(R+1)
+pow(...): Computes the power of one value to another.
+pow(...)
+print(...): Print the specified inputs.
+print(...)
+py_function(...): Wraps a python function into a TensorFlow op that executes it eagerly.
+py_function(...)
+ragged_fill_empty_rows(...)
+ragged_fill_empty_rows(...)
+ragged_fill_empty_rows_grad(...)
+ragged_fill_empty_rows_grad(...)
+random_index_shuffle(...): Outputs the position ofvaluein a permutation of [0, ..., max_index].
+random_index_shuffle(...)
+value
+range(...): Creates a sequence of numbers.
+range(...)
+rank(...): Returns the rank of a tensor.
+rank(...)
+realdiv(...): Returns x / y element-wise for real types.
+realdiv(...)
+recompute_grad(...): Defines a function as a recompute-checkpoint for the tape auto-diff.
+recompute_grad(...)
+reduce_all(...): Computestf.math.logical_andof elements across dimensions of a tensor.
+reduce_all(...)
+tf.math.logical_and
+reduce_any(...): Computestf.math.logical_orof elements across dimensions of a tensor.
+reduce_any(...)
+tf.math.logical_or
+reduce_logsumexp(...): Computes log(sum(exp(elements across dimensions of a tensor))).
+reduce_logsumexp(...)
+reduce_max(...): Computestf.math.maximumof elements across dimensions of a tensor.
+reduce_max(...)
+tf.math.maximum
+reduce_mean(...): Computes the mean of elements across dimensions of a tensor.
+reduce_mean(...)
+reduce_min(...): Computes thetf.math.minimumof elements across dimensions of a tensor.
+reduce_min(...)
+tf.math.minimum
+reduce_prod(...): Computestf.math.multiplyof elements across dimensions of a tensor.
+reduce_prod(...)
+tf.math.multiply
+reduce_sum(...): Computes the sum of elements across dimensions of a tensor.
+reduce_sum(...)
+register_tensor_conversion_function(...): Registers a function for converting objects ofbase_typetoTensor.
+register_tensor_conversion_function(...)
+base_type
+Tensor
+repeat(...): Repeat elements ofinput.
+repeat(...)
+input
+required_space_to_batch_paddings(...): Calculate padding required to make block_shape divide input_shape.
+required_space_to_batch_paddings(...)
+reshape(...): Reshapes a tensor.
+reshape(...)
+reverse(...): Reverses specific dimensions of a tensor.
+reverse(...)
+reverse_sequence(...): Reverses variable length slices.
+reverse_sequence(...)
+rfftnd(...): ND fast real Fourier transform.
+rfftnd(...)
+roll(...): Rolls the elements of a tensor along an axis.
+roll(...)
+round(...): Rounds the values of a tensor to the nearest integer, element-wise.
+round(...)
+saturate_cast(...): Performs a safe saturating cast ofvaluetodtype.
+saturate_cast(...)
+value
+dtype
+scalar_mul(...): Multiplies a scalar times aTensororIndexedSlicesobject.
+scalar_mul(...)
+Tensor
+IndexedSlices
+scan(...): scan on the list of tensors unpacked fromelemson dimension 0. (deprecated argument values)
+scan(...)
+elems
+scatter_nd(...): Scattersupdatesinto a tensor of shapeshapeaccording toindices.
+scatter_nd(...)
+updates
+shape
+indices
+searchsorted(...): Searches for where a value would go in a sorted sequence.
+searchsorted(...)
+sequence_mask(...): Returns a mask tensor representing the first N positions of each cell.
+sequence_mask(...)
+shape(...): Returns a tensor containing the shape of the input tensor.
+shape(...)
+shape_n(...): Returns shape of a list of tensors.
+shape_n(...)
+sigmoid(...): Computes sigmoid ofxelement-wise.
+sigmoid(...)
+x
+sign(...): Returns an element-wise indication of the sign of a number.
+sign(...)
+sin(...): Computes sine of x element-wise.
+sin(...)
+sinh(...): Computes hyperbolic sine of x element-wise.
+sinh(...)
+size(...): Returns the size of a tensor.
+size(...)
+slice(...): Extracts a slice from a tensor.
+slice(...)
+sort(...): Sorts a tensor.
+sort(...)
+space_to_batch(...): SpaceToBatch for N-D tensors of type T.
+space_to_batch(...)
+space_to_batch_nd(...): SpaceToBatch for N-D tensors of type T.
+space_to_batch_nd(...)
+split(...): Splits a tensorvalueinto a list of sub tensors.
+split(...)
+value
+sqrt(...): Computes element-wise square root of the input tensor.
+sqrt(...)
+square(...): Computes square of x element-wise.
+square(...)
+squeeze(...): Removes dimensions of size 1 from the shape of a tensor.
+squeeze(...)
+stack(...): Stacks a list of rank-Rtensors into one rank-(R+1)tensor.
+stack(...)
+R
+(R+1)
+stop_gradient(...): Stops gradient computation.
+stop_gradient(...)
+strided_slice(...): Extracts a strided slice of a tensor (generalized Python array indexing).
+strided_slice(...)
+subtract(...): Returns x - y element-wise.
+subtract(...)
+switch_case(...): Create a switch/case operation, i.e.
+switch_case(...)
+tan(...): Computes tan of x element-wise.
+tan(...)
+tanh(...): Computes hyperbolic tangent ofxelement-wise.
+tanh(...)
+x
+tensor_scatter_nd_add(...): Adds sparseupdatesto an existing tensor according toindices.
+tensor_scatter_nd_add(...)
+updates
+indices
+tensor_scatter_nd_max(...): Apply a sparse update to a tensor taking the element-wise maximum.
+tensor_scatter_nd_max(...)
+tensor_scatter_nd_min(...)
+tensor_scatter_nd_min(...)
+tensor_scatter_nd_sub(...): Subtracts sparseupdatesfrom an existing tensor according toindices.
+tensor_scatter_nd_sub(...)
+updates
+indices
+tensor_scatter_nd_update(...): Scatterupdatesinto an existing tensor according toindices.
+tensor_scatter_nd_update(...)
+updates
+indices
+tensordot(...): Tensor contraction of a and b along specified axes and outer product.
+tensordot(...)
+tile(...): Constructs a tensor by tiling a given tensor.
+tile(...)
+timestamp(...): Provides the time since epoch in seconds.
+timestamp(...)
+transpose(...): Transposesa, whereais a Tensor.
+transpose(...)
+a
+a
+truediv(...): Divides x / y elementwise (using Python 3 division operator semantics).
+truediv(...)
+truncatediv(...): Returns x / y element-wise, rounded towards zero.
+truncatediv(...)
+truncatemod(...): Returns element-wise remainder of division.
+truncatemod(...)
+tuple(...): Groups tensors together.
+tuple(...)
+type_spec_from_value(...): Returns atf.TypeSpecthat represents the givenvalue.
+type_spec_from_value(...)
+tf.TypeSpec
+value
+unique(...): Finds unique elements in a 1-D tensor.
+unique(...)
+unique_with_counts(...): Finds unique elements in a 1-D tensor.
+unique_with_counts(...)
+unravel_index(...): Converts an array of flat indices into a tuple of coordinate arrays.
+unravel_index(...)
+unstack(...): Unpacks the given dimension of a rank-Rtensor into rank-(R-1)tensors.
+unstack(...)
+R
+(R-1)
+variable_creator_scope(...): Scope which defines a variable creation function to be used by variable().
+variable_creator_scope(...)
+vectorized_map(...): Parallel map on the list of tensors unpacked fromelemson dimension 0.
+vectorized_map(...)
+elems
+where(...): Returns the indices of non-zero elements, or multiplexesxandy.
+where(...)
+x
+y
+while_loop(...): Repeatbodywhile the conditioncondis true. (deprecated argument values)
+while_loop(...)
+body
+cond
+zeros(...): Creates a tensor with all elements set to zero.
+zeros(...)
+zeros_like(...): Creates a tensor with all elements set to zero.
+zeros_like(...)
+Other Members
+Other Members
+version'2.16.1'bfloat16Instance oftf.dtypes.DType
+'2.16.1'
+tf.dtypes.DType
+16-bit bfloat (brain floating point).boolInstance oftf.dtypes.DType
+tf.dtypes.DType
+Boolean.complex128Instance oftf.dtypes.DType
+tf.dtypes.DType
+128-bit complex.complex64Instance oftf.dtypes.DType
+tf.dtypes.DType
+64-bit complex.doubleInstance oftf.dtypes.DType
+tf.dtypes.DType
+64-bit (double precision) floating-point.float16Instance oftf.dtypes.DType
+tf.dtypes.DType
+16-bit (half precision) floating-point.float32Instance oftf.dtypes.DType
+tf.dtypes.DType
+32-bit (single precision) floating-point.float64Instance oftf.dtypes.DType
+tf.dtypes.DType
+64-bit (double precision) floating-point.halfInstance oftf.dtypes.DType
+tf.dtypes.DType
+16-bit (half precision) floating-point.int16Instance oftf.dtypes.DType
+tf.dtypes.DType
+Signed 16-bit integer.int32Instance oftf.dtypes.DType
+tf.dtypes.DType
+Signed 32-bit integer.int64Instance oftf.dtypes.DType
+tf.dtypes.DType
+Signed 64-bit integer.int8Instance oftf.dtypes.DType
+tf.dtypes.DType
+Signed 8-bit integer.newaxisNoneqint16Instance oftf.dtypes.DType
+None
+tf.dtypes.DType
+Signed quantized 16-bit integer.qint32Instance oftf.dtypes.DType
+tf.dtypes.DType
+signed quantized 32-bit integer.qint8Instance oftf.dtypes.DType
+tf.dtypes.DType
+Signed quantized 8-bit integer.quint16Instance oftf.dtypes.DType
+tf.dtypes.DType
+Unsigned quantized 16-bit integer.quint8Instance oftf.dtypes.DType
+tf.dtypes.DType
+Unsigned quantized 8-bit integer.resourceInstance oftf.dtypes.DType
+tf.dtypes.DType
+Handle to a mutable, dynamically allocated resource.stringInstance oftf.dtypes.DType
+tf.dtypes.DType
+Variable-length string, represented as byte array.uint16Instance oftf.dtypes.DType
+tf.dtypes.DType
+Unsigned 16-bit (word) integer.uint32Instance oftf.dtypes.DType
+tf.dtypes.DType
+Unsigned 32-bit (dword) integer.uint64Instance oftf.dtypes.DType
+tf.dtypes.DType
+Unsigned 64-bit (qword) integer.uint8Instance oftf.dtypes.DType
+tf.dtypes.DType
+Unsigned 8-bit (byte) integer.variantInstance oftf.dtypes.DType
+tf.dtypes.DType
+Data of arbitrary type (known at runtime).
+Except as otherwise noted, the content of this page is licensed under theCreative Commons Attribution 4.0 License, and code samples are licensed under theApache 2.0 License. For details, see theGoogle Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates. Some content is licensed under thenumpy license.
+Last updated 2024-04-26 UTC.
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+日本語
+한국어
+TensorFlow v2.16.1
+TensorFlow
+API
+TensorFlow v2.16.1
+TensorFlow API VersionsStay organized with collectionsSave and categorize content based on your preferences.
+The following versions of the TensorFlow api-docs are currently available.
+Major features, improvements, and changes of each version are available in therelease notes.
+TensorFlow 2
+r2.17-release notes
+r2.16-release notes
+r2.15-release notes
+r2.14-release notes
+r2.13-release notes
+r2.12-release notes
+r2.11-release notes
+r2.10-release notes
+r2.9-release notes
+r2.8-release notes
+r2.7-release notes
+r2.6-release notes
+r2.5-release notes
+r2.4-release notes
+r2.3-release notes
+r2.2-release notes
+r2.1-release notes
+r2.0-release notes
+TensorFlow 1
+r1.15-release notes
+r1.14-release notes
+r1.13-release notes
+r1.12-release notes
+r1.11-release notes
+r1.10-release notes
+r1.9-release notes
+r1.8-release notes
+r1.7-release notes
+r1.6-release notes
+r1.5-release notes
+r1.4-release notes
+r1.3-release notes
+r1.2-release notes
+r1.1-release notes
+r1.0-release notes
+Earlier branches of the documentation can be found onGitHub.
+Except as otherwise noted, the content of this page is licensed under theCreative Commons Attribution 4.0 License, and code samples are licensed under theApache 2.0 License. For details, see theGoogle Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates. Some content is licensed under thenumpy license.
+Last updated 2024-07-24 UTC.
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+日本語
+한국어
+For Production
+TensorFlow
+Learn
+For Production
+API
+TFX API ReferenceStay organized with collectionsSave and categorize content based on your preferences.
+TensorFlow Extended
+TensorFlow Extended
+Data Validation
+Data Validation
+Transform
+Transform
+Transform.beam
+Model Analysis
+Model Analysis
+Serving
+Client API (REST)
+Server API (C++)
+ML Metadata
+ML Metadata
+TF Metadata
+ML Metadata
+TFX Basic Shared Libraries (tfx_bsl)
+tfx_bsl
+tfx_bsl
+Except as otherwise noted, the content of this page is licensed under theCreative Commons Attribution 4.0 License, and code samples are licensed under theApache 2.0 License. For details, see theGoogle Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2022-03-03 UTC.
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Ecosystem
+TensorFlow
+Ecosystem
+Models & datasets
+Explore repositories and other resources to find available models, modules and datasets created by the TensorFlow community.
+A comprehensive repository of trained models ready for fine-tuning and deployable anywhere.
+Machine learning models and examples built with TensorFlow's high-level APIs.
+Pre-trained machine learning models ready-to-use in the web browser on the client side, or anywhere that JavaScript can run such as Node.js.
+Datasets
+A collection of datasets ready to use with TensorFlow.
+Explore large-scale datasets released by Google research teams in a wide range of computer science disciplines.
+Explore other datasets available to use with TensorFlow.
+Explore tools to help you with your TensorFlow workload
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+For JavaScript
+TensorFlow
+Learn
+For JavaScript
+TensorFlow.js is a library for machine learning in JavaScript
+Develop ML models in JavaScript, and use ML directly in the browser or in Node.js.
+Tutorials show you how to use TensorFlow.js with complete, end-to-end examples.
+Pre-trained, out-of-the-box models for common use cases.
+Live demos and examples run in your browser using TensorFlow.js.
+How it works
+Use off-the-shelf JavaScript models or convert Python TensorFlow models to run in the browser or under Node.js.
+Retrain pre-existing ML models using your own data.
+Build and train models directly in JavaScript using flexible and intuitive APIs.
+Demos
+Enjoy a real-time piano performance by a neural network.
+Play Pac-Man using images trained in your browser.
+Transport yourself to a tropical beach, outer space, and elsewhere with the power of web ML.
+News & announcements
+Check out ourblogfor additional updates, and subscribe to our TensorFlow newsletter to get the latest announcements sent directly to your inbox.
+Community participation
+See more ways to participate in the TensorFlow community.
+Get started with TensorFlow.js
+
+English
+Deutsch
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português – Brasil
+Shqip
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Home
+Google AI Edge
+LiteRT
+LiteRT overview
+LiteRT (short for Lite Runtime), formerly known as TensorFlow Lite, is Google's
+high-performance runtime for on-device AI. You can find ready-to-run LiteRT
+models for a wide range of ML/AI tasks, or convert and run TensorFlow, PyTorch,
+and JAX models to the TFLite format using the AI Edge conversion and
+optimization tools.
+Key features
+Optimized for on-device machine learning: LiteRT addresses five key ODML
+constraints: latency (there's no round-trip to a server), privacy (no
+personal data leaves the device), connectivity (internet connectivity is not
+required), size (reduced model and binary size) and power consumption
+(efficient inference and a lack of network connections).
+Optimized for on-device machine learning: LiteRT addresses five key ODML
+constraints: latency (there's no round-trip to a server), privacy (no
+personal data leaves the device), connectivity (internet connectivity is not
+required), size (reduced model and binary size) and power consumption
+(efficient inference and a lack of network connections).
+Multi-platform support: Compatible withAndroidandiOSdevices,embedded
+Linux, andmicrocontrollers.
+Multi-platform support: Compatible withAndroidandiOSdevices,embedded
+Linux, andmicrocontrollers.
+Multi-framework model options: AI Edge provides tools to convert models
+from TensorFlow, PyTorch, and JAX models into the FlatBuffers format
+(.tflite), enabling you to use a wide range of state-of-the-art models on
+LiteRT. You also have access to model optimization tools that can handle
+quantization and metadata.
+Multi-framework model options: AI Edge provides tools to convert models
+from TensorFlow, PyTorch, and JAX models into the FlatBuffers format
+(.tflite), enabling you to use a wide range of state-of-the-art models on
+LiteRT. You also have access to model optimization tools that can handle
+quantization and metadata.
+.tflite
+Diverse language support: Includes SDKs for Java/Kotlin, Swift,
+Objective-C, C++, and Python.
+Diverse language support: Includes SDKs for Java/Kotlin, Swift,
+Objective-C, C++, and Python.
+High performance:Hardware accelerationthrough specialized delegates like GPU and iOS Core ML.
+High performance:Hardware accelerationthrough specialized delegates like GPU and iOS Core ML.
+Development workflow
+The LiteRT development workflow involves identifying an ML/AI problem, choosing
+a model that solves that problem, and implementing the model on-device. The
+following steps walk you through the workflow and provides links to further
+instructions.
+1. Identify the most suitable solution to the ML problem
+LiteRT offers users a high level of flexibility and customizability when it
+comes to solving machine learning problems, making it a good fit for users who
+require a specific model or a specialized implementation. Users looking for
+plug-and-play solutions may preferMediaPipe
+Tasks, which provides
+ready-made solutions for common machine learning tasks like object detection,
+text classification, and LLM inference.
+Choose one of the following AI Edge frameworks:
+LiteRT: Flexible and customizable runtime that can run a wide range of
+models. Choose a model for your use case, convert it to the LiteRT format
+(if necessary), and run it on-device. If you intend to use LiteRT, keep
+reading.
+MediaPipe Tasks: Plug-and-play solutions with default models that allow
+for customization. Choose the task that solves your AI/ML problem, and
+implement it on multiple platforms. If you intend to use MediaPipe Tasks,
+refer to theMediaPipe
+Tasksdocumentation.
+2. Choose a model
+A LiteRT model is represented in an efficient portable format known asFlatBuffers, which uses the.tflitefile extension.
+.tflite
+You can use a LiteRT model in the following ways:
+Use an existing LiteRT model:The simplest approach is to use a LiteRT
+model already in the.tfliteformat. These models do not require any added
+conversion steps. You can find LiteRT models onKaggle
+Models.
+Use an existing LiteRT model:The simplest approach is to use a LiteRT
+model already in the.tfliteformat. These models do not require any added
+conversion steps. You can find LiteRT models onKaggle
+Models.
+.tflite
+Convert a model into a LiteRT model:You can use theTensorFlow
+Converter,PyTorch
+Converter, orJAX
+converterto convert models to the FlatBuffers format
+(.tflite) and run them in LiteRT. To get started, you can find models on
+the following sites:TensorFlow modelsonKaggle
+ModelsandHugging FacePyTorch modelsonHugging
+FaceandtorchvisionJAX modelsonHugging Face
+Convert a model into a LiteRT model:You can use theTensorFlow
+Converter,PyTorch
+Converter, orJAX
+converterto convert models to the FlatBuffers format
+(.tflite) and run them in LiteRT. To get started, you can find models on
+the following sites:
+.tflite
+TensorFlow modelsonKaggle
+ModelsandHugging Face
+PyTorch modelsonHugging
+Faceandtorchvision
+torchvision
+JAX modelsonHugging Face
+A LiteRT model can optionally includemetadatathat contains human-readable
+model descriptions and machine-readable data for automatic generation of pre-
+and post-processing pipelines during on-device inference. Refer toAdd
+metadatafor more details.
+3. Integrate the model into your app
+You can implement your LiteRT models to run inferences completely on-device on
+web, embedded, and mobile devices. LiteRT contains APIs forPython,Java and
+Kotlinfor Android,Swiftfor
+iOS, andC++for micro-devices.
+Use the following guides to implement a LiteRT model on your preferred platform:
+Run on Android: Run models on Android devices using the
+Java/Kotlin APIs.
+Run on iOS: Run models on iOS devices using the Swift
+APIs.
+Run on Micro: Run models on embedded devices
+using the C++ APIs.
+On Android and iOS devices, you can improve performance using hardware
+acceleration. On either platform you can use aGPU
+Delegate, and on iOS you can use theCore ML
+Delegate. To add support for new hardware accelerators, you candefine your own delegate.
+You can run inference in the following ways based on the model type:
+Models without metadata: Use theLiteRT InterpreterAPI.
+Supported on multiple platforms and languages such as Java, Swift, C++,
+Objective-C and Python.
+Models without metadata: Use theLiteRT InterpreterAPI.
+Supported on multiple platforms and languages such as Java, Swift, C++,
+Objective-C and Python.
+Models with metadata: You can build custom inference pipelines with theLiteRT Support Library.
+Models with metadata: You can build custom inference pipelines with theLiteRT Support Library.
+Migrate from TF Lite
+Applications that use TF Lite libraries will continue to function, but all new
+active development and updates will only be included in LiteRT packages. The
+LiteRT APIs contain the same method names as the TF Lite APIs, so migrating to
+LiteRT does not require detailed code changes.
+For more information, refer to themigration guide.
+Next steps
+New users should get started with theLiteRT quickstart. For
+specific information, see the following sections:
+Model conversion
+Convert TensorFlow models
+Convert PyTorch models
+Convert PyTorch Generative AI models
+Convert JAX models
+Platform guides
+Run on Android
+Run on iOS
+Run on Micro
+Except as otherwise noted, the content of this page is licensed under theCreative Commons Attribution 4.0 License, and code samples are licensed under theApache 2.0 License. For details, see theGoogle Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2025-03-04 UTC.
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+For Production
+TensorFlow
+Learn
+For Production
+TFX is an end-to-end platform for deploying production ML pipelines
+When you're ready to move your models from research to production, use TFX to create and manage a production pipeline.
+Get started by exploring each built-in component of TFX.
+Learn how to use TFX with end-to-end examples.
+Guides explain the concepts and components of TFX.
+Additional TFX components contributed by the community.
+How it works
+A TFX pipeline is a sequence of components that implement an ML pipeline which is specifically designed for scalable, high-performance machine learning tasks. Components are built using TFX libraries which can also be used individually.
+How companies are using TFX
+Solutions to common problems
+Explore step-by-step tutorials to help you with your projects.
+This guide trains a neural network model to classify images of clothing, like sneakers and shirts, saves the trained model, and then serves it with TensorFlow Serving. The focus is on TensorFlow Serving, rather than the modeling and training in TensorFlow.
+An introduction to TFX and Cloud AI Platform Pipelines to create your own machine learning pipelines on Google Cloud. Follow a typical ML development process, starting by examining the dataset, and ending up with a complete working pipeline.
+Learn how TFX can create and evaluate machine learning models that will be deployed on-device. TFX now provides native support for TFLite, which makes it possible to perform highly efficient inference on mobile devices.
+News & announcements
+Check out ourblogandYouTube playlistfor additional TFX content,and subscribe to our TensorFlow newsletter to get thelatest announcements sent directly to your inbox.
+Community participation
+See more ways to participate in the TensorFlow community.
+Get started with TFX
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Ecosystem
+TensorFlow
+Ecosystem
+Libraries & extensions
+Libraries & extensions
+Explore libraries to build advanced models or methods using TensorFlow, and access domain-specific application packages that extend TensorFlow.
+TensorFlow AddonsExtra functionality for TensorFlow, maintained by SIG Addons.View docsView GitHub1.7k610
+1.7k
+610
+TensorFlow AgentsA library for designing, testing, and implementing reinforcement learning algorithms.View docsView GitHub2.6k706
+2.6k
+706
+TensorFlow CompressionA library to build ML models with end-to-end optimized data compression built in.View docsView GitHub783245
+783
+245
+TensorFlow Data ValidationA library to analyze training and serving data to compute descriptive statistics, infer schemas, and detect anomalies.View docsView GitHub735158
+735
+158
+TensorFlow Decision ForestsState-of-the-art algorithms for training, serving and interpreting models that use decision forests for classification, regression and ranking.View docsView GitHub629101
+629
+101
+DopamineA research framework for fast prototyping of reinforcement learning algorithms.View GitHub10.2k1.4k
+10.2k
+1.4k
+Fairness IndicatorsA library that enables easy computation of commonly-identified fairness metrics for binary and multiclass classifiers.View docsView GitHub32478
+324
+78
+TensorFlow FederatedAn open source framework for machine learning and other computations on decentralized data.View docsView GitHub2.2k570
+2.2k
+570
+TensorFlow GNNA library to build neural networks on graph data (nodes and edges with arbitrary features), including tools for preparing input data and training models.View GitHub1.1k149
+1.1k
+149
+TensorFlow GraphicsA library of computer graphics functionalities ranging from cameras, lights, and materials to renderers.View docsView GitHub2.7k367
+2.7k
+367
+TensorFlow HubA library for reusable machine learning. Download and reuse the latest trained models with a minimal amount of code.View docsView GitHub3.4k1.7k
+3.4k
+1.7k
+TensorFlow IODataset, streaming, and file system extensions, maintained by SIG IO.View docsView GitHub669282
+669
+282
+TensorFlow JVMLanguage bindings for Java and other JVM languages, such as Scala or Kotlin.View docsView GitHub783245
+783
+245
+KerasCVA library of modular components for common computer vision tasks such as data augmentation, classification, object detection, segmentation, and more.View GitHub852276
+852
+276
+KerasNLPAn easily customizable natural language processing library providing modular components and state-of-the-art preset weights and architectures.View GitHub587173
+587
+173
+TensorFlow LatticeA library for flexible, controlled and interpretable ML solutions with common-sense shape constraints.View docsView GitHub515102
+515
+102
+TensorFlow Lite MicroA library to run ML models on digital signal processors (DSPs), microcontrollers, and other devices with limited memory.View docsView GitHub1.4k679
+1.4k
+679
+TensorFlow Lite Model MakerA library that simplifies model training for on-device natural language processing, vision, and audio applications.View docsView GitHub
+TensorFlow Lite SupportA toolkit to customize model interface on Android, create metadata, and build inference pipelines for mobile deployment.View docsView GitHub336119
+336
+119
+TensorFlow MetadataUtilities for passing TensorFlow-related metadata between tools.View GitHub10051
+100
+51
+ML MetadataA library for recording and retrieving MLOps metadata associated with machine learning workflows.View docsView GitHub566127
+566
+127
+TensorFlow Model AnalysisA library for deep analysis of model results beyond simple training metrics, to measure edge and corner cases and bias.View docsView GitHub1.2k267
+1.2k
+267
+Model Card ToolkitA collection of tools to generate documents that provide context and transparency into a model's development and performance.View docsView GitHub39182
+391
+82
+Model Optimization ToolkitA suite of tools for optimizing ML models for deployment and execution.View docsView GitHub1.4k321
+1.4k
+321
+TensorFlow Model RemediationA library to help create and train models in a way that reduces or eliminates user harm resulting from underlying performance biases.View docsView GitHub4219
+42
+19
+NdArrayUtilities for manipulating data in a n-dimensional space in Java, maintained by SIG JVM.View GitHub6015
+60
+15
+Neural Structured LearningA learning framework to train neural networks by leveraging structured signals in addition to feature inputs.View docsView GitHub971195
+971
+195
+TensorFlow PrivacyA Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.View docsView GitHub1.8k439
+1.8k
+439
+TensorFlow ProbabilityA library for probabilistic reasoning and statistical analysis.View docsView GitHub4k1.1k
+4k
+1.1k
+TensorFlow QuantumA quantum machine learning library for rapid prototyping of hybrid quantum-classical ML models.View docsView GitHub1.7k520
+1.7k
+520
+TensorFlow RankingA library for Learning-to-Rank (LTR) techniques on the TensorFlow platform.View docsView GitHub2.7k477
+2.7k
+477
+TensorFlow RecommendersA library for building recommender system models.View docsView GitHub1.7k249
+1.7k
+249
+TensorFlow Recommenders AddonsA collection of community projects introducing Dynamic Embedding Technology to large-scale recommendation systems built upon TensorFlowView GitHub517123
+517
+123
+TensorFlow ServingA flexible, high-performance serving system for machine learning models, designed for production environmentsView docsView GitHub6k2.2k
+6k
+2.2k
+SonnetA library from DeepMind for constructing neural networks.View GitHub9.6k1.4k
+9.6k
+1.4k
+TensorFlow TextA collection of text- and NLP-related classes and ops ready to use with TensorFlow 2.View docsView GitHub1.2k308
+1.2k
+308
+TensorFlow TransformA library for large-scale feature engineering and eliminating training-serving skew.View docsView GitHub970213
+970
+213
+TensorFlow.jsA hardware-accelerated library for training and deploying ML models using JavaScript or Node.js.View docsView GitHub17.8k1.9k
+17.8k
+1.9k
+TFXAn end-to-end platform for deploying production ML pipelines.View docsView GitHub2k688
+2k
+688
+TFX-AddonsA collection of community projects to build new components, examples, libraries, and tools for TFX.View docsView GitHub11959
+119
+59
+Explore TensorFlow official and research focused models and datasets
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Ecosystem
+TensorFlow
+Ecosystem
+Tools
+Tools
+Explore tools to support and accelerate TensorFlow workflows.
+Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud, allowing you to execute TensorFlow code in your browser with a single click.
+A visual coding web framework to prototype ML workflows using I/O devices, models, data augmentation, and even Colab code as reusable building blocks.
+A suite of visualization tools to understand, debug, and optimize TensorFlow programs.
+A tool for code-free probing of machine learning models, useful for model understanding, debugging, and fairness. Available in TensorBoard and jupyter or colab notebooks.
+A broad ML benchmark suite for measuring performance of ML software frameworks, ML hardware accelerators, and ML cloud platforms.
+XLA (Accelerated Linear Algebra) is a domain-specific compiler for linear algebra that optimizes TensorFlow computations. The results are improvements in speed, memory usage, and portability on server and mobile platforms.
+Tinker with a neural network in your browser. Don't worry, you can't break it.
+The TPU Research Cloud (TRC) program enables researchers to apply for access to a cluster of more than 1,000 Cloud TPUs at no charge to help them accelerate the next wave of research breakthroughs.
+A new intermediate representation and compiler framework.
+Explore libraries that build advanced models, methods, and extensions using TensorFlow
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Responsible AI
+TensorFlow
+Resources
+Responsible AI
+Learn how to integrate Responsible AI practices into your ML workflow using TensorFlow
+TensorFlow is committed to helping make progress in the responsible development of AI by sharing a collection of resources and tools with the ML community.
+What is Responsible AI?
+The development of AI is creating new opportunities to solve challenging, real-world problems. It is also raising new questions about the best way to build AI systems that benefit everyone.
+Designing AI systems should follow software development best practices while taking a human-centeredapproach to ML
+As the impact of AI increases across sectors and societies, it is critical to work towards systems that are fair and inclusive to everyone
+Understanding and trusting AI systems is important to ensuring they are working as intended
+Training models off of sensitive data needs privacy preserving safeguards
+Identifying potential threats can help keep AI systems safe and secure
+Responsible AI in your ML workflow
+Responsible AI practices can be incorporated at every step of the ML workflow. Here are some key questions to consider at each stage.
+Who is my ML system for?
+The way actual users experience your system is essential to assessing
+the true impact of its predictions, recommendations, and decisions. Make
+sure to get input from a diverse set of users early on in your
+development process.
+Am I using a representative dataset?
+Is your data sampled in a way that represents your users (e.g. will be
+used for all ages, but you only have training data from senior citizens)
+and the real-world setting (e.g. will be used year-round, but you only
+have training data from the summer)?
+Is there real-world/human bias in my data?
+Underlying biases in data can contribute to complex feedback loops that
+reinforce existing stereotypes.
+What methods should I use to train my model?
+Use training methods that build fairness, interpretability, privacy, and
+security into the model.
+How is my model performing?
+Evaluate user experience in real-world scenarios across a broad spectrum
+of users, use cases, and contexts of use. Test and iterate in dogfood
+first, followed by continued testing after launch.
+Are there complex feedback loops?
+Even if everything in the overall system design is carefully crafted,
+ML-based models rarely operate with 100% perfection when applied to
+real, live data. When an issue occurs in a live product, consider
+whether it aligns with any existing societal disadvantages, and how it
+will be impacted by both short- and long-term solutions.
+Responsible AI tools for TensorFlow
+The TensorFlow ecosystem has a suite of tools and resources to help tackle some of the questions above.
+Define problem
+Use the following resources to design models with Responsible AI in mind.
+Learn more about the AI development process and key considerations.
+Explore, via interactive visualizations, key questions and concepts in the realm of Responsible AI.
+Construct and prepare data
+Use the following tools to examine data for potential biases.
+Interactively investigate your dataset to improve data quality and mitigate fairness and bias issues.
+Analyze and transform data to detect problems and engineer more effective feature sets.
+Create a transparency report for your dataset.
+A more inclusive skin tone scale, open licensed, to make your data collection and model building needs more robust and inclusive.
+Build and train model
+Use the following tools to train models using privacy-preserving, interpretable techniques, and more.
+Train machine learning models to promote more equitable outcomes.
+Train machine learning models with privacy.
+Train machine learning models using federated learning techniques.
+Optimize inequality-constrained problems.
+Implement flexible, controlled, and interpretable lattice-based models.
+Evaluate model
+Debug, evaluate, and visualize model performance using the following tools.
+Evaluate commonly-identified fairness metrics for binary and multi-class classifiers.
+Evaluate models in a distributed manner and compute over different slices of data.
+Examine, evaluate, and compare machine learning models.
+Visualize and understand NLP models.
+Develop interpretable and inclusive machine learning models.
+Assess the privacy properties of classification models.
+Measure and visualize the machine learning workflow.
+Deploy and monitor
+Use the following tools to track and communicate about model context and details.
+Generate model cards with ease using the Model Card toolkit.
+Record and retrieve metadata associated with ML developer and data scientist workflows.
+Organize the essential facts of machine learning in a structured way.
+Community resources
+Learn what the community is doing and explore ways to get involved.
+Help Google's products become more inclusive and representative of your language, region and culture.
+We asked participants to use TensorFlow 2.2 to build a model or application with Responsible AI principles in mind. Check out the gallery to see the winners and other amazing projects.
+Introducing a framework to think about ML, fairness and privacy.
+Explore Google AI resources to guide your AI/ML journey
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Ecosystem
+TensorFlow
+Ecosystem
+Recommendation systems
+Recommendation systems
+From food ordering to video on demand and audio streaming to fashion, recommendation systems
+power some of the most popular applications today. Explore how you can build production-ready
+recommendation systems with open source libraries and tools from the TensorFlow ecosystem.
+Recommendation systems increase user engagement within your app and elevate user experience
+by providing the most desirable content. Modern recommenders are complex systems that are
+often broken down into multiple stages to achieve low latency in production. Through the
+retrieval, ranking, and potentially post-ranking stages, irrelevant items are gradually filtered
+out from a large pool of candidates and a list of options that users are the most likely to interact
+with are finally presented.
+Start building withTensorFlow Recommenders,
+an easy-to-use framework that facilitates the full workflow of building a recommender system from data preparation to deployment.
+When you've finished training your models, deploy them into production to serve recommendations to end users. TensorFlow Serving productionizes your models for high performance inference. It aims to maximize the throughput of machine learning models and can support large recommendation models that require distributed serving.
+#Deploy the retrieval model with TensorFlow Serving
+docker run -t --rm -p 8501:8501 \
+  -v "RETRIEVAL/MODEL/PATH:/models/retrieval" \
+  -e MODEL_NAME=retrieval tensorflow/serving &#Retrieve top movies that user 42 may like
+curl -X POST -H "Content-Type: application/json" \
+  -d '{"instances":["42"]}'  \
+  http://localhost:8501/v1/models/retrieval:predict#Output#{#"predictions":[#{#"output_1": [2.032, 1.969, 1.813],#"output_2": ["movie1”, “movie2”, “movie3”]#}#]#}#Deploy the ranking model with TensorFlow Serving
+docker run -t --rm -p 8501:8501 \
+  -v "RANKING/MODEL/PATH:/models/ranking" \
+  -e MODEL_NAME=ranking tensorflow/serving &#Get the prediction score for user 42 and movie 3
+curl -X POST -H "Content-Type: application/json" \
+  -d '{"instances":[{"user_id":"42", "movie_title":"movie3"}]}' \
+  http://localhost:8501/v1/models/ranking:predict#Output:#{"predictions": [[3.66357923]]}
+Improve the retrieval and ranking stages of recommendation engines
+Large-scale recommendation systems require the most relevant items to be determined from millions of candidates through the retrieval and ranking stages in an effective and efficient manner. Complement TensorFlow Recommenders with state-of-the-art Approximate Nearest Neighbor (ANN) search algorithms and learning-to-rank (LTR) techniques to improve recommendations.
+ScaNN is a library for vector similarity search at scale. It leverages state-of-the-art ANN  techniques, such as asymmetric hashing and anisotropic quantization, to accelerate retrieval of top candidates.
+TensorFlow Ranking is a library for developing scalable, neural LTR models. It provides additional functionalities to rank candidate items to maximize the ranking utilities.
+Optimize large embeddings for model training and inference
+The embedding lookup operation is a critical component for large-scale recommendation systems. Leverage hardware acceleration and dynamic embedding technology to overcome performance bottlenecks common in large embedding tables.
+The TPUEmbedding layer API facilitates training and serving large embedding tables on Tensor Processing Units (TPUs).
+TensorFlow Recommenders Addons is a community-contributed project that leverages dynamic embedding technology that is particularly useful for online learning.
+Preserve user privacy
+Traditional recommendation engines rely on collecting user interaction logs and training recommendation models based on raw user activities. Ensure that user data remains private by incorporatingResponsible AIdevelopment practices.
+TensorFlow Lite provides an on-device recommendation solution that achieves low-latency and high-quality recommendations, while keeping all user data on the mobile devices.
+TensorFlow Federated is a framework for federated learning and other computations on decentralized data. Federated Reconstruction brings matrix factorization to the federated learning setting and better protects user privacy for recommendations.
+Use advanced techniques for more sophisticated recommenders
+While classical collaborative filtering models are widely used in the industry, there is a growing trend to adopt advanced techniques, such as reinforcement learning and Graph Neural Networks (GNNs), to build recommendation systems.
+TensorFlow Agents Bandits is a comprehensive library of bandit algorithms that can explore and exploit effectively in the recommendation engine setting.
+TensorFlow GNN is a library that can efficiently facilitate item recommendations based on network structures and be used in conjunction with retrieval and ranking models.
+Learn how to use large language models (LLMs) like the PaLM API to augment your recommendation systems.
+Reference state-of-the-art recommendation models
+To benchmark performance for a well-known model or build your own recommendation models, check out official TensorFlow implementations of popular models – such as NCF, DLRM, and DCN v2 – for best practices.
+Educational resources
+Learn more about building recommendation systems by following step-by-step courses and videos.
+Real-world recommendation systems
+Explore examples and case studies of recommendation systems powering applications in every industry.
+Learn how YouTube builds their powerful recommendation system in a responsible manner.
+Read about how Digitec Galaxus trains and serves millions of personalized newsletters per week with TFX and TensorFlow Agents.
+Learn how HarperDB uses TensorFlow Recommenders and TensorFlow.js to build a collaborative-filtering-based recommendation system for grocery store items.
+Learn how Spotify leveraged the TensorFlow ecosystem to design an extendable offline simulator and train RL Agents to generate playlist recommendations.
+Start building with TensorFlow
+
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Community
+TensorFlow
+Community
+Community
+Explore ways to get involved below, and stay up-to-date with the latest announcements and events by subscribing to the TensorFlow newsletter.
+Get involved
+Be a part of our global contributor community by writing code, commenting on blogs, or attending meetups.
+Join the community forum to share ideas and best practices, get help with technical questions, and discuss TensorFlow with other developers.
+Explore our developer communities around the world to attend local events and collaborate on topics of interest.
+Contribute to the development of TensorFlow through our RFC process, an open collaboration where experts can provide feedback on proposed designs/features, or request changes.
+We welcome contributions and collaboration on TensorFlow. For more information and to learn best practices, please read our Contributor Guide.
+To report bugs or make feature requests, file an issue on GitHub. Please choose the appropriate repository for the project.
+Stay informed
+Join the TensorFlow announcement mailing list to learn about the latest release updates, security advisories, and other important information from the TensorFlow team.
+Before using TensorFlow, please take a look at our security model, lists of recent security advisories and announcements, and ways you can report security issues to us  on Github.
+The TensorFlow Blog contains regular postings from the TensorFlow team, as well as articles from the community.
+Our YouTube Channel has a great lineup of shows covering all the things you can do with TensorFlow and AI. Subscribe to the channel to be notified about all the latest videos.
+For news and updates, follow @tensorflow on Twitter.
+Sign up for the TensorFlow newsletter
+Explore work by the TensorFlow community from all around the world

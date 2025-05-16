@@ -1,0 +1,143 @@
+W3Schools Academy
+Articles for Teachers
+How TO
+Coding and Computer Science Study Plans
+Introduction:The W3Schools study plans help you teach your students coding and computer science step-by-step.
+Creating a study plan is easy. You can make one in a few clicks.
+You can use a prebuilt study plan or customize it.
+Students have different skill levels. The study plans can be customized to ensure that everyone is challenged.
+Save time with pre-built teacher materials and study plans. Easily organize your class with a timeline from the introduction to the final exam.
+W3Schools Academy offers ready-made study plans that can be used and customized by you as a teacher teaching coding and computer science.
+W3Schools Academy
+The study plan is a feature of W3Schools Academy.
+W3Schools Academy is a platform that has everything you need to teach coding, all in one place.
+It offers you as a teacher a toolbox of features that help you succeed with teaching in your classroom.
+You need to have an active subscription to access the study plan feature. There are two different subscription tiers:
+Essentials ($1.99 / month per student)
+Full Access ($5.99 / month per student)
+Learn More »
+Academy also offers other features such as:
+Managing your classroom
+Tracking of student progress and reports
+Labs, assignments, and code challenges (prebuilt challenges or create your own ones)
+Auto-grading
+Teaching materials
+Certification exams
+Get a free demo »
+Teacher Materials
+W3Schools has everything you need to teach Coding and Computer Science.
+The training materials are available for you to include and use in your study plan:
+W3Schools Tutorials (Syllabus)
+Exercises
+Quiz
+Challenges (Coding challenges)
+Certification Exam (End of Pathway Exam)
+Example of Teacher Materials:
+HTML Lessons
+HTML Exercises
+HTML Quizzes
+HTML Certification, End of Pathway Exam
+W3Schools Syllabus
+With the W3Schools Syllabus in different coding languages, your students will start with the basics, like understanding types, variables, and interfaces, and move to more advanced topics, like working with classes, generics, and modules. Each chapter includes examples, try-it-yourself sections, exercises, and quizzes to make learning easy, interactive, and fun.
+Read more about W3Schools Syllabus »
+Study Plan Overview
+The study plan features are made to help teachers and students. They make learning easy, flexible, and fun. These features work for different types of classes, learning styles and student level.
+Learning PathsYou can add ready-made learning paths.The learning paths are, by default, ordered by our recommended order.You can change the order.You can add custom activities with text, links, or multi-media files.Drag and drop or click to make changes to the path.
+You can add ready-made learning paths.
+The learning paths are, by default, ordered by our recommended order.
+You can change the order.
+You can add custom activities with text, links, or multi-media files.
+Drag and drop or click to make changes to the path.
+Interactive ContentTutorialsTry-its (test code snippets)ExercisesQuizChallengesLabs
+Tutorials
+Try-its (test code snippets)
+Exercises
+Quiz
+Challenges
+Labs
+Timeline and PaceYou can set a timeline for your study plan (e.g., 4-week, 8-week, 12-week, 24-week plans).You can decide the learning pace for your class.Different study plans can be assigned to different students in the same class.The flexibility can help to make sure that everyone is challenged.
+You can set a timeline for your study plan (e.g., 4-week, 8-week, 12-week, 24-week plans).
+You can decide the learning pace for your class.
+Different study plans can be assigned to different students in the same class.
+The flexibility can help to make sure that everyone is challenged.
+Track Student ProgressThere are tools to track student progress.The analytic tools include: chapter progress, exercises results, quiz results, exam results, and much more.The challenges can be auto-graded or manually graded. The results are available to you as a teacher.
+There are tools to track student progress.
+The analytic tools include: chapter progress, exercises results, quiz results, exam results, and much more.
+The challenges can be auto-graded or manually graded. The results are available to you as a teacher.
+End of Pathway ExamThe study plan aligns with the Certification Exam.The exam can be taken at the end of the study plan, at your selected date.The exam summarizes the Tutorial.You get reports of the student's results.
+The study plan aligns with the Certification Exam.
+The exam can be taken at the end of the study plan, at your selected date.
+The exam summarizes the Tutorial.
+You get reports of the student's results.
+AccessibilityStudy plans and learning materials are accessible on desktops, tablets, and smartphones.This ensures students can learn anytime, anywhere.
+Study plans and learning materials are accessible on desktops, tablets, and smartphones.
+This ensures students can learn anytime, anywhere.
+Learn More »
+Sample Study Plan
+You choose the timeline and paceof your study plans.
+Schools have different preferences.
+Some would like a more intensive pace, e.g. 3 weeks, others 12 or more weeks.
+It is completely up to you.
+For example, this is how a 4-week HTML study plan could look like:
+Week 1: Introduction and Basics, Formatting and Style, Colors, Links
+Week 2: Images, Tables, Lists
+Week 3: More HTML Elements, Logic, Forms
+Week 4: Graphics, Media, APIs, HTML Certification Exam
+Image of Sample HTML study plan:
+Overview of the Study Plans that we offer
+Frontend
+HTML
+CSS
+JavaScript
+React
+Angular
+Vue.js
+TypeScript
+jQuery
+Bootstrap
+Backend
+Python
+SQL
+PHP
+Java
+Node.js
+Django
+MySQL
+PostgreSQL
+MongoDB
+Programming
+C++
+C#
+C
+R
+Kotlin
+Go
+DSA
+Data Science
+NumPy
+Pandas
+SciPy
+Excel
+Other
+XML
+Git
+Cybersecurity
+Are You a Teacher?
+Are you interested in learning how you can useW3Schools Academyto Teach Coding and Computer Science?
+Watch a demo ofW3Schools Academy. You'll see how it works and discover how it can make teaching programming easier and more engaging.
+Watch Demo »
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_academy_study_plan.php_0.png
+www.w3schools.com_academy_study_plan.php_1.png
+www.w3schools.com_academy_study_plan.php_2.png
+www.w3schools.com_academy_study_plan.php_3.png

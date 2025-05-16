@@ -1,0 +1,56 @@
+SQLTutorial
+SQLDatabase
+SQLReferences
+SQLExamples
+SQLTutorial
+Learn SQL
+SQL is a standard language for storing, manipulating and retrieving data 
+in databases.
+Our SQL tutorial will teach you how to use SQL in:
+MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and other database systems.
+Examples in Each Chapter
+With our online SQL editor, you can edit the SQL statements, and click on a button to view the result.
+Example
+Click on the "Try it Yourself" button to see how it works.
+SQL Exercises
+Many chapters in this tutorial end with an exercise where you can check your level of knowledge.
+See all SQL Exercises
+SQL Examples
+Learn by examples! This tutorial supplements all explanations with clarifying examples.
+See All SQL Examples
+SQL Quiz Test
+Test your SQL skills at W3Schools!
+Start SQL Quiz!
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+SQL References
+At W3Schools you will find a complete reference for keywords and functions:
+SQL Keyword Reference
+MYSQL Functions
+SQLServer Functions
+MS Access Functions
+SQL Quick Reference
+SQL Data Types
+Data types and ranges for Microsoft Access, MySQL and SQL Server.
+SQL Data Types
+Kickstart your career
+Get certified by completingthecourse
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_sql_default.asp_0.png
+www.w3schools.com_sql_default.asp_1.png

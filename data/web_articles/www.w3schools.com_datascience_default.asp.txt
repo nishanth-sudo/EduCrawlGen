@@ -1,0 +1,31 @@
+Data Science
+DS Math
+DS Statistics
+DS Advanced
+DS Certificate
+Data ScienceTutorial
+Learn Data Science
+Today, Data rules the world. This has resulted in a huge demand for Data Scientists.
+A Data Scientist helps companies with data-driven decisions, to make their business better.
+Learning by Examples
+With our "Try it Yourself" editor, you can edit Python code and view the result.
+Example
+Click on the "Try it Yourself" button to see how it works.
+The Python Language
+Python is a programming language widely used by Data Scientists.
+Python has in-built mathematical libraries and functions, making it easier to calculate mathematical problems and to perform data analysis.
+In this tutorial, we will use Python to provide practical examples.
+To learn more about Python, please visit ourPython Tutorial.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_datascience_default.asp_0.png
+www.w3schools.com_datascience_default.asp_1.png

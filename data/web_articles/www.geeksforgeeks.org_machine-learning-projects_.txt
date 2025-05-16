@@ -1,0 +1,393 @@
+Data Science IBM Certification
+Data Science
+Data Science Projects
+Data Analysis
+Data Visualization
+Machine Learning
+ML Projects
+Deep Learning
+NLP
+Computer Vision
+Artificial Intelligence
+Explore GfG Courses
+Share Your Experiences
+Machine Learning Tutorial
+Prerequisites for Machine Learning
+Python for Machine Learning
+SQL for Machine Learning
+Getting Started with Machine Learning
+Advantages and Disadvantages of Machine Learning
+Why ML is Important ?
+Real- Life Examples of Machine Learning
+What is the Role of Machine Learning in Data Science
+Top Machine Learning Careers/Jobs
+Difference Between Machine Learning and Artificial Intelligence
+Machine Learning Foundations
+Statistics For Machine Learning
+Maths for Machine Learning
+Top Machine Learning Dataset: Find Open Datasets
+Packages For Machine Learning
+Best R Packages for Machine Learning
+Best Python libraries for Machine Learning
+Data Preprocessing
+Introduction to Data in Machine Learning
+ML | Understanding Data Processing
+ML | Overview of Data Cleaning
+Creating Machine Learning Model
+Machine Learning Models
+Flowchart for basic Machine Learning models
+Creating a simple machine learning model
+Machine Learning Model Evaluation
+Steps to Build a Machine Learning Model
+Machine Learning Deployment
+Machine learning deployment
+Deploy your Machine Learning web app (Streamlit) on Heroku
+Deploy a Machine Learning Model using Streamlit Library
+Deploy Machine Learning Model using Flask
+Python - Create UIs for prototyping Machine Learning model with Gradio
+How to Prepare Data Before Deploying a Machine Learning Model?
+Deploying ML Models as API using FastAPI
+Advance Topics in Machine Learning
+Introduction to Deep Learning
+What is Transfer Learning?
+What is Federated Learning?
+100 Days of Machine Learning - A Complete Guide For Beginners
+7 Major Challenges Faced By Machine Learning Professionals
+Top 50+ Machine Learning Interview Questions and Answers
+100+ Machine Learning Projects with Source Code [2025]
+Machine Learning & Data ScienceCourse
+100+ Machine Learning Projects with Source Code [2025]Last Updated :22 Apr, 2025CommentsImproveSuggest changesLike ArticleLikeReportThis article provides over 100 Machine Learning projects and ideas to provide hands-on experience for both beginners and professionals. Whether you're a student enhancing your resume or a professional advancing your career these projects offer practical insights into the world ofMachine LearningandData Science.Top Machine Learning Project with Source Code [2025]Machine Learning Project for BeginnersOnce you’ve learned thebasics of machine learning, it’s important to try out some practical projects to strengthen your skills. This section includes fun and simple machine learning projects for beginners that you can quickly pick up to build a strong foundation.HealthcareDisease Prediction Using Machine LearningML | Heart Disease Prediction Using Logistic RegressionVideoPrediction of Wine type using Deep LearningVideoParkinson’s Disease Prediction using Machine Learning in PythonML | Kaggle Breast Cancer Wisconsin Diagnosis using Logistic RegressionVideoML | Cancer cell classification using Scikit-learnVideoML | Kaggle Breast Cancer Wisconsin Diagnosis using KNN and Cross-ValidationVideoAutism Prediction using Machine LearningVideo2. Finance and EconomicsCredit Card Fraud DetectionDogecoin Price Prediction with Machine LearningZillow Home Value (Zestimate) Prediction in MLVideoBitcoin Price Prediction using Machine Learning in PythonVideoOnline Payment Fraud Detection using Machine Learning in PythonVideoStock Price Prediction using Machine Learning in PythonVideoStock Price Prediction Project using TensorFlowVideoMicrosoft Stock Price Prediction with Machine LearningPredicting Stock Price Direction using Support Vector MachinesShare Price Forecasting Using Facebook Prophet3. Food and BeverageWine Quality PredictionVideo4. Retail and CommerceSales Forecast Prediction – PythonCustomer Segmentation using Unsupervised Machine Learning in PythonAnalyzing selling price of used cars using PythonBox Office Revenue Prediction Using Linear Regression in MLVideoFlipkart Reviews Sentiment Analysis using PythonLoan Approval Prediction using Machine LearningVideoLoan Eligibility prediction using Machine Learning Models in PythonHouse Price Prediction using Machine Learning in PythonVideoML | Boston Housing Kaggle Challenge with Linear RegressionVideo5. SportsIPL Score Prediction Using Deep LearningVideo6. Health and FitnessCalories Burnt Prediction using Machine LearningVideoMedical Insurance Price Prediction using Machine Learning in PythonVideo7. Transportation and TrafficVehicle Count Prediction From Sensor DataVideoOla Bike Ride Request Forecast using MLVideo8. Environmental ScienceRainfall Prediction using Machine Learning in PythonVideo9. Text and Image ProcessingDetecting Spam Emails Using Tensorflow in PythonVideoSMS Spam Detection using TensorFlow in PythonVideoPython | Classify Handwritten Digits with TensorflowVideoOCR of Handwritten digits | OpenCVRecognizing HandWritten Digits in Scikit LearnVideoIdentifying handwritten digits using Logistic Regression in PyTorchVideoCartooning an Image using OpenCV – PythonVideoCount number of Object using Python-OpenCVVideoCount number of Faces using Python – OpenCVVideoText Detection and Extraction using OpenCV and OCRVideoCIFAR-10 Image Classification in TensorFlowVideoBlack and white image colorization with OpenCV and Deep LearningVideoHandwritten Digit Recognition using Neural NetworkVideo10. Social Media and Sentiment AnalysisTwitter Sentiment Analysis using PythonVideoFacebook Sentiment Analysis using pythonVideo11. Other Important Machine Learning ProjectsHuman Scream Detection and Analysis for Controlling Crime RateVideoSpaceship Titanic Project using Machine Learning in PythonVideoInventory Demand Forecasting using Machine Learning in PythonVideoWaiter’s Tip Prediction using Machine LearningFake News Detection using Machine LearningVideoFake News Detection Model using TensorFlow in PythonVideoPredict Fuel Efficiency Using Tensorflow in PythonVideoAdvanced Machine Learning Projects With Source CodeHere we have discussed a variety of complex machine-learning projects that will challenge both your practical engineering skills and your theoretical knowledge of machine learning.1. Image and Video ProcessingMulticlass image classification using Transfer learningImage Caption Generator using Deep Learning on Flickr8K datasetFaceMask Detection using TensorFlow in PythonVideoDog Breed Classification using Transfer LearningFlower Recognition Using Convolutional Neural NetworkVideoCat & Dog Classification using Convolutional Neural Network in PythonTraffic Signs Recognition using CNN and Keras in PythonResidual Networks (ResNet) – Deep LearningVideoLung Cancer Detection using Convolutional Neural Network (CNN)VideoLung Cancer Detection Using Transfer LearningBlack and white image colorization with OpenCV and Deep LearningVideoPneumonia Detection using Deep LearningVideoDetecting Covid-19 with Chest X-rayVideoDetecting COVID-19 From Chest X-Ray Images using CNNVideoImage Segmentation Using TensorFlow2. Recommendation SystemsTed Talks Recommendation System with Machine LearningPython | Implementation of Movie Recommender SystemMovie recommendation based on emotion in PythonVideoMusic Recommendation System Using Machine LearningVideo3. Speech and Language ProcessingSpeech Recognition in Python using Google Speech APIVoice Assistant using pythonNext Sentence Prediction using BERTHate Speech Detection using Deep LearningFine-tuning the BERT model for Sentiment AnalysisSentiment Classification Using BERTSentiment Analysis with Recurrent Neural Networks (RNN)Autocorrect Feature Using NLP In PythonPython | NLP analysis of Restaurant reviewsRestaurant Review Analysis Using NLP and SQLite4. Health and Medical ApplicationsSkin Cancer Detection using TensorFlowHeart Disease Prediction using ANNVideo5. Security and SurveillanceIntrusion Detection System Using Machine Learning AlgorithmsLicense Plate Recognition with OpenCV and Tesseract OCRDetect and Recognize Car License Plate from a video in real-time6. Other Advanced Machine Learning ProjectsAge Detection using Deep Learning in OpenCVFace and Hand Landmarks Detection using PythonHuman Activity Recognition – Using Deep Learning ModelHow can Tensorflow be used with the abalone dataset to build a sequential model?kumar_satyamImproveArticle Tags :Machine LearningAI-ML-DSMachine Learning ProjectsTutorialsData Science ProejctsPractice Tags :Machine Learning
+100+ Machine Learning Projects with Source Code [2025]
+This article provides over 100 Machine Learning projects and ideas to provide hands-on experience for both beginners and professionals. Whether you're a student enhancing your resume or a professional advancing your career these projects offer practical insights into the world ofMachine LearningandData Science.
+Machine Learning Project for Beginners
+Once you’ve learned thebasics of machine learning, it’s important to try out some practical projects to strengthen your skills. This section includes fun and simple machine learning projects for beginners that you can quickly pick up to build a strong foundation.
+Healthcare
+Disease Prediction Using Machine Learning
+Disease Prediction Using Machine Learning
+ML | Heart Disease Prediction Using Logistic Regression
+ML | Heart Disease Prediction Using Logistic Regression
+Video
+Video
+Prediction of Wine type using Deep Learning
+Prediction of Wine type using Deep Learning
+Video
+Video
+Parkinson’s Disease Prediction using Machine Learning in Python
+Parkinson’s Disease Prediction using Machine Learning in Python
+ML | Kaggle Breast Cancer Wisconsin Diagnosis using Logistic Regression
+ML | Kaggle Breast Cancer Wisconsin Diagnosis using Logistic Regression
+Video
+Video
+ML | Cancer cell classification using Scikit-learn
+ML | Cancer cell classification using Scikit-learn
+Video
+Video
+ML | Kaggle Breast Cancer Wisconsin Diagnosis using KNN and Cross-Validation
+ML | Kaggle Breast Cancer Wisconsin Diagnosis using KNN and Cross-Validation
+Video
+Video
+Autism Prediction using Machine Learning
+Autism Prediction using Machine Learning
+Video
+Video
+2. Finance and Economics
+Credit Card Fraud Detection
+Credit Card Fraud Detection
+Dogecoin Price Prediction with Machine Learning
+Dogecoin Price Prediction with Machine Learning
+Zillow Home Value (Zestimate) Prediction in ML
+Zillow Home Value (Zestimate) Prediction in ML
+Video
+Video
+Bitcoin Price Prediction using Machine Learning in Python
+Bitcoin Price Prediction using Machine Learning in Python
+Video
+Video
+Online Payment Fraud Detection using Machine Learning in Python
+Online Payment Fraud Detection using Machine Learning in Python
+Video
+Video
+Stock Price Prediction using Machine Learning in Python
+Stock Price Prediction using Machine Learning in Python
+Video
+Video
+Stock Price Prediction Project using TensorFlow
+Stock Price Prediction Project using TensorFlow
+Video
+Video
+Microsoft Stock Price Prediction with Machine Learning
+Microsoft Stock Price Prediction with Machine Learning
+Predicting Stock Price Direction using Support Vector Machines
+Predicting Stock Price Direction using Support Vector Machines
+Share Price Forecasting Using Facebook Prophet
+Share Price Forecasting Using Facebook Prophet
+3. Food and Beverage
+Wine Quality Prediction
+Wine Quality Prediction
+Video
+Video
+4. Retail and Commerce
+Sales Forecast Prediction – Python
+Sales Forecast Prediction – Python
+Customer Segmentation using Unsupervised Machine Learning in Python
+Customer Segmentation using Unsupervised Machine Learning in Python
+Analyzing selling price of used cars using Python
+Analyzing selling price of used cars using Python
+Box Office Revenue Prediction Using Linear Regression in ML
+Box Office Revenue Prediction Using Linear Regression in ML
+Video
+Video
+Flipkart Reviews Sentiment Analysis using Python
+Flipkart Reviews Sentiment Analysis using Python
+Loan Approval Prediction using Machine Learning
+Loan Approval Prediction using Machine Learning
+Video
+Video
+Loan Eligibility prediction using Machine Learning Models in Python
+Loan Eligibility prediction using Machine Learning Models in Python
+House Price Prediction using Machine Learning in Python
+House Price Prediction using Machine Learning in Python
+Video
+Video
+ML | Boston Housing Kaggle Challenge with Linear Regression
+ML | Boston Housing Kaggle Challenge with Linear Regression
+Video
+Video
+5. Sports
+IPL Score Prediction Using Deep Learning
+IPL Score Prediction Using Deep Learning
+Video
+Video
+6. Health and Fitness
+Calories Burnt Prediction using Machine Learning
+Calories Burnt Prediction using Machine Learning
+Video
+Video
+Medical Insurance Price Prediction using Machine Learning in Python
+Medical Insurance Price Prediction using Machine Learning in Python
+Video
+Video
+7. Transportation and Traffic
+Vehicle Count Prediction From Sensor Data
+Vehicle Count Prediction From Sensor Data
+Video
+Video
+Ola Bike Ride Request Forecast using ML
+Ola Bike Ride Request Forecast using ML
+Video
+Video
+8. Environmental Science
+Rainfall Prediction using Machine Learning in Python
+Rainfall Prediction using Machine Learning in Python
+Video
+Video
+9. Text and Image Processing
+Detecting Spam Emails Using Tensorflow in Python
+Detecting Spam Emails Using Tensorflow in Python
+Video
+Video
+SMS Spam Detection using TensorFlow in Python
+SMS Spam Detection using TensorFlow in Python
+Video
+Video
+Python | Classify Handwritten Digits with Tensorflow
+Python | Classify Handwritten Digits with Tensorflow
+Video
+Video
+OCR of Handwritten digits | OpenCV
+OCR of Handwritten digits | OpenCV
+Recognizing HandWritten Digits in Scikit Learn
+Recognizing HandWritten Digits in Scikit Learn
+Video
+Video
+Identifying handwritten digits using Logistic Regression in PyTorch
+Identifying handwritten digits using Logistic Regression in PyTorch
+Video
+Video
+Cartooning an Image using OpenCV – Python
+Cartooning an Image using OpenCV – Python
+Video
+Video
+Count number of Object using Python-OpenCV
+Count number of Object using Python-OpenCV
+Video
+Video
+Count number of Faces using Python – OpenCV
+Count number of Faces using Python – OpenCV
+Video
+Video
+Text Detection and Extraction using OpenCV and OCR
+Text Detection and Extraction using OpenCV and OCR
+Video
+Video
+CIFAR-10 Image Classification in TensorFlow
+CIFAR-10 Image Classification in TensorFlow
+Video
+Video
+Black and white image colorization with OpenCV and Deep Learning
+Black and white image colorization with OpenCV and Deep Learning
+Video
+Video
+Handwritten Digit Recognition using Neural Network
+Handwritten Digit Recognition using Neural Network
+Video
+Video
+10. Social Media and Sentiment Analysis
+Twitter Sentiment Analysis using Python
+Twitter Sentiment Analysis using Python
+Video
+Video
+Facebook Sentiment Analysis using python
+Facebook Sentiment Analysis using python
+Video
+Video
+11. Other Important Machine Learning Projects
+Human Scream Detection and Analysis for Controlling Crime Rate
+Human Scream Detection and Analysis for Controlling Crime Rate
+Video
+Video
+Spaceship Titanic Project using Machine Learning in Python
+Spaceship Titanic Project using Machine Learning in Python
+Video
+Video
+Inventory Demand Forecasting using Machine Learning in Python
+Inventory Demand Forecasting using Machine Learning in Python
+Video
+Video
+Waiter’s Tip Prediction using Machine Learning
+Waiter’s Tip Prediction using Machine Learning
+Fake News Detection using Machine Learning
+Fake News Detection using Machine Learning
+Video
+Video
+Fake News Detection Model using TensorFlow in Python
+Fake News Detection Model using TensorFlow in Python
+Video
+Video
+Predict Fuel Efficiency Using Tensorflow in Python
+Predict Fuel Efficiency Using Tensorflow in Python
+Video
+Video
+Advanced Machine Learning Projects With Source Code
+Here we have discussed a variety of complex machine-learning projects that will challenge both your practical engineering skills and your theoretical knowledge of machine learning.
+1. Image and Video Processing
+Multiclass image classification using Transfer learning
+Multiclass image classification using Transfer learning
+Image Caption Generator using Deep Learning on Flickr8K dataset
+Image Caption Generator using Deep Learning on Flickr8K dataset
+FaceMask Detection using TensorFlow in Python
+FaceMask Detection using TensorFlow in Python
+Video
+Video
+Dog Breed Classification using Transfer Learning
+Dog Breed Classification using Transfer Learning
+Flower Recognition Using Convolutional Neural Network
+Flower Recognition Using Convolutional Neural Network
+Video
+Video
+Cat & Dog Classification using Convolutional Neural Network in Python
+Cat & Dog Classification using Convolutional Neural Network in Python
+Traffic Signs Recognition using CNN and Keras in Python
+Traffic Signs Recognition using CNN and Keras in Python
+Residual Networks (ResNet) – Deep Learning
+Residual Networks (ResNet) – Deep Learning
+Video
+Video
+Lung Cancer Detection using Convolutional Neural Network (CNN)
+Lung Cancer Detection using Convolutional Neural Network (CNN)
+Video
+Video
+Lung Cancer Detection Using Transfer Learning
+Lung Cancer Detection Using Transfer Learning
+Black and white image colorization with OpenCV and Deep Learning
+Black and white image colorization with OpenCV and Deep Learning
+Video
+Video
+Pneumonia Detection using Deep Learning
+Pneumonia Detection using Deep Learning
+Video
+Video
+Detecting Covid-19 with Chest X-ray
+Detecting Covid-19 with Chest X-ray
+Video
+Video
+Detecting COVID-19 From Chest X-Ray Images using CNN
+Detecting COVID-19 From Chest X-Ray Images using CNN
+Video
+Video
+Image Segmentation Using TensorFlow
+Image Segmentation Using TensorFlow
+2. Recommendation Systems
+Ted Talks Recommendation System with Machine Learning
+Ted Talks Recommendation System with Machine Learning
+Python | Implementation of Movie Recommender System
+Python | Implementation of Movie Recommender System
+Movie recommendation based on emotion in Python
+Movie recommendation based on emotion in Python
+Video
+Video
+Music Recommendation System Using Machine Learning
+Music Recommendation System Using Machine Learning
+Video
+Video
+3. Speech and Language Processing
+Speech Recognition in Python using Google Speech API
+Speech Recognition in Python using Google Speech API
+Voice Assistant using python
+Voice Assistant using python
+Next Sentence Prediction using BERT
+Next Sentence Prediction using BERT
+Hate Speech Detection using Deep Learning
+Hate Speech Detection using Deep Learning
+Fine-tuning the BERT model for Sentiment Analysis
+Fine-tuning the BERT model for Sentiment Analysis
+Sentiment Classification Using BERT
+Sentiment Classification Using BERT
+Sentiment Analysis with Recurrent Neural Networks (RNN)
+Sentiment Analysis with Recurrent Neural Networks (RNN)
+Autocorrect Feature Using NLP In Python
+Autocorrect Feature Using NLP In Python
+Python | NLP analysis of Restaurant reviews
+Python | NLP analysis of Restaurant reviews
+Restaurant Review Analysis Using NLP and SQLite
+Restaurant Review Analysis Using NLP and SQLite
+4. Health and Medical Applications
+Skin Cancer Detection using TensorFlow
+Skin Cancer Detection using TensorFlow
+Heart Disease Prediction using ANN
+Heart Disease Prediction using ANN
+Video
+Video
+5. Security and Surveillance
+Intrusion Detection System Using Machine Learning Algorithms
+Intrusion Detection System Using Machine Learning Algorithms
+License Plate Recognition with OpenCV and Tesseract OCR
+License Plate Recognition with OpenCV and Tesseract OCR
+Detect and Recognize Car License Plate from a video in real-time
+Detect and Recognize Car License Plate from a video in real-time
+6. Other Advanced Machine Learning Projects
+Age Detection using Deep Learning in OpenCV
+Age Detection using Deep Learning in OpenCV
+Face and Hand Landmarks Detection using Python
+Face and Hand Landmarks Detection using Python
+Human Activity Recognition – Using Deep Learning Model
+Human Activity Recognition – Using Deep Learning Model
+How can Tensorflow be used with the abalone dataset to build a sequential model?
+How can Tensorflow be used with the abalone dataset to build a sequential model?
+Machine Learning
+AI-ML-DS
+Machine Learning Projects
+Tutorials
+Data Science Proejcts
+Machine Learning
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+www.geeksforgeeks.org_machine-learning-projects__0.png
+www.geeksforgeeks.org_machine-learning-projects__1.webp
+www.geeksforgeeks.org_machine-learning-projects__2.webp
+www.geeksforgeeks.org_machine-learning-projects__3.webp
+www.geeksforgeeks.org_machine-learning-projects__4.png
+www.geeksforgeeks.org_machine-learning-projects__5.png

@@ -1,0 +1,25 @@
+ProgrammingConcepts
+Understanding The Concepts ofProgramming
+Many of the ideas in computer programming are common to most programming languages.
+These ideas, or concepts, are explained one concept at a time, in a way that is easy to understand.
+What Are These Pages About?
+To understand programming, we need to understand the basic underlying concepts.
+The following pages explain the basic programming concepts, using code examples, images, and animations.
+Who Is This For?
+These pages are for anyone who wants a clear explanation of one or more programming concepts.
+Whether you're a total beginner or someone who needs to revisit a programming concept, these pages will help you understand how code works at a fundamental level.
+Looking through the code examples, you can see for yourself that the concepts are the same in all programming languages, they are just written a little differently.
+The next page explains how to get started with programming.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_programming_index.php_0.png
+www.w3schools.com_programming_index.php_1.png

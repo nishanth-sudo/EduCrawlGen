@@ -1,0 +1,28 @@
+PythonTutorial
+File Handling
+Python Modules
+Python Matplotlib
+Machine Learning
+Python MySQL
+Python MongoDB
+Python Reference
+Module Reference
+Python How To
+Python Examples
+PythonReference
+This section contains a Python reference documentation.
+Python Reference
+Module Reference
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_python_python_reference.asp_0.png
+www.w3schools.com_python_python_reference.asp_1.png

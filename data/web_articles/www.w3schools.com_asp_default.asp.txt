@@ -1,0 +1,75 @@
+ASP Tutorials
+WP Tutorial
+ASP.NET Razor
+ASP Classic
+ASP Reference
+ADO Tutorial
+ADO Objects
+ASP and ASP.NET Tutorials
+ASP stands forActiveServerPages
+ASP is a development framework for building web pages.
+ASP supports many different development models:
+Classic ASP
+ASP.NET Web Forms
+ASP.NET MVC
+ASP.NET Web Pages
+ASP.NET API
+ASP.NET Core
+The ASP Technology
+ASP and ASP.NET are server side technologies.
+Both technologies enable computer code to be executed by an Internet server.
+When a browser requests an ASP or ASP.NET file, the ASP engine reads the file, executes 
+any code in the file, and returns the result to the browser.
+Classic ASP - Active Server Pages
+ASP (aka Classic ASP) was introduced in 1998 
+as Microsoft's first server side scripting language.
+Classic ASP pages have the file extension.aspand are normally written in VBScript.
+ASP.NET
+ASP.NET was released in 2002 as a successor to Classic ASP.
+ASP.NET pages have the extension.aspxand are normally written in C# (C sharp).
+ASP.NET 4.6 is the latest official version of ASP.NET.
+ASP.NET 5 was expected to be an important redesign of ASP.NET.
+However, the development of ASP.NET 5 was stopped in favor ofASP.NET Core.
+ASP.NET Web Pages
+ASP.NET Web Pages is an SPA application model (Single Page Application).
+The SPA model is quite similar to PHP and Classic ASP.
+ASP.NET Web Pages is being merged into the new ASP.NET Core.
+ASP.NET MVC
+ASP.NET MVC is an MVC application model (Model-View-Controller).
+ASP.NET MVC is being merged into the new ASP.NET Core.
+ASP.NET MVC is not covered in this tutorial.Track Your ProgressCreate a free W3Schools account and get access to more features and learning materials:View your completed tutorials, exercises, and quizzesKeep an eye on your progress and daily streaksSet goals and create learning pathsCreate your own personal websiteSign Up for FreeNote:This is an optional feature. You can study at W3Schools without creating an account.ASP.NET Web APIASP.NET API is an API application model (Application Programming Interface).ASP.NET API is being merged into the new ASP.NET Core.ASP.NET API is not covered in this tutorial.ASP.NET Web FormsASP.NET Web Forms is an event driven application model.ASP.NET Web Forms isnota part of the new ASP.NET Core.ASP.NET Web Forms isnotcovered in this tutorial.ASP.NET CoreASP.NET Core was released in 2016.ASP.NET Core merges ASP.NET MVC, ASP.NET Web API, and ASP.NET Web Pages into 
+one application framework.ASP.NET Core is not covered in this tutorial.❮ HomeNext ❯★+1Track your progress - it's free!Log inSign Up
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+ASP.NET Web API
+ASP.NET API is an API application model (Application Programming Interface).
+ASP.NET API is being merged into the new ASP.NET Core.
+ASP.NET API is not covered in this tutorial.
+ASP.NET Web Forms
+ASP.NET Web Forms is an event driven application model.
+ASP.NET Web Forms isnota part of the new ASP.NET Core.
+ASP.NET Web Forms isnotcovered in this tutorial.
+ASP.NET Core
+ASP.NET Core was released in 2016.
+ASP.NET Core merges ASP.NET MVC, ASP.NET Web API, and ASP.NET Web Pages into 
+one application framework.
+ASP.NET Core is not covered in this tutorial.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_asp_default.asp_0.png
+www.w3schools.com_asp_default.asp_1.png

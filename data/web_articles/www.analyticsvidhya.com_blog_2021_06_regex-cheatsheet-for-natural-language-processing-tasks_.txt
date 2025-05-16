@@ -1,0 +1,338 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+Regex Cheatsheet For Natural Language Processing tasks
+This article was published as a part of theData Science Blogathon
+Introduction
+Regex is a shorthand for Regular Expression. It is a representation for a set, a set of strings. Say we have a list of emails and we want to check if they are in the correct format or not. One way is to check each and every mail manually but that’s not possible if the number of mails is quite high. So, regex here comes to your rescue. Whenever you want to check emails are valid or not, you can simply match them against the pattern. You’ll get true or false results whether the mail is in the correct format or not according to the regex pattern used.
+What are Regular Expressions use for?
+Some popular and very common use cases are:
+verify the structure of strings
+extract substrings from structured strings
+search / replace/rearrange parts of the string
+split a string into tokens
+These are very normal tasks when working with text data or solving a Natural Language Processing (NLP) problem. So, we will look at some popular uses of regex in NLP problems. You can call it your cheat sheet for NLP tasks. But before moving forward let’s have a look at some major Regular Expression functions.
+re.findall– this module is used to search for “all” occurrences that match a given pattern.
+re.sub– it is used to substitute the matched RE pattern with given text
+re.match– The match function is used to match the RE pattern to string with some optional flags
+re.search– search method takes a regular expression pattern and a string and searches for that pattern with the string.
+Out of all these, we will be usingre.findallto detect patterns.
+So, let’s get started!
+Source: Google Images
+1. URL
+To find a URL in a sentence using the following regex code:
+def find_url(string):
+    text = re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*(),]|
+    (?:%[0-9a-fA-F][0-9a-fA-F]))+',string)
+    #convert return value from list to string    
+    return "".join(text)
+example="I love spending time at https://www.leetcode.com/"
+find_url(example)
+Output:
+'https://www.leetcode.com/'
+2.Emoticons
+To find emoticons in a sentence following code can be used:
+def findEmoji(text):
+    emo_text=emoji.demojize(text)
+    line=re.findall(r':(.*?):',emo_text)
+    return line
+
+example="I love ⚽ very much 😁"
+findEmoji(example)
+Output:
+['soccer_ball', 'beaming_face_with_smiling_eyes']
+3. Email
+Get email id from the sentence by using this code:
+def findEmail(text):
+    line = re.findall(r'[w.-]+@[w.-]+',str(text))
+    return ",".join(line)
+example="Gaurav's gmail is[email protected]" 
+findEmail(example)
+Output:
+'[email protected]'
+4. Hash
+You must be aware of Hash(#), it is used in Twitter to denote trends. So, to extract the hash words like #fifa or #cricket, use this code:
+def findHash(text):     
+    line=re.findall(r'(?<=#)w+',text)     
+    return " ".join(line)
+example="#Sushant is trending now in the world"  
+findHash(example)
+Output:
+'Sushant'
+5.Mentions
+@– This symbol is used to mention someone in tweets. So, to extract words associated with@symbol use this code:
+def findAt(text):     
+    line=re.findall(r'(?<=@)w+',text)     
+    return " ".join(line)
+example="@Ajit, please help me"
+findAt(example)
+Output:
+'Ajit'
+6. Number
+Following regex, code is used to pick only numbers from a sentence.
+def findNumber(text):     
+    line=re.findall(r'[0-9]+',text)     
+    return " ".join(line)
+example="8853147 sq. km of area washed away in floods"
+findNumber(example)
+Output:
+'8853147'
+7. Phone Number
+Indian Mobile numbers have ten digits. So, the below regex is used to find an Indian phone number. You can modify the regex as per your need.
+def findPhoneNumber(text):     
+    line=re.findall(r"bd{10}b",text)     
+    return "".join(line)
+findPhoneNumber("9990001796 is a phone number of PMO office")
+Output:
+'9990001796'
+8. Non-Alphanumeric
+Non-Alphanumeric characters are characters other than alphanumeric. Example: space,percent sign, underscore, pipe, colon, semicolon, etc are non-alphanumeric characters. So, to find these in-text use this regex code.
+def findNonalp(text):     
+    line = re.findall("[^A-Za-z0-9 ]",text)     
+    return line
+example="Twitter has lots of @ and # in posts.(2021 year is not good)" 
+findNonalp(example)
+Output:
+['@', '#', '.', '(', ')']
+9. Year
+Following regex code can be used to extract years from 1940 till 2020.
+def findYear(text):     
+    line=re.findall(r"b(19[40][0-9]|20[0-1][0-9]|2020)b",text)     
+    return line
+example="My DOB year is 1998." 
+findYear(example)
+Output:
+['1998']
+10. Punctuations
+There are 14 punctuation marks that are used in theEnglish language.
+Punctuation mark examples: period, question mark, exclamationthe point, comma, colon, semicolon, dash, hyphen, brackets, braces,parentheses, quotation marks, apostrophes, and ellipsis.
+To find these marks in your text use the below code:
+def find_punct(text):     
+    line = re.findall(r'[!"$%&'()*+,-./:;=#@?[\]^_`{|}~]*', text)     
+    string="".join(line)     
+    return list(string)
+example="Corona virus kiled #24506 people. #Corona is un(tolerable)" 
+print(find_punct(example))
+Output:
+['#', '.', '#', '(', ')']
+11. Repetitive Character
+Removes repetitive characters from words.
+def rep(text):     
+    grp = text.group(0)     
+    if len(grp) > 1:         
+        return grp[0:1] 
+        # change the value here on repetition 
+def unique_char(rep,sentence):     
+    convert = re.sub(r'(w)1+', rep, sentence)      
+    return convert
+example="heyyy this is a verrrry loong texttt" 
+unique_char(rep,example)
+Output:
+'hey this is a very long text'
+12. Number Greater
+Find numbers that are greater than 930. You can modify it as per your use.
+def num_great(text):      
+    line=re.findall(r'9[3-9][0-9]|[1-9]d{3,}',text)     
+    return " ".join(line)
+example="Height of this bridge is 935m. Width of this bridge is 30 metre. It used 9274kg of steel." 
+num_great(example)
+Output:
+'935 9274'
+13. Number Lesser
+Find numbers less than 930 in the input text.
+def num_less(text):     
+    only_num=[]     
+    for i in text.split():         
+        line=re.findall(r'^(9[0-2][0-0]|[1-8][0-9][0-9]|[1-9][0-9]|[0-9])$',i)       
+        only_num.append(line)         
+        all_num=[",".join(x) for x in only_num if x != []]    
+     return " ".join(all_num)
+example="There are some countries where less than 920 cases exist with 1100 observations" 
+num_less(example)
+Output:
+'920'
+14. Dates
+Find the date in thismm-dd-yyyyformat from the input text.
+def findDates(text):     
+    line=re.findall(r'b(1[0-2]|0[1-9])/(3[01]|[12][0-9]|0[1-9])/([0-9]{4})b',text)     
+    return line
+example="Todays date is 06/21/2021 for format mm/dd/yyyy, not 31/09/2020" 
+findDates(example)
+Output:
+[('06', '21', '2021')]
+15. Only Words
+The below code only extracts the words, alphabets, and nothing else from a given piece of text.
+def onlyWords(text):     
+    line=re.findall(r'b[^dW]+b', text)     
+    return " ".join(line)
+example="Harish reduced his weight from 100 Kg to 75 kg." 
+onlyWords(example)
+Output:
+'Harish reduced his weight from Kg to kg.'
+16. Only Numbers
+Extracts all the numbers and no other text.
+def only_numbers(text):     
+    line=re.findall(r'bd+b', text)     
+    return " ".join(line)
+example="Harish reduced his weight from 100 Kg to 75 kg." 
+only_numbers(example)
+Output:
+'100 75'
+17. Pick Sentences
+If you want all sentences with a particular keyword. Use the below code:
+def pick_only_key_sentence(text,keyword):     
+    line=re.findall(r'([^.]*'+keyword+'[^.]*)', text)     
+    return line
+example="People are fighting with covid these days. Economy has fallen down. How will we survive 
+covid" 
+pick_only_key_sentence(example,'covid')
+Output:
+['People are fighting with covid these days', 'How will we survive covid']
+18. Caps lock Words
+Extract words starting with a capital letter from the input text.
+def find_capital(text):     
+    line=re.findall(r'b[A-Z]w+', text)     
+    return line
+example="Ajit Doval is the best National Security Advisor so far." 
+find_capital(example)
+Output:
+['Ajit', 'Doval', 'National','Security','Advisor']
+19. Tags
+Most web scrapped data contain HTML tags. To remove that use below regex script:
+def remove_tag(string):     
+    text=re.sub('<.*?>','',string)     
+    return text
+example="Markdown sentences use <br> for breaks and <i> </i> for italics" 
+remove_tag(example)
+Output:
+'Markdown sentences use  for breaks and  for italics'
+20. IP Address
+Extract IP address from the text.
+def ip_add(string):     
+    text=re.findall('d{1,3}.d{1,3}.d{1,3}.d{1,3}',string)     
+    return text
+example="My public IP address is 165.19.120.1" 
+ip_add(example)
+Output:
+['165.19.120.1']
+21. MAC Address
+Extract Mac address from the text.
+def mac_add(string):     
+    text=re.findall('(?:[0-9a-fA-F]:?){12}',string)     
+    return text
+example="MAC ADDRESSES of this TOSHIBA laptop is 00:21:27:b1:aa:xx."
+mac_add(example)
+Output:
+['00:21:27:b1:aa:xx ']
+22. PAN Validation
+To Validate PAN Number use the below code.
+Format: First 5 letters in CAPS+4 digits+Last letter in CAPS
+def validPan(string):     
+    text=re.findall(r'^([A-Z]){5}([0-9]){4}([A-Z]){1}$',string)        
+        if text!=[]:         
+            print("{} is valid PAN number".format(string))     
+        else:         
+            print("{} is not a valid PAN number".format(string))
+validPan("ABCED3193P") 
+validPan("lEcGD012eg")
+Output:
+ABCED3193P is valid PAN number lEcGD012eg is not a valid PAN number
+23. Percentage
+Find the percentage numbers from the text. For example: if the sentence is “I scored 85% in 12th class.”. In that case, output will be “85”.
+def find_percent(string):      
+    text = re.findall(r'b(100|[1-9][0-9]|[0-9])%',string)         
+    return text
+example="COVID recovery rate is now 76%. But death rate is 4%" 
+find_percent(example)
+Output:
+['76', '4']
+24. File Format
+This code will return you the filename with its file format like “abc.png”, “math.pdf”, etc.
+def find_files(string):      
+    text=re.findall(r'([a-zA-Z0-9_]+).(jpg|png|gif|jpeg|pdf|ipynb|py)',string) 
+    # add any required file extensions     
+    all_files=[]     
+    for i in range(len(text)):         
+        all_files.append('.'.join(text[i]))     
+    return all_files
+example="This image file name is cheatsheet.png . Titanic.py file is most common 
+among beginners." 
+find_files(example)
+Output:
+['cheatsheet.png', 'Titanic.py']
+End Notes:
+So, these are some regex codes that can be used in NLP tasks directly. I hope you find this article helpful. Let’s connect onLinkedin.
+Thanks for reading if you reached here :).
+Happy coding!
+The media shown in this article are not owned by Analytics Vidhya and are used at the Author’s discretion.
+Love Programming, Blog writing and Poetry
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+What Are N-Grams and How to Implement Them in P...
+What Are N-Grams and How to Implement Them in P...
+90+ Python Interview Questions and Answers (202...
+90+ Python Interview Questions and Answers (202...
+Extracting information from reports using Regul...
+Extracting information from reports using Regul...
+Beginners Tutorial for Regular Expressions in P...
+Beginners Tutorial for Regular Expressions in P...
+4 Applications of Regular Expressions for Data ...
+4 Applications of Regular Expressions for Data ...
+Beginners Guide to Regular Expressions in Natur...
+Beginners Guide to Regular Expressions in Natur...
+Part 13: Step by Step Guide to Master NLP ̵...
+Part 13: Step by Step Guide to Master NLP ̵...
+Beginners Tutorial for Regular Expression in Py...
+Beginners Tutorial for Regular Expression in Py...
+Regular Expressions: How Can They Transform You...
+Regular Expressions: How Can They Transform You...
+Text Cleaning Methods in NLP | Part-2
+Text Cleaning Methods in NLP | Part-2
+Responses From Readers
+Very useful and well explained, thanks a lot!!!
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+www.analyticsvidhya.com_blog_2021_06_regex-cheatsheet-for-natural-language-processing-tasks__0.webp
+www.analyticsvidhya.com_blog_2021_06_regex-cheatsheet-for-natural-language-processing-tasks__2.webp
+www.analyticsvidhya.com_blog_2021_06_regex-cheatsheet-for-natural-language-processing-tasks__3.webp
+www.analyticsvidhya.com_blog_2021_06_regex-cheatsheet-for-natural-language-processing-tasks__4.webp
+www.analyticsvidhya.com_blog_2021_06_regex-cheatsheet-for-natural-language-processing-tasks__5.webp
+www.analyticsvidhya.com_blog_2021_06_regex-cheatsheet-for-natural-language-processing-tasks__6.webp
+www.analyticsvidhya.com_blog_2021_06_regex-cheatsheet-for-natural-language-processing-tasks__7.webp
+www.analyticsvidhya.com_blog_2021_06_regex-cheatsheet-for-natural-language-processing-tasks__8.webp

@@ -1,0 +1,32 @@
+Go Tutorial
+Go Exercises
+GoTutorial
+Learn Go
+Go is a popular programming language.
+Go is used to create computer programs.
+Examples in Each Chapter
+Our "Try it Yourself" editor makes it easy to learn Go. You can edit Go code and view the result in your browser.
+Example
+Click on the "Try it Yourself" button to see how it works.
+Go Exercises
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_go_index.php_0.png
+www.w3schools.com_go_index.php_1.png

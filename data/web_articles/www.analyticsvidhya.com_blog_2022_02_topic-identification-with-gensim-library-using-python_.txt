@@ -1,0 +1,297 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+Topic Identification with Gensim library using Python
+Source:Image
+Topic Identification is a method for identifying hidden subjects in enormous amounts of text. The Latent Dirichlet Allocation (LDA) technique is a common topic modeling algorithm that has great implementations in Python’s Gensim package. The problem is determining how to extract high-quality themes that are distinct, distinct, and significant. This varies depending on the text preparation quality and the approach for determining the ideal number of subjects. This tutorial aims to address both issues.
+Introduction
+Automatically extracting what themes people are talking about from enormous volumes of text is one of the fundamental applications of natural language processing. Large text examples include social media feeds, consumer evaluations of hotels, movies, and other businesses, user comments, news pieces, and e-mails from customers with concerns.
+Businesses, administrators, and political campaigns benefit greatly from knowing what people are talking about and understanding their concerns and viewpoints. And personally, reading through such vast volumes and compiling the themes is difficult.
+As a result, we require an automated system to read through text documents and automatically output the mentioned subjects.
+In this study, we’ll use the ’20 Newsgroups’ dataset as a real-world example to extract naturally discussed themes using LDA.
+Fundamentals of Topic Identification
+The principles of subject identification and modeling will be covered. We’ll learn how to detect topics from texts using the bag-of-words approach and simple NLP models.
+Pipeline of Data
+The raw text data were pre-processed for the data pipeline using RegEx and other normalization capabilities. I used exploratory data analysis (EDA) to learn more about how the data is distributed and structured so that I could optimize the preprocessing. It then developed the topic identification models using Python frameworks. We can always return from model development to EDA and make it an iterative process, in the sense that we can learn more about which methods are best for our particular data and goal. Once we have an ultimate model, we can use Docker, AWS, or another cloud provider to scale it up to be a production model.
+The Bag-of-Words Method
+The bag-of-words method is a simple way to identify subjects in a document. It is because the more frequently a term is used, the better.
+Text Preparation
+Although the material given above is intriguing, it is not useful for subject identification. This is because tokens such as ‘the’ and ‘was’ are common terms that help little with topic identification. We’ll use text preparation to get around this.
+Word Lemmatization
+Reducing words to their roots or stems is known as lemmatization.
+The WordNetLemmatizer is created with the first line of code. Second-line calls in the Counter class and generates a new Counter called bag words, while the third line calls in the ‘.lemmatize()’ method to build a new list called LEM tokens. The fourth line displays the six most prevalent tokens.
+lemmatizer = WordNetLemmatizer()
+lem_tokens = [lemmatizer.lemmatize(t) for t in stopwords_removed]
+bag_words = Counter(lem_tokens)
+print(bag_words.most_common(6))
+Gensim and Latent Dirichlet Allocation (LDA)
+Gensim is an open-source natural language processing (NLP) library that may create and query corpus. It operates by constructing word embeddings or vectors, which are then used to model topics.
+Deep learning algorithms are used to build multi-dimensional mathematical representations of words called word vectors. They provide information about the relationships between terms in a corpus. The distance between the words ‘India’ and ‘New Delhi,’ for example, may be comparable to the distance between the words ‘China’ and ‘Beijing,’ as these are the ‘Country-Capital’ vectors.
+Gensim for creating and querying the corpus
+It’s time to put what you’ve learned in the previous video to work and develop your first gensim dictionary and corpus!
+These data structures will look at word trends and other intriguing themes in your document set. To begin, we’ve imported a few more jumbled Wikipedia articles, which have been preprocessed by lowercasing all words, tokenizing them, and removing stop words and punctuation. These were then saved as articles, a list of document tokens. You’ll need to do some preliminary work before creating the gensim vocabulary and corpus.
+Gensim’s bag of words
+Now you’ll use your new gensim corpus and dictionary to see which terms are most frequently used in each document and across all documents. You can look up the terms in your dictionary.
+To assist with the generation of intermediate data structures for analysis, you have access to the dictionary and corpus objects you created in the last exercise, as well as the Python defaultdict and itertools.
+We can use defaultdict to create a dictionary that assigns a default value to non-existent keys. We may ensure that any non-existent keys are automatically allocated a default value of 0 by using the int parameter.
+Document-Term Matrix for LDA
+We’ll train the LDA model object on the document-term matrix after it’s been created. The LDA object is sent on the ‘DT matrix’ in the first line of code below, which accomplishes this task. The number of topics and the dictionary must also be specified. We may limit the number of subjects to two or three because we have a tiny corpus of nine documents.
+When texts are coherent within themselves, bag-of-words information (LDA or TF-IDF) is excellent for identifying topics by detecting frequent words. When texts are incoherent (in terms of word choice or sentence meaning), more contextual information is required to fully reflect the texts’ ideas.
+Tf-idf with gensim
+TF-IDF
+Term Frequency – Inverse Document Frequency
+1) Allows you to discover which words in each document are the most significant.
+2) Beyond stop words, each corpus may have shared words.
+3) The importance of these words should be reduced.
+4) Ensures that the most common words aren’t used as keywords.
+5) Maintains a high-weighted document with specified frequent words.
+formula
+Wi,j=  tfi,j*  log(N/dfi)
+wi,j​= tf-idf for token ii in document jj
+tfi, j=tfi,j​= number of occurences of token ii in document jj
+dfi=dfi​= number of documents that contain token ii
+N =N= total number of documents
+Download the datasets from sklearn
+The 20Newsgroup data set is the one I used. It can be found under sklearn data sets and maybe downloaded quickly.
+from sklearn.datasets import fetch_20newsgroups
+newsgroups_train = fetch_20newsgroups(subset=’train’, shuffle = True)
+newsgroups_test = fetch_20newsgroups(subset=’test’, shuffle = True)
+The news in this data set has already been categorized into key topics. Which you can get by.
+print(list(newsgroups_train.target_names))
+Looking at the data set visually, we can see that it covers a variety of themes, such as science, politics, sports, religion, and technology. Let’s look at some examples of recent news.
+newsgroups_train.data[:2]
+Data Preprocessing
+The following are the steps we’ll take:
+1) Split the text into sentences and the sentences into words using tokenization.
+2) Remove all punctuation and lowercase words.
+3) Words with fewer than three characters are omitted.
+4) All stopwords have been eliminated.
+5) Nouns are lemmatized, so third-person words are transformed to first-person, and past and future tenses verbs are changed to present tenses.
+6) Words are stemmed, which means they are reduced to their simplest form.
+Download nltk stop words and necessary packages
+import gensim
+from gensim.utils import simple_preprocess
+from gensim.parsing.preprocessing import STOPWORDS
+from nltk.stem import WordNetLemmatizer, SnowballStemmer
+from nltk.stem.porter import *
+import numpy as np
+np.random.seed(400)
+import nltk
+nltk.download('wordnet')
+Lemmatizer:
+Let’s have a look at a lemmatizing example before we start preprocessing our data. What would happen if we lemmatized the word “Gone”?
+we are converting the past tense to present tense here,
+print(WordNetLemmatizer().lemmatize('gone', pos = 'v'))
+Output: go
+Let’s look at a stemming example as well. Let’s try throwing a few words at the stemmer and see how it responds:
+import pandas as pd
+stemmer = SnowballStemmer("english")
+original_words = ['sings', 'classes', 'dies', 'mules', 'denied','played', 'agreement', 'owner', 
+           'humbled', 'sized','meeting', 'stating', 'siezing', 'itemization','sensational', 
+           'traditional', 'reference', 'colon','plotting']
+singles = [stemmer.stem(plural) for plural in original_words]
+pd.DataFrame(data={'original word':original_words, 'stemmed':singles })
+Output:
+Let’s write a function that runs through the pre-processing stages for the entire dataset.
+def lemmatize_stemming(text):
+    return stemmer.stem(WordNetLemmatizer().lemmatize(text, pos='v'))
+# Tokenize and lemmatize
+def preprocess(text):
+    result=[]
+    for token in gensim.utils.simple_preprocess(text) :
+        if token not in gensim.parsing.preprocessing.STOPWORDS and len(token) > 3:
+            result.append(lemmatize_stemming(token))
+    return resul
+let’s now preview a document after preprocessing and get the Tokenized and lemmatized document.
+document_number = 50
+doc_sample = 'Sara did not like to read. She was not very good at it.'
+print("Original document: ")
+words = []
+for word in doc_sample.split(' '):
+    words.append(word)
+print(words)
+print("nnTokenized and lemmatized document: ")
+print(preprocess(doc_sample))
+output:
+Let’s start by preprocessing all of our news headlines. To do so, we go over the list of documents in our training sample again and again.
+processed_docs = []
+    processed_docs.append(preprocess(doc))
+'''
+Preview 'processed_docs'
+'''
+print(processed_docs[:2])
+for doc in newsgroups_train.data:
+Now we’ll use ‘processed docs’ to construct a dictionary that contains the number of times each word appears in the training set. To do so, call it ‘dictionary’ and provide processed docs togensim.corpora.Dictionary().
+Creating a bag of words from a text
+Before topic identification, we transform the tokenized and lemmatized text into a bag of words, which can be thought of as a dictionary with the key being the word and the value being the number of times that word appears in the corpus.
+Using gensim.corpora.Dictionary, create a dictionary from ‘processed docs’ that contains the number of times a term appears in the training set and name it ‘dictionary.’
+dictionary = gensim.corpora.Dictionary(processed_docs)
+We have to check whether the dictionary is created or not,
+count = 0
+for k, v in dictionary.iteritems():
+    print(k, v)
+    count += 1
+    if count > 10:
+        break
+Output:
+Filter extremes Gensim
+Remove any tokens that appear on the list.
+greater than no above documents (absolute number) or
+fewer than no below documents (absolute number) (fraction of total corpus size, not the absolute number).
+Only keep the first keep n most common tokens after (1) and (2). (or keep all if None).
+Syntax:
+filter_extremes(no_below=5, no_above=0.5, keep_n=100000)
+dictionary.filter_extremes(no_below=15, no_above=0.1, keep_n= 100000)
+We can also filter out words that appear infrequently or frequently.
+We now use the dictionary object we have generated to convert each pre-processed page into a bag of words. i.e., we develop a dictionary for each document that reports how many terms and how many times those words appear.
+Gensim doc2bow
+doc2bow(document)
+Convert a document (a list of words) to a list of (token id, token count) 2-tuples in the bag-of-words format. Each word is taken to be a normalized and tokenized string (either Unicode or utf8-encoded). Before invoking this function, apply tokenization, stemming, and other preprocessing to the words in the document.
+We have to create a dictionary for each document with the Bag-of-words model, in which we report how many words and how many times those words appear. ‘bow corpus’ is a good place to save this.
+bow_corpus = [dictionary.doc2bow(doc) for doc in processed_docs]
+Now, to preview BOW for our preprocessed sample document 11
+Using Bag of Words to run LDA
+In the document corpus, we’re aiming for ten subjects.
+To parallelize and speed up model training, we’ll execute LDA on all CPU cores.
+The following are some parameters we’ll be adjusting:
+1) The number of requested latent themes to be retrieved from the training corpus is num topics.
+2) The id2word mapping converts word ids (integers) into words (strings). It’s used for debugging and topic printing, as well as determining the vocabulary size.
+3) The number of extra processes to use for parallelization is the number of workers. By default, all available cores are used.
+4) The hyperparameters alpha and eta affect the sparsity of the document-topic (theta) and topic-word (lambda) distributions, respectively. For the time being, these will be the default values (the default value is 1/num topics).
+We know the subject distribution per document as Alpha.
+High alpha: Each document has a mix of themes (documents appear similar to each other).Low alpha: Each document comprises a few subjects.
+The per-topic word distribution is referred to as Eta.
+High eta: Each topic contains a variety of terms (topics appear similar to each other).Low eta: Each topic comprises a little number of words.
+Because we can use the gensim LDA model, this is fairly straightforward. The number of subjects in the data collection must be specified. Let’s say we begin with eight distinct subjects. The number of training passes over the document is referred to as the number of passes.
+gensim.models will train our LDA model. LdaMulticore and place it in the ‘LDA model’ folder.
+lda_model = gensim.models.LdaMulticore(bow_corpus, 
+ num_topics = 8, 
+ id2word = dictionary, 
+ passes = 10,
+ workers = 2)
+After training the model, we’ll look at the words that appear in that topic and their proportional importance for each one.
+for idx, topic in lda_model.print_topics(-1):
+    print("Topic: {} nWords: {}".format(idx, topic ))
+    print("n")
+Labeling the topics
+What categories were you able to derive from the terms in each topic and their corresponding weights?
+0: Gun Violence
+1: Sports
+2: Politics
+3: Space
+4: Encryption
+5: Technology
+6: Graphics Cards
+7: Religion
+Testing Model Phase
+Preprocessing of data for a previously unseen document
+num = 70
+unseen_document = newsgroups_test.data[num]
+print(unseen_document)
+Output:
+bow_vector = dictionary.doc2bow(preprocess(unseen_document))
+for index, score in sorted(lda_model[bow_vector], key=lambda tup: -1*tup[1]):
+    print("Score: {}t Topic: {}".format(score, lda_model.print_topic(index, 5)))
+That’s all there is to it! The model has been completed. Let’s look at how to interpret it and see if the results make sense.
+The model produces an output of eight subjects, each of which is classified by a set of words. The LDA model does not give such words a topic name.
+Evaluation of the Model
+1) The model performed admirably in extracting the data set’s distinct topics, which we can check because we know the target names.
+2) The model is extremely fast. In minutes, I could extract topics from a data set.
+3) It is assumed that the data set contains discrete subjects. As a result, if the data set is a collection of random tweets, the model findings may be difficult to interpret.
+EndNotes
+1) By incorporating both the LDA topic probabilities and the sentence embeddings, the contextual topic identification model takes advantage of both bag-of-words and contextual information.
+2) Although LDA performs well for topic identification tasks it struggles with brief texts with brief text to model and documents that do not explain the topic coherently. It’s also limited because it’s based on a bag of words.
+3) When texts are coherent within themselves, bag-of-words information (LDA or TF-IDF) is excellent for identifying topics by detecting frequent words. When texts are incoherent (in terms of word choice or sentence meaning), more information is required to reflect the texts’ ideas.
+I hope this article will be more descriptive and refreshing!
+If you have further queries, please post them in the comments section. If you are interested in reading my other articles, check them outhere!
+Thank you for reading my article on Topic Identification. Hope you liked it.
+About Myself
+Hello, my name is Lavanya, and I’m from Chennai. Being a passionate writer and an enthusiastic content maker, I used to surf through many new technological concepts. The most intractable problems always thrill me. I am doing my graduation in B. Tech in Computer Science Engineering and have a strong interest in the fields of data engineering, machine learning, data science, artificial intelligence, and Natural Language Processing, and I am steadily looking for ways to integrate these fields with other disciplines of science and technologies to further my research goals.
+LinkedIn URL:https://www.linkedin.com/in/lavanya-srinivas-949b5a16a/
+Email:[email protected]
+Conclusion
+We’ve learned how to use the bag-of-words strategy to identify a topic in this guide. You also learned about LDA using ‘gensim,’ a strong open-source NLP library.
+The document-term-matrix represents the terms included in the corpus, and their performance depends on them. Because this matrix is sparse, lowering its dimensions may help the model perform better. However, because our corpus was small, we may be pretty confident in the results we got.
+The media shown in this article is not owned by Analytics Vidhya and are used at the Author’s discretion.
+Hello, my name is Lavanya, and I’m from Chennai. I am a passionate writer and enthusiastic content maker. The most intractable problems always thrill me. I am currently pursuing my B. Tech in Computer Engineering and have a strong interest in the fields of data engineering, machine learning, data science, and artificial intelligence, and I am constantly looking for ways to integrate these fields with other disciplines such as science and computer to take further my research goals.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+Sentiment Analysis Using Python
+Sentiment Analysis Using Python
+What Are N-Grams and How to Implement Them in P...
+What Are N-Grams and How to Implement Them in P...
+Part 3: Topic Modeling and Latent Dirichlet All...
+Part 3: Topic Modeling and Latent Dirichlet All...
+What is Topic Modeling?
+What is Topic Modeling?
+Topic Modeling and Latent Dirichlet Allocation(...
+Topic Modeling and Latent Dirichlet Allocation(...
+Topic Modelling With LDA -A Hands-on Introduction
+Topic Modelling With LDA -A Hands-on Introduction
+Topic Modelling in Natural Language Processing
+Topic Modelling in Natural Language Processing
+Part- 19: Step by Step Guide to Master NLP R...
+Part- 19: Step by Step Guide to Master NLP R...
+Part 2: Topic Modeling and Latent Dirichlet All...
+Part 2: Topic Modeling and Latent Dirichlet All...
+Learn Basics of Natural Language Processing (NL...
+Learn Basics of Natural Language Processing (NL...
+Responses From Readers
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__0.webp
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__1.png
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__2.png
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__3.png
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__4.png
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__5.png
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__6.png
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__7.png
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__8.png
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__9.png
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__10.png
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__11.png
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__12.png
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__13.webp
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__14.webp
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__15.webp
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__16.webp
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__17.webp
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__18.webp
+www.analyticsvidhya.com_blog_2022_02_topic-identification-with-gensim-library-using-python__19.webp

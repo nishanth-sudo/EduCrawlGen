@@ -1,0 +1,223 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+What is Topic Modeling?
+Topic modelling is a natural language processing technique that uncovers hidden themes or topics within large text datasets by analyzing word patterns and grouping similar documents together. Methods like Latent Dirichlet Allocation (LDA) help organize unstructured text, such as articles or social media posts, making it easier to understand. By reading this article, you’ll gain a clear understanding of how topic modelling works, its real-world applications, and how it can save time, improve data analysis, and reveal valuable trends in text data, making it a powerful tool for anyone working with large volumes of information.
+Table of contents
+Understanding About the Topic Modeling
+How Does a Topic Model Work?
+Difference Between Topic Modeling and Clustering?
+Latent Dirichlet Allocation for Topic ModelingParameters of LDA
+Parameters of LDA
+Running in pythonPreparing DocumentsCleaning and PreprocessingPreparing Document-Term MatrixRunning LDA ModelResults
+Preparing Documents
+Cleaning and Preprocessing
+Preparing Document-Term Matrix
+Running LDA Model
+Results
+Tips to improve results of topic modeling
+Topic Modelling for Feature Selection
+Frequently Asked Questions
+Understanding About the Topic Modeling
+Topic modelingis a technique in natural language processing (NLP) used to identify and extract abstract topics or themes from a collection of documents. It helps uncover hidden patterns by grouping words that frequently occur together, allowing for the discovery of the main ideas within large text datasets. Common algorithms for topic modeling include Latent Dirichlet Allocation (LDA) and Non-Negative Matrix Factorization (NMF).
+Checkout this article about theMachine Learning Algorithms
+How Does a Topic Model Work?
+Topic modeling is a technique used innatural language processing(NLP) to discover abstract topics within a collection of documents. It helps in understanding the main themes or ideas present in large text data without manually reading through it.
+Input Data:Topic models take a collection of documents (like articles, reviews, or tweets) as input.
+Word Frequency:The model analyzes the frequency of words in each document and across the entire dataset.
+Topic Discovery:It identifies groups of words that often appear together, forming “topics.” For example, words like “bat,” “ball,” and “score” might form a topic related to sports.
+Probabilistic Approach:Popular algorithms like Latent Dirichlet Allocation (LDA) use probability to assign each document a mix of topics and each topic a mix of words.
+Difference Between Topic Modeling and Clustering?
+Both topic modeling and clustering are unsupervised learning techniques used to group data, but they serve different purposes and work differently.
+Feature
+Topic Modeling
+Clustering
+Definition
+Identifies hidden topics in text data.
+Groups similar data points based on features.
+Purpose
+Finds themes in a collection of documents.
+Organizes data into meaningful groups.
+Data Type
+Primarily used for text analysis.
+Can be applied to text, numerical, and image data.
+Methods Used
+LDA, LSA, NMF.
+K-Means, Hierarchical Clustering, DBSCAN.
+Output
+Topics represented by word distributions.
+Groups (clusters) of similar data points.
+Latent Dirichlet Allocation for Topic Modeling
+There are many approaches for obtaining topics from a text such as – Term Frequency and Inverse Document Frequency. NonNegative Matrix Factorization techniques. Latent Dirichlet Allocation is the most popular topic modeling technique and in this article, we will discuss the same.
+LDA assumes documents are produced from a mixture of topics. Those topics then generate words based on their probability distribution. Given a dataset of documents, LDA backtracks and tries to figure out what topics would create those documents in the first place.
+LDA is a matrix factorization technique. In vector space, any corpus (collection of documents) can be represented as a document-term matrix. The following matrix shows a corpus of N documents D1, D2, D3 … Dn and vocabulary size of M words W1,W2 .. Wn. The value of i,j cell gives the frequency count of word Wj in Document Di.
+LDA converts this Document-Term Matrix into two lower dimensional matrices – M1 and M2.M1 is a document-topics matrix and M2 is a topic – terms matrix with dimensions (N,  K) and (K, M) respectively, where N is the number of documents, K is the number of topics and M is the vocabulary size.
+Notice that these two matrices already provides topic word and document topic distributions, However, these distribution needs to be improved, which is the main aim of LDA. LDA makes use of sampling techniques in order to improve these matrices.
+It Iterates through each word “w” for each document “d” and tries to adjust the current topic – word assignment with a new assignment. A new topic “k” is assigned to word “w” with a probability P which is a product of two probabilities p1 and p2.
+For every topic, two probabilities p1 and p2 are calculated. P1 – p(topic t / document d) = the proportion of words in document d that are currently assigned to topic t. P2 – p(word w / topic t) = the proportion of assignments to topic t over all documents that come from this word w.
+The current topic – word assignment is updated with a new topic with the probability, product of p1 and p2 . In this step, the model assumes that all the existing word – topic assignments except the current word are correct. This is essentially the probability that topic t generated word w, so it makes sense to adjust the current word’s topic with new probability.
+After a number of iterations, a steady state is achieved where the document topic and topic term distributions are fairly good. This is the convergence point of LDA.
+Parameters of LDA
+Alpha and Beta Hyperparameters – alpha represents document-topic density and Beta represents topic-word density. Higher the value of alpha, documents are composed of more topics and lower the value of alpha, documents contain fewer topics. On the other hand, higher the beta, topics are composed of a large number of words in the corpus, and with the lower value of beta, they are composed of few words.
+Number of Topics– Number of topics to be extracted from the corpus. Researchers have developed approaches to obtain an optimal number of topics by using Kullback Leibler Divergence Score. I will not discuss this in detail, as it is too mathematical. For understanding, one can refer to this[1]original paper on the use of KL divergence.
+Number of Topic Terms– Number of terms composed in a single topic. It is generally decided according to the requirement. If the problem statement talks about extracting themes or concepts, it is recommended to choose a higher number, if problem statement talks about extracting features or terms, a low number is recommended.
+Number of Iterations / passes – Maximum number of iterations allowed to LDA algorithm for convergence.
+You can learn more about thetopic modeling in depth here
+Running in python
+Preparing Documents
+Here are the sample documents combining together to form a corpus.
+doc1 = "Sugar is bad to consume. My sister likes to have sugar, but not my father."doc2 = "My father spends a lot of time driving my sister around to dance practice."doc3 = "Doctors suggest that driving may cause increased stress and blood pressure."doc4 = "Sometimes I feel pressure to perform well at school, but my father never seems to drive my sister to do better."doc5 = "Health experts say that Sugar is not good for your lifestyle."
+doc1 = "Sugar is bad to consume. My sister likes to have sugar, but not my father."
+doc2 = "My father spends a lot of time driving my sister around to dance practice."
+doc3 = "Doctors suggest that driving may cause increased stress and blood pressure."
+doc4 = "Sometimes I feel pressure to perform well at school, but my father never seems to drive my sister to do better."
+doc5 = "Health experts say that Sugar is not good for your lifestyle."
+# compile documentsdoc_complete = [doc1, doc2, doc3, doc4, doc5]
+# compile documentsdoc_complete = [doc1, doc2, doc3, doc4, doc5]
+# compile documents
+doc_complete = [doc1, doc2, doc3, doc4, doc5]
+Cleaning and Preprocessing
+Cleaning is an important step before any text mining task, in this step, we will remove the punctuations, stopwords and normalize the corpus.
+```from nltk.corpus import stopwordsfrom nltk.stem.wordnet import WordNetLemmatizerimport stringstop = set(stopwords.words('english'))exclude = set(string.punctuation)lemma = WordNetLemmatizer()def clean(doc):stop_free = " ".join([i for i in doc.lower().split() if i not in stop])punc_free = ''.join(ch for ch in stop_free if ch not in exclude)normalized = " ".join(lemma.lemmatize(word) for word in punc_free.split())return normalized
+```from nltk.corpus import stopwordsfrom nltk.stem.wordnet import WordNetLemmatizerimport stringstop = set(stopwords.words('english'))exclude = set(string.punctuation)lemma = WordNetLemmatizer()def clean(doc):stop_free = " ".join([i for i in doc.lower().split() if i not in stop])punc_free = ''.join(ch for ch in stop_free if ch not in exclude)normalized = " ".join(lemma.lemmatize(word) for word in punc_free.split())return normalized
+```
+from nltk.corpus import stopwords
+from nltk.stem.wordnet import WordNetLemmatizer
+import string
+stop = set(stopwords.words('english'))
+exclude = set(string.punctuation)
+lemma = WordNetLemmatizer()
+def clean(doc):
+stop_free = " ".join([i for i in doc.lower().split() if i not in stop])
+punc_free = ''.join(ch for ch in stop_free if ch not in exclude)
+normalized = " ".join(lemma.lemmatize(word) for word in punc_free.split())
+return normalized
+doc_clean = [clean(doc).split() for doc in doc_complete]```
+doc_clean = [clean(doc).split() for doc in doc_complete]
+```
+Preparing Document-Term Matrix
+All the text documents combined is known as the corpus. To run any mathematical model on text corpus, it is a good practice to convert it into a matrix representation. LDA model looks for repeating term patterns in the entire DT matrix. Python provides many great libraries for text mining practices, “gensim” is one such clean and beautiful library to handle text data. It is scalable, robust and efficient. Following code shows how to convert a corpus into a document-term matrix.```# Importing Gensimimport gensimfrom gensim import corpora# Creating the term dictionary of our courpus, where every unique term is assigned an index. dictionary = corpora.Dictionary(doc_clean)# Converting list of documents (corpus) into Document Term Matrix using dictionary prepared above.doc_term_matrix = [dictionary.doc2bow(doc)fordoc in doc_clean]```
+```
+# Importing Gensimimport gensimfrom gensim import corpora# Creating the term dictionary of our courpus, where every unique term is assigned an index. dictionary = corpora.Dictionary(doc_clean)
+# Converting list of documents (corpus) into Document Term Matrix using dictionary prepared above.doc_term_matrix = [dictionary.doc2bow(doc)fordoc in doc_clean]
+```
+Running LDA Model
+Next step is to create an object for LDA model and train it on Document-Term matrix. The training also requires few parameters as input which are explained in the above section. The gensim module allows both LDA model estimation from a training corpus and inference of topic distribution on new, unseen documents.```# Creating the object for LDA model using gensim libraryLda = gensim.models.ldamodel.LdaModel# Running and Trainign LDA model on the document term matrix.ldamodel = Lda(doc_term_matrix, num_topics=3, id2word = dictionary, passes=50)
+```
+# Creating the object for LDA model using gensim libraryLda = gensim.models.ldamodel.LdaModel
+# Running and Trainign LDA model on the document term matrix.ldamodel = Lda(doc_term_matrix, num_topics=3, id2word = dictionary, passes=50)
+```
+```
+Results
+```print(ldamodel.print_topics(num_topics=3, num_words=3))['0.168*health + 0.083*sugar + 0.072*bad,'0.061*consume + 0.050*drive + 0.050*sister,'0.049*pressur + 0.049*father + 0.049*sister]```
+```print(ldamodel.print_topics(num_topics=3, num_words=3))['0.168*health + 0.083*sugar + 0.072*bad,'0.061*consume + 0.050*drive + 0.050*sister,'0.049*pressur + 0.049*father + 0.049*sister]```
+```
+print(ldamodel.print_topics(num_topics=3, num_words=3))
+['0.168*health + 0.083*sugar + 0.072*bad,'0.061*consume + 0.050*drive + 0.050*sister,'0.049*pressur + 0.049*father + 0.049*sister]
+```
+Each line is a topic with individual topic terms and weights. Topic1 can be termed as Bad Health, and Topic3 can be termed as Family.
+Tips to improve results of topic modeling
+The results of topic models are completely dependent on the features (terms) present in the corpus. The corpus is represented as document term matrix, which in general is very sparse in nature. Reducing the dimensionality of the matrix can improve the results of topic modelling. Based on my practical experience, there are few approaches which do the trick.
+Frequency Filter –Arrange every term according to its frequency. Terms with higher frequencies are more likely to appear in the results as compared ones with low frequency. The low frequency terms are essentially weak features of the corpus, hence it is a good practice to get rid of all those weak features. An exploratory analysis of terms and their frequency can help to decide what frequency value should be considered as the threshold.
+Part of Speech Tag Filter –POS tag filter is more about the context of the features than frequencies of features. Topic Modelling tries to map out the recurring patterns of terms into topics. However, every term might not be equally important contextually. For example, POS tag IN contain terms such as – “within”, “upon”, “except”. “CD” contains – “one”,”two”, “hundred” etc. “MD” contains “may”, “must” etc. These terms are the supporting words of a language and can be removed by studying their post tags.
+Batch Wise LDA –In order to retrieve most important topic terms, a corpus can be divided into batches of fixed sizes. Running LDA multiple times on these batches will provide different results, however, the best topic terms will be the intersection of all batches.
+Note: If you want to learn Topic Modeling in detail and also do a project using it, then we haveavideo based courseon NLP, covering Topic Modeling and its implementation in Python.
+Topic Modelling for Feature Selection
+Sometimes LDA can also be used as feature selection technique. Take an example oftext classificationproblem where the training data contain category wise documents. If LDA is running on sets of category wise documents. Followed by removing common topic terms across the results of different categories will give the best features for a category.
+Endnotes
+With this, we come to this end of tutorial on Topic Modeling. I hope this will help you to improve your knowledge to work on text data. To reap maximum benefits out of this tutorial, I’d suggest you practice the codes side by side and check the results.
+Did you find the article useful? Share with us if you have done similar kind of analysis before. Do let us know your thoughts about this article in the box below.
+Frequently Asked Questions
+A. Topic modeling is used to uncover hidden patterns and thematic structures within a collection of documents. It aids in understanding the main themes and concepts present in the text corpus without relying on pre-defined tags or training data. By extracting topics, researchers can gain insights, summarize large volumes of text, classify documents, and facilitate various tasks in text mining and natural language processing.
+A. The technique commonly used in topic modeling is Latent Dirichlet Allocation (LDA). LDA is a generative probabilistic model that assigns words to topics and topics to documents, allowing the discovery of latent topics within a text corpus. It is a widely adopted method for topic modeling in natural language processing.
+A. While topic modeling involves the identification of clusters or groups of similar words within a body of text, it is not strictly considered a clustering technique in the traditional sense. Topic modeling aims to discover the underlying thematic structures or topics within a text corpus, which goes beyond the notion of clustering based solely on word similarity. It uses statistical models, such as Latent Dirichlet Allocation (LDA), to assign words to topics and topics to documents, providing a way to explore the latent semantic relationships in the data.
+Shivam Bansal is a data scientist with exhaustive experience in Natural Language Processing and Machine Learning in several domains. He is passionate about learning and always looks forward to solving challenging analytical problems.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+Sentiment Analysis Using Python
+Sentiment Analysis Using Python
+Exploratory Data Analysis (EDA) Using Python
+Exploratory Data Analysis (EDA) Using Python
+Topic Modelling in Natural Language Processing
+Topic Modelling in Natural Language Processing
+Topic Modelling With LDA -A Hands-on Introduction
+Topic Modelling With LDA -A Hands-on Introduction
+Topic Modeling and Latent Dirichlet Allocation(...
+Topic Modeling and Latent Dirichlet Allocation(...
+Topic Modeling Using Latent Dirichlet Allocatio...
+Topic Modeling Using Latent Dirichlet Allocatio...
+Topic Modeling with ML Techniques
+Topic Modeling with ML Techniques
+Part 2: Topic Modeling and Latent Dirichlet All...
+Part 2: Topic Modeling and Latent Dirichlet All...
+Part- 19: Step by Step Guide to Master NLP R...
+Part- 19: Step by Step Guide to Master NLP R...
+Text Mining 101: A Stepwise Introduction to Top...
+Text Mining 101: A Stepwise Introduction to Top...
+Responses From Readers
+Good One.. NMF and SOM are also very useful techinques for this.if possible please share same with SOM
+Thanks for the feedback, we will do an article on this in the future. Do stay tuned!
+Amazing blog Shivam.
+(speaking for the author) Glad you like it!
+Hi Shivam.....code "dictionary = corpora.Dictionary(doc_clean)" giving error "TypeError: doc2bow expects an array of unicode tokens on input, not a single string".....please help!
+Ankur, there was a mistake in the code. Its updated now.  Thanks !
+Hi Ankur...use this code it will help u....
+
+import gensim
+from gensim import corpora
+dictionary = corpora.Dictionary(doc_clean )
+doc_term_matrix = [dictionary.doc2bow(doc) for doc in doc_clean]
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__0.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__1.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__2.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__3.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__4.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__5.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__6.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__7.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__8.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__9.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__10.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__11.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__12.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__13.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__14.webp
+www.analyticsvidhya.com_blog_2016_08_beginners-guide-to-topic-modeling-in-python__15.webp

@@ -1,0 +1,132 @@
+ColorsTutorial
+ColorSchemes
+ColorTrends
+ColorStandards
+Colors Tutorial
+Colors are displayed combining RED, GREEN, and BLUE light.
+Color Names
+With CSS, colors can be set by using color names:
+Example
+Color
+Name
+Red
+Yellow
+Cyan
+Blue
+Magenta
+CSS Color Values
+With CSS, colors can be specified in different ways:
+By color names
+As RGB values
+As hexadecimal values
+As HSL values (CSS3)
+As HWB values (CSS4)
+With thecurrentcolorkeyword
+currentcolor
+RGB Colors
+RGB color values are supported in all browsers.
+An RGB color value is specified with: rgb(RED,GREEN,BLUE).
+Each parameter defines the intensity of the color as an integer between 0 and 255.
+For example, rgb(0,0,255) is rendered as blue, 
+because the blue parameter is set to its highest value (255) and the others are set to 0.
+Example
+Color
+RGB
+Color
+rgb(255,0,0)
+Red
+rgb(0,255,0)
+Green
+rgb(0,0,255)
+Blue
+Shades of gray are often defined using equal values for all the 3 light sources:
+Example
+Color
+RGB
+Color
+rgb(0,0,0)
+Black
+rgb(128,128,128)
+Gray
+rgb(255,255,255)
+White
+Hexadecimal Colors
+Hexadecimal color values are also supported in all browsers.
+A hexadecimal color is specified with:
+#RRGGBB.
+RR (red), GG (green) and BB (blue) are hexadecimal integers between 00 and 
+FF specifying the intensity of the color.
+For example, #0000FF is displayed as blue, because the blue component is set to its highest value (FF) and the others are set to 
+00.
+Example
+Color
+HEX
+RGB
+Color
+#FF0000
+rgb(255,0,0)
+Red
+#00FF00
+rgb(0,255,0)
+Green
+#0000FF
+rgb(0,0,255)
+Blue
+Shades of gray are often defined using equal values for all the 3 light sources:
+Example
+Color
+HEX
+RGB
+Color
+#000000
+rgb(0,0,0)
+Black
+#808080
+rgb(128,128,128)
+Gray
+#FFFFFF
+rgb(255,255,255)
+White
+Upper Case or Lower Case?
+You can use upper case or lower case letters to specify hexadecimal values.
+Lower case are easier to write. Upper case are easier to read.
+Color Names
+CSS supports 140 standard color names.
+In the next chapter you will find a complete alphabetical list of color names 
+with hexadecimal values:
+Color Name
+Hex
+Color
+AliceBlue
+#F0F8FF
+AntiqueWhite
+#FAEBD7
+Aqua
+#00FFFF
+Aquamarine
+#7FFFD4
+Azure
+#F0FFFF
+Beige
+#F5F5DC
+Bisque
+#FFE4C4
+The currentcolor Keyword
+Thecurrentcolorkeyword refers to the value of the color property of an element.
+currentcolor
+Example
+The border color of the following <div> element will be blue, because the 
+ text color of the <div> element is blue:
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_colors_default.asp_0.png
+www.w3schools.com_colors_default.asp_1.png

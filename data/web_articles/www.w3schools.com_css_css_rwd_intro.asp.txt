@@ -1,0 +1,34 @@
+CSSTutorial
+CSS Advanced
+CSSFlexbox
+CSSGrid
+CSSResponsive
+CSSSASS
+CSSExamples
+CSSReferences
+Responsive Web Design -Introduction
+What is Responsive Web Design?
+Responsive web design makes your web page look good on all devices.
+Responsive web design uses only HTML and CSS.
+Responsive web design is not a program or a JavaScript.
+Designing For The Best Experience For All Users
+Web pages can be viewed using many different devices: desktops, tablets, and phones.
+Your web page should look good, and be easy to use, regardless of the device.
+Web pages should not leave out information to fit smaller devices, but rather adapt its content to fit any device:
+It is called responsive web design when you use CSS and HTML to resize, hide, shrink, enlarge, or move the content to make it look good on any screen.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_css_css_rwd_intro.asp_0.png
+www.w3schools.com_css_css_rwd_intro.asp_1.png
+www.w3schools.com_css_css_rwd_intro.asp_2.png
+www.w3schools.com_css_css_rwd_intro.asp_3.png
+www.w3schools.com_css_css_rwd_intro.asp_4.png

@@ -1,0 +1,27 @@
+ColorsTutorial
+ColorSchemes
+ColorTrends
+ColorStandards
+HTMLColor Picker
+Pick a Color:
+Or Enter a Color:
+Or Use HTML5:
+Selected Color:
+RGB (Red, Green, Blue)
+Red
+Green
+Blue
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_colors_colors_picker.asp_0.gif
+www.w3schools.com_colors_colors_picker.asp_1.png
+www.w3schools.com_colors_colors_picker.asp_2.png

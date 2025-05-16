@@ -1,0 +1,295 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+Stemming vs Lemmatization in NLP: Must-Know Differences
+In Natural Language Processing (NLP), Lemmatization and Stemming are essential Text Normalization techniques used to prepare words, text, and documents for further processing. These methods simplify and standardize language, enhancing the efficiency of NLP applications. Languages like English and Hindi often contain derived or inflected words, where one word originates from another (e.g., “historical” from “history”). The degree of inflection varies across languages, but all inflected words share a common root form. Stemming and Lemmatization are employed to extract these root forms, with each method offering distinct approaches to handling word variations. In this article you will get to know all about the stemming vs lemmatization in NLPm why we need stemming and what is lemmatization in NLP.
+This article was published as a part of theData Science Blogathon.
+Table of contents
+What is Stemming in NLP?
+Why we Need Stemming?
+Code for Stemming ExplainedImport LibrariesGet the InputTokenization (step before stemming)Stemming
+Import Libraries
+Get the Input
+Tokenization (step before stemming)
+Stemming
+What is Lemmatization in NLP?
+Code for Lemmatization ExplainedImport LibrariesGet the InputTokenization (step before stemming)Lemmatization
+Import Libraries
+Get the Input
+Tokenization (step before stemming)
+Lemmatization
+Difference between stemming Vs. lemmatization
+How Stemming Works?
+How Lemmatization works?
+Should I use both stemming and lemmatization?
+Frequently Asked Questions
+What is Stemming in NLP?
+It is the process of reducing infected words to their stem. For instance, in figure 1, stemming with replace words “history” and “historical” with“histori”.Similarly, for the words finally and final.
+Stemming is the process of removing the last few characters of a given word, to obtain a shorter form, even if that form doesn’t have any meaning in machine learning.
+Checkout this article about for BeginnersIntroduction to Stemming in Natural Language Processing
+Why we Need Stemming?
+InNLPuse cases such as sentiment analysis, spam classification, restaurant reviews etc., getting base word is important to know whether the word is positive or negative. Stemming is used to get that base word.
+Code for Stemming Explained
+This section will help you in stemming of paragraph using NLTK which can be used in various use cases such as sentiment analysis, etc.
+So let’s get started:
+Note:It is highly recommended to use google colab to run this code.
+Import Libraries
+Import libraries that will be required for stemming.
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+Get the Input
+The paragraph will be taken as input and used for stemming.
+paragraph = """
+    I have three visions for India. In 3000 years of our history,
+    people from all over the world have come and invaded us, captured our  lands, conquered our minds.
+    From Alexander onwards, the Greeks, the Turks, the Moguls, the Portuguese, the British,
+    the French, the Dutch, all of them came and looted us, took over what was ours.
+    Yet we have not done this to any other nation. We have not conquered anyone.
+    We have not grabbed their land, their culture,
+    their history and tried to enforce our way of life on them.
+    """
+paragraph = """
+    I have three visions for India. In 3000 years of our history,
+    people from all over the world have come and invaded us, captured our  lands, conquered our minds.
+    From Alexander onwards, the Greeks, the Turks, the Moguls, the Portuguese, the British,
+    the French, the Dutch, all of them came and looted us, took over what was ours.
+    Yet we have not done this to any other nation. We have not conquered anyone.
+    We have not grabbed their land, their culture,
+    their history and tried to enforce our way of life on them.
+    """
+Tokenization (step before stemming)
+Before, stemming, tokenization is done so as to break text into chunks. In this case, paragraph to sentences for easy computation.
+As can be seen from output paragraph is divided into sentences based on “.” .
+Stemming
+In the code given below, one sentence is taken at a time and wordtokenizationis applied i.e., converting sentence to words. After that, stopwords (such as the, and, etc) are ignored and stemming is applied on all other words. Finally, stem words are joined to make a sentence.
+Note: Stopwords are the words that do not add any value to the sentence.
+Python Code:
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
+
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+
+paragraph = """I have three visions for India. In 3000 years of our history, people from all over  the world have come and invaded us, captured our lands, conquered our minds.  From Alexander onwards, the Greeks, the Turks, the Moguls, the Portuguese, the British, the French, the Dutch, all of them came and looted us, took over what was ours.  Yet we have not done this to any other nation. We have not conquered anyone. We have not grabbed their land, their culture, their history and tried to enforce our way of life on them.  """
+
+sentences = nltk.sent_tokenize(paragraph)
+print(sentences)
+
+
+print("\n\n Result after Stemming \n\n")
+stemmer = nltk.PorterStemmer()
+# Stemming
+for i in range(len(sentences)):
+    words = nltk.word_tokenize(sentences[i])
+    words = [stemmer.stem(word) for word in words if word not in set(stopwords.words('english'))]
+    sentences[i] = ' '.join(words)
+
+print(sentences)
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
+
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+
+paragraph = """I have three visions for India. In 3000 years of our history, people from all over  the world have come and invaded us, captured our lands, conquered our minds.  From Alexander onwards, the Greeks, the Turks, the Moguls, the Portuguese, the British, the French, the Dutch, all of them came and looted us, took over what was ours.  Yet we have not done this to any other nation. We have not conquered anyone. We have not grabbed their land, their culture, their history and tried to enforce our way of life on them.  """
+
+sentences = nltk.sent_tokenize(paragraph)
+print(sentences)
+
+
+print("\n\n Result after Stemming \n\n")
+stemmer = nltk.PorterStemmer()
+# Stemming
+for i in range(len(sentences)):
+    words = nltk.word_tokenize(sentences[i])
+    words = [stemmer.stem(word) for word in words if word not in set(stopwords.words('english'))]
+    sentences[i] = ' '.join(words)
+
+print(sentences)
+From the above output, we can see that stopwords such as have, for have been removed from sentence one. The word “visions” have been converted to “vision, “history” to “histori” by stemming.
+What is Lemmatization in NLP?
+The purpose of lemmatization is same as that ofstemmingbut overcomes the drawbacks of stemming. In stemming, for some words, it may not give may not give meaningful representation such as “Histori”. Here, lemmatization comes into picture as it gives meaningful word.
+Lemmatization takes more time as compared to stemming because it finds meaningful word/ representation. Stemming just needs to get a base word and therefore takes less time.
+Stemming has its application inSentiment Analysiswhile Lemmatization has its application in Chatbots, human-answering.
+Code for Lemmatization Explained
+On similar lines of stemming, we will import libraries get input for lemmatization.
+Import Libraries
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('wordnet')
+from nltk.stem import WordNetLemmatizer
+from nltk.corpus import stopwords
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('wordnet')
+from nltk.stem import WordNetLemmatizer
+from nltk.corpus import stopwords
+Get the Input
+paragraph = """I have three visions for India. In 3000 years of our history, people from all over 
+               the world have come and invaded us, captured our lands, conquered our minds. 
+               From Alexander onwards, the Greeks, the Turks, the Moguls, the Portuguese, the British,
+               the French, the Dutch, all of them came and looted us, took over what was ours. 
+               Yet we have not done this to any other nation. We have not conquered anyone. 
+               We have not grabbed their land, their culture, 
+               their history and tried to enforce our way of life on them. 
+               """
+paragraph = """I have three visions for India. In 3000 years of our history, people from all over 
+               the world have come and invaded us, captured our lands, conquered our minds. 
+               From Alexander onwards, the Greeks, the Turks, the Moguls, the Portuguese, the British,
+               the French, the Dutch, all of them came and looted us, took over what was ours. 
+               Yet we have not done this to any other nation. We have not conquered anyone. 
+               We have not grabbed their land, their culture, 
+               their history and tried to enforce our way of life on them. 
+               """
+Tokenization (step before stemming)
+sentences = nltk.sent_tokenize(paragraph)
+print(sentences)
+sentences = nltk.sent_tokenize(paragraph)
+print(sentences)
+Output:
+Lemmatization
+The difference between stemming and lemmatization comes in this step where WordNetLemmatizer() is used instead of PorterStemmer(). Rest of steps are the same.
+lemmatizer = WordNetLemmatizer()
+# Lemmatization
+for i in range(len(sentences)):
+    words = nltk.word_tokenize(sentences[i])
+    words = [lemmatizer.lemmatize(word) for word in words if word not in set(stopwords.words('english'))]
+    sentences[i] = ' '.join(words)
+lemmatizer = WordNetLemmatizer()
+# Lemmatization
+for i in range(len(sentences)):
+    words = nltk.word_tokenize(sentences[i])
+    words = [lemmatizer.lemmatize(word) for word in words if word not in set(stopwords.words('english'))]
+    sentences[i] = ' '.join(words)
+Get the Output
+print(sentences)
+print(sentences)
+Output:
+In above output, it can be noticed that although word “visions” have been converted to “vision” but word “history” remained “history” unlike stemming and thus retained its meaning.
+Difference between stemming Vs. lemmatization
+Stemming
+Lemmatization
+Stemmingis a process that stems or removes last few characters from a word, often leading to incorrect meanings and spelling.
+Lemmatizationconsiders the context and converts the word to its meaningful base form, which is called Lemma.
+For instance, stemming the word ‘Caring‘ would return ‘Car‘.
+For instance, lemmatizing the word ‘Caring‘ would return ‘Care‘.
+Stemming is used in case of large dataset where performance is an issue.
+Lemmatization is computationally expensive since it involves look-up tables and what not.
+How Stemming Works?
+Stemming is a linguistic normalization process innatural language processingand information retrieval. Its primary goal is to reduce words to their base or root form, known as the stem. Stemming helps group words with similar meanings or roots together, even if they have different inflections, prefixes, or suffixes.
+The process involves removing common affixes (prefixes, suffixes) from words, resulting in a simplified form that represents the word’s core meaning. Stemming is a heuristic process and may only sometimes produce a valid word. Still, it is effective for tasks like information retrieval, where the focus is on matching the essential meaning of words rather than their grammatical correctness.
+For example:
+Running -> Run
+Jumps -> Jump
+Swimming -> Swim
+Stemming algorithms use various rules and heuristics to identify and remove affixes, making them widely applicable in text-processing tasks to enhance information retrieval and analysis.
+How Lemmatization works?
+Lemmatization is a linguistic process that involves reducing words to their base or root form, known as the lemma. The goal is to normalize different inflected forms of a word so that they can be analyzed or compared more easily. This is particularly useful in natural language processing (NLP) and text analysis.
+Here’s how lemmatization generally works:
+Tokenization: The first step is to break down a text into individual words or tokens. This can be done using various methods, such as splitting the text based on spaces.
+POS Tagging: Parts-of-speech tagging involves assigning a grammatical category (like noun, verb, adjective, etc.) to each token. Lemmatization often relies on this information, as the base form of a word can depend on its grammatical role in a sentence.
+Lemmatization: Once each word has been tokenized and assigned a part-of-speech tag, the lemmatization algorithm uses a lexicon or linguistic rules to determine the lemma of each word. The lemma is the base form of the word, which may not necessarily be the same as the word’s root. For example, the lemma of “running” is “run,” and the lemma of “better” (in the context of an adjective) is “good.”
+Applying Rules: Lemmatization algorithms often rely on linguistic rules and patterns. For irregular verbs or words with multiple possible lemmas, these rules help in making the correct lemmatization decision.
+Output: The result of lemmatization is a set of words in their base or dictionary form, making it easier to analyze and understand the underlying meaning of a text.
+Lemmatization is distinct from stemming, another text normalization technique. While stemming involves chopping off prefixes or suffixes from words to obtain a common root, lemmatization aims for a valid base form through linguistic analysis. Lemmatization tends to be more accurate but can be computationally more expensive than stemming.
+Should I use both stemming and lemmatization?
+Here’s a step-by-step process to help you decide between stemming and lemmatization for your text preprocessing task.
+Define Your Needs:What is the goal of your text processing? Are you looking for similar concepts, such as identifying synonyms, or focusing on preserving exact meaning and grammatical function using embeddings in artificial intelligence?How important is speed and efficiency? Do you have a large dataset and need fast processing, or is accuracy the top priority?
+Consider the Trade-Offs:Stemming:Faster, but may create unrecognizable words and lose meaning. This is known as “over stemming.”Lemmatization:More accurate, preserves meaning and grammatical function, but slower. It is often used to maintain related words.
+Stemming:Faster, but may create unrecognizable words and lose meaning. This is known as “over stemming.”
+Lemmatization:More accurate, preserves meaning and grammatical function, but slower. It is often used to maintain related words.
+Choose Based on Your Needs:If speed is crucial and you’re okay with some loss of meaning: Use stemming.If accuracy is essential and you can afford slower processing: Use lemmatization.
+If speed is crucial and you’re okay with some loss of meaning: Use stemming.
+If accuracy is essential and you can afford slower processing: Use lemmatization.
+Optional: Experiment with BothIf unsure, try both stemming and lemmatization on a small sample of your data. Evaluate the results based on your specific task requirements, such as whether you need embeddings to accurately capture the relationships between related words.
+Refine Your Approach:Based on the results, decide if stemming or lemmatization is a better fit. Consider a two-step approach: stemming for initial data reduction, followed by lemmatization on the smaller refined set (if processing time allows).
+Conclusion
+One thing to note is that a lot of knowledge and understanding about the structure of language is required for lemmatization. Hence, in any new language, creating a stemmer is easier than a lemmatization algorithm. When considering stemming vs lemmatization, it becomes evident that stemming focuses on removing prefixes and suffixes to achieve word stems, making it a more straightforward process, while lemmatization involves understanding the root form of words, demanding a deeper linguistic comprehension.
+Lemmatization and Stemming are the foundation of derived (inflected) words and hence the only difference between lemma and stem is that lemma is an actual word whereas, the stem may not be an actual language word.Lemmatization uses a corpus to attain a lemma, making it slower than stemming. Further, to get the proper lemma, you might have to define a parts-of-speech. Whereas, in stemming a step-wise algorithm is followed making it faster.
+Hope you like the article! Lemmatization in NLP helps simplify words to their basic forms. Knowing the difference between stemming and lemmatization is important for better understanding and working with language in text analysis.
+Frequently Asked Questions
+A. The choice depends on the specific use case. Lemmatization produces a linguistically valid word while stemming is faster but may generate non-words.
+A. As an AI language model, I can perform both stemming and lemmatization based on the task’s requirements or context.
+A. Stemming chops off word endings without considering linguistic context, making it computationally faster. Lemmatization analyzes word forms to determine the base or dictionary form, which takes more processing time.
+A. Stemming and lemmatization are used in natural language processing tasks such as information retrieval, text mining, sentiment analysis, and search engines to reduce words to their base or root forms for better analysis and understanding.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+Automated Text Summarization with Sumy Library
+Automated Text Summarization with Sumy Library
+A Comprehensive Guide for Interview Questions o...
+A Comprehensive Guide for Interview Questions o...
+Part 4: Step by Step Guide to Master NLP –...
+Part 4: Step by Step Guide to Master NLP –...
+An Introduction to Stemming in Natural Language...
+An Introduction to Stemming in Natural Language...
+NLP Essentials: Removing Stopwords and Performi...
+NLP Essentials: Removing Stopwords and Performi...
+Text Preprocessing in NLP with Python Codes
+Text Preprocessing in NLP with Python Codes
+Essential Text Pre-processing Techniques for NLP!
+Essential Text Pre-processing Techniques for NLP!
+Pre-Processing of Text Data in NLP
+Pre-Processing of Text Data in NLP
+A Guide to Perform 5 Important Steps of NLP Usi...
+A Guide to Perform 5 Important Steps of NLP Usi...
+Responses From Readers
+the FAQs are written with the help of Chatgpt.
+This is a very helpful read. Very well explained.
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+www.analyticsvidhya.com_blog_2022_06_stemming-vs-lemmatization-in-nlp-must-know-differences__0.webp
+www.analyticsvidhya.com_blog_2022_06_stemming-vs-lemmatization-in-nlp-must-know-differences__1.webp
+www.analyticsvidhya.com_blog_2022_06_stemming-vs-lemmatization-in-nlp-must-know-differences__2.webp
+www.analyticsvidhya.com_blog_2022_06_stemming-vs-lemmatization-in-nlp-must-know-differences__3.webp
+www.analyticsvidhya.com_blog_2022_06_stemming-vs-lemmatization-in-nlp-must-know-differences__4.webp
+www.analyticsvidhya.com_blog_2022_06_stemming-vs-lemmatization-in-nlp-must-know-differences__5.webp
+www.analyticsvidhya.com_blog_2022_06_stemming-vs-lemmatization-in-nlp-must-know-differences__6.webp
+www.analyticsvidhya.com_blog_2022_06_stemming-vs-lemmatization-in-nlp-must-know-differences__7.webp

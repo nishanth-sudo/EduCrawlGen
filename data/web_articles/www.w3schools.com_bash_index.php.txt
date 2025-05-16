@@ -1,0 +1,93 @@
+BashTutorial
+Basic Commands
+Text Processing
+System Monitoring
+Networking
+File Compression
+File Permissions
+Scripting
+Exercises and Quiz
+BashTutorial
+Learn Bash
+Bash is used to write scripts and run commands on Linux systems.
+It helps automate tasks, manage system operations, and boost productivity.
+Understanding Shells
+A shell is a text-based interface that lets you talk to your computer.
+There are different types of shells, but Bash (Bourne Again SHell) is the most popular because it's powerful and easy to use.
+Types of Shells:
+Bourne Shell (sh):The original Unix shell, developed by Stephen Bourne.
+C Shell (csh):Known for its C-like syntax, popular for interactive use.
+Korn Shell (ksh):Combines features of sh and csh, offering advanced scripting capabilities.
+Bash (Bourne Again SHell):An improved version of sh, with additional features like command history and tab completion.
+Why Use Bash?
+It is widely available on Unix/Linux systems, making scripts portable.
+Supports powerful scripting features, including loops, conditionals, and functions.
+Provides command history and tab completion for ease of use.
+Can be integrated with other Unix/Linux tools for automation.
+Learning by Examples
+In this tutorial, we will show you Bash commands like this:
+Example
+bash --version
+GNU bash, version 5.2.21(1)-release (x86_64-pc-linux-gnu)
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+bash --version
+GNU bash, version 5.2.21(1)-release (x86_64-pc-linux-gnu)
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+For new users, using the terminal view can seem a bit complicated.
+Don't worry! We will keep it really simple, and learning this way gives you a good grasp of how Bash works.
+In the code above, you can see commands (input) and output.
+Lines like this are commands we input:
+Example
+bash --version
+bash --version
+Lines like this are the output/response to our commands:
+Example
+GNU bash, version 5.2.21(1)-release (x86_64-pc-linux-gnu)
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+GNU bash, version 5.2.21(1)-release (x86_64-pc-linux-gnu)
+Copyright (C) 2022 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+In general, lines with$in front of it is input. These are the commands you can copy and run in your terminal.
+$
+Bash Exercises
+Many chapters in this tutorial end with an exercise where you can check your level of knowledge.
+See all Bash Exercises
+Bash Quiz
+Learn by taking a quiz! The quiz will give you a signal of how much you know about Bash.
+Start Bash Quiz
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_bash_index.php_0.png
+www.w3schools.com_bash_index.php_1.png

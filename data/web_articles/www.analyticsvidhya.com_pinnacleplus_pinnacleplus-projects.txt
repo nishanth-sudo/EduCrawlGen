@@ -1,0 +1,354 @@
+20% off
+GenAIPinnacle PlusProgram
+Master Generative AI & AI Agents with 50+ Hands-On Projects
+Master GenAI & AI Agents: Build expertise with 50+ hands-on, real-world projects.
+Real-World Projects: Solve diverse challenges, from AI Agents to GenAI solutions.
+Guided Projects: Follow step-by-step instructions to build & deploy AI Agents.
+Become a GenAI and Agentic AI Expert : Start Now
+50+ GenAI Projects & AI Agents to Turn Theory into Practice
+Master ChatGPT, Build RAG Systems, and Develop AI Agents- These 50+ Projects Drive Innovation
+Learning Objective:
+Train and evaluate LLMs from scratch
+Learn LLM best practices and setup
+Implement advanced computing strategies
+Training Large Language Models
+Build Large Language Models (LLMs) like GPT-3.5 from scratch
+Learning Objective:
+Master building a ChatGPT-like LLM
+Apply pretraining, finetuning, RLHF
+Learn dialogue-optimized LLM practices
+ChatGPT Model Building
+Develop a personalized ChatGPT model, starting from the basics up
+Learning Objective:
+Create a RAG-based QA Chatbot
+Develop apps end-to-end with LangChain and Streamlit
+Integrate app UI and backend seamlessly
+Building end-to-end RAG Apps
+Craft RAG-based chatbots and Full-stack Applications with Integrated Frontend-backend synchronization
+Learning Objective:
+Construct Conversational Bots with LLMs including ChatGPT
+Develop AI Instruments and Agents via LangChain
+Establish and Manage LLM Applications using LangChain
+Build Conversational Apps and Agents
+Create advanced conversational interfaces and intelligent Agents with LLMs and LangChain Technology
+Learning Objective:
+Enhance search accuracy in RAG systems through reranking
+Apply RAG system techniques from cutting-edge studies
+Construct RAG systems for diverse data types including tables, text, and images
+Advanced RAG System Development
+Master precision in RAG systems across various data formats with State-of-the-art Techniques
+Learning Objective:
+Master prompt engineering techniques
+Build chatbots using ChatGPT API
+Implement LLMs on private data
+Prompt-Driven LLM Apps
+Develop your own LLM Application using Prompt Engineering
+Learning Objective:
+Build RAG systems using LlamaIndex
+Explore advanced LlamaIndex components
+Fine-tune embeddings and retrieval
+RAG System Development
+Create a production ready RAG systems on your private data
+Learning Objective:
+Efficient LLM finetuning with PEFT
+Apply LoRA, QLoRA, soft prompting
+Build instruction-following LLMs
+LLM PEFT Finetuning
+Finetuning LLMs using Soft Prompting, Adaptor techniques using PEFT
+Learning Objective:
+Fine-tune Stable Diffusion for datasets
+Apply best practices in customization
+Understand Stable Diffusion intricacies
+Customized Diffusion Model Tuning
+Finetune your own Stable Diffusion Models on custom dataset
+Learning Objective:
+Build Text to Image models with DreamBooth
+Implement DreamBooth on personal datasets
+Create context-specific visual models
+DreamBooth Image Creation
+Build your own personalized Text to Image models using DreamBooth
+Learning Objective:
+Fine-tune diffusion models with ControlNets
+Optimize InstructPix2Pix in diffusion models
+Tailor models for specific datasets
+Diffusion Model Refinement
+Finetune Diffusion models using ControlNets and InstructPix2Pix models
+GenAI Savings Offer
+Flat 25% Off
+Unlock Your GenAI & Agent AI Potential with Our Extended GenAI Savings Offer!
+Use Code SAVE25 and Transform Your AI Journey.
+Enrollment closes in
+1Day
+1
+Day
+5Hr
+5
+Hr
+35Min
+35
+Min
+20Sec
+20
+Sec
+Contact Us Today
+Take the first step towards a future of innovation & excellence with Analytics Vidhya
+Upskill, Reskill, Thrive
+Get Expert Guidance
+Need support? We've got your back anytime!
++91-935471124010AM - 7PM (IST) Mon-Sun
++91-9354711240
+[email protected]You'll hear back from us in 24 hours.
+[email protected]
+We use cookies essential for this site to function well. Please click to help us improve its usefulness with additional cookies. Learn about our use of cookies in ourPrivacy Policy&Cookies Policy.
+Show details
+Powered By
+Cookies
+This site uses cookies to ensure that you get the best experience possible. To learn more about how we use cookies, please refer to ourPrivacy Policy&Cookies Policy.
+brahmaid
+It is needed for personalizing the website.
+Expiry:Session
+Type:HTTP
+csrftoken
+This cookie is used to prevent Cross-site request forgery (often abbreviated as CSRF) attacks of the website
+Expiry:Session
+Type:HTTPS
+Identityid
+Preserves the login/logout state of users across the whole site.
+Expiry:Session
+Type:HTTPS
+sessionid
+Preserves users' states across page requests.
+Expiry:Session
+Type:HTTPS
+g_state
+Google One-Tap login adds this g_state cookie to set the user status on how they interact with the One-Tap modal.
+Expiry:365 days
+Type:HTTP
+MUID
+Used by Microsoft Clarity, to store and track visits across websites.
+Expiry:1 Year
+Type:HTTP
+_clck
+Used by Microsoft Clarity, Persists the Clarity User ID and preferences, unique to that site, on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.
+Expiry:1 year
+Type:HTTP
+_clsk
+Used by Microsoft Clarity, Connects multiple page views by a user into a single Clarity session recording.
+Expiry:1 Day
+Type:HTTP
+SRM_I
+Collects user data is specifically adapted to the user or device. The user can also be followed outside of the loaded website, creating a picture of the visitor's behavior.
+Expiry:2 years
+Type:HTTP
+SM
+Use to measure the use of the website for internal analytics
+Expiry:1 years
+Type:HTTP
+CLID
+The cookie is set by embedded Microsoft Clarity scripts. The purpose of this cookie is for heatmap and session recording.
+Expiry:1 year
+Type:HTTP
+SRM_B
+Collected user data is specifically adapted to the user or device. The user can also be followed outside of the loaded website, creating a picture of the visitor's behavior.
+Expiry:2 months
+Type:HTTP
+_gid
+This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected includes the number of visitors, the source where they have come from, and the pages visited in an anonymous form.
+Expiry:399 days
+Type:HTTP
+_ga_#
+Used by Google Analytics, to store and count pageviews.
+Expiry:399 Days
+Type:HTTP
+_gat_#
+Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+Expiry:1 day
+Type:HTTP
+collect
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Expiry:Session
+Type:PIXEL
+AEC
+cookies ensure that requests within a browsing session are made by the user, and not by other sites.
+Expiry:6 months
+Type:HTTP
+G_ENABLED_IDPS
+use the cookie when customers want to make a referral from their gmail contacts; it helps auth the gmail account.
+Expiry:2 years
+Type:HTTP
+test_cookie
+This cookie is set by DoubleClick (which is owned by Google) to determine if the website visitor's browser supports cookies.
+Expiry:1 year
+Type:HTTP
+_we_us
+this is used to send push notification using webengage.
+Expiry:1 year
+Type:HTTP
+WebKlipperAuth
+used by webenage to track auth of webenagage.
+Expiry:session
+Type:HTTP
+ln_or
+Linkedin sets this cookie to registers statistical data on users' behavior on the website for internal analytics.
+Expiry:1 day
+Type:HTTP
+JSESSIONID
+Use to maintain an anonymous user session by the server.
+Expiry:1 year
+Type:HTTP
+li_rm
+Used as part of the LinkedIn Remember Me feature and is set when a user clicks Remember Me on the device to make it easier for him or her to sign in to that device.
+Expiry:1 year
+Type:HTTP
+AnalyticsSyncHistory
+Used to store information about the time a sync with the lms_analytics cookie took place for users in the Designated Countries.
+Expiry:6 months
+Type:HTTP
+lms_analytics
+Used to store information about the time a sync with the AnalyticsSyncHistory cookie took place for users in the Designated Countries.
+Expiry:6 months
+Type:HTTP
+liap
+Cookie used for Sign-in with Linkedin and/or to allow for the Linkedin follow feature.
+Expiry:6 months
+Type:HTTP
+visit
+allow for the Linkedin follow feature.
+Expiry:1 year
+Type:HTTP
+li_at
+often used to identify you, including your name, interests, and previous activity.
+Expiry:2 months
+Type:HTTP
+s_plt
+Tracks the time that the previous page took to load
+Expiry:Session
+Type:HTTP
+lang
+Used to remember a user's language setting to ensure LinkedIn.com displays in the language selected by the user in their settings
+Expiry:Session
+Type:HTTP
+s_tp
+Tracks percent of page viewed
+Expiry:Session
+Type:HTTP
+AMCV_14215E3D5995C57C0A495C55%40AdobeOrg
+Indicates the start of a session for Adobe Experience Cloud
+Expiry:Session
+Type:HTTP
+s_pltp
+Provides page name value (URL) for use by Adobe Analytics
+Expiry:Session
+Type:HTTP
+s_tslv
+Used to retain and fetch time since last visit in Adobe Analytics
+Expiry:6 months
+Type:HTTP
+li_theme
+Remembers a user's display preference/theme setting
+Expiry:6 months
+Type:HTTP
+li_theme_set
+Remembers which users have updated their display / theme preferences
+Expiry:6 months
+Type:HTTP
+_gcl_au
+Used by Google Adsense, to store and track conversions.
+Expiry:3 months
+Type:HTTP
+SID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+SAPISID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+__Secure-#
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+APISID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+SSID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+HSID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+DV
+These cookies are used for the purpose of targeted advertising.
+Expiry:6 hours
+Type:HTTP
+NID
+These cookies are used for the purpose of targeted advertising.
+Expiry:1 month
+Type:HTTP
+1P_JAR
+These cookies are used to gather website statistics, and track conversion rates.
+Expiry:1 month
+Type:HTTP
+OTZ
+Aggregate analysis of website visitors
+Expiry:6 months
+Type:HTTP
+_fbp
+This cookie is set by Facebook to deliver advertisements when they are on Facebook or a digital platform powered by Facebook advertising after visiting this website.
+Expiry:4 months
+Type:HTTP
+fr
+Contains a unique browser and user ID, used for targeted advertising.
+Expiry:2 months
+Type:HTTP
+bscookie
+Used by LinkedIn to track the use of embedded services.
+Expiry:1 year
+Type:HTTP
+lidc
+Used by LinkedIn for tracking the use of embedded services.
+Expiry:1 day
+Type:HTTP
+bcookie
+Used by LinkedIn to track the use of embedded services.
+Expiry:6 months
+Type:HTTP
+aam_uuid
+Use these cookies to assign a unique ID when users visit a website.
+Expiry:6 months
+Type:HTTP
+UserMatchHistory
+These cookies are set by LinkedIn for advertising purposes, including: tracking visitors so that more relevant ads can be presented, allowing users to use the 'Apply with LinkedIn' or the 'Sign-in with LinkedIn' functions, collecting information about how visitors use the site, etc.
+Expiry:6 months
+Type:HTTP
+li_sugr
+Used to make a probabilistic match of a user's identity outside the Designated Countries
+Expiry:90 days
+Type:HTTP
+MR
+Used to collect information for analytics purposes.
+Expiry:1 year
+Type:HTTP
+ANONCHK
+Used to store session ID for a users session to ensure that clicks from adverts on the Bing search engine are verified for reporting purposes and for personalisation
+Expiry:1 day
+Type:HTTP
+Cookie declaration last updated on 24/03/2023 by Analytics Vidhya.
+Cookies are small text files that can be used by websites to make a user's experience more efficient. The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies, we need your permission. This site uses different types of cookies. Some cookies are placed by third-party services that appear on our pages. Learn more about who we are, how you can contact us, and how we process personal data in ourPrivacy Policy.
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+AI Battlefield
+MCQ Based Skill Test
+Win upto INR 1,00,000*
+*Terms and conditions apply
+
+[Images saved with this article:]
+www.analyticsvidhya.com_pinnacleplus_pinnacleplus-projects_0.png

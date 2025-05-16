@@ -1,0 +1,599 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+What is Tokenization in NLP? Here’s All You Need To Know
+Language is a thing of beauty. But mastering a new language from scratch is quite a daunting prospect. If you’ve ever picked up a language that wasn’t your mother tongue, you’ll relate to this! There are so many layers to peel off and syntaxes to consider – it’s quite a challenge to learn what us tokenization NLP.
+And that’s exactly the way with our machines. In order to get our computer to understand any text, we need to break that word down in a way that our machine can understand. That’s where the concept of tokenization in Natural Language Processing (NLP) comes in. This process involves breaking down the text into smaller units called tokens. What is tokenization in NLP is essential for various NLP tasks like text classification, named entity recognition, and sentiment analysis.
+Simply put, we can’t work with text data if we don’t perform tokenization. Yes, it’s really that important!
+And here’s the intriguing thing about tokenization – it’s notjustabout breaking down the text. Tokenization plays a significant role in dealing with text data. So in this article, we will explore the depths of tokenization in Natural Language Processing and how you can implement it in Python. Also, you will get to know about the what is tokenization and types of tokenization in NLP.
+In this article, you will learn about tokenization in Python, explore a practical tokenization example, and follow a comprehensive tokenization tutorial in NLP. By the end, you’ll have a solid understanding of how to effectively break down text for analysis.
+Learning Objectives:
+Understand the concept and importance of tokenization in NLP
+Learn different types of tokenization (word, character, subword)
+Explore advanced tokenization techniques like BPE and SentencePiece
+Gain practical knowledge of implementing tokenization in Python
+I recommend taking some time to go through the below resource if you’re new to NLP:
+Introduction to Natural Language Processing (NLP)
+Table of contents
+A Quick Rundown of Tokenization
+What is tokenization?
+Types of tokenization in nlp
+The True Reasons behind Tokenization
+Which Tokenization Should you use?Word TokenizationCharacter TokenizationDrawbacks of Character Tokenization
+Word Tokenization
+Character Tokenization
+Drawbacks of Character Tokenization
+Tokenization Libraries and Tools in PythonNLTK (Natural Language Toolkit)spaCyHugging Face Tokenizers
+NLTK (Natural Language Toolkit)
+spaCy
+Hugging Face Tokenizers
+Subword TokenizationWelcome to Byte Pair Encoding (BPE)
+Welcome to Byte Pair Encoding (BPE)
+Implementing Tokenization – Byte Pair Encoding in Python
+Advanced Tokenization TechniquesByte-Level Byte-Pair Encoding (BPE)SentencePiece TokenizationWordPiece TokenizationUnigram Language Model Tokenization
+Byte-Level Byte-Pair Encoding (BPE)
+SentencePiece Tokenization
+WordPiece Tokenization
+Unigram Language Model Tokenization
+Conclusion
+Frequently Asked Questions
+A Quick Rundown of Tokenization
+Tokenization is a common task in Natural Language Processing (NLP). It’s a fundamental step in both traditional NLP methods like Count Vectorizer and Advanced Deep Learning-based architectures likeTransformers.
+Tokens are the building blocks of Natural Language.
+Tokenization is a way of separating a piece of text into smaller units called tokens. Here, tokens can be either words, characters, or subwords. Hence, tokenization can be broadly classified into 3 types – word, character, and subword (n-gram characters) tokenization.
+For example, consider the sentence: “Never give up”.
+The most common way of forming tokens is based on space. Assuming space as a delimiter, the tokenization of the sentence results in 3 tokens – Never-give-up. As each token is a word, it becomes an example of Word tokenization.
+Similarly, tokens can be either characters or subwords. For example, let us consider “smarter”:
+Character tokens: s-m-a-r-t-e-r
+Subword tokens: smart-er
+But then is this necessary? Do we really need tokenization to do all of this?
+Note: If you are new to NLP, check out ourNLP Course Online
+What is tokenization?
+Tokenization is the process of breaking down a piece of text, like a sentence or a paragraph, into individual words or “tokens.” These tokens are the basic building blocks of language, and tokenization helps computers understand and process human language by splitting it into manageable units.
+For example, tokenizing the sentence “I love ice cream” would result in three tokens: “I,” “love,” and “ice cream.” It’s a fundamental step in natural language processing and text analysis tasks.
+Types of tokenization in nlp
+Here is types of tokenization in nlp:
+Word Tokenization:Common for languages with clear separation (e.g., English).
+Character Tokenization:Useful for languages without clear separation or for very detailed analysis.
+Subwords Tokenization:Smaller than words, but bigger than characters (useful for complex languages or unknown words).
+The True Reasons behind Tokenization
+As tokens are the building blocks of Natural Language, the most common way of processing the raw text happens at the token level.
+For example, Transformer based models – the State of The Art (SOTA)Deep Learningarchitectures in NLP – process the raw text at the token level. Similarly, the most popular deep learning architectures for NLP like RNN, GRU, and LSTM also process the raw text at the token level.
+As shown here, RNN receives and processes each token at a particular timestep.
+Hence, Tokenization is the foremost step while modeling text data. Tokenization is performed on the corpus to obtain tokens. The following tokens are then used to prepare a vocabulary. Vocabulary refers to the set of unique tokens in the corpus. Remember that vocabulary can be constructed by considering each unique token in the corpus or by considering the top K Frequently Occurring Words.
+Creating Vocabulary is the ultimate goal of Tokenization.
+One of the simplest hacks to boost the performance of the NLP model is to create a vocabulary out of top K frequently occurring words.
+Now, let’s understand the usage of the vocabulary in Traditional and Advanced Deep Learning-based NLP methods.
+Traditional NLP approaches such as Count Vectorizer and TF-IDF use vocabulary as features. Each word in the vocabulary is treated as a unique feature:
+In Advanced Deep Learning-based NLP architectures, vocabulary is used to create the tokenized input sentences. Finally, the tokens of these sentences are passed as inputs to the model
+Which Tokenization Should you use?
+As discussed earlier, tokenization can be performed on word, character, or subword level. It’s a common question – which Tokenization should we use while solving an NLP task? Let’s address this question here.
+Word Tokenization
+Word Tokenization is the most commonly used tokenization algorithm. It splits a piece of text into individual words based on a certain delimiter. Depending upon delimiters, different word-level tokens are formed.Pretrained Word Embeddingssuch as Word2Vec and GloVe comes under word tokenization.
+But, there are few drawbacks to this.
+Drawbacks of Word Tokenization
+One of the major issues with word tokens is dealing withOut Of Vocabulary (OOV) words. OOV words refer to the new words which are encountered at testing. These new words do not exist in the vocabulary. Hence, these methods fail in handling OOV words.
+But wait – don’t jump to any conclusions yet!
+A small trick can rescue word tokenizers from OOV words. The trick is to form the vocabulary with the Top K Frequent Words and replace the rare words in training data withunknowntokens (UNK). This helps the model to learn the representation of OOV words in terms of UNK tokens
+So, during test time, any word that is not present in the vocabulary will be mapped to a UNK token. This is how we can tackle the problem of OOV in word tokenizers.
+The problem with this approach is that the entire information of the word is lost as we are mapping OOV to UNK tokens. The structure of the word might be helpful in representing the word accurately. And another issue is that every OOV word gets the same representation
+Another issue with word tokens is connected to the size of the vocabulary. Generally, pre-trained models are trained on a large volume of the text corpus. So, just imagine building the vocabulary with all the unique words in such a large corpus. This explodes the vocabulary!
+This opens the door to Character Tokenization.
+Character Tokenization
+Character Tokenization splits apiece of text into a set of characters. It overcomes the drawbacks we saw above about Word Tokenization.
+Character Tokenizers handles OOV words coherently by preserving the information of the word. It breaks down the OOV word into characters and represents the word in terms of these characters
+It also limits the size of the vocabulary. Want to talk a guess on the size of the vocabulary? 26 since the vocabulary contains a unique set of characters
+Drawbacks of Character Tokenization
+Character tokens solve the OOV problem but the length of the input and output sentences increases rapidly as we are representing a sentence as a sequence of characters. As a result, it becomes challenging to learn the relationship between the characters to form meaningful words.
+This brings us to another tokenization known as Subword Tokenization which is in between a Word and Character tokenization.
+Also Read-What are Categorical Data Encoding Methods
+Tokenization Libraries and Tools in Python
+Python provides several powerful libraries and tools that make it easy to perform tokenization and text preprocessing for natural language processing tasks. Here are some of the most popular ones:
+NLTK (Natural Language Toolkit)
+NLTKis a suite of libraries and programs for symbolic and statistical natural language processing. It includes a wide range of tokenizers for different needs:
+word_tokenize: Tokenizes a string into word tokens.
+word_tokenize
+sent_tokenize: Tokenizes a string into sentence tokens.
+sent_tokenize
+WordPunctTokenizer: Tokenizes a string into word and punctuation tokens.
+WordPunctTokenizer
+TweetTokenizer: Tokenizer designed specifically for tokenizing tweets.
+TweetTokenizer
+NLTK tokenizers support different token types like words, punctuation, and provide functionality to filter out stopwords.
+spaCy
+spaCyis a popular open-source library for advanced natural language processing in Python. It provides highly efficient tokenization that accounts for linguistic structure and context:
+Multi-lingual tokenization support for over 50 languages.
+Contextual tokenization that handles rare/unknown words intelligently.
+Tokenization that preserves URLs, emails, emoticons as single tokens.
+Easy customization to add new rules for tokenizing domain-specific text.
+spaCy’s tokenization forms the base for its advanced NLP capabilities like named entity recognition, part-of-speech tagging, etc.
+Hugging Face Tokenizers
+TheHugging Face Tokenizerslibrary provides access to tokenizers from popular transformer models used for tasks like text generation, summarization, translation, etc. It includes:
+BERT’s WordPiece tokenizer
+GPT-2’s Byte-Level BPE tokenizer
+T5’s SentencePiece tokenizer
+And tokenizers from many other transformers
+This library allows you to use the same tokenization as pre-trained models, ensuring consistency between tokenization during pre-training andfine-tuning.
+Other Libraries
+There are also tokenization utilities in other Python data science and NLP libraries like:
+Gensim: Has basic tokenizers as part of its data preprocessing tools.
+Polyglot: Provides word, line, and character tokenizers for over 165 languages.
+PyThai: Library for tokenizing and processing Thai text.
+The choice of tokenization library depends on the specificNLP task, performance requirements, and whether you need special handling for languages, domains or data types.
+Subword Tokenization
+Subword Tokenization splits the piece of text into subwords (or n-gram characters). For example, words like lower can be segmented as low-er, smartest as smart-est, and so on.
+Transformed based models – the SOTA in NLP – rely on Subword Tokenization algorithms for preparing vocabulary. Now, I will discuss one of the most popular Subword Tokenization algorithm known as Byte Pair Encoding (BPE).
+Welcome to Byte Pair Encoding (BPE)
+Byte Pair Encoding (BPE) is a widely used tokenization method among transformer-based models. BPE addresses the issues of Word and Character Tokenizers:
+BPE tackles OOV effectively. It segments OOV as subwords and represents the word in terms of these subwords
+The length of input and output sentences after BPE are shorter compared to character tokenization
+BPE is a word segmentation algorithm that merges the most frequently occurring character or character sequences iteratively. Here is a step by step guide to learn BPE.
+Steps to learn BPE
+Split the words in the corpus into characters after appending </w>
+Initialize the vocabulary with unique characters in the corpus
+Compute the frequency of a pair of characters or character sequences in corpus
+Merge the most frequent pair in corpus
+Save the best pair to the vocabulary
+Repeat steps 3 to 5 for a certain number of iterations
+We will understand the steps with an example.
+Consider a corpus:
+1a) Append the end of the word (say </w>) symbol to every word in the corpus:
+1b) Tokenize words in a corpus into characters:
+2. Initialize the vocabulary:
+Iteration 1:
+3. Compute frequency:
+4. Merge the most frequent pair:
+5. Save the best pair:
+Repeat steps 3-5 for every iteration from now. Let me illustrate for one more iteration.
+Iteration 2:
+3. Compute frequency:
+4. Merge the most frequent pair:
+5. Save the best pair:
+After 10 iterations, BPE merge operations looks like:
+Pretty straightforward, right?
+Applying BPE to OOV words
+But, how can we represent the OOV word at test time using BPE learned operations? Any ideas? Let’s answer this question now.
+At test time, the OOV word is split into sequences of characters. Then the learned operations are applied to merge the characters into larger known symbols.
+– Neural Machine Translation of Rare Words with Subword Units, 2016
+Here is a step by step procedure for representing OOV words:
+Split the OOV word into characters after appending </w>
+Compute pair of character or character sequences in a word
+Select the pairs present in the learned operations
+Merge the most frequent pair
+Repeat steps 2 and 3 until merging is possible
+Let’s see all this in action next!
+Implementing Tokenization – Byte Pair Encoding in Python
+We are now aware of how BPE works – learning and applying to the OOV words. So, its time to implement our knowledge in Python.
+The python code for BPE is already available in the original paper itself (Neural Machine Translation of Rare Words with Subword Units, 2016)
+Reading Corpus
+We’ll consider a simple corpus to illustrate the idea of BPE. Nevertheless, the same idea applies to another corpus as well:
+#importing library
+import pandas as pd
+
+#reading .txt file
+text = pd.read_csv("sample.txt",header=None)
+
+#converting a dataframe into a single list 
+corpus=[]
+for row in text.values:
+    tokens = row[0].split(" ")
+    for token in tokens:
+        corpus.append(token)
+#importing library
+import pandas as pd
+
+#reading .txt file
+text = pd.read_csv("sample.txt",header=None)
+
+#converting a dataframe into a single list 
+corpus=[]
+for row in text.values:
+    tokens = row[0].split(" ")
+    for token in tokens:
+        corpus.append(token)
+Text Preparation
+Tokenize the words into characters in the corpus and append </w> at the end of every word:
+Python Code:
+import pandas as pd
+
+#reading .txt file
+text = pd.read_csv("sample.txt",header=None)
+
+#converting a dataframe into a single list 
+corpus=[]
+for row in text.values:
+    tokens = row[0].split(" ")
+    for token in tokens:
+        corpus.append(token)
+
+vocab = list(set(" ".join(corpus)))
+vocab.remove(' ')
+
+#split the word into characters
+corpus = [" ".join(token) for token in corpus]
+
+#appending </w>
+corpus=[token+' </w>' for token in corpus]
+print(corpus)
+import pandas as pd
+
+#reading .txt file
+text = pd.read_csv("sample.txt",header=None)
+
+#converting a dataframe into a single list 
+corpus=[]
+for row in text.values:
+    tokens = row[0].split(" ")
+    for token in tokens:
+        corpus.append(token)
+
+vocab = list(set(" ".join(corpus)))
+vocab.remove(' ')
+
+#split the word into characters
+corpus = [" ".join(token) for token in corpus]
+
+#appending </w>
+corpus=[token+' </w>' for token in corpus]
+print(corpus)
+Learning BPE
+Compute the frequency of each word in the corpus:
+import collections
+
+#returns frequency of each word
+corpus = collections.Counter(corpus)
+
+#convert counter object to dictionary
+corpus = dict(corpus)
+print("Corpus:",corpus)
+import collections
+
+#returns frequency of each word
+corpus = collections.Counter(corpus)
+
+#convert counter object to dictionary
+corpus = dict(corpus)
+print("Corpus:",corpus)
+Output:
+Let’s define a function to compute the frequency of a pair of character or character sequences. It accepts the corpus and returns the pair with its frequency:
+#computer frequency of a pair of characters or character sequences
+#accepts corpus and return frequency of each pair
+def get_stats(corpus):
+    pairs = collections.defaultdict(int)
+    for word, freq in corpus.items():
+        symbols = word.split()
+        for i in range(len(symbols)-1):
+            pairs[symbols[i],symbols[i+1]] += freq
+    return pairs
+#computer frequency of a pair of characters or character sequences
+#accepts corpus and return frequency of each pair
+def get_stats(corpus):
+    pairs = collections.defaultdict(int)
+    for word, freq in corpus.items():
+        symbols = word.split()
+        for i in range(len(symbols)-1):
+            pairs[symbols[i],symbols[i+1]] += freq
+    return pairs
+Now, the next task is to merge the most frequent pair in the corpus. We will define a function that accepts the corpus, best pair, and returns the modified corpus:
+#merges the most frequent pair in the corpus
+#accepts the corpus and best pair
+#returns the modified corpus 
+import re
+def merge_vocab(pair, corpus_in):
+    corpus_out = {}
+    bigram = re.escape(' '.join(pair))
+    p = re.compile(r'(?<!\S)' + bigram + r'(?!\S)')
+    
+    for word in corpus_in:
+        w_out = p.sub(''.join(pair), word)
+        corpus_out[w_out] = corpus_in[word]
+    
+    return corpus_out
+#merges the most frequent pair in the corpus
+#accepts the corpus and best pair
+#returns the modified corpus 
+import re
+def merge_vocab(pair, corpus_in):
+    corpus_out = {}
+    bigram = re.escape(' '.join(pair))
+    p = re.compile(r'(?<!\S)' + bigram + r'(?!\S)')
+    
+    for word in corpus_in:
+        w_out = p.sub(''.join(pair), word)
+        corpus_out[w_out] = corpus_in[word]
+    
+    return corpus_out
+Next, its time to learn BPE operations. As BPE is an iterative procedure, we will carry out and understand the steps for one iteration. Let’s compute the frequency of bigrams:
+#compute frequency of bigrams in a corpus
+pairs = get_stats(corpus)
+print(pairs)
+#compute frequency of bigrams in a corpus
+pairs = get_stats(corpus)
+print(pairs)
+Output:
+Find the most frequent pair:
+#compute the best pair
+best = max(pairs, key=pairs.get)
+print("Most Frequent pair:",best)
+#compute the best pair
+best = max(pairs, key=pairs.get)
+print("Most Frequent pair:",best)
+Output: (‘e’, ‘s’)
+Finally, merge the best pair and save to the vocabulary:
+#merge the frequent pair in corpus
+corpus = merge_vocab(best, corpus)
+print("After Merging:", corpus)
+
+#convert a tuple to a string
+best = "".join(list(best))
+
+#append to merge list and vocabulary
+merges = []
+merges.append(best)
+vocab.append(best)
+#merge the frequent pair in corpus
+corpus = merge_vocab(best, corpus)
+print("After Merging:", corpus)
+
+#convert a tuple to a string
+best = "".join(list(best))
+
+#append to merge list and vocabulary
+merges = []
+merges.append(best)
+vocab.append(best)
+Output:
+We will follow similar steps for certain iterations:
+num_merges = 10
+for i in range(num_merges):
+    
+    #compute frequency of bigrams in a corpus
+    pairs = get_stats(corpus)
+    
+    #compute the best pair
+    best = max(pairs, key=pairs.get)
+    
+    #merge the frequent pair in corpus
+    corpus = merge_vocab(best, corpus)
+    
+    #append to merge list and vocabulary
+    merges.append(best)
+    vocab.append(best)
+
+#convert a tuple to a string
+merges_in_string = ["".join(list(i)) for i in merges]
+print("BPE Merge Operations:",merges_in_string)
+num_merges = 10
+for i in range(num_merges):
+    
+    #compute frequency of bigrams in a corpus
+    pairs = get_stats(corpus)
+    
+    #compute the best pair
+    best = max(pairs, key=pairs.get)
+    
+    #merge the frequent pair in corpus
+    corpus = merge_vocab(best, corpus)
+    
+    #append to merge list and vocabulary
+    merges.append(best)
+    vocab.append(best)
+
+#convert a tuple to a string
+merges_in_string = ["".join(list(i)) for i in merges]
+print("BPE Merge Operations:",merges_in_string)
+Output:
+The most interesting part is yet to come! That’s applying BPE to OOV words.
+Applying BPE to OOV word
+Now, we will see how to segment the OOV word into subwords using learned operations. Consider OOV word to be “lowest”:
+#applying BPE to OOV
+oov ='lowest'
+
+#tokenize OOV into characters
+oov = " ".join(list(oov))
+
+#append </w> 
+oov = oov + ' </w>'
+
+#create a dictionary
+oov = { oov : 1}
+#applying BPE to OOV
+oov ='lowest'
+
+#tokenize OOV into characters
+oov = " ".join(list(oov))
+
+#append </w> 
+oov = oov + ' </w>'
+
+#create a dictionary
+oov = { oov : 1}
+Applying BPE to an OOV word is also an iterative process. We will implement the steps discussed earlier in the article:
+i=0
+while(True):
+
+    #compute frequency
+    pairs = get_stats(oov)
+
+    #extract keys
+    pairs = pairs.keys()
+    
+    #find the pairs available in the learned operations
+    ind=[merges.index(i) for i in pairs if i in merges]
+
+    if(len(ind)==0):
+        print("\nBPE Completed...")
+        break
+    
+    #choose the most frequent learned operation
+    best = merges[min(ind)]
+    
+    #merge the best pair
+    oov = merge_vocab(best, oov)
+    
+    print("Iteration ",i+1, list(oov.keys())[0])
+    i=i+1
+i=0
+while(True):
+
+    #compute frequency
+    pairs = get_stats(oov)
+
+    #extract keys
+    pairs = pairs.keys()
+    
+    #find the pairs available in the learned operations
+    ind=[merges.index(i) for i in pairs if i in merges]
+
+    if(len(ind)==0):
+        print("\nBPE Completed...")
+        break
+    
+    #choose the most frequent learned operation
+    best = merges[min(ind)]
+    
+    #merge the best pair
+    oov = merge_vocab(best, oov)
+    
+    print("Iteration ",i+1, list(oov.keys())[0])
+    i=i+1
+Output:
+As you can see here, the unknown word “lowest” is segmented as low-est.
+Advanced Tokenization Techniques
+While basic word and character level tokenization are common, there are several advanced tokenization algorithms and methods designed to handle the complexities of natural language:
+Byte-Level Byte-Pair Encoding (BPE)
+An extension of the original BPE, Byte-Level BPE operates on a byte-level rather than character-level. It encodes each token as a sequence of bytes rather than characters. This allows it to:
+Better handle Unicode characters and multi-lingual text
+Avoid maintaining separate vocabularies for each language
+Achieve open-vocabulary by representing any unseen word as a sequence of subword tokens
+Byte-Level BPE is used by models like GPT-2 for text generation.
+SentencePiece Tokenization
+SentencePiece is an advanced tokenization technique that treats text as a sequence of pieces or tokens which can be words, subwords or even characters. It uses language models to dynamically construct a vocabulary based on the input text during training.
+Key features of SentencePiece include:
+Builds vocabularies that minimize the total length of encoded sequences
+Supports encoding/decoding for any arbitrary language
+Provides lossless data compression/decompression
+SentencePiece tokenization is used in models like T5, ALBERT and XLNet.
+WordPiece Tokenization
+Introduced by Google for their BERT model, WordPiece is a subword tokenization technique that iteratively creates a vocabulary of “wordpieces” – common words and subwords occurring in the training data.
+The WordPiece algorithm starts with a single wordpiece for each character and iteratively:
+Finds two most frequent pairs of wordpieces
+Merges them to create a new wordpiece
+Repeats until reaching the desired vocabulary size
+This allows representing rare/unknown words as sequences of common wordpieces.
+Unigram Language Model Tokenization
+Used in models like XLNet, this is a data-driven subword tokenization method that creates tokens based on the statistics of the training data. It constructs a vocabulary of tokens (words/subwords) that maximizes the likelihood of the training data.
+Some key aspects are:
+Likelihood-based tokenization using unigram language model
+Constructs a vocabulary tailored to the target task/data
+Better handles intra-word splitting compared to BPE
+These advanced techniques aim to strike the right balance between vocabulary size and handling rare/unknown words for robust language modeling.
+Conclusion
+Tokenization is a powerful way of dealing with text data. We saw a glimpse of that in this article and also implemented tokenization usingPython. Go ahead and try this out on any text-based dataset you have. The more you practice, the better your understanding of how tokenization works (and why it’s such a critical NLP concept). Feel free to reach out to me in the comments below if you have any queries or thoughts on this article. Hope you like this article and get an exact information for about tokenization and types of tokenization in nlp. We have provide an exact informat for the tokenization related topic.
+Hope you like the article! You will understand what tokenization in NLP is, how tokenization NLP works, and the role of a tokenizer in processing language data effectively.
+Key Takeaways:
+Tokenization is essential for breaking down text into units machines can process
+Different tokenization methods have unique strengths and limitations
+Subword tokenization techniques like BPE help handle out-of-vocabulary words
+Advanced tokenization algorithms improve language model performance across various NLP tasks
+Frequently Asked Questions
+A. Tokenization in NLP divides text into meaningful units called tokens. For example, tokenizing the sentence “I love reading books” results in tokens: [“I”, “love”, “reading”, “books”].
+A. Tokenization is the process of breaking down text into smaller units called tokens, which are usually words or subwords. It’s a fundamental step in NLP for tasks like text processing and analysis.
+A. Tokenization splits text into smaller parts like words or sentences. Example:Text:“I love NLP.”Tokens:[“I”, “love”, “NLP”, “.”]
+A. No, but it is essential for most NLP tasks. It helps process text by breaking it into meaningful parts.
+Tokenization is used to simplify text analysis by splitting it into smaller units, making it easier for machines to understand and process.
+Aravind Pai is passionate about building data-driven products for the sports domain. He strongly believes that Sports Analytics is a Game Changer.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+Stemming vs Lemmatization in NLP: Must-Know Dif...
+Stemming vs Lemmatization in NLP: Must-Know Dif...
+What Are N-Grams and How to Implement Them in P...
+What Are N-Grams and How to Implement Them in P...
+How to Get Started with NLP – 6 Unique Me...
+How to Get Started with NLP – 6 Unique Me...
+Introduction to Natural Language Processing and...
+Introduction to Natural Language Processing and...
+How to Build a GPT Tokenizer?
+How to Build a GPT Tokenizer?
+A Comprehensive Guide for Interview Questions o...
+A Comprehensive Guide for Interview Questions o...
+Guide for Tokenization in a Nutshell – To...
+Guide for Tokenization in a Nutshell – To...
+Hugging Face Releases New NLP ‘Tokenizers...
+Hugging Face Releases New NLP ‘Tokenizers...
+Part 3: Step by Step Guide to NLP – Text ...
+Part 3: Step by Step Guide to NLP – Text ...
+Tokenization and Text Normalization
+Tokenization and Text Normalization
+Responses From Readers
+It would be good if you also provide a link to download the "sample.txt" file.
+Hi, Download the sample corpus fromhere
+Hi. Thanks for the wonderful posting.
+May I translate this article into Korean and post it? I will clarify that I just translate it and URL of original post and the author's name.
+Hi. I want to know what I should choose between subword tokenization and character-level tokenization. Which one is SOTA?
+Comments are Closed
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__0.webp
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__1.webp
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__2.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__3.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__4.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__5.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__6.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__7.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__8.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__9.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__10.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__11.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__12.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__13.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__14.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__15.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__16.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__17.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__18.png
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__19.webp
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__20.webp
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__21.webp
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__22.webp
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__23.webp
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__24.webp
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__25.webp
+www.analyticsvidhya.com_blog_2020_05_what-is-tokenization-nlp__26.webp

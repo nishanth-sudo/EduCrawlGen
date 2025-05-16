@@ -1,0 +1,210 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+4 Applications of Regular Expressions for Data Scientists (with Python)
+You have seen them, heard about them and probably have already used them for various tasks, without even realizing what happens under the hood? Yes, I’m talking about none other than – Regular Expressions; the quintessential skill for a data scientist’s tool kit!
+Regular Expressions are useful for numerous practical day to day tasks that a data scientist encounters. They are used everywhere from data pre-processing to natural language processing, pattern matching,web scraping,data extractionand what not!
+In case your basics of Regex are a bit hazy, I recommend you to read this article for a quick recap:Beginners Tutorial for Regular Expressions in Python
+Overview
+Regular Expressions or Regex is a versatile tool that every Data Scientist should know about
+Regex can automate various mundane data processing tasks
+Learn about 4 exciting applications of Regex and how to implement them in Python
+Table of contents
+Overview
+Extracting emails from a Text Document
+Regular Expressions for Web Scraping (Data Collection)
+Working with Date-Time features
+Using Regex for Text Pre-processing (NLP)
+Conclusion
+Extracting emails from a Text Document
+A lot of times, the sales and marketing teams might require finding/extracting emails and other contact information from large text documents.
+Now, this can be a cumbersome task if you are trying to do it manually! This is exactly the kind of situations when Regex really shines. Here’s how you can code a basic email extractor:
+Python Code:
+import re
+
+with open('text.txt') as f:
+  text = f.read()
+  print(text)
+
+print(re.findall(r"[\w.-]+@[\w.-]+", text))
+
+# Incase you want to work on a string:
+
+# string = "{type here}"
+# print(re.findall(r"[\w.-]+@[\w.-]+", string))
+import re
+
+with open('text.txt') as f:
+  text = f.read()
+  print(text)
+
+print(re.findall(r"[\w.-]+@[\w.-]+", text))
+
+# Incase you want to work on a string:
+
+# string = "{type here}"
+# print(re.findall(r"[\w.-]+@[\w.-]+", string))
+The code might look scary but it is actually very simple to understand. Let me break it down for you. We usere.findall()to extract all the strings from the document which follows the following format:
+any character a-z, any digit 0-9 and symbol '_' followed by a '@' symbol and after this symbol we can again have any character, any digit and especially a dot.
+Here is an image that would give you a better understanding of the same
+Wasn’t that really simple? That’s the thing about Regex, it lets you perform really complex tasks with simple expressions!
+Regular Expressions for Web Scraping (Data Collection)
+Data collection is a very common part of a Data Scientist’s work and given that we are living in the age of internet, it is easier than ever to find data on the web. One can simply scrape websites like Wikipedia etc. to collect/generate data.
+But web scraping has its own issues – the downloaded data is usually messy and full of noise. This is where Regex can be used effectively!
+Suppose this is the HTML that you want to work on:
+It is from a wikipedia page and has links to various other wikipedia pages. The first thing that you can check is what topics/pages does it have link for?
+Let’s use the following regex:
+import re
+re.findall(r">([\w\s()]*?)</a>", html)
+import re
+re.findall(r">([\w\s()]*?)</a>", html)
+Once you use the above code, you will quickly get the list of topics:
+Similarly, you can extract the links to all these pages by using the following regex:
+import re
+re.findall(r"\/wiki\/[\w-]*", html)
+import re
+re.findall(r"\/wiki\/[\w-]*", html)
+Once you execute the above code, you will get the links to all these wikipedia pages.
+Note that if you just combine each of the above link withhttp://wikipedia.comyou’ll be able to navigate to all these wikipedia pages. For example, to go to the page aboutUnsupervised Learningon wikipedia you can use this link:
+https://en.wikipedia.org/wiki/Unsupervised_learning
+The first part of the URL is simply a template to which you can attach the second part that we just extracted from the HTML page.
+You can learn more about extracting information of web scraped documents using Regex from this article:Beginners Tutorial for Regular Expressions in Python
+Working with Date-Time features
+Most of the real world data has some kind of Date or Time column associated with it. Such columns carry useful information for the model, but since Date and Time have multiple formats available it becomes difficult to work with such data.
+Can we use regex in this case to work with these different formats? Let us find out!
+We will start with a simple example, suppose you have a Date-Time value like this:
+date = "2018-03-14 06:08:18"
+Let’s extract the “Year” from the date. We can simply use regex to find a pattern where 4 digits occur together:
+import re
+re.findall(r"\d{4}", date)
+import re
+re.findall(r"\d{4}", date)
+The above code will directly give you the year from the date. Similarly, you can extract the month and day information all together in one go!
+import re
+
+re.findall(r"(\d{4})-(\d{2})-(\d{2})", date)
+import re
+
+re.findall(r"(\d{4})-(\d{2})-(\d{2})", date)
+You can do the same thing for extracting the time info like hour, minute and second. That was one example of a date format, what if you have a date like the following format?
+12th September, 2019
+You just need to update the above Regex code. In this case, instead of having all numbers in the date format, we now have some text in between. We also have couple of extra spaces which can be matched using the\s operatorand the way to catch the digits will be the same like previous example.
+You can similarly create Regex for a variety of Date-Time formats and once your regex is ready, you can run the code using a loop or apply function in pandas over your columns of the dataset.
+If you want to learn more about working with Date-Time features in python for machine learning, you can have a quick read here:6 Powerful Feature Engineering Techniques For Time Series Data (using Python)
+Using Regex for Text Pre-processing (NLP)
+When working with text data, especially in NLP where we build models for tasks like text classification, machine translation and text summarization, we deal with a variety of text that comes from diverse sources.
+For instance, we can have web scraped data, or data that’s manually collected, or data that’s extracted from images using OCR techniques and so on!
+Source
+As you can imagine, such diversity in data also implies good amount ofinconsistencies.Most of this will not useful for our machine learning task as it just adds unnecessary noise and can be removed from the data. This is where Regex really comes handy!
+Let’s take the below piece of text as an example:
+As it’s evident, the above text has a lot of inconsistencies like random phone numbers, web links, some strange unicode characters of the form “\x86…” etc. For our text classification task, we just need clean and pure text so let’s see how to fix this.
+We will write a function to clean this text using Regex:
+Once you run the given code on the above text, you will see that the output is pretty clean:
+So what did we do here? We basically applied a bunch of operations on our input string:
+Firstly, we removed all the irrelevant links from the text
+# removing links
+newString = re.sub(r'(https|http)?:\/\/(\w|\.|\/|\?|\=|\&|\%)*\b', '', newString)
+We also removed all the digits (phone numbers)
+# fetching alphabetic characters
+newString = re.sub("[^a-zA-Z]", " ", newString)
+Post that we used another useful package of Pythonnltkto remove stopwords such as “and, the, for” etc. from our text input
+# removing stop words
+    tokens = [w for w in newString.split() if not w in stop_words]
+We made sure to ignore any word that is smaller than 3 characters because such abbreviations like “CET”, “BHM” etc. do not add much information unless they are taken into context
+# removing short words
+long_words=[]
+for i in tokens:
+    if len(i)>=4: 
+        long_words.append(i)return(" ".join(long_words)).strip()
+So that’s text pre-processing, isn’t it fascinating? You can learn all about text pre-processing from this intuitive blog:Ultimate guide to deal with Text Data (using Python) – for Data Scientists and Engineers
+Conclusion
+In this article we saw some simple yet useful ways of using Regular expressions. Yet, we barely scratched the surface of the capabilities of this great tool.
+I encourage you to dig deeper and understand how Regex works (as they can be quite confusing in the beginning!) rather than simply using them blindly.
+Here are some resources that you can follow to know more about them:
+Regex101– It is a very useful website to visualize and understand how Regex works under the hood.
+Regex Documentationfor Python 3
+Regex Quickstart CheatSheet– This is for those who want to quickly revise regex operators.
+Have you used Regex before? Do you want to add an application to this list that I missed? Answer in comments below!
+A computer science graduate, I have previously worked as a Research Assistant at the University of Southern California(USC-ICT) where I employed NLP and ML to make better virtual STEM mentors. My research interests include using AI and its allied fields of NLP and Computer Vision for tackling real-world problems.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+How to Build an AI Agent from Scratch?
+How to Build an AI Agent from Scratch?
+90+ Python Interview Questions and Answers (202...
+90+ Python Interview Questions and Answers (202...
+Beginners Guide to Regular Expressions in Natur...
+Beginners Guide to Regular Expressions in Natur...
+Extracting information from reports using Regul...
+Extracting information from reports using Regul...
+Regular Expressions: How Can They Transform You...
+Regular Expressions: How Can They Transform You...
+Beginners Tutorial for Regular Expression in Py...
+Beginners Tutorial for Regular Expression in Py...
+Beginners Tutorial for Regular Expressions in P...
+Beginners Tutorial for Regular Expressions in P...
+Part 13: Step by Step Guide to Master NLP ̵...
+Part 13: Step by Step Guide to Master NLP ̵...
+Regex Cheatsheet For Natural Language Processin...
+Regex Cheatsheet For Natural Language Processin...
+4 Use Cases All Data Scientist Should Learn
+4 Use Cases All Data Scientist Should Learn
+Responses From Readers
+Quicker way from point a to point b is use things like lubridate in R and say Beautiful Soup in Python. Do love to whip up the occasional killer RegEx, though.
+That is true, it never hurts to know enough RegEx to find your way around!
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__0.webp
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__1.png
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__2.png
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__3.png
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__4.png
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__5.png
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__6.png
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__7.png
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__8.webp
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__9.png
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__10.png
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__11.webp
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__12.webp
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__13.webp
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__14.webp
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__15.webp
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__16.webp
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__17.webp
+www.analyticsvidhya.com_blog_2020_01_4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code__18.webp

@@ -1,0 +1,33 @@
+JSReference
+JavaScript
+Window
+HTML DOM
+HTML Events
+Web APIs
+HTML Objects
+Other References
+JavaScript and HTML DOM
+Complete JavaScript and HTML DOM References
+All Properties and Methods with Full Examples
+Revised April 2024
+JavaScript Objects with Examples
+Window Objects with Examples
+HTML DOM Objects with Examples
+Web APIs with Examples
+HTML Elements with Examples
+Other
+JavaScript Tutorial
+Visit Our JavaScript Tutorial »
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_jsref_default.asp_0.png
+www.w3schools.com_jsref_default.asp_1.png

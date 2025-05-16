@@ -1,0 +1,152 @@
+W3Schools Academy
+Articles for Teachers
+How TO
+Coding and Computer Science Syllabus
+Introduction:The W3Schools tutorials are comprehensive and beginner-friendly.
+They will give you a fundamental knowledge of different programming languages.
+The tutorials are designed for beginners and requires no prior knowledge.
+The content has been carefully made to be bite-sized, simple, and easy to understand.
+The training materials are proven by millions of users over the years. It is updated and improved frequently.
+The syllabus outline and its sequence are structured so you can learn different programming languages step by step.
+The pre-made syllabus can be used by you as a teacher teaching coding and computer science.
+Learning Outcomes
+Learn the fundamentals of your selected programming language
+Understand basic computer science concepts
+Write and run code in various languages
+Work with data types, variables, and functions
+Build interactive web applications
+Debug and troubleshoot code
+Follow programming best practices
+Complete hands-on exercises and projects
+Test your knowledge with quizzes and assessments
+Get certified by passing exams
+Note:Are you a teacher teaching coding?W3Schools Academyis a toolbox of features that can help you teach. It offers classroom features such as pre-built study plans, classroom administration and much more. Read more aboutAcademy here.
+Study Plans
+W3Schools offers study plans to help guide your students. Study plans provide a structured path through the curriculum with:
+Step-by-step learning paths
+Interactive content and exercises
+Flexible timelines and pacing
+Progress tracking
+Pre-built teacher materials
+The study plans are pre-built and can be customized to your needs.
+You set the timeline and the pace.
+Study plans help ensure you learn concepts in the right order and stay on track to reach your goals.
+View Study Plans »
+Which Subjects Are Coding and Computer Science Relevant For?
+Science and Technology:Learn how computers work and solve problems.
+Business and Finance:Create programs to handle data and calculations.
+Education:Build learning tools and educational software.
+Healthcare:Develop systems to help doctors and patients.
+And Much More:Coding skills are useful in many other fields!
+Activities
+In the different tutorials, we offer different activities for you to learn web development for free:
+Lessons
+Exercises
+Quizzes
+Example of activities:
+HTML Lessons
+HTML Exercises
+HTML Quizzes
+Sign in to Track Progress
+You can also create a free account to track your progress.
+As a signed-in user, you get access to features such as:
+Learning paths
+Sandbox and lab environments
+Achievements
+And much more!
+Sign Up - It's free
+Overview of the Syllabus that we offer
+Frontend
+HTML
+CSS
+JavaScript
+React
+Angular
+Vue.js
+TypeScript
+jQuery
+Bootstrap
+Backend
+Python
+SQL
+PHP
+Java
+Node.js
+Django
+MySQL
+PostgreSQL
+MongoDB
+Programming
+C++
+C#
+C
+R
+Kotlin
+Go
+DSA
+Data Science
+NumPy
+Pandas
+SciPy
+Excel
+Other
+XML
+Git
+Cybersecurity
+Get Started
+Sandbox and Lab Environment
+Programming languages are best learned through hands-on practice.
+Try this Python example using our editor:
+Example
+If you want to explore more and host your project, we have a feature calledSpacesthat allows you to build, test and run web applications for free.
+Here you get a secure sandbox environment called Spaces, where you can practice the most popular code languages and test projects in real-time.
+Spaces allow you to test, build, and deploy code. This includes a W3Schools subdomain, hosting, and secure SSL certificates.
+Spaces require no installation and run directly in the browser.
+Features include:
+Collaboration
+File navigator
+Terminal & log
+Package manager
+Database
+Environment manager
+Analytics
+Create a Spaces Account
+W3Schools Certifications
+W3Schools offers an end-of-pathway certification program.
+Here, you can take exams to get certified.
+The exam is a test that summarizes the W3Schools syllabus for the different programming languages.
+After passing the exam you get the "Certified Developer" Certification.
+There are two different types of certifications:
+Non-adaptive
+Adaptive
+The non-adaptive is pass or no pass.
+The adaptive certification exam is adaptive and graded; students will receive grades from intermediate to advanced to professional.
+Here is an example of the HTML certification exam:
+Browse Certifications »
+W3Schools Courses
+W3Schools offers a wide range of courses for different programming languages.
+The difference between the course and tutorial is that the course includes the exams and certifications.
+It will give you all the training you need to become a certified developer.
+We will guide you through the process and help you get certified.
+Browse Courses »
+Are You a Teacher?
+Are you interested in learning how you can useW3Schools Academyto Teach 
+Coding and Computer Science?
+Watch a demo ofW3Schools Academy. You'll see how it works and discover how it can make teaching programming easier and more engaging.
+Watch Demo »
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_academy_syllabus.php_0.gif
+www.w3schools.com_academy_syllabus.php_1.png
+www.w3schools.com_academy_syllabus.php_2.png
+www.w3schools.com_academy_syllabus.php_3.png
+www.w3schools.com_academy_syllabus.php_4.png

@@ -1,0 +1,50 @@
+RTutorial
+RData Structures
+RGraphics
+RStatistics
+R Examples
+RTutorial
+Learn R
+R is a programming language.
+R is often used for statistical computing and graphical presentation to analyze 
+  and visualize data.
+Examples in Each Chapter
+With our "Try it Yourself" editor, you can edit R code and view the result.
+Example
+How to output some text, and how to do a simple calculation in R:
+Result:
+[1] "Hello World!"[1] 10
+Example
+How you can use R to easily create a graph with 
+numbers from 1 to 10 on both the x and y axis:
+Result:
+We recommend reading this tutorial, in the sequence listed in the left menu.
+R Exercises
+R Quiz
+Learn by taking a quiz! This quiz will give you a signal of how much you know about R.
+Take the R Quiz
+R Examples
+Learn by examples! This tutorial supplements all explanations with clarifying examples.
+See All R Examples
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_r_default.asp_0.png
+www.w3schools.com_r_default.asp_1.png
+www.w3schools.com_r_default.asp_2.png

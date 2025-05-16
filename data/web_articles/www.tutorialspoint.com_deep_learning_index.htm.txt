@@ -1,0 +1,3391 @@
+
+
+Online Programming Compilers
+C
+C++
+Python
+Java
+C#
+Php
+Scala
+Swift
+HTML
+CSS3
+JavaScript
+SQL Editor
+Golang
+Ruby
+Lua
+Code, Edit, Run and Share
+Log InSign Up
+Start Coding
+Ada(Gnat)
+Algol-68
+Angular JS
+Ascii Doc
+Assembly
+Awk
+Bash Shell
+Befunge
+Bootstrap
+Brainf**k
+C
+Chipmunk BASIC
+Clojure
+Cobol
+CoffeeScript
+C++
+C#
+CSS3
+Dart
+D3.js
+D Language
+Embedded C
+Erlang
+Elixir
+Factor
+Fantom
+Fortran-95
+Forth
+F#
+Free Basic
+Groovy
+Golang
+Haxe
+Haskell
+HTML5
+ilasm
+Intercal
+ICON
+Javascript
+Java 8
+Julia
+Jython
+JQuery
+JQuery Mobile
+JQuery UI
+Kotlin
+Ksh Shell
+Latex
+Lisp
+Linux Terminal
+LOLCODE
+Lua
+Lua Terminal
+Matlab/Octave
+Matplotlib
+Malbolge
+Markdown
+MathML
+Mozart-OZ
+Nimrod
+Node.js
+NumPy
+Node.js Terminal
+Numpy Terminal
+Objective-C
+OCaml
+Octave Terminal
+P5.js
+Pascal
+PARI/GP
+Pawn
+Perl
+PHP
+PHP Terminal
+Pike
+Prolog
+Processing.js
+Python
+reStructure
+Rexx
+R Programming
+R Terminal
+Ruby Terminal
+Ruby
+Rust
+SciPy
+SciPy Terminal
+Smalltalk
+SML/NJ
+Simula
+SQLite SQL
+Swift 4.0
+Tcl
+Tex
+Typescript
+Unlambda
+VB.NET
+Verilog
+VueJS
+Web View
+Whitespace
+Ya Basic
+Yasm
+Coding Ground: Popular Compilers & Terminals
+Explore our wide range of editors, terminals, compilers, and interpreters that support almost all technologies with absolutely no strings!
+Data ScienceTechnologies
+Top ProgrammingLanguages
+OnlineTerminals
+Online Compiler& Interpreters
+Web Development Technologies
+Document Editors
+The Best of Tutorials Point
+Make the most of our free vast library of text tutorials curated by industry veterans for your wealth of knowledge
+Technical Question and Answer
+Stay informed about the latest trends and best practices of all technologies in one place
+Premium Courses & Certifications
+Explore our thoughtfully collected courses and expert-curated certifications to grow professionally and personally
+Expert Tutors
+Learn from top-rated global instructors that bring industry expertise for your digital training
+
+Instant learning,one click away
+SIGN IN
+or
+Don't have an account?Register
+
+Artificial Intelligence Tutorial
+AI - Home
+AI - Overview
+AI - History & Evolution
+AI - Types
+AI - Terminology
+AI - Tools & Frameworks
+AI - Applications
+AI - Real Life Examples
+AI - Ethics & Bias
+AI - Challenges
+Branches in AI
+AI - Research Areas
+AI - Machine Learning
+AI - Natural Language Processing
+AI - Computer Vision
+AI - Robotics
+AI - Fuzzy Logic Systems
+AI - Neural Networks
+AI - Evolutionary Computation
+AI - Swarm Intelligence
+AI - Cognitive Computing
+Intelligent Systems in AI
+AI - Intelligent Systems
+AI - Components of Intelligent Systems
+AI - Types of Intelligent Systems
+Agents & Environment
+AI - Agents and Environments
+Problem Solving in AI
+AI - Popular Search Algorithms
+AI - Constraint Satisfaction
+AI - Constraint Satisfaction Problem
+AI - Formal Representation of CSPs
+AI - Types of CSPs
+AI - Methods for Solving CSPs
+AI - Real-World Examples of CSPs
+Knowledge in AI
+AI - Knowledge Based Agent
+AI - Knowledge Representation
+AI - Knowledge Representation Techniques
+AI - Propositional Logic
+AI - Rules of Inference
+AI - First-order Logic
+AI - Inference Rules in First Order Logic
+AI - Knowledge Engineering in FOL
+AI - Unification in First Order Logic (FOL)
+AI - Resolution in First Order Logic (FOL)
+AI - Forward Chaining and backward chaining
+AI - Backward Chaining vs Forward Chaining
+Expert Systems in AI
+AI - Expert Systems
+AI - Applications of Expert Systems
+AI - Advantages & Limitations of Expert Systems
+AI - Applications
+AI - Predictive Analytics
+AI - Personalized Customer Experiences
+AI - Manufacturing Industry
+AI - Healthcare Breakthroughs
+AI - Decision Making
+AI - Business
+AI - Banking
+AI - Autonomous Vehicles
+AI - Automotive Industry
+AI - Data Analytics
+AI - Marketing
+Artificial Intelligence Resources
+Artificial Intelligence - Quick Guide
+Artificial Intelligence - Interview Questions & Answers
+AI - Useful Resources
+Artificial Intelligence - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Artificial Intelligence Tutorial
+Thisartificial intelligence tutorialprovides introductory knowledge on Artificial Intelligence. It would be a great help if you are about to select Artificial Intelligence as a course subject. You can briefly learn about the areas of AI in which research is prospering.
+This tutorial provides a good understanding of the workings of AI and its applications. This tutorial would be a good choice for someone who is a beginner and also for someone who would want to know more about it.
+What is Artificial Intelligence?
+Artificial Intelligence(AI) is that branch of computer science that creates intelligent machines that think and act like humans. It is one of the revolutionizing technologies that people are fascinated by because of its ability to relate to their daily lives. AI enables machines to think, learn and adapt, to enhance and automate tasks across industries.
+Artificial Intelligence has many subsets that focus on different aspects of mimicking human beings.Machine learningis one of the popular subsets, whereas the others included areDeep Learning,Natural Language Processing, andRobotics.
+Features of Artificial Intelligence
+Artificial Intelligence is a technology that aims at replicating human intelligence. It has numerous applications across various sectors, from enhancing customer experiences to disease diagnosis. Some key features of AI are:
+Ability to learn −AI systems can improve their performance eventually by learning from data and past experiences.
+Logical decision making −AI systems are fed with large amounts of data to understand and recognize patterns for analysis and decision making.
+Adaptability −AI systems can adjust and adapt to changes in data.
+Efficient automation −AI would efficiently execute repetitive tasks and processes.
+Versatility −AI can be widely applied for various tasks across all fields like businesses, automotive, health, and many others.
+Why to Learn Artificial Intelligence?
+AI is one of the growing technologies, and learning AI would help build a career in a field that is high in demand. It opens up to various job opportunities and helps you stay intent with evolving technologies. It enhances problem solving skills, automates processes and can be applied to various industries, from business to health care.
+Who Should Learn Artificial Intelligence?
+This tutorial is prepared for students at the beginner level who aspire to learn Artificial Intelligence.
+This course is also helpful for professionals aiming to enhance their skills or an entrepreneur trying to integrate AI with their business. Professionals in software development, data science, and engineering would find this artificial intelligence tutorial especially relevant to enhance their careers.
+Applications of Artificial Intelligence
+AI is transforming various industries with its ability to automate, make decisions, and enhance the efficiency of various tasks. As it is known for its versatility, some of its applications are:
+Health care −AI in healthcare is used to assist in tasks like diagnosing diseases, personalizing treatments and drug discovery.
+Finance −AI is used for fraud detection, trading and stock market analysis and customer service through chatbots.
+Manufacturing and Industries −AI optimizes production processes, improves quality and identifies machinery failure.
+Agriculture −AI helps combine technology with agriculture by analyzing soil conditions.
+Transportation −AI helps in designing autonomous vehicles. Some other tasks include traffic management and route optimization in maps.
+Customer Service −Chatbots and Virtual assistants are AI applications to improve user engagement.
+Entertainment and Media −AI helps in content creation, personalized content recommendations, and target advertising.
+Safety and Security −AI enhances threat detection and automates security measures.
+Jobs and Opportunities
+Many companies require highly skilled individuals in AI. As companies integrate AI into their operation, there will be a need for individuals to implement it. Some roles that companies hire are:
+Machine learning engineer
+Data Scientist
+AI Research Scientist
+Computer Vision Engineer
+NLP Engineer
+AI Product Manager
+AI Marketing Specialist
+Prerequisites to Learn Artificial Intelligence
+The basic knowledge of Computer Science is mandatory. Knowledge of science, mechanical engineering, or electrical engineering is a plus.
+Before deep diving into Artificial Intelligence, there are a few skills and concepts that one should focus on, which includes −
+Mathematics and Statistics
+Knowledge of any programming language such as Python or R.
+Basics on Data Structures and Data Handling Techniques
+Getting Started with Artificial Intelligence
+Getting started to learn AI involves a few steps, which helps build a solid foundation. Here is a brief guide on the steps that can make you strong in the fundamentals of AI:
+Master Prerequisites −AI is complex, so you can only get deep into the technology if you have interest and enthusiasm. The first step is to master prerequisites, which include an understanding of basic mathematics and statistics along with learning a programming language and data structures.
+Learn AI algorithms −Artificial Intelligence is all about algorithms like searching and sorting. So if you get familiar with algorithms, you can ace AI.
+Getting to know AI tools and frameworks −The final step would be learning to handle AI frameworks. This is a practical step and requires prior theoretical knowledge. Some popular tools and libraries used to develop and deploy AI models are NumPy, Pandas, Matplotlib.
+Practice with Real data −Practicing AI algorithms on real data that is collected from various websites or APIs would help understand the working of AI in real-time scenarios.
+Frequently Asked Questions about Artificial Intelligence
+There are some very Frequently Asked Questions(FAQ) about Artificial Intelligence, this section tries to answer them briefly.
+Artificial Intelligence (AI) refers to programming computers to do tasks that normally require human intelligence, like learning, problem-solving, and understanding language. It is like giving computers the ability to think and make decisions on their own, similar to how humans do. AI helps machines learn from data, adapt to new situations, and perform tasks without being explicitly programmed for each step.
+Artificial Intelligence (AI) is important because it helps make our lives easier and improves many aspects of society. It allows computers to perform tasks that normally require human intelligence, like understanding language, recognizing patterns, and making decisions.
+AI helps in various fields such as healthcare, finance, transportation, and entertainment by providing better solutions, automating repetitive tasks, and even discovering new insights from large amounts of data. Ultimately, AI has the potential to revolutionize industries, enhance efficiency, and create new opportunities for innovation and growth.
+Artificial Intelligence (AI) can be broadly categorized into three types −
+Narrow or Weak AI −This type of AI is designed to perform specific tasks or solve particular problems. It is good at what it is programmed for, like playing chess or recognizing speech, but it can't do tasks outside its programmed scope.
+Narrow or Weak AI −This type of AI is designed to perform specific tasks or solve particular problems. It is good at what it is programmed for, like playing chess or recognizing speech, but it can't do tasks outside its programmed scope.
+General or Strong AI −General AI would have human-like intelligence and could perform any intellectual task that a human can. This level of AI doesn't exist yet, but it is the goal of many AI researchers to create machines that can think and learn like humans.
+General or Strong AI −General AI would have human-like intelligence and could perform any intellectual task that a human can. This level of AI doesn't exist yet, but it is the goal of many AI researchers to create machines that can think and learn like humans.
+Artificial Superintelligence (ASI) −This would be an AI system that surpasses human intelligence in every way. It would be capable of understanding, learning, and solving problems far beyond what humans can comprehend. ASI is still purely theoretical and raises significant ethical and existential questions.
+Artificial Superintelligence (ASI) −This would be an AI system that surpasses human intelligence in every way. It would be capable of understanding, learning, and solving problems far beyond what humans can comprehend. ASI is still purely theoretical and raises significant ethical and existential questions.
+Artificial Intelligence (AI) is used in various applications across different fields −
+Virtual Assistants −AI powers virtual assistants like Siri, Alexa, and Google Assistant, helping users with tasks such as setting reminders, answering questions, and controlling smart devices.
+Virtual Assistants −AI powers virtual assistants like Siri, Alexa, and Google Assistant, helping users with tasks such as setting reminders, answering questions, and controlling smart devices.
+Healthcare −AI is used to analyze medical data, assist in diagnoses, and develop personalized treatment plans. It also helps in drug discovery, medical imaging interpretation, and monitoring patient health.
+Healthcare −AI is used to analyze medical data, assist in diagnoses, and develop personalized treatment plans. It also helps in drug discovery, medical imaging interpretation, and monitoring patient health.
+Finance −AI is used in fraud detection, risk assessment, algorithmic trading, and customer service in the financial sector to improve efficiency and accuracy.
+Finance −AI is used in fraud detection, risk assessment, algorithmic trading, and customer service in the financial sector to improve efficiency and accuracy.
+Autonomous Vehicles −AI enables self-driving cars to recognize their surroundings, navigate safely, and make decisions on the road, potentially reducing accidents and improving transportation.
+Autonomous Vehicles −AI enables self-driving cars to recognize their surroundings, navigate safely, and make decisions on the road, potentially reducing accidents and improving transportation.
+Recommendation Systems −AI powers recommendation algorithms used by platforms like Netflix, Amazon, and Spotify to suggest personalized content based on users preferences and behavior.
+Recommendation Systems −AI powers recommendation algorithms used by platforms like Netflix, Amazon, and Spotify to suggest personalized content based on users preferences and behavior.
+Natural Language Processing (NLP) −AI is used in NLP applications like language translation, sentiment analysis, and chatbots to understand and generate human language.
+Natural Language Processing (NLP) −AI is used in NLP applications like language translation, sentiment analysis, and chatbots to understand and generate human language.
+Robotics −AI is essential in robotics for tasks such as object recognition, path planning, and manipulation, enabling robots to perform complex actions in various environments.
+Robotics −AI is essential in robotics for tasks such as object recognition, path planning, and manipulation, enabling robots to perform complex actions in various environments.
+Gaming −AI is used in gaming for creating realistic virtual opponents, generating dynamic game environments, and enhancing player experiences through adaptive gameplay.
+Gaming −AI is used in gaming for creating realistic virtual opponents, generating dynamic game environments, and enhancing player experiences through adaptive gameplay.
+The future of Artificial Intelligence (AI) holds exciting possibilities. AI is expected to continue advancing and becoming more integrated into our daily lives, from improving healthcare and transportation to enhancing entertainment and communication. We may see AI-powered technologies becoming even smarter and more capable, enabling them to solve complex problems, make decisions autonomously, and adapt to new situations.
+However, there are also concerns about the impact of AI on jobs and society, so it is important for us to consider ethical implications and ensure that AI is developed responsibly. Overall, the future of AI promises innovation and convenience but also calls for careful consideration of its implications to ensure a positive impact on society.
+To learn Artificial Intelligence (AI), start with understanding its basics and learning programming, especially in languages like Python. Dive into machine learning, focusing on algorithms and frameworks, and then explore deep learning techniques for neural networks. Practice with projects of increasing complexity and stay updated with the latest advancements in AI through reading, following experts, and participating in online courses or competitions.
+In simple terms, AI cannot take over the world like in science fiction movies. While AI is powerful and can perform many tasks, it doesn't have intentions, desires, or emotions like humans do. AI systems are created and controlled by humans, and they only do what they are programmed to do. However, there are concerns about AI being misused or causing unintended consequences if not developed responsibly. It is essential for humans to ensure that AI is used ethically and for the benefit of society, rather than allowing it to control or harm us.
+Artificial Intelligence (AI) does not have a single inventor because it is a field of study that has evolved over many years with contributions from various scientists and researchers. However, the term "artificial intelligence" was coined in 1956 by John McCarthy, Marvin Minsky, Allen Newell, and Herbert A. Simon during a conference at Dartmouth College. They proposed the idea of creating machines that could simulate human intelligence. Since then, countless individuals have contributed to the development of AI through research, experimentation, and innovation in areas like machine learning, robotics, natural language processing, and more.
+Artificial Intelligence (AI) can be integrated into mobile apps to enhance user experience and functionality. Developers can use AI for personalization by analyzing user data and providing modified recommendations or content. Voice assistants powered by AI enable hands-free interaction with the app through voice commands. Predictive analytics can be implemented to anticipate user behavior and offer suggestions or notifications. Features such as image recognition and natural language processing allow for advanced functionalities like object identification, augmented reality experiences, and chatbots.
+Additionally, AI-driven security measures such as biometric authentication enhance app security, while smart automation streamlines processes and improves efficiency within the app.
+In education, Artificial Intelligence (AI) is used to personalize learning by adapting content and pace to individual students, provide instant tutoring and feedback, automate grading processes, and identify learning gaps through data analysis. AI also helps create and curate educational materials, facilitate language learning, and improve accessibility for students with disabilities, enhancing the effectiveness of educational experiences.
+The risks of Artificial Intelligence (AI) include potential job loss due to automation, biased decision-making leading to unfair outcomes, concerns about privacy and data security, and the possibility of safety and security vulnerabilities being exploited. Additionally, ethical dilemmas may arise, such as accountability for AI-driven decisions and the implications of autonomous systems on human well-being, highlighting the importance of responsible development and use of AI technologies.
+Artificial Intelligence Articles
+You can explore a set of Artificial Intelligence articles atArtificial Intelligence Articles.
+
+ML - Home
+ML - Introduction
+ML - Getting Started
+ML - Basic Concepts
+ML - Ecosystem
+ML - Python Libraries
+ML - Applications
+ML - Life Cycle
+ML - Required Skills
+ML - Implementation
+ML - Challenges & Common Issues
+ML - Limitations
+ML - Reallife Examples
+ML - Data Structure
+ML - Mathematics
+ML - Artificial Intelligence
+ML - Neural Networks
+ML - Deep Learning
+ML - Getting Datasets
+ML - Categorical Data
+ML - Data Loading
+ML - Data Understanding
+ML - Data Preparation
+ML - Models
+ML - Supervised Learning
+ML - Unsupervised Learning
+ML - Semi-supervised Learning
+ML - Reinforcement Learning
+ML - Supervised vs. Unsupervised
+Machine Learning Data Visualization
+ML - Data Visualization
+ML - Histograms
+ML - Density Plots
+ML - Box and Whisker Plots
+ML - Correlation Matrix Plots
+ML - Scatter Matrix Plots
+Statistics for Machine Learning
+ML - Statistics
+ML - Mean, Median, Mode
+ML - Standard Deviation
+ML - Percentiles
+ML - Data Distribution
+ML - Skewness and Kurtosis
+ML - Bias and Variance
+ML - Hypothesis
+Regression Analysis In ML
+ML - Regression Analysis
+ML - Linear Regression
+ML - Simple Linear Regression
+ML - Multiple Linear Regression
+ML - Polynomial Regression
+Classification Algorithms In ML
+ML - Classification Algorithms
+ML - Logistic Regression
+ML - K-Nearest Neighbors (KNN)
+ML - Naïve Bayes Algorithm
+ML - Decision Tree Algorithm
+ML - Support Vector Machine
+ML - Random Forest
+ML - Confusion Matrix
+ML - Stochastic Gradient Descent
+Clustering Algorithms In ML
+ML - Clustering Algorithms
+ML - Centroid-Based Clustering
+ML - K-Means Clustering
+ML - K-Medoids Clustering
+ML - Mean-Shift Clustering
+ML - Hierarchical Clustering
+ML - Density-Based Clustering
+ML - DBSCAN Clustering
+ML - OPTICS Clustering
+ML - HDBSCAN Clustering
+ML - BIRCH Clustering
+ML - Affinity Propagation
+ML - Distribution-Based Clustering
+ML - Agglomerative Clustering
+Dimensionality Reduction In ML
+ML - Dimensionality Reduction
+ML - Feature Selection
+ML - Feature Extraction
+ML - Backward Elimination
+ML - Forward Feature Construction
+ML - High Correlation Filter
+ML - Low Variance Filter
+ML - Missing Values Ratio
+ML - Principal Component Analysis
+Reinforcement Learning
+ML - Reinforcement Learning Algorithms
+ML - Exploitation & Exploration
+ML - Q-Learning
+ML - REINFORCE Algorithm
+ML - SARSA Reinforcement Learning
+ML - Actor-critic Method
+ML - Monte Carlo Methods
+ML - Temporal Difference
+Deep Reinforcement Learning
+ML - Deep Reinforcement Learning
+ML - Deep Reinforcement Learning Algorithms
+ML - Deep Q-Networks
+ML - Deep Deterministic Policy Gradient
+ML - Trust Region Methods
+Quantum Machine Learning
+ML - Quantum Machine Learning
+ML - Quantum Machine Learning with Python
+Machine Learning Miscellaneous
+ML - Performance Metrics
+ML - Automatic Workflows
+ML - Boost Model Performance
+ML - Gradient Boosting
+ML - Bootstrap Aggregation (Bagging)
+ML - Cross Validation
+ML - AUC-ROC Curve
+ML - Grid Search
+ML - Data Scaling
+ML - Train and Test
+ML - Association Rules
+ML - Apriori Algorithm
+ML - Gaussian Discriminant Analysis
+ML - Cost Function
+ML - Bayes Theorem
+ML - Precision and Recall
+ML - Adversarial
+ML - Stacking
+ML - Epoch
+ML - Perceptron
+ML - Regularization
+ML - Overfitting
+ML - P-value
+ML - Entropy
+ML - MLOps
+ML - Data Leakage
+ML - Monetizing Machine Learning
+ML - Types of Data
+Machine Learning - Resources
+ML - Quick Guide
+ML - Cheatsheet
+ML -  Interview Questions
+ML - Useful Resources
+ML - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Machine Learning (ML) Tutorial
+ThisMachine Learning (ML) tutorialwill provide a detailed understanding of the concepts ofmachine learningsuch as, different types of machine learning algorithms, types, applications, libraries used in ML, and real-life examples.
+What is Machine Learning
+Machine Learning (ML)is a branch ofArtificial Intelligence (AI)that works on algorithm developments and statistical models that allow computers to learn from data and make predictions or decisions without being explicitly programmed.
+How does Machine Learning Work?
+Machine Learning process includes Project Setup, Data Preparation, Modeling and Deployment. The following figure demonstrates the common working process of Machine Learning. It follows some set of steps to do the task; a sequential process of its workflow is as follows:
+Stages of Machine Learning
+The following are the stages (detailed sequential process) of Machine Learning:
+Data collection:Data collection is an initial step in the process of machine learning. In this stage, it collects data from the different sources such as databases, text files, pictures, sound files, or web scraping. This process organizes the data in an appropriate format, such as a CSV file or database, and makes sure that they are useful for solving your problem.
+Data pre-processing:It is a key step in the process of machine learning, which involves deleting duplicate data, fixing errors, managing missing data either by eliminating or filling it in, and adjusting and formatting the data.
+Choosing the right model:The next step is to select a machine learning model; once data is prepared, then we apply it to ML models like linear regression, decision trees, and neural networks that may be selected to implement. This selection depends on many factors, such as the kind of data and your problem, the size and type of data, the complexity, and the computational resources.
+Training the model:This step includes training the model from the data so it can make better predictions.
+Evaluating the model:When module is trained, the model has to be tested on new data that they haven't been able to see during training.
+Hyperparameter tuning and optimization:After evaluating the model, you may need to adjust its hyperparameters to make it more efficient. You should try different combinations of parameters and cross-validation to ensure that the model performs well on different data sets.
+Predictions and deployment:When the model has been programmed and optimized, it will be ready to estimate new data. This is done by adding new data to the model and using its output for decision-making or other analysis. The deployment includes its integration into a production environment to make it capable of processing real-world data.
+Types of Machine Learning
+Machine learning models fall into the following categories:
+Supervised Machine Learning (SVM):It is a type of machine learning that trains the model using labeled datasets to predict outcomes.
+Unsupervised Machine Learning:It is a type of machine learning that learns patterns and structures within the data without human supervision.
+Semi-supervised learning:It is a type of machine learning that is neither fully supervised nor fully unsupervised. The semi-supervised learning algorithms basically fall between supervised and unsupervised learning methods.
+Reinforcement Machine Learning:It is a type of machine learning model that is similar to supervised learning but does not use sample data to train the algorithm. This model learns by trial and error.
+Common Machine Learning Algorithms
+Several machine learning algorithms are commonly used. These include:
+Neural networks: It works like the human brain with many connected nodes. They help to find patterns and are used in language processing, image and speech recognition, and creating images.
+Linear regression: It predicts numbers based on past data. For example, it helps estimate house prices in an area.
+Logistic regression: It predicts like "yes/no" answers and it is useful for spam detection and quality control.
+Clustering: It is used to group similar data without instructions and it helps to find patterns that humans might miss.
+Decision trees: They help to classify data and predict numbers using a tree-like structure. They are easy to check and understand.
+Random forests: They combine multiple decision trees to improve predictions.
+Importance of Machine Learning
+Machine Learning is important in automation, extracting insights from data, and decision-making processes. It has its significance due to the following reasons:
+Data Processing:Machine learning is useful to analyze large data from social media, sensors, and other sources and help to reveal patterns and insights to improve decision-making.
+Data-Driven Insights:Machine learning algorithms find trends and connections in big data that humans might miss, which helps to take better decisions and predictions.
+Automation:Machine learning automates the repetitive tasks, reducing errors and saving time.
+Personalization:Machine learning is useful to analyze the user preferences to provide personalized recommendations in e-commerce, social media, and streaming services. It helps in many manners, such as to improve user engagement, etc.
+Predictive Analytics:Machine learning models use past data to predict future outcomes, which may help for sales forecasts, risk management, and demand planning.
+Pattern Recognition:Machine learning is useful in pattern recognition during image processing, speech recognition, and natural language processing.
+Finance:Machine learning is used in credit scoring, fraud detection, and algorithmic trading.
+Retail:Machine learning helps to enhance the recommendation systems, supply chain management, and customer service.
+Fraud Detection & Cybersecurity:Machine learning detects the fraudulent transactions and security threats in real time.
+Continuous Improvement:Machine learning models update regularly with new data, which allows them to adapt and improve over time.
+Applications of Machine Learning
+Machine learning is used in various fields. Some of the most common applications include:
+Speech Recognition: Machine learning is used to convert spoken language into text using natural language processing (NLP). It is used in voice assistants like Siri, voice search, and text accessibility features on mobile devices.
+Customer Service: There are several chatbots that are useful for reducing human interaction and providing better support on websites and social media, handling FAQs, giving recommendations, and assisting in e-commerce. For example, virtual agents, Facebook Messenger bots, and voice assistants.
+Computer Vision: It helps computers in analyzing the images and videos to take action. It is used in social media for photo tagging, in healthcare for medical imaging, and in self-driving cars for navigation.
+Recommendation Engines: ML recommendation engines suggest products, movies, or content based on user behavior. Online retailers use them to improve shopping experiences.
+Robotic Process Automation (RPA): RPA uses AI to automate repetitive tasks and reduce manual work.
+Automated Stock Trading: AI-driven trading platforms make rapid trades to optimize stock portfolios without human intervention.
+Fraud Detection: Machine learning identifies suspicious financial transactions, which help banks to detect fraud and prevent unauthorized activities.
+Who can Learn Machine Learning?
+Thismachine learning tutorialhas been prepared for those who want to learn about the basics and advances of Machine Learning. In a broader sense; ML is a subset of Artificial Intelligence (AI) that focuses on developing algorithms and models that allow computers to learn from data and make predictions or decisions without being explicitly programmed to do so. Machine learning requires data. This data can be text, images, audio, numbers, or video. The quality and quantity of data considerably affect machine learning model performance. Features are data qualities used to predict or decide. Feature selection and engineering entail selecting and formatting the most relevant features for the model.
+Prerequisites to Learn Machine Learning
+You should have a basic understanding of the technical aspects of Machine Learning. Learners should be familiar with data, information, and its basics. Knowledge of Data, information, structured data, unstructured data, semi-structured data, data processing, and Artificial Intelligence basics; Proficiency in labeled / unlabelled data, feature extraction from data, and their application in ML to solve common problems is a must.
+
+Home
+Basics
+Python Ecosystem
+Methods for Machine Learning
+Data Loading for ML Projects
+Understanding Data with Statistics
+Understanding Data with Visualization
+Preparing Data
+Data Feature Selection
+ML Algorithms - Classification
+Introduction
+Logistic Regression
+Support Vector Machine (SVM)
+Decision Tree
+Naïve Bayes
+Random Forest
+ML Algorithms - Regression
+Random Forest
+Linear Regression
+ML Algorithms - Clustering
+Overview
+K-means Algorithm
+Mean Shift Algorithm
+Hierarchical Clustering
+ML Algorithms - KNN Algorithm
+Finding Nearest Neighbors
+Performance Metrics
+Automatic Workflows
+Improving Performance of ML Models
+Improving Performance of ML Model (Contd…)
+ML With Python - Resources
+Machine Learning With Python - Quick Guide
+Machine Learning with Python - Resources
+Machine Learning With Python - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Machine Learning with Python Tutorial
+Machine Learning with Python Tutorial
+Machine Learning (ML) is basically that field of computer science with the help of which computer systems can provide sense to data in much the same way as human beings do. In simple words, ML is a type of artificial intelligence that extract patterns out of raw data by using an algorithm or method. The key focus of ML is to allow computer systems to learn from experience without being explicitly programmed or human intervention.
+Audience
+This tutorial will be useful for graduates, postgraduates, and research students who either have an interest in this subject or have this subject as a part of their curriculum. The reader can be a beginner or an advanced learner. This tutorial has been prepared for the students as well as professionals to ramp up quickly. This tutorial is a stepping stone to your Machine Learning journey.
+Prerequisites
+The reader must have basic knowledge of Artificial Intelligence. They should have a good knowledge of Python and some of its libraries such as NumPy, Pandas, Scikit-learn, Scipy and Matplotlib for effective data manipulation and analysis.
+In addition, the readers should have a strong understanding of the fundamental concepts in mathematics including calculus, linear algebra, probability, statistics, algorithms and data structures.
+If you are new to any of these concepts, we recommend you to take up tutorials concerning these topics, before you dig further into this tutorial
+Frequently Asked Questions about ML with Python
+There are some very Frequently Asked Questions(FAQ) about ML with Python. In this section, we will have some of these FAQs answered −
+Machine learning (ML) is a subset of artificial intelligence (AI) that focuses on developing algorithms that improve automatically through experience and by using the hidden patterns of the data.
+In simple terms, ML enables computers to learn from data and make predictions or decisions without being explicitly programmed. This capability allows computers to automate tasks and solve complex problems across different fields.
+The amount of data generated by businesses and individuals continues to grow at an exponential rate. Machine learning has become an important topic as it revolutionizes how computers process and interpret data.
+ML empowers computers to learn from data, enhancing accuracy and efficiency in various tasks. It enables data-driven decision-making and boosts productivity.
+Different types of Machine Learning include −
+Supervised Learning− In supervised learning, the algorithm is trained on labeled data i.e., the correct answer or output is provided for each input.
+Unsupervised Learning− In unsupervised learning, the algorithm is trained on unlabeled data i.e., the correct output or answer is not provided for each input.
+Reinforcement Learning− In reinforcement learning, the algorithm learns by receiving feedback in the form of rewards or punishments based on its actions.
+Semi-supervised Learning− In semi-supervised learning, the algorithm is trained on combined labeled and unlabeled data.
+Some of the common applications of Machine Learning include −
+Recommendation systems for personalized content.
+Image and speech recognition for authentication and security.
+Natural language processing for sentiment analysis and chatbots.
+Predictive analytics for forecasting sales and trends.
+Autonomous vehicles for navigation and decision-making.
+Fraud detection in the banking sector and finance.
+Medical diagnosis and healthcare management.
+Virtual assistants for customer service and support.
+The basic components of a Machine Learning system −
+Data− It is the raw information used to train and test the model.
+Model− It is a mathematical representation that learns from the input data.
+Features− These are the input variables or attributes used by the model to make predictions.
+Training− Process of feeding data into the model to make accurate predictions by adjusting its internal parameters.
+Evaluation− Process of assessing the performance of model on separate dataset.
+Prediction− Process of using the trained model to make predictions on new data.
+Some of the commonly used programming languages in Machine Learning include Python, R, Java, C++, Julia, and JavaScript.
+Python, due to its simplicity and extensive libraries like TensorFlow, Keras, Scikit-learn, and OpenCV is the preferred choice for both beginners as well as experts in the field of machine learning.
+In supervised learning, an algorithm is trained using the labeled data to find the relationship between the input variables and the desired output. On the other hand, in unsupervised learning, an algorithm is trained using unlabeled data to find the structure and patterns from the input data.
+Supervised learning can be used forclassificationandregressionwhile unsupervised learning can be used forclustering and dimensionality reduction.
+Here is a list of some popular algorithms used in Machine Learning −
+Linear Regression
+Logistic Regression
+Decision Trees
+Random Forests
+Support Vector Machines (SVM)
+k-Nearest Neighbors (k-NN)
+Naive Bayes
+Gradient Boosting Machines (GBM)
+K-Means Clustering
+Hierarchical Clustering
+For classification tasks, we can evaluate the performance of a Machine Learning model using various metrics such asaccuracy, precision, recall, F1-score, andarea under the ROC curve (AUC-ROC).
+For regression tasks, we can use metrics likemean squared error (MSE), root mean squared error (RMSE), andR-squared. Cross-validation techniques like k-fold cross-validation can also help assessing generalization performance of a ML model.
+Some common challenges and issues faced in Machine Learning include overfitting, underfitting, data quality, imbalanced datasets, computational complexity, model interpretability, generalization, scalability, and ethical considerations like fairness and privacy protection.
+To get started with ML, first learn Python programming language which is widely used in the field. Understand some ML concepts like supervised and unsupervised learning, algorithms, and evaluation metrics.
+To implement ML models, it is good to learn popular libraries like scikit-learn and TensorFlow. You can practice by working on projects using datasets from platforms like Kaggle.
+You can also take some online courses to gain practical experience. Finally, build your own ML projects to apply your knowledge.
+Machine learning models can raise ethical considerations when used to make decisions affecting people's lives. These considerations include bias and fairness, privacy, transparency, accountability, data security, consent, societal impact, and regulatory compliance.
+To ensure a reliable development and deployment of machine learning systems, considering these aspects are important.
+Machine Learning (ML) and Artificial Intelligence (AI) are two closely related but different domains withing computer science. AI is a field of computer science that makes computers mimic human intelligence.
+On the other hand, ML is a subset of AI that focuses on algorithms that allow computers to learn from data and make predictions or decisions without being explicitly programmed to do so.
+Machine Learning can be applied to various types of data such as numerical, categorical, text, image, and audio data. But the effectiveness of Machine Learning techniques depends on the quality and characteristics of the data.
+For example, supervised learning algorithms require labeled data for training, while unsupervised learning techniques require unlabeled data.
+To collect and prepare data for Machine Learning, start by defining the problem and gathering relevant data from various sources. Next, clean the dataset by removing duplicates and handling missing values. Now, Analyze the dataset to understand its structure and relationships between variables.
+Next, prepare the data for input into ML models by using techniques like normalization and scaling. Now, divide the dataset into training and testing sets for model evaluation. Finally, iterate on the data preparation process based on model performance.
+Some common tools and libraries used in Machine Learning projects include Python programming language (with libraries likeTensorFlow, Scikit-learn, PyTorch, Kerasetc.), R programming language (with libraries likecaret, mlr, etc.), Jupyter Notebooks, NumPy, Pandas, Matplotlib, Seaborn, and XGBoost.
+These tools enable data manipulation, visualization, model development, and evaluation and hence play a fundamental role in ML workflow.
+To choose the right Machine Learning algorithm, you first need to understand your problem and analyze the characteristics of your data.
+For example, if you want to categorize new observations, you may need to use classification techniques, while if you want to analyze relationship between dependent and independent variables, you may need to use regression techniques.
+Deep Learning (DL) is a subset of Machine Learning (ML) that uses neural networks with multiple layers to learn hierarchical representations of data. It relates to ML as it falls withing the broader field of ML.
+While ML uses various algorithms to teach computers to learn from data, DL focuses on using deep neural networks to learn complex patterns and relationships in large data sets.
+To train a Machine Learning model, first clean, preprocess and split the data into training and testing sets. Next, choose an appropriate algorithm or model architecture. Now, train it on the training data by adjusting parameters to minimize error.
+Once trained, validate the models performance on a separate dataset, Finally, evaluate the models performance on testing data and deploy the model for predictions on new data.
+To deploy a Machine Learning model into production first choose a suitable platform for hosting the model. Next, implement a pipeline for model deployment which includes preprocessing, prediction, and post-processing steps.
+Next, we need to validate the deployed model's performance and functionality. Once validated, continuously monitor the model's performance in production. Finally, if needed, scale the deployment to handle increasing workload and demand efficiently.
+
+Home
+Adjusted R-Squared
+Analysis of Variance
+Arithmetic Mean
+Arithmetic Median
+Arithmetic Mode
+Arithmetic Range
+Bar Graph
+Best Point Estimation
+Beta Distribution
+Binomial Distribution
+Black-Scholes model
+Boxplots
+Central limit theorem
+Chebyshev's Theorem
+Chi-squared Distribution
+Chi Squared table
+Circular Permutation
+Cluster sampling
+Cohen's kappa coefficient
+Combination
+Combination with replacement
+Comparing plots
+Continuous Uniform Distribution
+Continuous Series Arithmetic Mean
+Continuous Series Arithmetic Median
+Continuous Series Arithmetic Mode
+Cumulative Frequency
+Co-efficient of Variation
+Correlation Co-efficient
+Cumulative plots
+Cumulative Poisson Distribution
+Data collection
+Data collection - Questionaire Designing
+Data collection - Observation
+Data collection - Case Study Method
+Data Patterns
+Deciles Statistics
+Discrete Series Arithmetic Mean
+Discrete Series Arithmetic Median
+Discrete Series Arithmetic Mode
+Dot Plot
+Exponential distribution
+F distribution
+F Test Table
+Factorial
+Frequency Distribution
+Gamma Distribution
+Geometric Mean
+Geometric Probability Distribution
+Goodness of Fit
+Grand Mean
+Gumbel Distribution
+Harmonic Mean
+Harmonic Number
+Harmonic Resonance Frequency
+Histograms
+Hypergeometric Distribution
+Hypothesis testing
+Individual Series Arithmetic Mean
+Individual Series Arithmetic Median
+Individual Series Arithmetic Mode
+Interval Estimation
+Inverse Gamma Distribution
+Kolmogorov Smirnov Test
+Kurtosis
+Laplace Distribution
+Linear regression
+Log Gamma Distribution
+Logistic Regression
+Mcnemar Test
+Mean Deviation
+Means Difference
+Multinomial Distribution
+Negative Binomial Distribution
+Normal Distribution
+Odd and Even Permutation
+One Proportion Z Test
+Outlier Function
+Permutation
+Permutation with Replacement
+Pie Chart
+Poisson Distribution
+Pooled Variance (r)
+Power Calculator
+Probability
+Probability Additive Theorem
+Probability Multiplecative Theorem
+Probability Bayes Theorem
+Probability Density Function
+Process Capability (Cp) & Process Performance (Pp)Process SigmaQuadratic Regression EquationQualitative Data Vs Quantitative DataQuartile DeviationRange Rule of ThumbRayleigh DistributionRegression Intercept Confidence IntervalRelative Standard DeviationReliability CoefficientRequired Sample SizeResidual analysisResidual sum of squaresRoot Mean SquareSample planningSampling methodsScatterplotsShannon Wiener Diversity IndexSignal to Noise RatioSimple random samplingSkewnessStandard DeviationStandard Error ( SE )Standard normal tableStatistical SignificanceStatistics FormulasStatistics NotationStem and Leaf PlotStratified samplingStudent T TestSum of SquareT-Distribution TableTi 83 Exponential RegressionTransformationsTrimmed MeanType I & II ErrorVarianceVenn DiagramWeak Law of Large NumbersZ tableStatistics Useful ResourcesStatistics - Discussion
+Process Sigma
+Quadratic Regression Equation
+Qualitative Data Vs Quantitative Data
+Quartile Deviation
+Range Rule of Thumb
+Rayleigh Distribution
+Regression Intercept Confidence Interval
+Relative Standard Deviation
+Reliability Coefficient
+Required Sample Size
+Residual analysis
+Residual sum of squares
+Root Mean Square
+Sample planning
+Sampling methods
+Scatterplots
+Shannon Wiener Diversity Index
+Signal to Noise Ratio
+Simple random sampling
+Skewness
+Standard Deviation
+Standard Error ( SE )
+Standard normal table
+Statistical Significance
+Statistics Formulas
+Statistics Notation
+Stem and Leaf Plot
+Stratified sampling
+Student T Test
+Sum of Square
+T-Distribution Table
+Ti 83 Exponential Regression
+Transformations
+Trimmed Mean
+Type I & II Error
+Variance
+Venn Diagram
+Weak Law of Large Numbers
+Z table
+Statistics Useful Resources
+Statistics - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Statistics Tutorial
+This Statistics preparation material will cover the important concepts of Statistics syllabus. It contains chapters discussing all the basic concepts of Statistics with suitable examples.
+Audience
+This tutorial is designed for Professionals who are willing to learn Statistics and want to clear B.A., B.Sc., B.COM,  M.COM and other exams. This tutorial will give you great understanding on concepts present in Statistics syllabus and after completing this preparation material you will be at intermediate level of experties from where you can take yourself at higher level of expertise.
+Prerequisites
+Before proceeding with this tutorial you should have a basic understanding of Mathematics.
+
+NLP - Home
+NLP - Introduction
+NLP - Linguistic Resources
+NLP - Word Level Analysis
+NLP - Syntactic Analysis
+NLP - Semantic Analysis
+NLP - Word Sense Disambiguation
+NLP - Discourse Processing
+NLP - Part of Speech (PoS) Tagging
+NLP - Inception
+NLP - Information Retrieval
+NLP - Applications of NLP
+NLP - Python
+Natural Language Processing Resources
+NLP - Quick Guide
+NLP - Useful Resources
+NLP - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Natural Language Processing Tutorial
+Language is a method of communication with the help of which we can speak, read and write. Natural Language Processing (NLP) is a subfield of Computer Science that deals with Artificial Intelligence (AI), which enables computers to understand and process human language.
+Audience
+This tutorial is designed to benefit graduates, postgraduates, and research students who either have an interest in this subject or have this subject as a part of their curriculum. The reader can be a beginner or an advanced learner.
+Prerequisites
+The reader must have basic knowledge about Artificial Intelligence. He/she should also be aware about basic terminologies used in English grammar and Python programming concepts.
+
+Artificial Neural Network - Home
+Basic Concepts
+Building Blocks
+Learning & Adaptation
+Supervised Learning
+Unsupervised Learning
+Learning Vector Quantization
+Adaptive Resonance Theory
+Kohonen Self-Organizing Feature Maps
+Associate Memory Network
+Hopfield Networks
+Boltzmann Machine
+Brain-State-in-a-Box Network
+Optimization Using Hopfield Network
+Other Optimization Techniques
+Genetic Algorithm
+Applications of Neural Networks
+Quick Guide
+Useful Resources
+Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Artificial Neural Networks Tutorial
+Artificial Neural Networks are parallel computing devices, which are basically an attempt to make a computer model of the brain. The main objective is to develop a system to perform various computational tasks faster than the traditional systems. This tutorial covers the basic concept and terminologies involved in Artificial Neural Network. Sections of this tutorial also explain the architecture as well as the training algorithm of various networks used in ANN.
+Audience
+This tutorial will be useful for graduates, post graduates, and research students who either have an interest in this subject or have this subject as a part of their curriculum. The reader can be a beginner or an advanced learner.
+Prerequisites
+Artificial Neural Networks (ANN) is an advanced topic, hence the reader must have basic knowledge of Algorithms, Programming, and Mathematics.
+
+TensorFlow - Home
+TensorFlow - Introduction
+TensorFlow - Installation
+Understanding Artificial Intelligence
+Mathematical Foundations
+Machine Learning & Deep Learning
+TensorFlow - Basics
+Convolutional Neural Networks
+Recurrent Neural Networks
+TensorBoard Visualization
+TensorFlow - Word Embedding
+Single Layer Perceptron
+TensorFlow - Linear Regression
+TFLearn and its installation
+CNN and RNN Difference
+TensorFlow - Keras
+TensorFlow - Distributed Computing
+TensorFlow - Exporting
+Multi-Layer Perceptron Learning
+Hidden Layers of Perceptron
+TensorFlow - Optimizers
+TensorFlow - XOR Implementation
+Gradient Descent Optimization
+TensorFlow - Forming Graphs
+Image Recognition using TensorFlow
+Recommendations for Neural Network Training
+TensorFlow - Quick Guide
+TensorFlow - Useful Resources
+TensorFlow - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+TensorFlow Tutorial
+TensorFlow is an open source machine learning framework for all developers. It is used for implementing machine learning and deep learning applications. To develop and research on fascinating ideas on artificial intelligence, Google team created TensorFlow. TensorFlow is designed in Python programming language, hence it is considered an easy to understand framework.
+Audience
+This tutorial has been prepared for python developers who focus on research and development with various machine learning and deep learning algorithms. The aim of this tutorial is to describe all TensorFlow objects and methods.
+Prerequisites
+Before proceeding with this tutorial, you need to have a basic knowledge of any Python programming language. Knowledge of artificial intelligence concepts will be a plus point.
+
+PyTorch - Home
+PyTorch - Introduction
+PyTorch - Installation
+Mathematical Building Blocks of Neural Networks
+PyTorch - Neural Network Basics
+Universal Workflow of Machine Learning
+Machine Learning vs. Deep Learning
+Implementing First Neural Network
+Neural Networks to Functional Blocks
+PyTorch - Terminologies
+PyTorch - Loading Data
+PyTorch - Linear Regression
+PyTorch - Convolutional Neural Network
+PyTorch - Recurrent Neural Network
+PyTorch - Datasets
+PyTorch - Introduction to Convents
+Training a Convent from Scratch
+PyTorch - Feature Extraction in Convents
+PyTorch - Visualization of Convents
+Sequence Processing with Convents
+PyTorch - Word Embedding
+PyTorch - Recursive Neural Networks
+PyTorch Useful Resources
+PyTorch - Quick Guide
+PyTorch - Useful Resources
+PyTorch - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+PyTorch Tutorial
+PyTorch is an open source machine learning library for Python and is completely based on Torch. It is primarily used for applications such as natural language processing. PyTorch is developed by Facebook's artificial-intelligence research group along with Uber's "Pyro" software for the concept of in-built probabilistic programming.
+Audience
+This tutorial has been prepared for python developers who focus on research and development with machinelearning algorithms along with natural language processing system. The aim of this tutorial is to completely describe all concepts of PyTorch and realworld examples of the same.
+Prerequisites
+Before proceeding with this tutorial, you need knowledge of Python and Anaconda framework (commands used in Anaconda). Having knowledge of artificial intelligence concepts will be an added advantage.
+
+Matplotlib - Home
+Matplotlib - Introduction
+Matplotlib - Vs Seaborn
+Matplotlib - Environment Setup
+Matplotlib - Anaconda distribution
+Matplotlib - Jupyter Notebook
+Matplotlib - Pyplot API
+Matplotlib - Simple Plot
+Matplotlib - Saving Figures
+Matplotlib - Markers
+Matplotlib - Figures
+Matplotlib - Styles
+Matplotlib - Legends
+Matplotlib - Colors
+Matplotlib - Colormaps
+Matplotlib - Colormap Normalization
+Matplotlib - Choosing Colormaps
+Matplotlib - Colorbars
+Matplotlib - Working With Text
+Matplotlib - Text properties
+Matplotlib - Subplot Titles
+Matplotlib - Images
+Matplotlib - Image Masking
+Matplotlib - Annotations
+Matplotlib - Arrows
+Matplotlib - Fonts
+Matplotlib - Font Indexing
+Matplotlib - Font Properties
+Matplotlib - Scales
+Matplotlib - LaTeX
+Matplotlib - LaTeX Text Formatting in Annotations
+Matplotlib - PostScript
+Matplotlib - Mathematical Expressions
+Matplotlib - Animations
+Matplotlib - Celluloid Library
+Matplotlib - Blitting
+Matplotlib - Toolkits
+Matplotlib - Artists
+Matplotlib - Styling with Cycler
+Matplotlib - Paths
+Matplotlib - Path Effects
+Matplotlib - Transforms
+Matplotlib - Ticks and Tick Labels
+Matplotlib - Radian Ticks
+Matplotlib - Dateticks
+Matplotlib - Tick Formatters
+Matplotlib - Tick Locators
+Matplotlib - Basic Units
+Matplotlib - Autoscaling
+Matplotlib - Reverse Axes
+Matplotlib - Logarithmic Axes
+Matplotlib - Symlog
+Matplotlib - Unit Handling
+Matplotlib - Ellipse with Units
+Matplotlib - Spines
+Matplotlib - Axis Ranges
+Matplotlib - Axis Scales
+Matplotlib - Axis Ticks
+Matplotlib - Formatting Axes
+Matplotlib - Axes Class
+Matplotlib - Twin Axes
+Matplotlib - Figure Class
+Matplotlib - Multiplots
+Matplotlib - Grids
+Matplotlib - Object-oriented Interface
+Matplotlib - PyLab module
+Matplotlib - Subplots() Function
+Matplotlib - Subplot2grid() Function
+Matplotlib - Anchored Artists
+Matplotlib - Manual Contour
+Matplotlib - Coords Report
+Matplotlib - AGG filter
+Matplotlib - Ribbon Box
+Matplotlib - Fill Spiral
+Matplotlib - Findobj Demo
+Matplotlib - Hyperlinks
+Matplotlib - Image Thumbnail
+Matplotlib - Plotting with Keywords
+Matplotlib - Create Logo
+Matplotlib - Multipage PDF
+Matplotlib - Multiprocessing
+Matplotlib - Print Stdout
+Matplotlib - Compound Path
+Matplotlib - Sankey Class
+Matplotlib - MRI with EEG
+Matplotlib - Stylesheets
+Matplotlib - Background Colors
+Matplotlib - Basemap
+Matplotlib - Event Handling
+Matplotlib - Close Event
+Matplotlib - Mouse Move
+Matplotlib - Click Events
+Matplotlib - Scroll Event
+Matplotlib - Keypress Event
+Matplotlib - Pick Event
+Matplotlib - Looking Glass
+Matplotlib - Path Editor
+Matplotlib - Poly Editor
+Matplotlib - Timers
+Matplotlib - Viewlims
+Matplotlib - Zoom Window
+Matplotlib Widgets
+Matplotlib - Cursor Widget
+Matplotlib - Annotated Cursor
+Matplotlib - Buttons Widget
+Matplotlib - Check Buttons
+Matplotlib - Lasso Selector
+Matplotlib - Menu Widget
+Matplotlib - Mouse Cursor
+Matplotlib - Multicursor
+Matplotlib - Polygon Selector
+Matplotlib - Radio Buttons
+Matplotlib - RangeSlider
+Matplotlib - Rectangle Selector
+Matplotlib - Ellipse Selector
+Matplotlib - Slider Widget
+Matplotlib - Span Selector
+Matplotlib - Textbox
+Matplotlib Plotting
+Matplotlib - Line Plots
+Matplotlib - Area Plots
+Matplotlib - Bar Graphs
+Matplotlib - Histogram
+Matplotlib - Pie Chart
+Matplotlib - Scatter Plot
+Matplotlib - Box Plot
+Matplotlib - Arrow Demo
+Matplotlib - Fancy Boxes
+Matplotlib - Zorder Demo
+Matplotlib - Hatch Demo
+Matplotlib - Mmh Donuts
+Matplotlib - Ellipse Demo
+Matplotlib - Bezier Curve
+Matplotlib - Bubble Plots
+Matplotlib - Stacked Plots
+Matplotlib - Table Charts
+Matplotlib - Polar Charts
+Matplotlib - Hexagonal bin Plots
+Matplotlib - Violin Plot
+Matplotlib - Event Plot
+Matplotlib - Heatmap
+Matplotlib - Stairs Plots
+Matplotlib - Errorbar
+Matplotlib - Hinton Diagram
+Matplotlib - Contour Plot
+Matplotlib - Wireframe Plots
+Matplotlib - Surface Plots
+Matplotlib - Triangulations
+Matplotlib - Stream plot
+Matplotlib - Ishikawa Diagram
+Matplotlib - 3D Plotting
+Matplotlib - 3D Lines
+Matplotlib - 3D Scatter Plots
+Matplotlib - 3D Contour Plot
+Matplotlib - 3D Bar Plots
+Matplotlib - 3D Wireframe Plot
+Matplotlib - 3D Surface Plot
+Matplotlib - 3D Vignettes
+Matplotlib - 3D Volumes
+Matplotlib - 3D Voxels
+Matplotlib - Time Plots and Signals
+Matplotlib - Filled Plots
+Matplotlib - Step Plots
+Matplotlib - XKCD Style
+Matplotlib - Quiver Plot
+Matplotlib - Stem Plots
+Matplotlib - Visualizing Vectors
+Matplotlib - Audio Visualization
+Matplotlib - Audio Processing
+Matplotlib Useful Resources
+Matplotlib - Quick Guide
+Matplotlib - Cheatsheet
+Matplotlib - Useful Resources
+Matplotlib - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Matplotlib Tutorial
+What is Matplotlib?
+Matplotlib and Pyplot
+Online Editor
+Applications of Matplotlib
+Why To Learn Matplotlib?
+Who Should Learn Matplotlib
+Prerequisites to Learn Matplotlib
+Frequently Asked Questions about Matplotlib
+What Is Matplotlib?
+Matplotlibis one of the most popular Python packages used for data visualization. It is a cross-platform library for making 2D plots from data in arrays. It provides an object-oriented API that helps in embedding plots in applications using Python GUI toolkits such asPyQt,WxPython, orTkinter. It can be used in Python and IPython shells,Jupyter notebookand web application servers also.
+Matplotlib is aPythonlibrary that is specifically designed to do effective data visualization. It's a cornerstone of plotting libraries in Python which empowers beginners to dive into the world of attractive data visualization. Matplotlib is an open-source Python library that offers various data visualization (like Line plots, histograms, scatter plots, bar charts, Scatter plots, Pie Charts, and Area Plot etc). A beauty of the Python matplotlib library is its Python code. Its script is structured which denotes that a few lines of code are all that are required in most instances to generate a visual data plot.
+Matplotlib and Pyplot
+Matplotlibis a versatile toolkit that allows for the creation of static, animated, and interactive visualizations in the Python programming language.
+Generally, matplotlib overlays two APIs:
+The pyplot API: to make plot usingmatplotlib.pyplot.
+Object-Oriented API: A group of objects assembled with greater flexibility thanpyplot. It provides direct access to Matplotlib’s backend layers.
+Matplotlib simplifies simple tasks and enables complex tasks to be accomplished. Following are the key aspects of matplotlib:
+Matplotlib offers to create quality plots.
+Matplotlib offers interactive figures and customizes their visual style that can be manipulated as per need.
+Matplotlib offers export to many file formats.
+Online Editor
+We have provided anOnline Python Compiler/Interpreter. Which helps you  toEditandExecutethe Python code directly from your browser. You can also execute the Matplotlib programs using this.
+Try to click the iconto run the following matplotlib code to display a basic line plot.
+import matplotlib.pyplot as plt
+import numpy as np
+
+x = np.linspace(0, 2 * np.pi, 200)
+y = np.sin(x)
+
+fig, ax = plt.subplots(figsize=(7, 4))
+ax.set_title('Sin Wave')
+ax.plot(x, y)
+plt.show()
+Applications of Matplotlib
+The most common applications of matplotlib include:
+Data Visualization: Many scientific researches, data analytics, andmachine learningapplications use Matplotlib to visualize data.
+Scientific Research: Matplotlib helps scientists visualize experimental data, simulation findings, and statistical analysis. It improves data comprehension and communication for researchers.
+Engineering: Matplotlib helps engineers to visualize sensor readings, simulation findings, and design parameters. It excels at graphing in mechanical, civil, aeronautical, and electrical engineering.
+Finance: Finance professionals use Matplotlib to visualize stock prices, market trends, portfolio performance, and risk assessments. It helps analysts and traders make decisions by visualizing complicated financial data in simple graphics.
+Geospatial Analysis: Matplotlib, Basemap, and Cartopy are used to visualize geographical data such as maps, satellite images, climate data, and GIS data. Users may generate interactive maps, plot geographical characteristics, and overlay data for spatial analysis.
+Biology and Bioinformatics: Matplotlib helps biologists and bioinformaticians visualize DNA sequences, protein structures, phylogenetic trees, and gene expression patterns. It helps researchers to visualize complicated biological processes.
+Education: Educational institutions use Matplotlib to teach data visualization, programming, and scientific computing. Its easy-to-use visualization interface makes it suited for high school and university students and teachers.
+Web Development:Flask,Django, andPlotlyDash can incorporate Matplotlib into online apps. It lets developers build dynamic, interactive visualizations for web pages and dashboards.
+Machine Learning: Machine learning projects visualize data distributions, model performance metrics, decision boundaries, and training progress with Matplotlib. It helps machine learning practitioners analyze algorithm behavior and troubleshoot model-building concerns.
+Presentation and Publication: Matplotlib creates high-quality figures for scientific research, reports, presentations, and posters. It offers many customization options to optimize the plot look for publishing and presentation.
+Matplotlib lets users produce informative and attractive visualizations for analysis, communication, and decision-making.
+Why To Learn Matplotlib?
+Matplotlibis a comprehensive library for creating static, animated, and interactive visualizations in Python. It has become one of the most widely used plotting libraries in the Python ecosystem. Some of the reasons are as to make Matplotlib popular:
+Plotting Capabilities: Matplotlib provides extensive functionality for creating a variety of plots like line plots, scatter plots, bar charts, histograms, pie charts, 3D plots, etc.
+Quality Graphics: It allows its users to control every aspect of their plots, including colors, line styles, markers, fonts, and annotations.Integration with NumPy and Pandas: Matplotlib works with NumPy and Pandas to visualize arrays, data frames, and other data structures.
+Cross-Platform Compatibility: Matplotlib operates on Windows, macOS, and Linux, making it accessible to many people.
+Extensive Documentation and Tutorials: Beginners and experts may easily get started with Matplotlib thanks to its extensive documentation and online training.
+Matplotlib is a robust and versatile Python toolkit used for visualizing data which makes it indispensable for data analysts, scientists, engineers, and other professionals working with data.
+Who Should Learn Matplotlib?
+ThisMatplotlib tutorialhas been prepared for those who want to learn about the foundations and advances of theMatplotlib Python package. It is most widely used in the domains of data science, engineering, research, agriculture science, management, statistics, and other related fields where data visualization primarily requires finding data insights using charts and graphs to understand the data patterns. It really helps the companies in strategic decision-making.
+ThisMatplotlib tutorialis designed for beginners and professionals to cover matplotlib concepts, including the process of installing matplotlib and making different plots. It offers a detailed description, valuable insights, and the fundamental principles of constructing attractive visualizations. Whether you are a student embarking in the field of data science or a professional, this tutorial provides a strong foundation to explore data analysis using data visualization through Matplotlib to present the data. Hence, this tutorial aims to explain the different functions of Matplotlib for data analysis.
+Prerequisites To Learn Matplotlib
+You should have a basic understanding of computer programming. A basic understanding of Python and any of the programming languages is a plus. Basic knowledge of statistics and mathematics is helpful for data analysis and interpretation. Matplotlib offers functions for data visualization. By having a strong foundation of above mentioned, you'll be well-equipped to leverage the power of matplotlib for data visualization.
+Frequently Asked Questions about Matplotlib
+There are some very Frequently Asked Questions(FAQ) about SQL, this section tries to answer them briefly.
+Matplotlib is used for creating static, animated, and interactive visualizations in Python. It's a powerful library widely used for data visualization tasks, offering various functionalities to generate plots such as line plots, scatter plots, bar charts, histograms, and 3D plots.
+Because of its nomenclature for plots and the two plotting interfaces: the pyplot approach and the object-oriented style. These aspects may initially challenge the users who are trying to understand the library.
+The name Matplotlib originated from the library's early goal of emulating the MATLAB graphics commands. However, it's important to note that Matplotlib is independent of MATLAB and can be used in a Pythonic, object-oriented manner.
+It offers a wide range of functionalities to create plots like line plots, scatter plots, bar charts, histograms, 3D plots, and much more. Due to its accessibility, Matplotlib is recognized as one of the most popular data visualization tools.
+Matplotlib is helpful because it simplifies the process of creating plots and visualizing data. It allows users to generate plots with just a few commands, making it accessible for both beginners and experienced programmers.
+Matplotlib offers several advantages few of them are listed below −
+Efficient Data Access
+Efficient Data Access
+Robust Data Handling
+Robust Data Handling
+Creates publication-quality plots
+Creates publication-quality plots
+Support for Multiple Outputs
+Support for Multiple Outputs
+It also provides graphical user interfaces
+It also provides graphical user interfaces
+Flexible Data Representation
+Flexible Data Representation
+Advanced Visualization Capabilities
+Advanced Visualization Capabilities
+Open-Source Nature
+Open-Source Nature
+Simplifies data analysis by providing a user-friendly interface and powerful tools
+Simplifies data analysis by providing a user-friendly interface and powerful tools
+It provides high-quality images
+It provides high-quality images
+Matplotlib is used by persons in various fields, including data science, finance, engineering, and research. Particularly used within the data science industries. Its flexibility and capability to handle complex data visualization tasks make it a popular choice among individuals working with data.
+Matplotlib was originally written by John D. Hunter, a neurobiologist, with the initial goal of emulating MATLAB's plotting capabilities to work with EEG data. then it has had an active development community and is distributed under a BSD-style license.
+Learning Matplotlib involves exploring its simple and advanced commands. You can start by following tutorials and examples, gradually building confidence in creating plots for data visualization. Our comprehensive learning materials provide a solid foundation for mastering Matplotlib. Also, it is good to follow the Official Documentation.
+Yes, Matplotlib is a powerful library for data visualization in Python. It allows users to create a variety of plots, charts, and graphs to effectively represent and analyze data.
+There are two main approaches to using Matplotlib: the pyplot approach (also known as An implicit or functional interface) and the object-oriented style (called An explicit or Axes interface).
+Matplotlib provides benefits such as the ability to create high-quality plots, compatibility with various output formats, ease of integration into graphical user interfaces, and support LaTeX and math text, allowing users to display mathematical equations and symbols in their plots, such as axis labels, titles, and annotations.
+Matplotlib supports various types of histograms, including bar charts, stacked bar charts, and 3D histograms.
+You can use our simple and the best Matplotlib tutorial to learn Matplotlib. Our tutorial offers an excellent starting point for learning Matplotlib. You can explore our simple and effective learning materials at your own pace.
+Matplotlib's architecture consists of three layers −
+Backend Layer− This layer is responsible for handling the display of Matplotlib figures.
+Backend Layer− This layer is responsible for handling the display of Matplotlib figures.
+Artist Layer− The Artist layer is crucial in the creation and manipulation of visual elements within Matplotlib. Each visual component, such as lines, text, and shapes, is represented as an "artist" in this layer.
+Artist Layer− The Artist layer is crucial in the creation and manipulation of visual elements within Matplotlib. Each visual component, such as lines, text, and shapes, is represented as an "artist" in this layer.
+Scripting Layer− The Scripting layer is where users interact with Matplotlib to generate visualizations using Python scripts or code.
+Scripting Layer− The Scripting layer is where users interact with Matplotlib to generate visualizations using Python scripts or code.
+The Matplotlib font refers to the text appearance in plots generated using Matplotlib. The library provides robust support for customizing text properties in plots. By default, Matplotlib uses the DejaVu Sans font. However, users have the flexibility to configure default fonts and even use their custom fonts.
+
+NumPy - Home
+NumPy - Introduction
+NumPy - Environment
+NumPy Arrays
+NumPy - Ndarray Object
+NumPy - Data Types
+NumPy Creating and Manipulating Arrays
+NumPy - Array Creation Routines
+NumPy - Array Manipulation
+NumPy - Array from Existing Data
+NumPy - Array From Numerical Ranges
+NumPy - Iterating Over Array
+NumPy - Reshaping Arrays
+NumPy - Concatenating Arrays
+NumPy - Stacking Arrays
+NumPy - Splitting Arrays
+NumPy - Flattening Arrays
+NumPy - Transposing Arrays
+NumPy Indexing & Slicing
+NumPy - Indexing & Slicing
+NumPy - Indexing
+NumPy - Slicing
+NumPy - Advanced Indexing
+NumPy - Fancy Indexing
+NumPy - Field Access
+NumPy - Slicing with Boolean Arrays
+NumPy Array Attributes & Operations
+NumPy - Array Attributes
+NumPy - Array Shape
+NumPy - Array Size
+NumPy - Array Strides
+NumPy - Array Itemsize
+NumPy - Broadcasting
+NumPy - Arithmetic Operations
+NumPy - Array Addition
+NumPy - Array Subtraction
+NumPy - Array Multiplication
+NumPy - Array Division
+NumPy Advanced Array Operations
+NumPy - Swapping Axes of Arrays
+NumPy - Byte Swapping
+NumPy - Copies & Views
+NumPy - Element-wise Array Comparisons
+NumPy - Filtering Arrays
+NumPy - Joining Arrays
+NumPy - Sort, Search & Counting Functions
+NumPy - Searching Arrays
+NumPy - Union of Arrays
+NumPy - Finding Unique Rows
+NumPy - Creating Datetime Arrays
+NumPy - Binary Operators
+NumPy - String Functions
+NumPy - Matrix Library
+NumPy - Linear Algebra
+NumPy - Matplotlib
+NumPy - Histogram Using Matplotlib
+NumPy Sorting and Advanced Manipulation
+NumPy - Sorting Arrays
+NumPy - Sorting along an axis
+NumPy - Sorting with Fancy Indexing
+NumPy - Structured Arrays
+NumPy - Creating Structured Arrays
+NumPy - Manipulating Structured Arrays
+NumPy - Record Arrays
+Numpy - Loading Arrays
+Numpy - Saving Arrays
+NumPy - Append Values to an Array
+NumPy - Swap Columns of Array
+NumPy - Insert Axes to an Array
+NumPy Handling Missing Data
+NumPy - Handling Missing Data
+NumPy - Identifying Missing Values
+NumPy - Removing Missing Data
+NumPy - Imputing Missing Data
+NumPy Performance Optimization
+NumPy - Performance Optimization with Arrays
+NumPy - Vectorization with Arrays
+NumPy - Memory Layout of Arrays
+Numpy Linear Algebra
+NumPy - Linear Algebra
+NumPy - Matrix Library
+NumPy - Matrix Addition
+NumPy - Matrix Subtraction
+NumPy - Matrix Multiplication
+NumPy - Element-wise Matrix Operations
+NumPy - Dot Product
+NumPy - Matrix Inversion
+NumPy - Determinant Calculation
+NumPy - Eigenvalues
+NumPy - Eigenvectors
+NumPy - Singular Value Decomposition
+NumPy - Solving Linear Equations
+NumPy - Matrix Norms
+NumPy Element-wise Matrix Operations
+NumPy - Sum
+NumPy - Mean
+NumPy - Median
+NumPy - Min
+NumPy - Max
+NumPy Set Operations
+NumPy - Unique Elements
+NumPy - Intersection
+NumPy - Union
+NumPy - Difference
+NumPy Random Number Generation
+NumPy - Random Generator
+NumPy - Permutations & Shuffling
+NumPy - Uniform distribution
+NumPy - Normal distribution
+NumPy - Binomial distribution
+NumPy - Poisson distribution
+NumPy - Exponential distribution
+NumPy - Rayleigh Distribution
+NumPy - Logistic Distribution
+NumPy - Pareto Distribution
+NumPy - Visualize Distributions With Sea born
+NumPy - Matplotlib
+NumPy - Multinomial Distribution
+NumPy - Chi Square Distribution
+NumPy - Zipf Distribution
+NumPy File Input & Output
+NumPy - I/O with NumPy
+NumPy - Reading Data from Files
+NumPy - Writing Data to Files
+NumPy - File Formats Supported
+NumPy Mathematical Functions
+NumPy - Mathematical Functions
+NumPy - Trigonometric functions
+NumPy - Exponential Functions
+NumPy - Logarithmic Functions
+NumPy - Hyperbolic functions
+NumPy - Rounding functions
+NumPy Fourier Transforms
+NumPy - Discrete Fourier Transform (DFT)
+NumPy - Fast Fourier Transform (FFT)
+NumPy - Inverse Fourier Transform
+NumPy - Fourier Series and Transforms
+NumPy - Signal Processing Applications
+NumPy - Convolution
+NumPy Polynomials
+NumPy - Polynomial Representation
+NumPy - Polynomial Operations
+NumPy - Finding Roots of Polynomials
+NumPy - Evaluating Polynomials
+NumPy Statistics
+NumPy - Statistical Functions
+NumPy - Descriptive Statistics
+NumPy Datetime
+NumPy - Basics of Date and Time
+NumPy - Representing Date & Time
+NumPy - Date & Time Arithmetic
+NumPy - Indexing with Datetime
+NumPy - Time Zone Handling
+NumPy - Time Series Analysis
+NumPy - Working with Time Deltas
+NumPy - Handling Leap Seconds
+NumPy - Vectorized Operations with Datetimes
+NumPy ufunc
+NumPy - ufunc Introduction
+NumPy - Creating Universal Functions (ufunc)
+NumPy - Arithmetic Universal Function (ufunc)
+NumPy - Rounding Decimal ufunc
+NumPy - Logarithmic Universal Function (ufunc)
+NumPy - Summation Universal Function (ufunc)
+NumPy - Product Universal Function (ufunc)
+NumPy - Difference Universal Function (ufunc)
+NumPy - Finding LCM with ufunc
+NumPy - ufunc Finding GCD
+NumPy - ufunc Trigonometric
+NumPy - Hyperbolic ufunc
+NumPy - Set Operations ufunc
+NumPy Useful Resources
+NumPy - Quick Guide
+NumPy - Cheatsheet
+NumPy - Useful Resources
+NumPy - Discussion
+NumPy Compiler
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+NumPy Tutorial
+ThisNumPy tutorialprovides detailed information with working examples on various topics, such as creating and manipulating arrays, indexing and slicing arrays, and more. This tutorial is helpful for both beginners and advanced learners.
+What is NumPy?
+NumPy, short forNumerical Python, is an open-source Python library. It supports multi-dimensional arrays (matrices) and provides a wide range of mathematical functions for array operations. It is used in scientific computing, and in areas like data analysis, machine learning, etc.
+Why to Use NumPy?
+The following are some of the key reasons to use NumPy:
+NumPy provides various math functions for calculations like addition, algebra, and data analysis.
+NumPy provides various objects representing arrays and multi-dimensional arrays which can be used to handle large data such as images, sounds, etc.
+NumPy also works with other libraries likeSciPy(for scientific computing),Pandas(for data analysis), andscikit-learn(for machine learning).
+NumPy is fast and reliable, which makes it a great choice for numerical computing in Python.
+NumPy Applications
+The following are some common application areas where NumPy is extensively used:
+Data Analysis:In Data analysis, while handling data, we can create data (in the form of array objects), filter the data, and perform various operations such as mean, finding the standard deviations, etc.
+Machine Learning & AI:Popular machine learning tools likeTensorFlowandPyTorchuse NumPy to manage input data, handle model parameters, and process the output values.
+Array Manipulation:NumPy allows you to create, resize, slice, index, stack, split, and combine arrays.
+Finance & Economics:NumPy is used for financial analysis, including portfolio optimization, risk assessment, time series analysis, and statistical modelling.
+Image & Signal Processing:NumPy helps process and analyze images and signals for various applications.
+Data Visualization:NumPy independently does not create visualizations, but it works with libraries likeMatplotlibandSeabornto generate charts and graphs from numerical data.
+NumPy Example
+The following is an example of Python NumPy:
+# Importing NumPy Array
+import numpy as np
+
+# Creating an array using np.array() method
+arr = np.array([10, 20, 30, 40, 50])
+
+# Printing
+print(arr) # Prints [10 20 30 40 50]
+NumPy Compiler
+To practice the NumPy example, we provided an online compiler. Practice your NumPy programs here:Online NumPy Compiler
+NumPy Practice
+You can quickly revise and practice the concepts of NumPy using the following:
+NumPy Quick Guide
+NumPy Cheatsheet
+Who can Learn NumPy?
+This NumPy tutorial has been prepared for those who want to learn about the basics and functions of NumPy. It is specifically useful in data science, engineering, agriculture science, management, statistics, research, and other related domains where numerical computation is required. After completing this tutorial, you will find yourself at a moderate level of expertise from where you can take yourself to higher levels of expertise.
+Prerequisites to Learn NumPy
+You should have a basic understanding of computer programming terminologies. A basic understanding of Python and any of the programming languages is a plus.
+NumPy Codebase
+NumPy's source code can be found at this github repository:https://github.com/numpy/numpy
+NumPy Documentation
+NumPy's documentation, reference manuals, and user guide can be found at these links:
+https://numpy.org/doc/stable/user/absolute_beginners.html
+https://numpy.org/devdocs/dev/index.html
+
+Python Pandas - Home
+Python Pandas - Introduction
+Python Pandas - Environment Setup
+Python Pandas - Basics
+Python Pandas - Introduction to Data Structures
+Python Pandas - Index Objects
+Python Pandas - Panel
+Python Pandas - Basic Functionality
+Python Pandas - Indexing & Selecting Data
+Python Pandas - Series
+Python Pandas - Series
+Python Pandas - Slicing a Series Object
+Python Pandas - Attributes of a Series Object
+Python Pandas - Arithmetic Operations on Series Object
+Python Pandas - Converting Series to Other Objects
+Python Pandas - DataFrame
+Python Pandas - DataFrame
+Python Pandas - Accessing DataFrame
+Python Pandas - Slicing a DataFrame Object
+Python Pandas - Modifying DataFrame
+Python Pandas - Removing Rows from a DataFrame
+Python Pandas - Arithmetic Operations on DataFrame
+Python Pandas - IO Tools
+Python Pandas - IO Tools
+Python Pandas - Working with CSV Format
+Python Pandas - Reading & Writing JSON Files
+Python Pandas - Reading Data from an Excel File
+Python Pandas - Writing Data to Excel Files
+Python Pandas - Working with HTML Data
+Python Pandas - Clipboard
+Python Pandas - Working with HDF5 Format
+Python Pandas - Comparison with SQL
+Python Pandas - Data Handling
+Python Pandas - Sorting
+Python Pandas - Reindexing
+Python Pandas - Iteration
+Python Pandas - Concatenation
+Python Pandas - Statistical Functions
+Python Pandas - Descriptive Statistics
+Python Pandas - Working with Text Data
+Python Pandas - Function Application
+Python Pandas - Options & Customization
+Python Pandas - Window Functions
+Python Pandas - Aggregations
+Python Pandas - Merging/Joining
+Python Pandas - MultiIndex
+Python Pandas - Basics of MultiIndex
+Python Pandas - Indexing with MultiIndex
+Python Pandas - Advanced Reindexing with MultiIndex
+Python Pandas - Renaming MultiIndex Labels
+Python Pandas - Sorting a MultiIndex
+Python Pandas - Binary Operations
+Python Pandas - Binary Comparison Operations
+Python Pandas - Boolean Indexing
+Python Pandas - Boolean Masking
+Python Pandas - Data Reshaping & Pivoting
+Python Pandas - Pivoting
+Python Pandas - Stacking & Unstacking
+Python Pandas - Melting
+Python Pandas - Computing Dummy Variables
+Python Pandas - Categorical Data
+Python Pandas - Categorical Data
+Python Pandas - Ordering & Sorting Categorical Data
+Python Pandas - Comparing Categorical Data
+Python Pandas - Handling Missing Data
+Python Pandas - Missing Data
+Python Pandas - Filling Missing Data
+Python Pandas - Interpolation of Missing Values
+Python Pandas - Dropping Missing Data
+Python Pandas - Calculations with Missing Data
+Python Pandas - Handling Duplicates
+Python Pandas - Duplicated Data
+Python Pandas - Counting & Retrieving Unique Elements
+Python Pandas - Duplicated Labels
+Python Pandas - Grouping & Aggregation
+Python Pandas - GroupBy
+Python Pandas - Time-series Data
+Python Pandas - Date Functionality
+Python Pandas - Timedelta
+Python Pandas - Sparse Data Structures
+Python Pandas - Sparse Data
+Python Pandas - Visualization
+Python Pandas - Visualization
+Python Pandas - Additional Concepts
+Python Pandas - Caveats & Gotchas
+Python Pandas - Quick Guide
+Python Pandas - Cheatsheet
+Python Pandas - Useful Resources
+Python Pandas - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Python Pandas Tutorial
+Pandasis an open-source, BSD-licensed Python library providing high-performance, easy-to-use data structures and data analysis tools for thePython programming language. ThisPandas tutorialhas been prepared for those who want to learn about the foundations and advanced features of the Pandas Python package. Python with Pandas is used in a wide range of fields including academic and commercial domains including finance, economics, Statistics, analytics, etc. In this tutorial, we will learn the various features of Python Pandas and how to use them in practice.
+What is Pandas?
+Pandasis a powerful Python library that is specifically designed to work on data frames that have "relational" or "labeled" data. Its aim aligns with doing real-world data analysis using Python. Its flexibility and functionality make it indispensable for various data-related tasks. Hence, this Python package works well for data manipulation, operating a dataset, exploring a data frame, data analysis, and machine learning-related tasks. To work on it we should first install it using a pip command like "pip install pandas" and then import it like "import pandas as pd". After successfully installing and importing, we can enjoy the innovative functions of pandas to work on datasets or data frames. Pandas versatility and ease of use make it a go-to tool for working with structured data in Python.
+Generally, Pandas operates a data frame usingSeriesandDataFrame; where Series works on a one-dimensional labeled array holding data of any type likeintegers,strings, andobjects, while a DataFrame is a two-dimensional data structure that manages and operates data in tabular form (using rows and columns).
+Why Pandas?
+The beauty of Pandas is that it simplifies the task related to data frames and makes it simple to do many of the time-consuming, repetitive tasks involved in working with data frames, such as:
+Import datasets- available in the form of spreadsheets, comma-separated values (CSV) files, and more.
+Data cleansing- dealing with missing values and representing them as NaN, NA, or NaT.
+Size mutability- columns can be added and removed from DataFrame and higher-dimensional objects.
+Data normalization– normalize the data into a suitable format for analysis.
+Data alignment- objects can be explicitly aligned to a set of labels.Intuitive merging and joining data sets – we can merge and join datasets.
+Reshaping and pivoting of datasets– datasets can be reshaped and pivoted as per the need.
+Efficient manipulation and extraction- manipulation and extraction of specific parts of extensive datasets using intelligent label-based slicing, indexing, and subsetting techniques.
+Statistical analysis- to perform statistical operations on datasets.
+Data visualization- Visualize datasets and uncover insights.
+Applications of Pandas
+The most common applications of Pandas are as follows:
+Data Cleaning: Pandas provides functionalities to clean messy data, deal with incomplete or inconsistent data, handle missing values, remove duplicates, and standardize formats to do effective data analysis.
+Data Exploration: Pandas easily summarize statistics, find trends, and visualize data using built-in plotting functions, Matplotlib, or Seaborn integration.
+Data Preparation: Pandas may pivot, melt, convert variables, and merge datasets based on common columns to prepare data for analysis.
+Data Analysis: Pandas supports descriptive statistics, time series analysis, group-by operations, and custom functions.
+Data Visualisation: Pandas itself has basic plotting capabilities; it integrates and supports data visualization libraries like Matplotlib, Seaborn, and Plotly to create innovative visualizations.
+Time Series Analysis: Pandas supportsdate/timeindexing, resampling, frequency conversion, and rolling statistics for time series data.
+Data Aggregation and Grouping:Pandas groupby() functionlets you aggregate data and compute group-wise summary statistics or apply functions to groups.
+Data Input/Output: Pandas makes data input and export easy by reading and writing CSV, Excel, JSON, SQL databases, and more.
+Machine Learning: Pandas works well with Scikit-learn for data preparation, feature engineering, and model input data.
+Web Scraping: Pandas may be used with BeautifulSoup or Scrapy to parse and analyse structured web data for web scraping and data extraction.
+Financial Analysis: Pandas is commonly used in finance for stock market data analysis, financial indicator calculation, and portfolio optimization.
+Text Data Analysis: Pandas' string manipulation, regular expressions, and text mining functions help analyse textual data.
+Experimental Data Analysis: Pandas makes manipulating and analysing large datasets, performing statistical tests, and visualizing results easy.
+Audience: Who Should Learn Pandas
+ThisPandas tutorialhas been prepared for those who want to learn about the foundations and advanced features of the Pandas Python package. It is most widely used in the domain of data science, engineering, research, agriculture science, management, statistics, and other related fields where computation on a data set requires or explores the data frames to find out the data insights that are required to make fruitful decisions. After completing this tutorial, you will find yourself skilled in pandas Python package from where you can take yourself to the next levels of expertise on other Python packages like Matplotlib, SciPy, scikit-learn, scikit-image, and many more to keep mastering Python language.
+Pandas library uses most of the functionalities of NumPy. It is suggested to you to go through our tutorial onNumPy.
+Prerequisites To Learn Pandas
+You should have a basic understanding of computer programming. A basic understanding of Python and any of the programming languages is a plus. Basic knowledge of statistics and mathematics is helpful for data analysis and interpretation. Pandas provide functions for descriptive statistics, aggregation, and computation of summary metrics. By having a strong foundation of above mentioned, you'll be well-equipped to leverage the power of Pandas for data manipulation and analysis tasks.
+Pandas Codebase
+You can find the source for the Pandas athttps://github.com/jvns/pandas-cookbook
+Frequently Asked Questions about Python Pandas
+There are some very Frequently Asked Questions(FAQ) about Python Pandas, this section tries to answer them briefly.
+Pandas is a Python library used for data manipulation and analysis. It is widely used in the domain of data science, engineering, research, agriculture science, management, statistics, and other related fields where you need to work with datasets.
+The key features of Pandas as follows −
+Fast and Efficient DataFrame Object.
+Pandas supports various data loading tools for in-memory data objects.
+Data alignment and handling of missing data.
+Pandas allows you to reshaping and pivoting of datasets.
+Label-based slicing, indexing and subsetting of large data sets.
+Insert or delete columns from a data structure.
+Group by data for aggregation and transformations.
+High performance merging and joining.
+Time Series functionality.
+A Series in Pandas is a one-dimensional labeled array capable of holding data of any type (integer, string, float, Python objects, etc.).
+The two primary data structures of pandas are −
+Series (1-dimensional)
+DataFrame (2-dimensional)
+Pandas is the best tool for handling real-world messy data. It is built on top of NumPy and is open-source. Pandas allows for fast and effective data manipulation using its data structures, Series and DataFrame. It handles missing data, supports multiple file formats, and facilitates data cleaning and analysis.
+Yes, Python pandas is free for commercial use. It is accessible to everyone and free for users to use and modify.
+Pandas development began in 2008 at AQR Capital Management. By the end of 2009, it had been open-sourced, and it is now actively supported by a community of contributors worldwide.
+The two primary data structures of pandas are:
+Series− 1-dimensional labeled array.
+DataFrame− 2-dimensional table of data with labeled axes.
+The easiest way to install pandas is to install it as part of the Anaconda distribution, a cross-platform distribution for data analysis and scientific computing. The Conda package manager is the recommended installation method for most users. For further details, refer to ourEnvironment SetupTutorial.
+Pandas provides high-level data manipulation tools built on top of NumPy. The Pandas module mainly works with tabular data, whereas the NumPy module works with numerical data.
+Pandas is a Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. It is a fundamental high-level building block for performing practical, real-world data analysis in Python, aiming to be the most powerful and flexible open-source data analysis/manipulation tool available in any language.
+The best place to learn Python pandas is through our comprehensive and user-friendly tutorial. Our Python Pandas tutorial provides an excellent starting point for understanding data analysis programming with Python pandas. You can explore our simple and effective learning materials at your own pace.
+Following are some tips to learn Python Pandas −
+Decide to learn Python Pandas and stay committed to your goal.
+Install the necessary tools like Anaconda or Miniconda on your computer.
+Start with our Python Pandas tutorial and progress step by step from the basics.
+Read more articles, watch online courses, or buy a book on Python Pandas to deepen your understanding.
+Apply what youve learned by developing small projects that incorporate Python Pandas and other technologies.
+You can handle missing values in a DataFrame by −
+Inserting missing data
+Performing calculations with missing data
+Dropping missing data
+Filling missing data
+
+SciPy - Home
+SciPy - Introduction
+SciPy - Environment Setup
+SciPy - Basic Functionality
+SciPy - Relationship with NumPy
+SciPy Clusters
+SciPy - Clusters
+SciPy - Hierarchical Clustering
+SciPy - K-means Clustering
+SciPy - Distance Metrics
+SciPy Constants
+SciPy - Constants
+SciPy - Mathematical Constants
+SciPy - Physical Constants
+SciPy - Unit Conversion
+SciPy - Astronomical Constants
+SciPy - Fourier Transforms
+SciPy - FFTpack
+SciPy - Discrete Fourier Transform (DFT)
+SciPy - Fast Fourier Transform (FFT)
+SciPy Integration Equations
+SciPy - Integrate Module
+SciPy - Single Integration
+SciPy - Double Integration
+SciPy - Triple Integration
+SciPy - Multiple Integration
+SciPy Differential Equations
+SciPy - Differential Equations
+SciPy - Integration of Stochastic Differential Equations
+SciPy - Integration of Ordinary Differential Equations
+SciPy - Discontinuous Functions
+SciPy - Oscillatory Functions
+SciPy - Partial Differential Equations
+SciPy Interpolation
+SciPy - Interpolate
+SciPy - Linear 1-D Interpolation
+SciPy - Polynomial 1-D Interpolation
+SciPy - Spline 1-D Interpolation
+SciPy - Grid Data Multi-Dimensional Interpolation
+SciPy - RBF Multi-Dimensional Interpolation
+SciPy - Polynomial & Spline Interpolation
+SciPy Curve Fitting
+SciPy - Curve Fitting
+SciPy - Linear Curve Fitting
+SciPy - Non-Linear Curve Fitting
+SciPy - Input & Output
+SciPy - Input & Output
+SciPy - Reading & Writing Files
+SciPy - Working with Different File Formats
+SciPy - Efficient Data Storage with HDF5
+SciPy - Data Serialization
+SciPy Linear Algebra
+SciPy - Linalg
+SciPy - Matrix Creation & Basic Operations
+SciPy - Matrix LU Decomposition
+SciPy - Matrix QU Decomposition
+SciPy - Singular Value Decomposition
+SciPy - Cholesky Decomposition
+SciPy - Solving Linear Systems
+SciPy - Eigenvalues & Eigenvectors
+SciPy Image Processing
+SciPy - Ndimage
+SciPy - Reading & Writing Images
+SciPy - Image Transformation
+SciPy - Filtering & Edge Detection
+SciPy - Top Hat Filters
+SciPy - Morphological Filters
+SciPy - Low Pass Filters
+SciPy - High Pass Filters
+SciPy - Bilateral Filter
+SciPy - Median Filter
+SciPy - Non - Linear Filters in Image Processing
+SciPy - High Boost Filter
+SciPy - Laplacian Filter
+SciPy - Morphological Operations
+SciPy - Image Segmentation
+SciPy - Thresholding in Image Segmentation
+SciPy - Region-Based Segmentation
+SciPy - Connected Component Labeling
+SciPy Optimize
+SciPy - Optimize
+SciPy - Special Matrices &  Functions
+SciPy - Unconstrained Optimization
+SciPy - Constrained Optimization
+SciPy - Matrix Norms
+SciPy - Sparse Matrix
+SciPy - Frobenius Norm
+SciPy - Spectral Norm
+SciPy Condition Numbers
+SciPy - Condition Numbers
+SciPy - Linear Least Squares
+SciPy - Non-Linear Least Squares
+SciPy - Finding Roots of Scalar Functions
+SciPy - Finding Roots of Multivariate Functions
+SciPy - Signal Processing
+SciPy - Signal Filtering & Smoothing
+SciPy - Short-Time Fourier Transform
+SciPy - Wavelet Transform
+SciPy - Continuous Wavelet Transform
+SciPy - Discrete Wavelet Transform
+SciPy - Wavelet Packet Transform
+SciPy - Multi-Resolution Analysis
+SciPy - Stationary Wavelet Transform
+SciPy - Statistical Functions
+SciPy - Stats
+SciPy - Descriptive Statistics
+SciPy - Continuous Probability Distributions
+SciPy - Discrete Probability Distributions
+SciPy - Statistical Tests & Inference
+SciPy - Generating Random Samples
+SciPy - Kaplan-Meier Estimator Survival Analysis
+SciPy - Cox Proportional Hazards Model Survival Analysis
+SciPy Spatial Data
+SciPy - Spatial
+SciPy - Special Functions
+SciPy - Special Package
+SciPy Advanced Topics
+SciPy - CSGraph
+SciPy - ODR
+SciPy Useful Resources
+SciPy - Reference
+SciPy - Quick Guide
+SciPy - Cheatsheet
+SciPy - Useful Resources
+SciPy - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+SciPy - Tutorial
+SciPy Tutorial
+SciPyis a scientific library for Python is an open source, BSD-licensed library for mathematics, science and engineering. The SciPy library depends on NumPy, which provides convenient and fast N-dimensional array manipulation. The main reason for building the SciPy library is that, it should work with NumPy arrays. It provides many user-friendly and efficient numerical practices such as routines for numerical integration and optimization. This is an introductory tutorial, which covers the fundamentals of SciPy and describes how to deal with its various modules.
+Audience
+The SciPy Tutorial is intended for individuals looking to leverage the power of SciPy for scientific and technical computing. It aims to help readers understand and implement SciPy's core functionalities for solving complex mathematical and engineering problems.
+Prerequisites
+Before exploringSciPythe readers should have a basic understanding of Python programming. Familiarity with NumPy and mathematical concepts such as linear algebra and calculus will be beneficial. Ensuring that Python and SciPy are installed on our system will help in executing the examples provided.
+
+Big Data Analytics - Home
+Big Data Analytics - Overview
+Big Data Analytics - Characteristics
+Big Data Analytics - Data Life Cycle
+Big Data Analytics - Architecture
+Big Data Analytics - Methodology
+Big Data Analytics - Core Deliverables
+Big Data Adoption & Planning Considerations
+Big Data Analytics - Key Stakeholders
+Big Data Analytics - Data Analyst
+Big Data Analytics - Data Scientist
+Data Analytics - Problem Definition
+Big Data Analytics - Data Collection
+Big Data Analytics - Cleansing data
+Big Data Analytics - Summarizing
+Big Data Analytics - Data Exploration
+Big Data Analytics - Data Visualization
+Big Data Analytics Methods
+Big Data Analytics - Introduction to R
+Data Analytics - Introduction to SQL
+Big Data Analytics - Charts & Graphs
+Big Data Analytics - Data Tools
+Data Analytics - Statistical Methods
+Advanced Methods
+Machine Learning for Data Analysis
+Naive Bayes Classifier
+K-Means Clustering
+Association Rules
+Big Data Analytics - Decision Trees
+Logistic Regression
+Big Data Analytics - Time Series
+Big Data Analytics - Text Analytics
+Big Data Analytics - Online Learning
+Big Data Analytics Useful Resources
+Big Data Analytics - Quick Guide
+Big Data Analytics - Resources
+Big Data Analytics - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Big Data Analytics Tutorial
+Big Data; as its name implies, the data which is bigger is known as big data. The data size is increasing day by day. An individual deals with data using mobile phones, tabs, and laptops while an organisation deals with business data; statistically it has been noted that the data size has drastically increased in the past decade.
+What is Big Data?
+The term "Big Data" usually refers to datasets that are too large, complex and unable to be processed by ordinary data processing systems to manage efficiently. These datasets can be derived from a variety of sources, including social media, sensors, internet activity, and mobile devices. The data can be structured, semi-structured and unstructured type of data.
+Big Data Analytics
+A process of analysing large and diverse data sets is known as "Big Data," It discovers hidden patterns, unknown relationships, market trends, user preferences, and other important information. It uses advanced analytics techniques such as statistical analysis, machine learning, data mining, and predictive modelling to extract insights from enormous datasets.
+Organisations across the world capture terabytes of data about their users' interactions, business, social media, and also sensors from devices such as mobile phones and automobiles. The challenge of this era is to make sense of this sea of data. This is where big data analytics comes into the picture.
+Where Big Data Analytics Used?
+Big Data Analytics strives to assist organisations in making more informed business decisions, increasing operational efficiency, improving customer experiences and services, and making sure to sustain industries in a competitive world with their respective industries. The Big Data Analytics process involves data gathering, storage, processing, analysis, and visualisation of outcomes to make strategic business decisions. The process of converting large amounts of unstructured raw data, retrieved from different sources to a data product useful for organizations forms the core of Big Data Analytics.
+Overall, Big Data Analytics enables organizations to harness the vast amounts of data available to them and turn it into actionable insights that drive business growth and innovation.
+In this big data analytics tutorial, we will discuss the most fundamental concepts and methods of Big Data Analytics.
+Audience
+This tutorial has been prepared for software professionals aspiring to learn the basics of Big Data Analytics. Professionals who are into analytics, in general, may as well use this tutorial to good effect.
+Prerequisites
+Before you start proceeding with this tutorial, we assume that you have prior exposure to handling huge volumes of unprocessed data at an organizational level.
+Through this tutorial, we will develop a mini project to provide exposure to a real-world problem and how to solve it using Big Data Analytics.
+
+Machine Learning Tutorials
+Explore the top free machine learning tutorials
+Learn Amazon CodeWhisperert
+Learn Apache MXNet
+Learn Artificial Intelligence with Python
+Learn Caffe2
+Learn ChatGPT
+Learn Claude AI
+Learn DALL-E
+Learn Deep Learning with Keras
+Learn Generative AI
+Learn Google Assistant
+Learn H2O
+Python Deep Learning
+Learn Keras
+Learn Knime
+Logistic Regression in Python
+Learn Machine Learning
+Learn Mahotas
+Prompt Engineering
+Learn PyBrain
+Learn PyTorch
+Learn Scikit
+Learn Scikit Image
+Learn TensorFlow
+Learn Theano
+Learn Time Series
+Learn Machine Learning with Python
+Learn Microsoft Cognitive Toolkit(CNTK)
+Learn Python Data Science
+
+Python - Home
+Python - Overview
+Python - History
+Python - Features
+Python vs C++
+Python - Hello World Program
+Python - Application Areas
+Python - Interpreter
+Python - Environment Setup
+Python - Virtual Environment
+Python - Basic Syntax
+Python - Variables
+Python - Data Types
+Python - Type Casting
+Python - Unicode System
+Python - Literals
+Python - Operators
+Python - Arithmetic Operators
+Python - Comparison Operators
+Python - Assignment Operators
+Python - Logical Operators
+Python - Bitwise Operators
+Python - Membership Operators
+Python - Identity Operators
+Python - Operator Precedence
+Python - Comments
+Python - User Input
+Python - Numbers
+Python - Booleans
+Python - Control Flow
+Python - Decision Making
+Python - If Statement
+Python - If else
+Python - Nested If
+Python - Match-Case Statement
+Python - Loops
+Python - for Loops
+Python - for-else Loops
+Python - While Loops
+Python - break Statement
+Python - continue Statement
+Python - pass Statement
+Python - Nested Loops
+Python Functions & Modules
+Python - Functions
+Python - Default Arguments
+Python - Keyword Arguments
+Python - Keyword-Only Arguments
+Python - Positional Arguments
+Python - Positional-Only Arguments
+Python - Arbitrary Arguments
+Python - Variables Scope
+Python - Function Annotations
+Python - Modules
+Python - Built in Functions
+Python Strings
+Python - Strings
+Python - Slicing Strings
+Python - Modify Strings
+Python - String Concatenation
+Python - String Formatting
+Python - Escape Characters
+Python - String Methods
+Python - String Exercises
+Python Lists
+Python - Lists
+Python - Access List Items
+Python - Change List Items
+Python - Add List Items
+Python - Remove List Items
+Python - Loop Lists
+Python - List Comprehension
+Python - Sort Lists
+Python - Copy Lists
+Python - Join Lists
+Python - List Methods
+Python - List Exercises
+Python Tuples
+Python - Tuples
+Python - Access Tuple Items
+Python - Update Tuples
+Python - Unpack Tuples
+Python - Loop Tuples
+Python - Join Tuples
+Python - Tuple Methods
+Python - Tuple Exercises
+Python Sets
+Python - Sets
+Python - Access Set Items
+Python - Add Set Items
+Python - Remove Set Items
+Python - Loop Sets
+Python - Join Sets
+Python - Copy Sets
+Python - Set Operators
+Python - Set Methods
+Python - Set Exercises
+Python Dictionaries
+Python - Dictionaries
+Python - Access Dictionary Items
+Python - Change Dictionary Items
+Python - Add Dictionary Items
+Python - Remove Dictionary Items
+Python - Dictionary View Objects
+Python - Loop Dictionaries
+Python - Copy Dictionaries
+Python - Nested Dictionaries
+Python - Dictionary Methods
+Python - Dictionary Exercises
+Python Arrays
+Python - Arrays
+Python - Access Array Items
+Python - Add Array Items
+Python - Remove Array Items
+Python - Loop Arrays
+Python - Copy Arrays
+Python - Reverse Arrays
+Python - Sort Arrays
+Python - Join Arrays
+Python - Array Methods
+Python - Array Exercises
+Python File Handling
+Python - File Handling
+Python - Write to File
+Python - Read Files
+Python - Renaming and Deleting Files
+Python - Directories
+Python - File Methods
+Python - OS File/Directory Methods
+Python - OS Path Methods
+Object Oriented Programming
+Python - OOPs Concepts
+Python - Classes & Objects
+Python - Class Attributes
+Python - Class Methods
+Python - Static Methods
+Python - Constructors
+Python - Access Modifiers
+Python - Inheritance
+Python - Polymorphism
+Python - Method Overriding
+Python - Method Overloading
+Python - Dynamic Binding
+Python - Dynamic Typing
+Python - Abstraction
+Python - Encapsulation
+Python - Interfaces
+Python - Packages
+Python - Inner Classes
+Python - Anonymous Class and Objects
+Python - Singleton Class
+Python - Wrapper Classes
+Python - Enums
+Python - Reflection
+Python Errors & Exceptions
+Python - Syntax Errors
+Python - Exceptions
+Python - try-except Block
+Python - try-finally Block
+Python - Raising Exceptions
+Python - Exception Chaining
+Python - Nested try Block
+Python - User-defined Exception
+Python - Logging
+Python - Assertions
+Python - Built-in Exceptions
+Python Multithreading
+Python - Multithreading
+Python - Thread Life Cycle
+Python - Creating a Thread
+Python - Starting a Thread
+Python - Joining Threads
+Python - Naming Thread
+Python - Thread Scheduling
+Python - Thread Pools
+Python - Main Thread
+Python - Thread Priority
+Python - Daemon Threads
+Python - Synchronizing Threads
+Python Synchronization
+Python - Inter-thread Communication
+Python - Thread Deadlock
+Python - Interrupting a Thread
+Python Networking
+Python - Networking
+Python - Socket Programming
+Python - URL Processing
+Python - Generics
+Python Libraries
+NumPy Tutorial
+Pandas Tutorial
+SciPy Tutorial
+Matplotlib Tutorial
+Django Tutorial
+OpenCV Tutorial
+Python Miscellenous
+Python - Date & Time
+Python - Maths
+Python - Iterators
+Python - Generators
+Python - Closures
+Python - Decorators
+Python - Recursion
+Python - Reg Expressions
+Python - PIP
+Python - Database Access
+Python - Weak References
+Python - Serialization
+Python - Templating
+Python - Output Formatting
+Python - Performance Measurement
+Python - Data Compression
+Python - CGI Programming
+Python - XML Processing
+Python - GUI Programming
+Python - Command-Line Arguments
+Python - Docstrings
+Python - JSON
+Python - Sending Email
+Python - Further Extensions
+Python - Tools/Utilities
+Python - GUIs
+Python Advanced Concepts
+Python - Abstract Base Classes
+Python - Custom Exceptions
+Python - Higher Order Functions
+Python - Object Internals
+Python - Memory Management
+Python - Metaclasses
+Python - Metaprogramming with Metaclasses
+Python - Mocking and Stubbing
+Python - Monkey Patching
+Python - Signal Handling
+Python - Type Hints
+Python - Automation Tutorial
+Python - Humanize Package
+Python - Context Managers
+Python - Coroutines
+Python - Descriptors
+Python - Diagnosing and Fixing Memory Leaks
+Python - Immutable Data Structures
+Python Useful Resources
+Python - Questions & Answers
+Python - Interview Questions & Answers
+Python - Online Quiz
+Python - Quick Guide
+Python - Reference
+Python - Cheatsheet
+Python - Projects
+Python - Useful Resources
+Python - Discussion
+Python Compiler
+NumPy Compiler
+Matplotlib Compiler
+SciPy Compiler
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Python Tutorial
+Python Introduction
+What is Python
+Python "Hello, World!"
+Python Compiler
+Python Characteristics
+Applications of Python
+Features of Python
+Python Database Handling
+Python Reference
+Python Practice
+Python Exercises
+Python Jobs
+Why to Learn Python
+Careers with Python
+Download Python
+Python UpdatesPython AudiencesPython PrerequisitesPython Questions & Answers
+Python Audiences
+Python Prerequisites
+Python Questions & Answers
+Python Tutorial
+Today, Python is one of the most popular programming languages. Although it is a general-purpose language, it is used in various areas of applications such as Machine Learning, Artificial Intelligence, web development, IoT, and more.
+This Python tutorial has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language. After completing this tutorial, you will find yourself at a great level of expertise in Python, from where you can take yourself to the next levels to become a world class Software Engineer.
+What is Python?
+Pythonis a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage-collected programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL).
+This Python tutorial gives a complete understanding of Python programming language, starting from basic concepts to advanced concepts. This tutorial will take you through simple and practical approaches while learning Python Programming language.
+Python "Hello, World!"
+To start with Python programming, the very basic program is toprint "Hello, World!"You can use theprint() function. Below is an example of Python code to print "Hello, World!" −
+# Python code to print "Hello, World!"
+print ("Hello, World!")
+Python Online Compiler
+Our Python programming tutorial provides various examples to explain different concepts. We have providedOnline Python Compiler/Interpreter. You can Edit and Execute almost all the examples directly from your browser without the need to set up your development environment.
+Try to click the iconto run the following Python code to print conventional "Hello, World!".
+# This is my first Python program.
+# This will print 'Hello, World!' as the output
+
+print ("Hello, World!");
+Characteristics of Python
+Following are important characteristics ofPython Programming−
+It supports functional and structured programming methods as well asOOP.
+It can be used as a scripting language or can be compiled to byte-code for building large applications.
+It provides very high-level dynamic data types and supports dynamic type checking.
+It supports automatic garbage collection.
+It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
+Applications of Python
+Python is a general purpose programming language known for its readability. It is widely applied in various fields.
+InData Science, Python libraries likeNumpy,Pandas, andMatplotlibare used for data analysis and visualization.
+Python frameworks likeDjango, andPyramid,  make the development and deployment of Web Applications easy.
+This programming language also extends its applications tocomputer visionand image processing.
+It is also favored in many tasks likeAutomation, Job Scheduling,GUI development, etc.
+Features of Python
+The latest release of Python is 3.x. As mentioned before, Python is one of the most widely used languages on the web. I'm going to list a few of them here:
+Easy-to-learn− Python has few keywords, simple structure, and a clearly defined syntax. This allows the student to pick up the language quickly.
+Easy-to-read− Python code is more clearly defined and visible to the eyes.
+Easy-to-maintain− Python's source code is fairly easy-to-maintain.
+A broad standard library− Python's bulk of the library is very portable and cross-platform compatible on UNIX, Windows, and Macintosh.
+Interactive Mode− Python has support for an interactive mode that allows interactive testing and debugging of snippets of code.
+Portable− Python can run on a wide variety of hardware platforms and has the same interface on all platforms.
+Extendable− You can add low-level modules to thePython interpreter. These modules enable programmers to add to or customize their tools to be more efficient.
+Databases− Python provides interfaces to all major commercial databases.
+GUI Programming− Python supports GUI applications that can be created and ported to many system calls, libraries, and Windows systems, such as Windows MFC, Macintosh, and the X Window system of Unix.
+Scalable− Python provides a better structure and support for large programs than shell scripting.
+Python Database Handling
+The following tutorials will help you learn how to work with different databases using Python programming:
+Python MongoDB Tutorial
+Python MySQL Tutorial
+Python PostgreSQL Tutorial
+Python SQLite Tutorial
+Python Reference
+The complete function and method references −
+Python Complete Reference
+Python Built-in Functions Reference
+Python Modules Reference
+Python Keywords Reference
+Python Cheatsheet
+Python Practice
+Practice Python from the below-given links:
+Python Quick Guide
+Python Online Quiz
+Python Interview Questions & Answers
+Python Exercises
+You can practice various Python topics with the help of examples provided:
+String Exercises
+List Exercises
+Tuple Exercises
+Set Exercises
+Dictionary Exercises
+Array Exercises
+Python Jobs
+Today, Python is very high in demand, and all the major companies are looking for great Python programmers to develop websites, software components, and applications or to work with data science, AI, and ML technologies. When we are developing this tutorial in 2022, there is a high shortage of Python programmers, where the market demands a greater number of Python programmers due to its applications in machine learning, artificial intelligence, etc.
+Today, a Python programmer with 3-5 years of experience is asking for around $150,000 in an in an annual package, and this is the most demanding programming language in America. Though it can vary depending on the location of the job. It's impossible to list all of the companies using Python, to name a few big companies are:
+Google
+Intel
+NASA
+PayPal
+Facebook
+IBM
+Amazon
+Netflix
+Pinterest
+Uber
+Many more...
+So, you could be the next potential employee for any of these major companies. We have developed great learning material for you to learn Python programming, which will help you prepare for the technical interviews and certification exams based on Python. So, start learning Python using this simple and effective tutorial from anywhere and anytime, absolutely at your pace.
+Why to Learn Python?
+Python is consistently rated as one of the world's most popular programming languages. Python is fairly easy to learn, so if you are starting to learn any programming language, then Python could be your great choice. Today, various schools, colleges, and universities are teaching Python as their primary programming language. There are many other good reasons that make Python the top choice of any programmer:
+Python is open source, which means it's available free of cost.
+Python is simple and so easy to learn.
+Python is versatile and can be used to create many different things.
+Python has powerful development libraries, including AI, ML, etc.
+Python is much in demand and ensures a high salary.
+Pythonis a MUST for students and working professionals to become great software engineers, especially when they are working in the web development domain. I will list down some of the key advantages of learning Python:
+Python is Interpreted− Python is processed at runtime by the interpreter. You do not need to compile your program before executing it. This is similar to PERL and PHP.
+Python is Interactive− You can actually sit at a Python prompt and interact with the interpreter directly to write your programs.
+Python is Object-Oriented− Python supports Object-Oriented style or technique of programming that encapsulates code within objects.
+Python is a Beginner's Language− Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games.
+Careers with Python
+If you know Python nicely, then you have a great career ahead. Here are just a few of the career options where Python is a key skill:
+Game developer
+Web designer
+Python developer
+Full-stack developer
+Machine learning engineer
+Data scientist
+Data analyst
+Data engineer
+DevOps engineer
+Software engineer
+Many more other roles
+Download Python
+You can download Python from its official website:https://www.python.org/downloads/
+Python Updates & New Features
+The current stable version of Python is 3.13, which was released on October 7, 2024. Python 3.14 is still in the development phase with many new features and changes:
+PEP 649: Deferred evaluation of annotations.
+PEP 741: Python configuration C API.
+PEP 761: Sigstore replaces PGP signatures for verification.
+Improved error messages.
+Target Audience: Who Can Learn Python?
+This tutorial has been prepared for the beginners to help them understand the basics to advanced concepts of Python programming language. After completing this tutorial, you will find yourself at a great level of expertise in Python programming, from where you can take yourself to the next levels.
+Prerequisites to Learn Python
+Although it is a beginners tutorial, we assume that the readers have a reasonable exposure to any programming environment and knowledge of basic concepts such as variables, commands, syntax, etc.
+Python  Questions & Answers
+You can explore a set of Python Questions and Answers atPython Questions & Answers
+
+Java - Home
+Java - Overview
+Java - History
+Java - Features
+Java Vs. C++
+JVM - Java Virtual Machine
+Java - JDK vs JRE vs JVM
+Java - Environment Setup
+Java - Hello World Program
+Java - Comments
+Java - Basic Syntax
+Java - Variables
+Java - Data Types
+Java - Type Casting
+Java - Unicode System
+Java - User Input
+Java - Date & Time
+Java Operators
+Java - Operators
+Java - Arithmetic Operators
+Java - Assignment Operators
+Java - Relational Operators
+Java - Logical Operators
+Java - Bitwise Operators
+Java Operator Precedence & Associativity
+Java Control Statements
+Java - Decision Making
+Java - If Else Statement
+Java - Switch Statement
+Java - Loop Control
+Java - For Loop
+Java - For-Each Loop
+Java - While Loop
+Java - Do While Loop
+Java - Break Statement
+Java - Continue Statement
+Object Oriented Programming
+Java - OOPs Concepts
+Java - Object & Classes
+Java - Class Attributes
+Java - Class Methods
+Java - Methods
+Java - Variables Scope
+Java - Constructors
+Java - Access Modifiers
+Java - Inheritance
+Java - Aggregation
+Java - Polymorphism
+Java - Overriding
+Java - Method Overloading
+Java - Dynamic Binding
+Java - Static Binding
+Java - Instance Initializer Block
+Java - Abstraction
+Java - Encapsulation
+Java - Interfaces
+Java - Packages
+Java - Inner Classes
+Java - Static Class
+Java - Anonymous Class
+Java - Singleton Class
+Java - Wrapper Classes
+Java - Enums
+Java - Enum Constructor
+Java - Enum Strings
+Java Built-in Classes
+Java - Number
+Java - Boolean
+Java - Characters
+Java - Arrays
+Java - Math Class
+Java File Handling
+Java - Files
+Java - Create a File
+Java - Write to File
+Java - Read Files
+Java - Delete Files
+Java - Directories
+Java - I/O Streams
+Java Error & Exceptions
+Java - Exceptions
+Java - try-catch Block
+Java - try-with-resources
+Java - Multi-catch Block
+Java - Nested try Block
+Java - Finally Block
+Java - throw Exception
+Java - Exception Propagation
+Java - Built-in Exceptions
+Java - Custom Exception
+Java Multithreading
+Java - Multithreading
+Java - Thread Life Cycle
+Java - Creating a Thread
+Java - Starting a Thread
+Java - Joining Threads
+Java - Naming Thread
+Java - Thread Scheduler
+Java - Thread Pools
+Java - Main Thread
+Java - Thread Priority
+Java - Daemon Threads
+Java - Thread Group
+Java - Shutdown Hook
+Java Synchronization
+Java - Synchronization
+Java - Block Synchronization
+Java - Static Synchronization
+Java - Inter-thread Communication
+Java - Thread Deadlock
+Java - Interrupting a Thread
+Java - Thread Control
+Java - Reentrant Monitor
+Java Networking
+Java - Networking
+Java - Socket Programming
+Java - URL Processing
+Java - URL Class
+Java - URLConnection Class
+Java - HttpURLConnection Class
+Java - Socket Class
+Java - Generics
+Java Collections
+Java - Collections
+Java - Collection Interface
+Java Interfaces
+Java - List Interface
+Java - Queue Interface
+Java - Map Interface
+Java - SortedMap Interface
+Java - Set Interface
+Java - SortedSet Interface
+Java  Data Structures
+Java - Data Structures
+Java - Enumeration
+Java Collections Algorithms
+Java - Iterators
+Java - Comparators
+Java - Comparable Interface in Java
+Advanced Java
+Java - Command-Line Arguments
+Java - Lambda Expressions
+Java - Sending Email
+Java - Applet Basics
+Java - Javadoc Comments
+Java - Autoboxing and Unboxing
+Java - File Mismatch Method
+Java - REPL (JShell)
+Java - Multi-Release Jar Files
+Java - Private Interface Methods
+Java - Inner Class Diamond Operator
+Java - Multiresolution Image API
+Java - Collection Factory Methods
+Java - Module System
+Java - Nashorn JavaScript
+Java - Optional Class
+Java - Method References
+Java - Functional Interfaces
+Java - Default Methods
+Java - Base64 Encode Decode
+Java - Switch Expressions
+Java - Teeing Collectors
+Java - Microbenchmark
+Java - Text Blocks
+Java - Dynamic CDS archive
+Java - Z Garbage Collector (ZGC)
+Java - Null Pointer Exception
+Java - Packaging Tools
+Java - Sealed Classes
+Java - Record Classes
+Java - Hidden Classes
+Java - Pattern Matching
+Java - Compact Number Formatting
+Java - Garbage Collection
+Java - JIT Compiler
+Java Miscellaneous
+Java - Recursion
+Java - Regular Expressions
+Java - Serialization
+Java - Strings
+Java - Process API Improvements
+Java - Stream API Improvements
+Java - Enhanced @Deprecated Annotation
+Java - CompletableFuture API Improvements
+Java - Streams
+Java - Datetime Api
+Java 8 - New Features
+Java 9 - New Features
+Java 10 - New Features
+Java 11 - New Features
+Java 12 - New Features
+Java 13 - New Features
+Java 14 - New Features
+Java 15 - New Features
+Java 16 - New Features
+Java APIs & Frameworks
+JDBC Tutorial
+SWING Tutorial
+AWT Tutorial
+Servlets Tutorial
+JSP Tutorial
+Java Class References
+Java - Scanner
+Java - Arrays
+Java - Strings
+Java - Date
+Java - ArrayList
+Java - Vector
+Java - Stack
+Java - PriorityQueue
+Java - LinkedList
+Java -  ArrayDeque
+Java - HashMap
+Java - LinkedHashMap
+Java - WeakHashMap
+Java - EnumMap
+Java - TreeMap
+Java - IdentityHashMap
+Java - HashSet
+Java - EnumSet
+Java - LinkedHashSet
+Java - TreeSet
+Java - BitSet
+Java - Dictionary
+Java - Hashtable
+Java - Properties
+Java - Collection
+Java - Array
+Java Useful Resources
+Java - Cheatsheet
+Java - Questions and Answers
+Java 8 - Questions and Answers
+Java - Quick Guide
+Java - Useful Resources
+Java - Discussion
+Java - Online Compiler
+Java - Examples
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Java Tutorial
+ThisJava tutorialhas been written for beginners to advanced programmers who are striving to learn Java programming. We have provided numerous practical examples to explain the concepts in simple and easy steps. This tutorial has been prepared and reviewed by experienced Java programmers at Tutorials Point, and the best effort has been put into making it useful for the students and Java developers.
+After completing this tutorial, you will find yourself at a moderate level of expertise in Java programming, from where you can elevate yourself to the next levels.
+What is Java?
+Java is a popular high-level,object-oriented programminglanguage that was originally developed by Sun Microsystems and released in 1995. Currently, Java is owned by Oracle, and more than 3 billion devices run Java. Java runs on a variety of platforms, such asWindows, Mac OS, and the various versions ofUNIX. Today Java is being used to develop numerous types of software applications, including desktop apps, mobile apps, web apps, games, and much more.
+In this tutorial, you will learn everything about Java, starting from basics to advanced concepts such as overview, history, installations, basic input/output, conditional & control statements, arrays, classes, inheritances, method overloading & overriding, exception handling, and many more.
+Java First Example
+The first example in Java is toprint "Hello, World!"on the screen. Let's have a quick look at the first examples in Java programming:
+public class MyFirstJavaProgram {
+
+   /* This is my first java program.
+    * This will print 'Hello, World!' as the output
+    */
+
+   public static void main(String []args) {
+      System.out.println("Hello, World!"); // prints Hello, World!
+   }
+}
+Getting Started with Java
+Explore the following chapters to get started learning Java programming:
+Java - Home
+Java - Overview
+Java - History
+Java - Features
+Java Vs. C++
+JVM - Java Virtual Machine
+Java - JDK vs JRE vs JVM
+Java - Hello World Program
+Java - Environment Setup
+Java - Basic Syntax
+Java Basics
+Explore the basic topics such as data types, operators, user input, etc.:
+Java - Variable Types
+Java - Data Types
+Java - Type Casting
+Java - Unicode System
+Java - Basic Operators
+Java - Comments
+Java - User Input
+Java - Date & Time
+Java Conditional Statements
+Furthermore, in Java, explore the conditional statements to implement the logic and to make decisions based on the conditions:
+Java - Decision Making
+Java - If-else
+Java - Switch
+Java Loops and Control Statements
+Explore the loops and control statements to learn how to control the execution of the programming logics:
+Java - Loop Control
+Java - For Loops
+Java - For-Each Loops
+Java - While Loops
+Java - do-while Loops
+Java - Break
+Java - Continue
+Java String and Arrays
+Explore the following strings and array-related chapters:
+Java Strings and String Class
+Java - Strings
+Java OOPs
+Explore the following chapters to learn the object-oriented programming approach in Java:
+Java - OOPs Concepts
+Java - Object & Classes
+Java - Class Attributes
+Java - Class Methods
+Java - Methods
+Java - Variables Scope
+Java - Constructors
+Java - Access Modifiers
+Java - Inheritance
+Java - Aggregation
+Java - Polymorphism
+Java - Overriding
+Java - Method Overloading
+Java - Dynamic Binding
+Java - Static Binding
+Java - Instance Initializer Block
+Java - Abstraction
+Java - Encapsulation
+Java Collections and Interfaces
+Explore Java interfaces and collections-related chapters:
+Java - Interfaces
+Java - List Interface
+Java - Queue Interface
+Java - Map Interface
+Java - SortedMap Interface
+Java - Set Interface
+Java - SortedSet Interface
+Java - Iterators
+Java - Comparators
+Java - Comparable Interface in Java
+Java - Collections
+Java - Collection Interface
+Java Exceptional Handling
+Explore the file handling chapters to learn how to create, write, read, and manipulate the files and directories:
+Java - Files
+Java - Create a File
+Java - Write to File
+Java - Read Files
+Java - Delete Files
+Java - Directories
+Java - I/O Streams
+Java Multithreading
+Explore the threading-related chapters to learn to manage multiple threads in Java:
+Java - Multithreading
+Java - Thread Life Cycle
+Java - Creating a Thread
+Java - Starting a Thread
+Java - Joining Threads
+Java - Naming Thread
+Java - Thread Scheduler
+Java - Thread Pools
+Java - Main Thread
+Java - Thread Priority
+Java - Daemon Threads
+Java - Thread Group
+Java - Shutdown Hook
+Java Practices
+Java Quick Guide
+Java Interview Questions
+Java 8 Interview Questions
+Java Online Test
+Java Mock Test
+Java References
+Here, you can find the package, class, and method references −
+Java Scanner Class
+Java Arrays Class
+Java Strings Class
+Java Date Class
+Java ArrayList Class
+Java Vector Class
+Java Stack Class
+Java PriorityQueue Class
+Java LinkedList Class
+Java  ArrayDeque Class
+Java HashMap Class
+Java LinkedHashMap Class
+Java WeakHashMap Class
+Java EnumMap Class
+Java TreeMap Class
+Java IdentityHashMap Class
+Java HashSet Class
+Java EnumSet Class
+Java LinkedHashSet Class
+Java TreeSet Class
+Java BitSet Class
+Java Dictionary Class
+Java Hashtable Class
+Java Properties Class
+Java Collection Class
+Java Array Class
+Online Java Compiler
+Our Java programming tutorial provides various examples to explain the concepts. To compile and execute the given Java programming examples in your browser itself, we have providedOnline Java Compiler. You can edit and run almost all the examples directly from your browser without the need to set up your development environment.
+Try to click the iconto run the following Java code to print conventional "Hello, World!" using Java Programming.
+Below code box allows you to change the value of the code. So, please try to change the value insideprintln()and run it again to verify the result.
+public class MyFirstJavaProgram {
+
+   /* This is my first java program.
+    * This will print 'Hello, World!' as the output
+    */
+
+   public static void main(String []args) {
+      System.out.println("Hello, World!"); // prints Hello, World!
+   }
+}
+Java Features
+Java is a feature-rich language. Java is evolving continuously with every update, and updates are coming every six months. Following are some of the main features of the Java language:
+Object Oriented: Java is a pure object-oriented language, and everything in Java is an object. Java supports OOPS principles likeInheritance,Encapsulation,Polymorphism, Classes	, and so on. Java itself can be extended as well, being based on an object model.
+Platform Independent: Java code is platform independent. A Java code is not compiled into machine-specific code; it is compiled into a platform-neutral byte code. This byte code is executed byJVMwhich runs the code on the underlying platform. This capability makes Java a Write Once Run Anywhere language.
+Easy To Learn: Java inherits features from C and C++, and developers can easily learn Java if they know any of the C or C++ languages. Even for someone new to computer languages, Java is very easy to learn from scratch.
+Secure: Java is secure by architecture. A developer is not required to directly interact with the underlying memory or operating system. Java provides automatic garbage collection, so developers are not required to worry about memory leaks, management, etc.
+Architectural-Neutral: Java byte code can be executed on any kind of processor. JRE automatically handles the code execution on different types of processors.
+Portable: A Java code written on a Windows machine can be executed without any code change on MacOS and vice versa. There is no need to make any operating system-specific code changes.
+Robust: Java is a very robust language with very strong compile-time error checks, strict type checking, and runtime exception handling.
+Multithreading: Java provides inbuilt support for multiprocessing and multithreading. Java provides thread handling, monitors, deadlock handling, racing conditions, etc.
+High Performance: Java, although being interpreted, is still very performant. TheJIT(Just In Time) compilerhelps in improving performance.
+Distributed: Java is designed for distributed systems and is the most popular language for developing internet-based applications as the internet is a distributed environment.
+Java Applications
+Since Java supports object-oriented features and is platform-independent, it is extensively used in various fields. Listed below are a few areas where Java is used -
+Enterprise solutions
+Game development
+Secured web development
+Embedded systems
+Mobile application development
+Big Data Applications, and many more.
+Java Platforms (Editions)
+Platforms of Java are divided into four Java editions, which are −
+Java SE (Java Standard Edition): It is a standard edition that is used to develop and deploy portable code for desktop and server environments.
+Java EE (Java Enterprise Edition): It is an enterprise edition that is used to develop web applications.
+Java ME (Java Micro Edition): J2ME is used to develop mobile applications; it is a micro edition of Java.
+JavaFx:It is used to develop lightweight user interfaces for rich internet applications.
+Java Jobs & Opportunities
+Java is very in demand, and all the major companies are recruiting Java programmers to develop their desktop, web, and mobile applications.
+Today, a Java programmer with 3-5 years of experience is asking for around $120,000 in an in an annual package, and this is the most demanding programming language in America. Though it can vary depending on the location of the job. Following are the great companies that are using Java and they need good Java programmers:
+Google
+Microsoft
+Facebook
+IBM
+Amazon
+Netflix
+Pinterest
+Uber
+JetBrains
+Many more...
+So, you could be the next potential employee for any of these major companies. We have developed great learning material for Java that will help you prepare for the technical interviews and certification exams based on Java. So, start learning Java using this simple and effective tutorial from anywhere and anytime, absolutely at your pace.
+Why to Learn Java?
+Java is a MUST to learn programming language for students and working professionals to become a great software engineer, especially when they are working in the software development domain. If you will conduct a survey about the best programming language around, Java is sure to come up.
+Java is a fairly easy programming language to learn, so if you are starting to learn any programming language, then Java could be your great choice. There's also plenty of Java tools that make it easy for developers and beginners to use. There are many other good reasons that make Java the first choice of any programmer:
+Java is open source, which means it's available free of cost.
+Java is simple and so easy to learn.
+Java is much in demand and ensures a high salary.
+Java has a large, vibrant community.
+Java has powerful development tools.
+Java is platform-independent.
+Who should Learn Java
+ThisJava tutorialwill help both students as well as working professionals who want to develop applications using Java technologies like banking systems, support systems, information systems, websites, mobile apps, personal blogs, etc. We recommend reading this tutorial in the sequence listed in the left-side menu.
+Today, Java is one of the most demanding programming languages, and so it has become an essential language to learn for anyone involved in the software application development process, including software developers, software designers, project managers, etc.
+Prerequisites to Learn Java
+Though we have tried our best to present the Core Java concepts in a simple and easy way, still, before you start learning Java, it is assumed that the readers have a reasonable exposure to any programming environment and knowledge of basic concepts such as variables, commands, syntax, etc.
+Learn Java by Examples
+This tutorial provides a set of Java examples. Practice these examples to learn the Java concepts better:Java Examples
+Java Online Quizzes
+This Java tutorial helps you prepare for technical interviews and certification exams. We have provided various quizzes and assignments to check your learning level. Given quizzes have multiple-choice types of questions and their answers with short explanations.
+Following is a sample quiz; try to attempt any of the given answers:
+Q 1- The Java programming language was developed by which of the following :
+A- Google in 1990s
+B- Micorsoft in 1980s
+C- Sun Microsystems in 1995
+D- None of the Above
+Answer : C
+Explanation
+Java was developed by James Gosling at Sun Microsystems and it was released in May 1995 as a core component of Sun Microsystems' Java platform.
+Start your online quizStart Java Quiz.
+Download Java
+Java's latest version can be downloaded from Oracle's official website:Java Downloads
+Java Certification
+Get certified in Java to boost your skills and careerGet certified
+Frequently Asked Questions about Java Tutorial
+There are some important frequently asked questions (FAQs) about Java Programming tutorial, this section lists them down along with their answers briefly - −
+1. What are the 4 important concepts in Java?
+2. What are the benefits of Java?
+Java is free and open source
+Java is community driven and has expert leadership
+Java is fast and high-performance
+Java is easy to learn
+Java is statically typed
+Java is object-oriented
+Java supports functional programming
+3. How much time will it take to learn Java?
+4. Why is Java a so popular programming language?
+5. What are the advantages of Java over Python?
+6. How do I start learning Java?
+Here is the summarized list of tips that you can follow to start learning Java:
+First and most important is to make your mind to learn Java.
+Install Java Virtual Machine and Java Compilers on your computer system.
+Follow our tutorial step by step, starting from the very beginning.
+Read more articles, watch online courses, or buy a book on Java to enhance your knowledge in Java.
+Try to develop small software using Java and other technologies like MySQL if you want to make use of a database.
+7. What are Java Technologies for Web Applications?
+Java provides the following technologies to help web development:
+Java Servlet API.
+JavaServer Pages Standard Tag Library.
+JavaServer Faces Technology.
+Java Message Service API.
+JDBC API.
+Java Persistence API.
+Java Naming and Directory Interface.
+NetBeans IDE.
+8. Which is the best place to learn Java?
+
+C++ Home
+C++ Overview
+C++ Environment Setup
+C++ Basic Syntax
+C++ Comments
+C++ Hello World
+C++ Omitting Namespace
+C++ Tokens
+C++ Constants/Literals
+C++ Keywords
+C++ Identifiers
+C++ Data Types
+C++ Numeric Data Types
+C++ Character Data Type
+C++ Boolean Data Type
+C++ Variable Types
+C++ Variable Scope
+C++ Multiple Variables
+C++ Basic Input/Output
+C++ Modifier Types
+C++ Storage Classes
+C++ Numbers
+C++ Enumeration
+C++ Enum Class
+C++ References
+C++ Date & Time
+C++ Operators
+C++ Arithmetic Operators
+C++ Relational Operators
+C++ Logical Operators
+C++ Bitwise Operators
+C++ Assignment Operators
+C++ sizeof Operator
+C++ Conditional Operator
+C++ Comma Operator
+C++ Member Operators
+C++ Casting Operators
+C++ Pointer Operators
+C++ Operators Precedence
+C++ Unary Operators
+C++ Control Statements
+C++ Decision Making
+C++ if Statement
+C++ if else Statement
+C++ Nested if Statements
+C++ switch Statement
+C++ Nested switch Statements
+C++ Loop Types
+C++ while Loop
+C++ for Loop
+C++ do while Loop
+C++ Foreach Loop
+C++ Nested Loops
+C++ break Statement
+C++ continue Statement
+C++ goto Statement
+C++ Strings
+C++ Strings
+C++ Loop Through a String
+C++ String Length
+C++ String Concatenation
+C++ String Comparison
+C++ Functions
+C++ Functions
+C++ Multiple Function Parameters
+C++ Recursive Function
+C++ Return Values
+C++ Function Overloading
+C++ Function Overriding
+C++ Default Arguments
+C++ Arrays
+C++ Arrays
+C++ Multidimensional Arrays
+C++ Pointer to an Array
+C++ Passing Arrays to Functions
+C++ Return Array from Functions
+C++ Structure & Union
+C++ Structures
+C++ Unions
+C++ Pointers
+C++ Pointers
+C++ Dereferencing
+C++ Modify Pointers
+C++ Class and Objects
+C++ Object Oriented
+C++ Classes & Objects
+C++ Class Member Functions
+C++ Class Access Modifiers
+C++ Static Class Members
+C++ Static Data Members
+C++ Static Member Function
+C++ Inline Functions
+C++ this Pointer
+C++ Friend Functions
+C++ Pointer to Classes
+C++ Constructors
+C++ Constructor & Destructor
+C++ Default Constructors
+C++ Parameterized Constructors
+C++ Copy Constructor
+C++ Constructor Overloading
+C++ Constructor with Default Arguments
+C++ Delegating Constructors
+C++ Constructor Initialization List
+C++ Dynamic Initialization Using Constructors
+C++ Inheritance
+C++ Inheritance
+C++ Multiple Inheritance
+C++ Multilevel Inheritance
+C++ Object-oriented
+C++ Overloading
+C++ Polymorphism
+C++ Abstraction
+C++ Encapsulation
+C++ Interfaces
+C++ Virtual Function
+C++ Pure Virtual Functions & Abstract Classes
+C++ File Handling
+C++ Files and Streams
+C++ Reading From File
+C++ Advanced
+C++ Exception Handling
+C++ Dynamic Memory
+C++ Namespaces
+C++ Templates
+C++ Preprocessor
+C++ Signal Handling
+C++ Multithreading
+C++ Web Programming
+C++ Socket Programming
+C++ Concurrency
+C++ Advanced Concepts
+C++ Lambda Expression
+C++ unordered_multiset
+C++ Useful Resources
+C++ Questions and Answers
+C++ Quick Guide
+C++ Cheatsheet
+C++ STL Tutorial
+C++ Standard Library
+C++ Useful Resources
+C++ Discussion
+C++ Online Compiler
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+C++ Tutorial
+This C++ tutorial has been written by experienced C++ programmers, which helps beginners to advanced programmers while learning C++ in simple and easy steps. This tutorial uses a simple and practical approach to describe the concepts ofC++to software engineers.
+What is C++?
+C++is a middle-level programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs.C++runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. C++ is an extension of theC programming languagewith object-oriented programming concepts. Or, we can say, "C++ is a superset of C programming with additional implementation of object-oriented concepts".
+Why to Learn C++
+C++is an important programming language for students and working professionals to become great software developers. I will list down some of the key advantages of learning C++:
+C++ is very close to hardware, so you get a chance to work at a low level, which gives you a lot of control in terms of memory management, better performance, and finally, robust software development.
+C++ programminggives you a clear understanding of object-oriented programming. You will understand low level implementation of polymorphism when you implement virtual tables and virtual table pointers, or dynamic type identification.
+C++ is one of the evergreen programming languages and is loved by millions of software developers. If you are a great C++ programmer, then you will never sit without work, and more importantly, you will get highly paid for your work.
+C++ is the most widely used programming language in application and system programming. So you can choose your area of interest in software development.
+C++ really teaches you the difference between compiler, linker, and loader, different data types, storage classes, variable types, their scopes, etc.
+There are 1000s of good reasons to learn C++ programming. But one thing is for sure: to learn any programming language, not only C++, you just need to code and code and finally code until you become an expert.
+Hello, World! Program Using C++
+Just to give you a little excitement aboutC++ programming, I'm going to give you a small conventional C++ Hello World program, You can try it by clicking on "Edit & Run".
+Below is the code to print "Hello World" on the screen −
+#include <iostream>
+using namespace std;
+
+// main() is where program execution begins.
+int main() {
+   cout << "Hello, World!"; // prints Hello, World!
+   return 0;
+}
+C++ Online Compiler
+We provided an easy, user-friendly, and fast C++ online compiler, where you can write, save, run, and share your C++ programs. Click on this link to open it:C++ Online Compiler.
+Try to click the iconto run the following C++ code to print conventional "Hello, World!" using C++ programming.
+#include <iostream>
+using namespace std;
+
+int main() {
+   cout << "Hello, World!"; // prints Hello, World!
+   return 0;
+}
+There are many C++ compilers available that you can use to compile and run the above-mentioned program:
+Apple C++. Xcode
+Bloodshed Dev-C++
+Clang C++
+Cygwin (GNU C++)
+Mentor Graphics
+MINGW - "Minimalist GNU for Windows"
+GNU CC source
+IBM C++
+Intel C++
+Microsoft Visual C++
+Oracle C++
+HP C++
+Features of C++
+The following are the features of C++ programming language −
+C language compatibility: C++ provides backward compatibility with C; it supports allfeatures of C language.
+Object-oriented programming: C++ supports the concepts of OOPs such asobjects & classes,encapsulation, data binding,inheritance, andpolymorphism.
+Compiled language:C++ is a compiler language where the complete code is converted into machine language, which makes it a faster programming language.
+Standard template library:C++ provides many data structures and algorithms-related library collections, such as template libraries for contains, iterators, algorithms, etc.
+Dynamic memory management: C++ provides two operatorsnewanddeletethat help to allocate and deallocate memory blocks dynamically.
+Exception handling: C++ provides try, catch, and throw blocks for exceptional handling, which were not available in C programming.
+Applications of C++ Programming
+As mentioned before, C++ is one of the most widely used programming languages. It has its presence in almost every area of software development. I'm going to list a few of them here:
+Application Software Development- C++ programming has been used in developing almost all the majorOperating Systemslike Windows, Mac OSX and Linux. Apart from the operating systems,  the core part of many browsers, like Mozilla Firefox and Chrome have been written using C++. C++ also has been used in developing the most popular database system calledMySQL.
+Programming Languages Development- C++ has been used extensively in developing new programming languages likeC#,Java,JavaScript,Perl, UNIX's C Shell,PHP,Python, and Verilog, etc.
+Computation Programming- C++ is the best friend of scientists because of its fast speed and computational efficiencies.
+Games Development- C++ is extremely fast, which allows programmers to do procedural programming for CPU-intensive functions and provides greater control over hardware, because of which it has been widely used in the development of gaming engines.
+Embedded System- C++ is being heavily used in developing medical and engineering applications like software for MRI machines, high-end CAD/CAM systems, etc.
+This list goes on. There are various areas where software developers are happily using C++ to provide great software. I highly recommend you learn C++ and contribute great software to the community.
+Learn C++ By Examples
+Practicing C++ examples is the best way to learn C++ programming. All chapters of our C++ tutorial have the related examples with explanation. You can simply go through those examples to understand the concept better.
+Jobs or Careers in C++
+C++ is a versatile and widely used programming language. Here is the list of some job roles that you can get after learning C++ programming:
+Software Engineer
+Game Developer
+Systems Programmer
+Embedded System Developer
+Robotics Engineer
+Database Developer
+Graphics Programmer
+Here is the list of the companies hiring C++ developers:
+Microsoft
+Amazon
+Facebook
+IBM
+Adobe
+Apple
+Google
+Target Audience - Who should Learn C++?
+ThisC++ tutorialhas been prepared for the beginners to help them understand the basics to advanced concepts of the C++ programming language. This tutorial is useful for software and game developers, embedded system developers, system programmers, students, and educators/trainers. After completing this tutorial, you will have a great level of expertise in C++ programming, from which you can take yourself to the next level.
+Prerequisites to Learn C++
+Before you start practicing with various types of examples given in this C++ tutorial, we are making the assumption that you are already aware of the basics of computer programming and computer programming language. You should also be familiar with −
+C++ Compiler
+IDE
+Text Editor
+C++ Practice
+After completing the C++ tutorial, you can go through these sections to practice the concepts that you have learned:
+C++ Interview Questions
+C++ Online Quiz
+C++ Online Test
+C++ Mock Test
+C++ Library Reference
+The following list has the complete reference of C++ header files −
+C++ <fstream>
+C++ <iomanip>
+C++ <ios>
+C++ <iosfwd>
+C++ <iostream>
+C++ <istream>
+C++ <ostream>
+C++ <sstream>
+C++ <streambuf>
+C++ <atomic>
+C++ <complex>
+C++ <exception>
+C++ <functional>
+C++ <limits>
+C++ <locale>
+C++ <memory>
+C++ <new>
+C++ <numeric>
+C++ <regex>
+C++ <stdexcept>
+C++ <string>
+C++ <thread>
+C++ <tuple>
+C++ <typeinfo>
+C++ <utility>
+C++ <valarray>
+C++ STL Library Reference
+The following list has the complete reference of C++ STL libraries −
+C++ <array>
+C++ <bitset>
+C++ <deque>
+C++ <forward_list>
+C++ <list>
+C++ <map>
+C++ <multimap>
+C++ <queue>
+C++ <priority_queue>
+C++ <set>
+C++ <stack>
+C++ <unordered_map>
+C++ <unordered_set>
+C++ <vector>
+C++ <algorithm>
+C++ <iterator>
+C++ Revision
+For a quick revision of C++ programming, go through these links −
+C++ Quick Guide
+C++ Cheat Sheet
+C++ STL Cheat Sheet
+C++ Questions & Answers
+Explore the latest C++ questions and answers atC++ questions and answers
+FAQs on C++ Tutorial
+1. What is the easiest way to learn C++ programming?
+2. Is prior knowledge of any programming is required to learn C++?
+3. What are the important concepts of C++ programming?
+Some of the important concepts of C++ programming are:
+Conditional statements
+Looping
+Arrays
+Structures
+Class and objects
+Inheritance
+Polymorphism
+C++ Standard Template Library
+4. How much time required to learn C++ programming?
+5. Who developed C++ programming language?
+6. What was the original name of C++?
+
+C - Home
+C - Overview
+C - Features
+C - History
+C - Environment Setup
+C - Program Structure
+C - Hello World
+C - Compilation Process
+C - Comments
+C - Tokens
+C - Keywords
+C - Identifiers
+C - User Input
+C - Basic Syntax
+C - Data Types
+C - Variables
+C - Integer Promotions
+C - Type Conversion
+C - Type Casting
+C - Booleans
+Constants and Literals in C
+C - Constants
+C - Literals
+C - Escape sequences
+C - Format Specifiers
+Operators in C
+C - Operators
+C - Arithmetic Operators
+C - Relational Operators
+C - Logical Operators
+C - Bitwise Operators
+C - Assignment Operators
+C - Unary Operators
+C - Increment and Decrement Operators
+C - Ternary Operator
+C - sizeof Operator
+C - Operator Precedence
+C - Misc Operators
+Decision Making in C
+C - Decision Making
+C - if statement
+C - if...else statement
+C - nested if statements
+C - switch statement
+C - nested switch statements
+Loops in C
+C - Loops
+C - While loop
+C - For loop
+C - Do...while loop
+C - Nested loop
+C - Infinite loop
+C - Break Statement
+C - Continue Statement
+C - goto Statement
+Functions in C
+C - Functions
+C - Main Function
+C - Function call by Value
+C - Function call by reference
+C - Nested Functions
+C - Variadic Functions
+C - User-Defined Functions
+C - Callback Function
+C - Return Statement
+C - Recursion
+Scope Rules in C
+C - Scope Rules
+C - Static Variables
+C - Global Variables
+Arrays in C
+C - Arrays
+C - Properties of Array
+C - Multi-Dimensional Arrays
+C - Passing Arrays to Function
+C - Return Array from Function
+C - Variable Length Arrays
+Pointers in C
+C - Pointers
+C - Pointers and Arrays
+C - Applications of Pointers
+C - Pointer Arithmetics
+C - Array of Pointers
+C - Pointer to Pointer
+C - Passing Pointers to Functions
+C - Return Pointer from Functions
+C - Function Pointers
+C - Pointer to an Array
+C - Pointers to Structures
+C - Chain of Pointers
+C - Pointer vs Array
+C - Character Pointers and Functions
+C - NULL Pointer
+C - void Pointer
+C - Dangling Pointers
+C - Dereference Pointer
+C - Near, Far and Huge Pointers
+C - Initialization of Pointer Arrays
+C - Pointers vs. Multi-dimensional Arrays
+Strings in C
+C - Strings
+C - Array of Strings
+C - Special Characters
+C Structures and Unions
+C - Structures
+C - Structures and Functions
+C - Arrays of Structures
+C - Self-Referential Structures
+C - Lookup Tables
+C - Dot (.) Operator
+C - Enumeration (or enum)
+C - Structure Padding and Packing
+C - Nested Structures
+C - Anonymous Structure and Union
+C - Unions
+C - Bit Fields
+C - Typedef
+File Handling in C
+C - Input & Output
+C - File I/O (File Handling)
+C Preprocessors
+C - Preprocessors
+C - Pragmas
+C - Preprocessor Operators
+C - Macros
+C - Header Files
+Memory Management in C
+C - Memory Management
+C - Memory Address
+C - Storage Classes
+Miscellaneous Topics
+C - Error Handling
+C - Variable Arguments
+C - Command Execution
+C - Math Functions
+C - Static Keyword
+C - Random Number Generation
+C - Command Line Arguments
+C Programming Resources
+C -  Questions & Answers
+C -  Quick Guide
+C -  Cheat Sheet
+C - Useful Resources
+C - Discussion
+C Online Compiler
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+C Tutorial
+C Tutorial
+Why to Learn C Programming?
+Facts about C
+C Hello World
+C Compiler
+C Applications
+C Audiences
+C Prerequisites
+FAQs on C Programming
+C Tutorial
+C programmingis a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.
+Why to Learn C Programming?
+C programminglanguage is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Software Development Domain. Here are some of the important reasons why you should learn C Programming −
+It is a structured programming language and you can use the skills learned in C to master other programming languages.
+It is a structured programming language and you can use the skills learned in C to master other programming languages.
+You can use C program to write efficient codes and develop robust projects.
+You can use C program to write efficient codes and develop robust projects.
+C is a low-level language and you can use it to interact more directly with the computer's hardware and memory.
+C is a low-level language and you can use it to interact more directly with the computer's hardware and memory.
+Facts about C
+C is the most widely used and popular System Programming Language. Most of the state-of-the-art software have been implemented using C. Here are some facts about the C language:
+C was invented to write an operating system called UNIX. The UNIX OS was totally written in C.
+C was invented to write an operating system called UNIX. The UNIX OS was totally written in C.
+C is a successor of B language which was introduced around the early 1970s.
+C is a successor of B language which was introduced around the early 1970s.
+The language was formalized in 1988 by the American National Standard Institute (ANSI).
+The language was formalized in 1988 by the American National Standard Institute (ANSI).
+Hello World using C Programming
+Just to give you a little excitement aboutC programming, I'm going to give you a small conventional C Programming Hello World program. You can run it here using the "Edit and Run" button.
+#include <stdio.h>
+
+int main() {
+
+   /* my first program in C */
+   printf("Hello, World! \n");
+   
+   return 0;
+}
+C Compiler
+We provided an easy, user-friendly, and fast C online compiler, where you can write, save, run, and share your C programs. Click on this link to open it:C Online Compiler.
+Applications of C Programming
+C was initially used for system development work, particularly the programs that make-up the operating system. C was adopted as a system development language because it produces code that runs nearly as fast as the code written in assembly language. Some examples of the use of C are -
+Operating Systems
+Operating Systems
+Language Compilers
+Language Compilers
+Assemblers
+Assemblers
+Text Editors
+Text Editors
+Print Spoolers
+Print Spoolers
+Network Drivers
+Network Drivers
+Modern Programs
+Modern Programs
+Databases
+Databases
+Language Interpreters
+Language Interpreters
+Utilities
+Utilities
+Audience
+This tutorial is designed for software programmers with a need to understand theC programminglanguage starting from scratch. ThisC tutorialwill give you enough understanding on C programming language from where you can take yourself to higher level of expertise.
+Prerequisites
+Before proceeding with this tutorial, you should have a basic understanding of Computer Programming terminologies. A basic understanding of any of the programming languages will help you in understanding theC programmingconcepts and move fast on the learning track.
+FAQs on C Programming
+There are some very Frequently Asked Questions(FAQ) about C, this section tries to answer them briefly.
+C programming came into being in 1972. After more than 5 decades, C is still one of the most popular languages that ranks consistently in the top three. Since C can directly interact with the hardware, it is primarily used in low-level applications such as building operating systems, device drivers, embedded systems, networking etc.
+Therefore, C programming skills are very much in demand, in this age also. Ones career prospects will definitely brighter if he has a good proficiency in C programming.
+C is a general-purpose programming language; therefore, it can be used to develop any type of applications. However, its ability to interact with the hardware makes it more suitable for developing system utilities, compilers and device drivers.
+C is predominantly used in building embedded systems and networking applications. C is significantly faster as compared to languages like Java or Python because it is directly compiled to the machine code. Hence, it is used in development of gaming applications.
+C is a versatile programming language that can be useful in development of a variety of software applications.
+C is considered to be one of the easiest programming languages to learn for beginners. You can learn programming in C with the help of many online resources, such as the C tutorial provided by TutorialsPointcprogramming.
+C does have a slightly steeper learning curve when you go towards advanced concepts. For attaining a high level of proficiency in C, you need to be able to master the features such as pointers, structures etc. Learning C allows you to build sound foundation with which you can easily learn other programming technologies.
+Here are some of the main advantages of learning C programming:
+C is a compiled language. It is translated directly into the machine language. Thats why the code execution is faster. Thus C offers better efficiency as compared to Java, Python. This fature is advantageous in applications like system utilities, embedded systems game development etc.
+C is a general-purpose language. Hence, it can be used to develop a variety of applications.
+C code easily portable. C compilers are available on all the operating system platforms. Hence, you can build an executable on relevant OS without many changes to the code.
+C is called as a middle-level language. It has all the advantages of a high level language, plus it can perform low-level memory manipulations.
+A good expertise in C lets you to learn other languages very easily.
+C programming language has a lot of important features that make it a unique language.
+Compiled language− Unlike many of the modern languages, C is a compiled language. The compiler builds a machine level code that is directly executed by the processor. Hence, it provides a better performance.
+Pointer mechanism− C has the ability to directly access the computers memory through its pointer mechanism. This leads to its ability to control the hardware  a feature that is useful in developing system utilities and embedded systems.
+Functions− You can develop an application in a structured and modular manner with the help of functions. The mechanism of calling functions can be easily plugged into one another.
+Extensible− C has the feature of defining a new data type by combining any of the built-in types. You can thus simulate real-life data structures with C code.
+Library functions− C software is bundled with a large library of utility functions and macros. There are library functions for IO operations, string handling, mathematical and statistical functions, time related functions etc.
+Every programming language has its own characteristic features and difference with others. Here are some of the key points of difference between C and other languages:
+C is a compiled language, whereas programming languages like Python, Java and JavaScript are interpreted languages.
+C is a statically typed language. On the other hand, Python and JavaScript are dynamically typed languages.
+C is an imperative and procedural language. It doesnt support classes and objects. Modern languages are primarily object-oriented.
+C doesnt have automatic garbage collection mechanism, which is provided by many other languages like Java and Python.
+A reasonable proficiency in C can be of a lot of advantage for anybody who wants to build a career in software development. C being a general-purpose language, you can use it in different practice projects. C is an open-source language. You can also contribute to open source software development project, that will give you lot of exposure.
+A C programmer can pursue a successful career in embedded system development and gaming field. C language acts as a gateway to the software development field, as you can diversify into other programming technologies.

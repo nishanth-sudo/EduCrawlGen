@@ -1,0 +1,51 @@
+Excel Tutorial
+Excel Formatting
+Excel Data Analysis
+Table Pivot
+Excel Case
+Excel Functions
+Excel How To
+Excel Examples
+Excel References
+ExcelTutorial
+Learn Excel
+Excel is the world's most used spreadsheet program
+Excel is a powerful tool to use for mathematical functions
+Start learning Excel now »
+Learn Excel
+Examples in Each Chapter
+We use practical examples to give the user a better understanding of the concepts.
+Copy Values Tool
+Example values can be copied from the tutorial and into your spreadsheet, making it easy for you to tag along 
+step-by-step:
+Case Based Learning
+We have created active learning activities, so you can test and build your knowledge. Making the learning experience more fun and engaging.
+Solve Case »
+Why Study Excel?
+Excel is the world's most used spreadsheet program.
+Example use areas:
+Data analytics
+Project management
+Finance and accounting
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_excel_index.php_0.png
+www.w3schools.com_excel_index.php_1.png
+www.w3schools.com_excel_index.php_2.png

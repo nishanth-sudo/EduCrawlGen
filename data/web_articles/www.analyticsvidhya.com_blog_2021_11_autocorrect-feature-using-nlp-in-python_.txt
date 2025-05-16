@@ -1,0 +1,212 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+Autocorrect Feature using NLP in Python
+This article was published as a part of theData Science Blogathon.
+Getting Started With…
+Natural Language Processing (NLP) is the field of artificial intelligence that relates lingual to Computer Science. I am assuming that you have understood the basic concepts of NLP. So we will move ahead. There are Some NLP applications as follows: Auto Spelling Correction, Sentiment Analysis, Fake News Detection, Machine Translation, Question and Answering(Q&A), Chatbot, and many more…
+Introduction to Autocorrect
+Have you ever wondered about how the Autocorrect features work on the keyboard of a Smartphone? Now almost every smartphone brand regardless of its price provides an autocorrect feature in their keyboards today. Everyone knows the sake of smartphones would be a never-ending list and we are not going to focus on that topic in this blog!
+The main purpose of this article, as you have seen the title so you can guess that is to build an Autocorrect Feature. Yes, it’s some kind of similar, but not the exact copy, to that of the smartphone we are using now, but this would be an implementation of Natural Language Processing on a smaller dataset like a book.
+Okay, let’s understand how these autocorrect features work. In this article, I am going to take you through “How to build Autocorrect with Python”.
+Autocorrect using NLP With Python- How it works?
+In the backdrop of machine learning, autocorrect is purely based on Natural Language Processing (NLP). As the name suggests that it is programmed in order to correct spellings and errors while typing text. So let’s see how it works?
+Before I move ahead into the coding stuff let us understand “How Autocorrect works?”. Let’s assume that you have typed a word on your keyboard but if that word exists in the vocabulary of our smartphone then it will assume that you have written the right word. Okay. Now it does not matter whether you write a name, a noun, or any word that you wanted to type.
+Understood this scenario? If the word exists in the history of the smartphone, it will generalize or create the word as a correct word to choose. But What if the word doesn’t exist? Okay, If the word that you have typed is a nonexisting word in the history of smartphones then the autocorrect is specially programmed to find the most similar words in the history of our smartphone as it suggests.
+So let us understand the algorithm.
+There are 4 key steps to building an autocorrect model that corrects spelling errors:
+1:- Identify Misspelled Word— Let us consider an example, how would we get to know the word “drea”is spelled incorrectly or correctly? If a word is spelled correctly then the word will be found in a dictionary and if it is not there then it is probably a Misspelled Word. Hence, when a word is not found in a dictionary then we will flag it for correction.
+2:- Find ‘n’ Strings Edit distance away— An edit is one of the operations which is performed on a string in order to transform it into another String, andnis nothing but the edit distance that is an edit distance like- 1, 2, 3, so on… which will count the number of edit operations that to be performed. Hence, the edit distance n tells us that how many operations are away from one string to another. Following are the different types of edits:-
+Insert (will add a letter)Delete (will remove a letter)Switch (it will swap two nearby letters)Replace (exchange one letter to another one)
+Insert (will add a letter)
+Delete (will remove a letter)
+Switch (it will swap two nearby letters)
+Replace (exchange one letter to another one)
+With these four edits, we are proficient in modifying any string. So the combination of edits allows us to find a list of all possible strings that are n edits to perform.IMPORTANT Note: For autocorrect, we take n  usually between 1 to 3 edits.3:- Filtering of Candidates— Here we want to consider only correctly spelled real words from our generated candidate list so we can compare the words to a known dictionary (like we did in the first step)and then filter out the words in our generated candidate list that do not appear in the known “dictionary”.4:-Calculate Probabilities of Words— We can calculate the probabilities of words and then find the most likely word from our generated candidates with our list of actual words. This requires word frequencies that we know and the total number of words in the corpus (also known as dictionary).
+With these four edits, we are proficient in modifying any string. So the combination of edits allows us to find a list of all possible strings that are n edits to perform.
+IMPORTANT Note: For autocorrect, we take n  usually between 1 to 3 edits.
+3:- Filtering of Candidates— Here we want to consider only correctly spelled real words from our generated candidate list so we can compare the words to a known dictionary (like we did in the first step)and then filter out the words in our generated candidate list that do not appear in the known “dictionary”.
+4:-Calculate Probabilities of Words— We can calculate the probabilities of words and then find the most likely word from our generated candidates with our list of actual words. This requires word frequencies that we know and the total number of words in the corpus (also known as dictionary).
+Build an Autocorrect Feature using NLP with PythonI hope you are now clear about what autocorrect is and how it works. Now let us see how we can build an autocorrect feature with Python for smartphones. As our smartphone uses past history to match the typed words whether it is correct or not. So here we are required to use some words to run the functionality in ourAutocorrect.So I am going to use the text from a book to understand it practically which you can easily download from here. Now let’s get started with the task to build an autocorrect model with Python.Note: You can use any kind of text data.Download LinkTo run this task, we are required some libraries. I am going to use libraries that are very general for machine learning. So you should be having all these libraries already installed in your system except one library. You need to install one library known as “text distance”, which can be easily installed by using the pip command.pip install textdistanceNow let us get started with this by importing all the necessary packages, libraries and by reading our text file:Code:import pandas as pd
+import numpy as np
+import textdistance
+import re
+from collections import Counter
+words = []
+with open('auto.txt', 'r') as f:
+    file_name_data = f.read()
+    file_name_data=file_name_data.lower()
+    words = re.findall('w+',file_name_data)
+# This is our vocabulary
+V = set(words)
+print("Top ten words in the text are:{words[0:10]}")
+print("Total Unique words are {len(V)}.")Output:Top ten words in the text are:['moby', 'dick', 'by', 'herman', 'melville', '1851', 'etymology', 'supplied', 'by', 'a']Total Unique words are17140.In the above code, you can see that we have made a list of words and now we will build the frequency of those words, which can be easily done by using the “counter function” in Python:Code:word_freq = {}  
+word_freq = Counter(words)
+print(word_freq.most_common()[0:10])Output:[('the', 14431), ('and', 6430), ('a', 4736), ('to', 4625), ('in', 4172), ('his', 2530), ('it', 2522), ('i', 2127)]Relative Frequency of wordsNow here we want to get the occurrence of each word that is nothing but we have to find probabilities, which equals the Relative Frequencies of the words:Code:probs = {}     
+Total = sum(word_freq.values())    
+for k in word_freq.keys():
+    probs[k] = word_freq[k]/TotalFinding Similar WordsSo we will sort similar words according to the “Jaccard Distance” by calculating the two grams Q of the words. Then next, we will return the five most similar words which are ordered by similarity and probability:-Code:def my_autocorrect(input_word):
+    input_word = input_word.lower()
+if input_word in V:
+        return('Your word seems to be correct')
+    else:
+        sim = [1-(textdistance.Jaccard(qval=2).distance(v,input_word)) for v in word_freq.keys()]
+        df = pd.DataFrame.from_dict(probs, orient='index').reset_index()
+        df = df.rename(columns={'index':'Word', 0:'Prob'})
+        df['Similarity'] = sim
+        output = df.sort_values(['Similarity', 'Prob'], ascending=False).head()
+        return(output)Okay, Now, let us find some similar words by using our autocorrect function:Code:my_autocorrect('neverteless')WordProbSimilarity2209nevertheless0.0002290.75000013300boneless0.0000140.41666712309elevates0.0000050.416667718never0.0009420.4000006815level0.0001100.400000This is how the autocorrect algorithm works here!!As we have taken words from a book. In the same way, there are some words that are already present in the vocabulary of the smartphone and then some words it records while the user starts typing using the keyboard.ConclusionYou can use this feature to implement in real-time. I hope you liked this article that how to build an Autocorrect Feature using NLP with Python.The media shown in this article is not owned by Analytics Vidhya and are used at the Author’s discretionAmrutaI am Software Engineer, data enthusiast , passionate about data and its potential to drive insights, solve problems and also seeking to learn more about machine learning, artificial intelligence fields.AdvancedNLPText
+Build an Autocorrect Feature using NLP with Python
+I hope you are now clear about what autocorrect is and how it works. Now let us see how we can build an autocorrect feature with Python for smartphones. As our smartphone uses past history to match the typed words whether it is correct or not. So here we are required to use some words to run the functionality in ourAutocorrect.
+So I am going to use the text from a book to understand it practically which you can easily download from here. Now let’s get started with the task to build an autocorrect model with Python.
+Note: You can use any kind of text data.
+Download Link
+To run this task, we are required some libraries. I am going to use libraries that are very general for machine learning. So you should be having all these libraries already installed in your system except one library. You need to install one library known as “text distance”, which can be easily installed by using the pip command.
+pip install textdistance
+Now let us get started with this by importing all the necessary packages, libraries and by reading our text file:
+Code:
+import pandas as pd
+import numpy as np
+import textdistance
+import re
+from collections import Counter
+words = []
+with open('auto.txt', 'r') as f:
+    file_name_data = f.read()
+    file_name_data=file_name_data.lower()
+    words = re.findall('w+',file_name_data)
+# This is our vocabulary
+V = set(words)
+print("Top ten words in the text are:{words[0:10]}")
+print("Total Unique words are {len(V)}.")
+Output:
+Top ten words in the text are:['moby', 'dick', 'by', 'herman', 'melville', '1851', 'etymology', 'supplied', 'by', 'a']Total Unique words are17140.
+In the above code, you can see that we have made a list of words and now we will build the frequency of those words, which can be easily done by using the “counter function” in Python:
+Code:
+word_freq = {}  
+word_freq = Counter(words)
+print(word_freq.most_common()[0:10])
+Output:
+[('the', 14431), ('and', 6430), ('a', 4736), ('to', 4625), ('in', 4172), ('his', 2530), ('it', 2522), ('i', 2127)]
+Relative Frequency of words
+Now here we want to get the occurrence of each word that is nothing but we have to find probabilities, which equals the Relative Frequencies of the words:
+Code:
+probs = {}     
+Total = sum(word_freq.values())    
+for k in word_freq.keys():
+    probs[k] = word_freq[k]/Total
+Finding Similar Words
+So we will sort similar words according to the “Jaccard Distance” by calculating the two grams Q of the words. Then next, we will return the five most similar words which are ordered by similarity and probability:-
+Code:
+def my_autocorrect(input_word):
+    input_word = input_word.lower()
+if input_word in V:
+        return('Your word seems to be correct')
+    else:
+        sim = [1-(textdistance.Jaccard(qval=2).distance(v,input_word)) for v in word_freq.keys()]
+        df = pd.DataFrame.from_dict(probs, orient='index').reset_index()
+        df = df.rename(columns={'index':'Word', 0:'Prob'})
+        df['Similarity'] = sim
+        output = df.sort_values(['Similarity', 'Prob'], ascending=False).head()
+        return(output)
+Okay, Now, let us find some similar words by using our autocorrect function:
+Code:
+my_autocorrect('neverteless')
+Word
+Prob
+Similarity
+2209
+nevertheless
+0.000229
+0.750000
+13300
+boneless
+0.000014
+0.416667
+12309
+elevates
+0.000005
+0.416667
+718
+never
+0.000942
+0.400000
+6815
+level
+0.000110
+0.400000
+This is how the autocorrect algorithm works here!!
+As we have taken words from a book. In the same way, there are some words that are already present in the vocabulary of the smartphone and then some words it records while the user starts typing using the keyboard.
+Conclusion
+You can use this feature to implement in real-time. I hope you liked this article that how to build an Autocorrect Feature using NLP with Python.
+I am Software Engineer, data enthusiast , passionate about data and its potential to drive insights, solve problems and also seeking to learn more about machine learning, artificial intelligence fields.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+What Are N-Grams and How to Implement Them in P...
+What Are N-Grams and How to Implement Them in P...
+How to Use Python to Automate Google Sheets? (2...
+How to Use Python to Automate Google Sheets? (2...
+Getting started with NLP using NLTK Library
+Getting started with NLP using NLTK Library
+10 Applications of Natural Language Processing
+10 Applications of Natural Language Processing
+NLP Tutorials Part -I from Basics to Advance
+NLP Tutorials Part -I from Basics to Advance
+Natural Language Processing: Step by Step Guide
+Natural Language Processing: Step by Step Guide
+Part 1: Step by Step Guide to Master NLP –...
+Part 1: Step by Step Guide to Master NLP –...
+Part 8: Step by Step Guide to Master NLP –...
+Part 8: Step by Step Guide to Master NLP –...
+A Comprehensive Understanding of Word Meanings
+A Comprehensive Understanding of Word Meanings
+Word Sense Disambiguation: Importance in Natura...
+Word Sense Disambiguation: Importance in Natura...
+Responses From Readers
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+www.analyticsvidhya.com_blog_2021_11_autocorrect-feature-using-nlp-in-python__0.webp
+www.analyticsvidhya.com_blog_2021_11_autocorrect-feature-using-nlp-in-python__1.png
+www.analyticsvidhya.com_blog_2021_11_autocorrect-feature-using-nlp-in-python__2.webp
+www.analyticsvidhya.com_blog_2021_11_autocorrect-feature-using-nlp-in-python__3.webp
+www.analyticsvidhya.com_blog_2021_11_autocorrect-feature-using-nlp-in-python__4.webp
+www.analyticsvidhya.com_blog_2021_11_autocorrect-feature-using-nlp-in-python__5.webp
+www.analyticsvidhya.com_blog_2021_11_autocorrect-feature-using-nlp-in-python__6.webp
+www.analyticsvidhya.com_blog_2021_11_autocorrect-feature-using-nlp-in-python__7.webp
+www.analyticsvidhya.com_blog_2021_11_autocorrect-feature-using-nlp-in-python__8.webp

@@ -1,0 +1,40 @@
+HTML Graphics
+SVG Tutorial
+Canvas Tutorial
+Canvas Clock
+Plotting
+Google Maps
+HTML Game
+HTML Graphics
+SVG (Scalable Vector Graphics)
+SVG defines vector-based graphics in XML, which can be directly embedded in HTML pages.
+SVG graphics are scalable, and do not lose any quality if they are zoomed or resized:
+HTML Canvas
+TheHTML <canvas> elementelement is used to draw graphics, on the fly, with JavaScript:
+The graphic above shows four elements: a red rectangle, a gradient rectangle,
+a multicolor rectangle, and a multicolor text inside a <canvas> element.
+Plotting
+JavaScript librariesare used for both Artificial Intelligence graphs and other charts:
+Plotly.js
+Chart.js
+Google Chart
+D3.js
+Here is an example of a 3D pie made with Google Chart:
+Google Maps
+Google Mapslets you embed maps in HTML 
+pages.
+HTML + JavaScript Game
+Learn how to make a game with HTML and JavaScript.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_graphics_default.asp_0.png
+www.w3schools.com_graphics_default.asp_1.png

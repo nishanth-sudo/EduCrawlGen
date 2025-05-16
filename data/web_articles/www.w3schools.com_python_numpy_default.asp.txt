@@ -1,0 +1,39 @@
+NumPyTutorial
+NumPyRandom
+NumPyufunc
+Quiz/Exercises
+NumPyTutorial
+Learn NumPy
+NumPy is a Python library.
+NumPy is used for working with arrays.
+NumPy is short for "Numerical Python".
+Learning by Reading
+We have created 43 tutorial pages for you to learn more about NumPy.
+Starting with a basic introduction and ends up with creating and plotting random data sets, and working with NumPy functions:
+Basic
+Random
+ufunc
+Learning by Examples
+In our "Try it Yourself" editor, you can use the NumPy module, and modify the code to see the result.
+Example
+Create a NumPy array:
+Click on the "Try it Yourself" button to see how it works.
+Learning by Exercises
+Many chapters in this tutorial end with an exercise where you can check your level of knowledge.
+See all NumPy Exercises
+Learning by Quiz Test
+Test your NumPy skills with a quiz test.
+Start NumPy Quiz
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_python_numpy_default.asp_0.png
+www.w3schools.com_python_numpy_default.asp_1.png

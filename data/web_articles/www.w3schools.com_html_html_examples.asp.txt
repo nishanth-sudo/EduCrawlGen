@@ -1,0 +1,86 @@
+HTMLTutorial
+HTMLForms
+HTMLGraphics
+HTMLMedia
+HTMLAPIs
+HTMLExamples
+HTMLReferences
+HTMLExamples
+HTML Basic
+Examples explained
+HTML Attributes
+Examples explained
+HTML Headings
+Examples explained
+HTML Paragraphs
+Examples explained
+HTML Styles
+Examples explained
+HTML Text Formatting
+Examples explained
+HTML Quotations and Citations
+Examples explained
+HTML Comments
+Examples explained
+HTML CSS
+Examples explained
+HTML Links
+Examples explained
+HTML Images
+Examples explained
+HTML Tables
+Examples explained
+HTML Lists
+Examples explained
+HTML Block and inline elements
+Examples explained
+HTML Div Element
+Examples explained
+HTML Classes
+Examples explained
+HTML Id
+Examples explained
+HTML Layout
+Examples explained
+HTML IFrame
+Examples explained
+HTML head Elements
+Examples explained
+HTML Scripts
+Examples explained
+HTML Computercode Elements
+Examples explained
+HTML Forms
+Examples explained
+HTML Form Elements
+Examples explained
+HTML Input Types
+Examples explained
+HTML Input Attributes
+Examples explained
+HTML Canvas Graphics
+Examples explained
+HTML SVG Graphics
+Examples explained
+HTML Media
+Examples explained
+HTML Geolocation
+Examples explained
+HTML Local Storage
+Examples explained
+HTML Media
+Examples explained
+More HTML Examples
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_html_html_examples.asp_0.png
+www.w3schools.com_html_html_examples.asp_1.png

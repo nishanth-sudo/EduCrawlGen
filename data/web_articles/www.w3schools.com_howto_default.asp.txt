@@ -1,0 +1,125 @@
+HOW TO
+Menus
+Images
+Buttons
+Forms
+Filters
+Tables
+More
+Website
+Grid
+Google
+Converters
+Blog
+W3SchoolsHow To
+Code snippets for HTML, CSS and JavaScript.
+Slideshow
+Learn How To »
+Login Form
+Learn How To »
+Accordion
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Learn How To »
+Hover Dropdowns
+Learn How To »
+Click Dropdowns
+Learn How To »
+Side Navigation
+Learn How To »
+Fixed Sidebar
+Learn How To »
+Modal Box
+Modal Header
+Hello World!
+Modals are awesome!
+Go Back ToW3 How TOExamples
+Learn How To »
+Modal Image
+Learn How To »
+Lightbox
+Learn How To »
+Slideshow Gallery
+Learn How To »
+Image Hover Overlay
+Learn How To »
+Tabs
+London
+Paris
+Tokyo
+London
+London is the capital city of England.
+Paris
+Paris is the capital of France.
+Tokyo
+Tokyo is the capital of Japan.
+Learn How To »
+Vertical Tabs
+Learn How To »
+Tab Image Gallery
+Learn How To »
+Alert Buttons
+Learn How To »
+Outline Buttons
+Learn How To »
+Top Navigation
+Learn How To »
+Responsive Top Navigation
+Resize the browser window to see the effect:
+Learn How To »
+Fullscreen Navigation
+Learn How To »
+Login Form in Navbar
+Learn How To »
+Change Background on Scroll
+Learn How To »
+Ever heard aboutW3Schools Spaces? Here you can create your own website, or save your favorite code snippets.
+* no credit card required
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_howto_default.asp_0.jpg
+www.w3schools.com_howto_default.asp_1.jpg
+www.w3schools.com_howto_default.asp_2.jpg
+www.w3schools.com_howto_default.asp_3.jpg
+www.w3schools.com_howto_default.asp_4.png
+www.w3schools.com_howto_default.asp_5.jpg
+www.w3schools.com_howto_default.asp_6.jpg
+www.w3schools.com_howto_default.asp_7.jpg
+www.w3schools.com_howto_default.asp_8.jpg
+www.w3schools.com_howto_default.asp_9.jpg
+www.w3schools.com_howto_default.asp_10.jpg
+www.w3schools.com_howto_default.asp_11.jpg
+www.w3schools.com_howto_default.asp_12.jpg
+www.w3schools.com_howto_default.asp_13.jpg
+www.w3schools.com_howto_default.asp_14.jpg
+www.w3schools.com_howto_default.asp_15.jpg
+www.w3schools.com_howto_default.asp_16.jpg
+www.w3schools.com_howto_default.asp_17.jpg
+www.w3schools.com_howto_default.asp_18.jpg
+www.w3schools.com_howto_default.asp_19.jpg
+www.w3schools.com_howto_default.asp_20.jpg
+www.w3schools.com_howto_default.asp_21.jpg
+www.w3schools.com_howto_default.asp_22.jpg
+www.w3schools.com_howto_default.asp_23.jpg
+www.w3schools.com_howto_default.asp_24.jpg
+www.w3schools.com_howto_default.asp_25.jpg
+www.w3schools.com_howto_default.asp_26.jpg
+www.w3schools.com_howto_default.asp_27.png
+www.w3schools.com_howto_default.asp_28.jpg
+www.w3schools.com_howto_default.asp_29.jpg
+www.w3schools.com_howto_default.asp_30.jpg
+www.w3schools.com_howto_default.asp_31.jpg
+www.w3schools.com_howto_default.asp_32.jpg
+www.w3schools.com_howto_default.asp_33.jpg
+www.w3schools.com_howto_default.asp_34.png
+www.w3schools.com_howto_default.asp_35.png

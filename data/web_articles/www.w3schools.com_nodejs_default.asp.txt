@@ -1,0 +1,47 @@
+Node.jsTutorial
+Node.jsMySQL
+Node.jsMongoDB
+RaspberryPi
+Node.jsReference
+Node.jsEditor
+Node.jsTutorial
+Learn Node.js
+Node.js is an open source server environment.
+Node.js allows you to run JavaScript on the server.
+Learning by Examples
+Our "Show Node.js" tool makes it easy to learn Node.js, it shows both the 
+code and the result.
+Example
+Click on the "Run example" button to see how it works.
+Examples Running in the Command Line Interface
+In this tutorial there will be some examples that are better explained by displaying the result in the 
+command line interface.
+When this happens, The "Show Node.js" tool will show the result in a black screen on the right:
+Example
+Click on the "Run example" button to see how it works.
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+Node.js Reference
+Node.js has a set of built-in modules.
+Built-in Modules
+Download Node.js
+Download Node.js from the official Node.js web site:https://nodejs.org
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_nodejs_default.asp_0.png
+www.w3schools.com_nodejs_default.asp_1.png

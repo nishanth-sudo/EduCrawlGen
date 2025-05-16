@@ -1,0 +1,87 @@
+PHPTutorial
+PHPForms
+PHPAdvanced
+PHPOOP
+MySQLDatabase
+PHPXML
+PHP- AJAX
+PHPExamples
+PHPReference
+PHPExamples
+PHP Syntax
+Syntax explained
+PHP Comments
+Comments explained
+PHP Variables
+Variables explained
+PHP Echo and Print
+Echo and Print explained
+PHP Data Types
+Data Types explained
+PHP Strings
+Strings explained
+PHP Numbers
+Numbers explained
+PHP Math
+Math explained
+PHP Constants
+Constants explained
+PHP Operators
+Operators explained
+PHP If...Else and Switch Statements
+Conditions explained
+PHP While and For Loops
+Loops explained
+PHP Functions
+Functions explained
+PHP Arrays
+Arrays explained
+PHP Multidimensional Arrays
+Multidimensional Arrays explained
+PHP Sorting Arrays
+Sorting Arrays explained
+PHP Superglobals
+Superglobals explained
+PHP Regular Expressions
+Regular Expressions explained
+PHP Form Validation
+Form Validation explained
+PHP Date and Time
+Date and Time explained
+PHP Include Files
+Include Files explained
+PHP File Handling
+File Handling explained
+PHP File Open/Read/Close
+File Open/Read/Close explained
+PHP Cookies
+Cookies explained
+PHP Sessions
+Sessions explained
+PHP Filters
+Filters explained
+PHP JSON
+PHP JSON explained
+PHP Exceptions
+PHP Exceptions explained
+PHP Classes/Objects
+PHP OOP (Classes/Objects) explained
+PHP Select Data From MySQL
+Select Data From MySQL explained
+PHP SimpleXML Parser
+SimpleXML Parser explained
+PHP XML Expat Parser
+XML Expat Parser explained
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_php_php_examples.asp_0.png
+www.w3schools.com_php_php_examples.asp_1.png

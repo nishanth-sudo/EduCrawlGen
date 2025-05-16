@@ -1,0 +1,19 @@
+Bootstrap Versions
+Bootstrap is the world's most famous free CSS framework.You can choose between the following versions:
+B3
+Learn Bootstrap 3 »
+Bootstrap 3 is the most stable version of Bootstrap, and it is still supported by the team for critical bugfixes and documentation changes.
+B4
+Learn Bootstrap 4 »
+Bootstrap 4 is a newer version of Bootstrap; with new components, faster stylesheet and more responsiveness. However, Internet Explorer 9 and down is not supported.
+B5
+Learn Bootstrap 5 »
+Bootstrap 5 is thenewestversion of Bootstrap; with a smooth overhaul. However, Internet Explorer 11 and down is not supported, and jQuery is replaced with vanilla JavaScript.
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified

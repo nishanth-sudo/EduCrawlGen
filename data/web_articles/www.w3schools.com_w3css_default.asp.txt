@@ -1,0 +1,72 @@
+W3.CSS
+W3.CSS Colors
+Web Building
+Examples
+References
+W3.CSSTutorial
+W3.CSS is a CSS framework for developing websites and web apps.
+It provides equality for all browsers (Chrome, Edge, Firefox, Safari, Opera) on all devices
+(Desktop, Laptop, Tablet, Mobile).
+W3.CSS is free, open source, and uses standard CSS only (no JavaScript).
+Note
+w3-gridandw3-flexis new inW3.CSS 5.0.
+w3-grid vs w3-flex
+w3-gridis for two-dimensional layout, with rows AND columns.
+w3-flexis for one-dimensional layout, with rows OR columns.
+Example
+A Quality Alternative to Bootstrap
+W3.CSSis a modern CSS framework developed by theW3Schoolsteam.
+It's similar to Bootstrap when it comes to build responsive, mobile-friendly websites,
+but it is lighter, simpler, and faster, and does not rely on JavaScript or external libraries like jQuery.
+"Make it as simple as possible, but not simpler."Albert Einstein
+How To Use W3.CSS
+To use W3.CSS in your web site, just add a link tow3.cssfrom your web pages:
+Example
+Or download w3.css from:
+https://www.w3schools.com/w3css/5/w3.css
+and add a local link to your downloaded w3.css file:
+Example
+W3.CSS Crash Course
+How to create web page
+that looks nice on all devices (desktop, laptop, tablet, and phone).
+Start the Crash Course » » »
+W3.CSS Web Site Templates
+We have created 50 responsive W3CSS templates for you to use.
+You are free to modify, save, share, use or do whatever you want with them:
+Catering Template
+See Demo »Portfolio TemplateSee Demo »Architect TemplateSee Demo »Cafe TemplateSee Demo »Wedding TemplateSee Demo »House Design TemplateSee Demo »Food TemplateSee Demo »See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+Portfolio Template
+See Demo »Architect TemplateSee Demo »Cafe TemplateSee Demo »Wedding TemplateSee Demo »House Design TemplateSee Demo »Food TemplateSee Demo »See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+Architect Template
+See Demo »Cafe TemplateSee Demo »Wedding TemplateSee Demo »House Design TemplateSee Demo »Food TemplateSee Demo »See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+Cafe Template
+See Demo »Wedding TemplateSee Demo »House Design TemplateSee Demo »Food TemplateSee Demo »See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+Wedding Template
+See Demo »House Design TemplateSee Demo »Food TemplateSee Demo »See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+House Design Template
+See Demo »Food TemplateSee Demo »See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+Food Template
+See Demo »See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+See All Templates »❮ PreviousNext ❯★+1Track your progress - it's free!Log inSign Up
+See All Templates »
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_w3css_default.asp_0.jpg
+www.w3schools.com_w3css_default.asp_1.jpg
+www.w3schools.com_w3css_default.asp_2.jpg
+www.w3schools.com_w3css_default.asp_3.jpg
+www.w3schools.com_w3css_default.asp_4.jpg
+www.w3schools.com_w3css_default.asp_5.jpg
+www.w3schools.com_w3css_default.asp_6.jpg
+www.w3schools.com_w3css_default.asp_7.jpg
+www.w3schools.com_w3css_default.asp_8.png
+www.w3schools.com_w3css_default.asp_9.png

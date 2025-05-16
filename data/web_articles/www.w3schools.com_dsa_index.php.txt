@@ -1,0 +1,85 @@
+DSATutorial
+Arrays
+Linked Lists
+Stacks & Queues
+Hash Tables
+Trees
+Graphs
+Shortest Path
+Minimum Spanning Tree
+Maximum Flow
+TimeComplexity
+DSA Reference
+DSA Examples
+DSATutorial
+Learn Data Structures and Algorithms
+Data Structures and Algorithms (DSA) is a fundamental part of Computer Science that teaches you how to think and solve complex problems systematically.
+Using the right data structure and algorithm makes your program run faster, especially when working with lots of data.
+Knowing DSA can help you perform better in job interviews and land great jobs in tech companies.
+This Tutorial
+This tutorial is made to help you learn Data Structures and Algorithms (DSA)  fast and easy.
+Animations, like the one below, are used to explain ideas along the way.
+{{ resultText }}: {{ currVal }}
+First, you will learn the fundamentals of DSA: understanding different data structures, basic algorithm concepts, and how they are used in programming.
+Then, you will learn more about complex data structures like trees and graphs, study advanced sorting and searching algorithms, explore concepts like time complexity, and more.
+This tutorial will give you a solid foundation in Data Structures and Algorithms, an essential skill for any software developer.
+Try it Yourself Examples in Every Chapter
+In every chapter, you can edit the examples online, and click on a button to view the result.
+The code examples in this tutorial are written in Python, C, and Java. You can see this by clicking the "Run Example" button.
+Example
+my_array = [7, 12, 9, 4, 11]
+minVal = my_array[0]
+
+for i in my_array:
+    if i < minVal:
+        minVal = i
+
+print('Lowest value:',minVal)
+my_array = [7, 12, 9, 4, 11]
+minVal = my_array[0]
+
+for i in my_array:
+    if i < minVal:
+        minVal = i
+
+print('Lowest value:',minVal)
+What You Should Already Know
+Although Data Structures and Algorithms is actually not specific to any programming language, you should have a basic understanding of programming in one of these common programming languages:
+Python
+C
+C++
+Java
+JavaScript
+DSA History
+The word 'algorithm' comes from 'al-Khwarizmi', named after a Persian scholar who lived around year 800.
+The concept of algorithmic problem-solving can be traced back to ancient times, long before the invention of computers.
+The study of Data Structures and Algorithms really took off with the invention of computers in the 1940s, to efficiently manage and process data.
+Today, DSA is a key part of Computer Science education and professional programming, helping us to create faster and more powerful software.
+DSA Exercises
+DSA Quiz ?
+Learn by taking a quiz! The quiz will give you a signal of how much you know about Data Structures and Algorithms.
+Start DSA Quiz
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+Learn by Examples
+Learn by examples! This tutorial supplements all explanations with clarifying examples.
+See All DSA Examples
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_dsa_index.php_0.png
+www.w3schools.com_dsa_index.php_1.png

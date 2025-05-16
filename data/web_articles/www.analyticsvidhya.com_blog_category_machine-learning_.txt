@@ -1,0 +1,377 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+More articles in Machine Learning
+By Popular
+By Latest
+AdvancedReinforcement LearningA Guide to Reinforcement FinetuningDelve into reinforcement finetuning and discover how it teaches AI systems to respond accurately through interaction and rewards.Riya Bansal.28 Apr, 2025
+A Guide to Reinforcement Finetuning
+Delve into reinforcement finetuning and discover how it teaches AI systems to respond accurately through interaction and rewards.
+AdvancedData CleaningMachine LearningHow to Perform Data Preprocessing Using Cleanlab?Learn how to use Cleanlab for efficient data preprocessing in machine learning by detecting & fixing label issues, outliers & noisy samples.Vipin Vashisth23 Apr, 2025
+How to Perform Data Preprocessing Using Cleanlab?
+Learn how to use Cleanlab for efficient data preprocessing in machine learning by detecting & fixing label issues, outliers & noisy samples.
+Artificial IntelligenceIntermediateMachine LearningNLPWord Embeddings14 Powerful Techniques Defining the Evolution of EmbeddingExplore the evolution of embeddings from simple word counts to advanced semantic vectors in AI and machine learning.Shaik Hamzah21 Apr, 2025
+14 Powerful Techniques Defining the Evolution of Embedding
+Explore the evolution of embeddings from simple word counts to advanced semantic vectors in AI and machine learning.
+AdvancedDeep LearningMachine LearningBuilding TensorFlow Pipelines with Vertex AILearn how TensorFlow Pipelines can optimize your machine learning tasks and improve development efficiency.Krishnaveni Ponna25 Mar, 2025
+Building TensorFlow Pipelines with Vertex AI
+Learn how TensorFlow Pipelines can optimize your machine learning tasks and improve development efficiency.
+AdvancedArtificial IntelligenceGuideMachine LearningRay: Your Gateway to Scalable AI and Machine Learning ApplicationsDiscover how Ray enables scalable AI and machine learning workloads with efficient parallel computing and distributed execution.Krishnaveni Ponna25 Mar, 2025
+Ray: Your Gateway to Scalable AI and Machine Learning Applications
+Discover how Ray enables scalable AI and machine learning workloads with efficient parallel computing and distributed execution.
+AdvancedGuideMachine LearningGuide to Uber’s H3 for Spatial IndexingExplore Uber's H3 Spatial Indexing, a powerful hexagonal grid system for efficient geospatial analysis and location-based insights.Kabyik Kayal20 Mar, 2025
+Guide to Uber’s H3 for Spatial Indexing
+Explore Uber's H3 Spatial Indexing, a powerful hexagonal grid system for efficient geospatial analysis and location-based insights.
+AdvancedMachine LearningRecommendationHow to Build an Anime Recommendation System with Hugging Face?Build a anime recommendation system with machine learning, collaborative & content-based filtering, and deploy it on Hugging Face.Krishnaveni Ponna17 Feb, 2025
+How to Build an Anime Recommendation System with Hugging Face?
+Build a anime recommendation system with machine learning, collaborative & content-based filtering, and deploy it on Hugging Face.
+AdvancedAWSGuideMachine LearningMLopsMachine Predictive Maintenance with MLOps – Deployed on AWSEnhance efficiency with Machine Predictive Maintenance—reduce downtime, optimize performance, and prevent failures using AI-driven insights.Karthik Ponna20 Mar, 2025
+Machine Predictive Maintenance with MLOps – Deployed on AWS
+Enhance efficiency with Machine Predictive Maintenance—reduce downtime, optimize performance, and prevent failures using AI-driven insights.
+AdvancedMachine LearningNLPWhat is Beam Search in NLP Decoding?Explore Beam Search in NLP decoding and how it refines text generation by balancing exploration and accuracy.Neha Dwivedi30 Jan, 2025
+What is Beam Search in NLP Decoding?
+Explore Beam Search in NLP decoding and how it refines text generation by balancing exploration and accuracy.
+AdvancedMachine LearningMLopsUnderstanding MLOps With ZenML ProjectLearn MLOps with Zenml! Build an end-to-end Zenml project for CLTV prediction, from pipelines to deployment. Read Now!Kabyik Kayal25 Apr, 2025
+Understanding MLOps With ZenML Project
+Learn MLOps with Zenml! Build an end-to-end Zenml project for CLTV prediction, from pipelines to deployment. Read Now!
+Machine Learning
+“Welcome to our Machine Learning section! Here, we explain AI and algorithms in easy terms. Learn practical uses and stay updated with trends. See how machines learn, predict, and do tasks better. Discover the magic of smart systems!”
+Artificial intelligencehas a subfield called machine learning. Computers can learn from data without explicit programming thanks to it. Data is used by algorithms to find patterns. These trends support judgments and forecasts. Models get better with time as more data is fed into them. Numerous industries, including marketing, banking, and healthcare, heavily rely on machine learning.
+What is Machine Learning?
+Machine learning is a field of study that gives computers the ability to learn without being explicitly programmed. In a machine learning-based system, instead of a human, a machine learning algorithm looks at the data and comes out with the rules of making predictions.
+Beginner Guide to Basic Machine Learning: Concepts and Techniques
+Why Should One Learn Machine Learning?
+Machine learning algorithms can analyze large amounts of data faster than humans, especially for large datasets where it may not even be possible for humans to analyze the data and come out with rules. ML algorithms never get tired and don’t have personal biases on the data. It provides a set of benefits such as working with bigger data sets, learning patterns without preset rules and reducing the variability in predictions over several applications like text processing, image recognition or tax fraud detection.
+Potential Career Path: Data scientists and ML engineers are in high demand across several sectors including tech, health care, finance.
+Problem Solving: ML can automate difficult processes and decide through data which method will work best so that it is better to solve problems in a much faster way than ever with conventional techniques.
+Technological Developments: Machine learning (ML) is the engine driving automation, robots, and AI. It is essential to the self-driving car, smart assistant, and tailored medication industries.
+Future-Proof Skills: As AI and data science advance, ML skills will help people remain employable.
+Use Cases of Machine Learning
+Machine learning has a lot of applications in many industries which encourages innovation and enhances decision-making such as :
+Healthcare
+Healthcare, includingdisease predictionand personalized treatment as well asmedical imagery analysisanddrug discovery.
+Use of ML in HealthCare: Predictive Analytics and Diagnosis
+Application of Machine Learning in Medical Domain!
+Machine Learning & AI for Healthcare in 2024
+Finance
+In finance:fraud detection,stock price forecasting,automated tradingagents, and risk assessment.
+Applications of AI in Banking and Finance
+Application of Data Science in the World of FinTech
+Retail
+For retail companies: product recommendations to customers, inventory management as well as dynamic pricing strategies.
+Data Science Use Cases in Retail Industry
+Marketing
+In marketing forcustomer segmentationalong withsentiment analysisand targeted advertising.
+10 Ways to Use Machine Learning for Marketing in 2024
+Applications of Machine Learning in Marketing in 2024
+Manufacturing
+In manufacturing for predictive maintenance plus quality control applications andsupply chain optimization.
+What is AI in Manufacturing? [Explore 10 Use Cases]
+Cybersecurity
+In cybersecurity for threat detection alongside anomaly detection and malware research.
+AI in Cybersecurity: What You Need to Know
+Popular Machine Learning Applications and Use Cases in our Daily Life
+ML Lifecycle
+The lifecycle of machine learning involves several stages, from data collection to model deployment:
+There are various phases in the machine learning lifecycle, from gathering data to deploying models:
+Data collection: It is the process of compiling pertinent, superior data from many sources.
+Data Preparation: In this process we clean, convert and prepare data into a format suitable for analysis.
+Model selection : Choosing from the various models (e.g., decision trees, neural networks) based on the problem type
+Training -Model is fed with data and the parameters of it are adjusted to reduce prediction error
+Evaluation: Checking the model’s accuracy, precision, and recall by running it on a test dataset.
+Tuning : Adjusting hyperparameters to enhance the model’s functionality is known as tuning.
+Deployment: Putting the model into practice in actual systems or applications.
+Monitoring: Checking the model’s performance and updating it as new data becomes available.
+Also Read:Machine Learning Life Cycle Explained!
+How to Build a Career in Machine Learning?
+Have you ever wanted to make your own Max? Discover how to transform your interest in machine learning into a fulfilling profession. Gaining technical expertise, real-world experience, and a thorough understanding of algorithms, mathematics, and data processing are all necessary for pursuing a career in machine learning (ML). The steps to starting an ML career are listed below:
+Learn the basics of Programming:It’s important to know programming languages like Python or R
+Understand Mathematics and statistics:Probability , calculus, statistics , linear algebra are required.
+Study about machine learning:The fundamentals like supervised and unsupervised, reinforcement learning are some of the techniques which should be known but apart from this deep learning, neural networks, decision trees.
+Practice hands on with real world dataset:Create your own projects on kaggle and collect some datasets from Machine Learning Repository( here you can access free datasets)
+Learn Machine learning Libraries :Libraries like TensorFlow,Scikit-learn, Keras and PyTorch should be learned.
+Keep Up with Industry Trends:Stay informed about the latest trends which is happening in the field of machine learning and keep yourself updated about it by reading the latest research paper
+Create  Personal Projects:Create your projects and upload all of them on github this can highlight your problem solving skills and also your ability to work with real life dataset
+Go for Certifications:To improve your knowledge take courses from various platforms such as analytics vidhya, coursera and udmey.
+How Can You Build a Career in Data Science and Machine Learning?
+Career in Machine Learning and Data Science
+Who Can Transition into Machine Learning?
+Positive updates! People from different backgrounds are welcome at ML. Whether you’re a statistician, domain expert, or programmer, learn how your abilities can be your pass to the world of machine learning.
+Engineers and developers: The ML frameworks and algorithms are simple to learn for those with coding experience.
+Also Read:
+Career Transition From Software Developer to Data Scientist
+Data Science vs Software Engineer: Which is a Better Career?
+Scientists and data analysts:By mastering more sophisticated models and methods, experts in statistical analysis and data processing can make the move to machine learning.
+Mathematicians and statisticians:Those having a solid background in these subjects are well-suited to create and improve machine learning models.
+Also Read:How can a Statistician Become a Data Scientist?
+Researchers and Academics:People with skills in computer science , engineering and related fields can go into machine learning by taking special trainings on ML
+Skills Required
+To be a ML engineer or Data Scientist one should have a blend of technical and soft skills that will help you to excel in this field.
+Programming: Proficient in eitherRorPython.
+Mathematics and Statistics:Probability,Statistical modelling, Calculus,Linear Algebra
+Machine Learning Concepts: Like K-Nearest Neighbors (KNN), Neural Networks, Decision Trees and Linear regression are known as Machine Learning.
+Data processing: This involves skills such as Data cleaning ,transformation,and preparation
+Tools and Frameworks: Quite a number of machine learning packages which includePyTorch,Scikit-learn,TensorFlow,Keras.
+Also Read:TensorFlow vs Keras: Which is a Better Framework?
+Problem-Solving: The candidate should have the ability to address complex problems by breaking them into smaller, solvable tasks and how to apply domain knowledge in coming up with solutions which are driven by data.
+Domain Knowledge: The right application of machine learning through the solving of industry-specific problems.
+Also Read:10 Must Have Machine Learning Engineer Skills in 2024
+Learning Path for Machine Learning
+Mathematics Foundations:
+Learn basic linear algebra: vectors, matrices, and operations.
+Understand calculus: derivatives and gradients.
+Study probability and statistics for data analysis.
+Programming Skills:
+Master Python for data handling, using libraries like NumPy and Pandas.
+Practice coding machine learning algorithms from scratch.
+Data Preprocessing:
+Learn how to clean and preprocess datasets.
+Handle missing data, outliers, and normalization.
+Supervised Learning:
+Study basic algorithms like Linear Regression and Logistic Regression.
+Understand decision trees, SVM, and k-NN.
+Learn about evaluation metrics like accuracy, precision, recall.
+Unsupervised Learning:
+Understand clustering algorithms like K-means and hierarchical clustering.
+Study dimensionality reduction techniques like PCA.
+Feature Engineering:
+Practice creating new features from raw data.
+Learn techniques for handling categorical data, outliers, and feature selection.
+Model Selection & Hyperparameter Tuning:
+Learn techniques like cross-validation and grid search.
+Study regularization methods like L1 and L2.
+Deep Learning:
+Understand neural networks and backpropagation.
+Practice building models using frameworks like TensorFlow or PyTorch.
+Model Deployment:
+Learn how to deploy models using Flask or FastAPI.
+Study cloud services for scaling and serving models, like AWS or Azure.
+Practice on Projects:
+Work on real-world projects using datasets from Kaggle or UCI.
+Focus on model interpretability and optimization.
+Also Read:Learning Path : Your mentor to become a machine learning expert
+Career Options in Machine Learning
+Data Scientist:Analyze data to build predictive models.Work on data cleaning, feature engineering, and model evaluation.
+Analyze data to build predictive models.
+Work on data cleaning, feature engineering, and model evaluation.
+Machine Learning Engineer:Build and deploy machine learning models in production systems.Optimize model performance and scalability.
+Build and deploy machine learning models in production systems.
+Optimize model performance and scalability.
+AI Researcher:Conduct research to develop new machine learning algorithms.Publish findings and contribute to scientific advancements.
+Conduct research to develop new machine learning algorithms.
+Publish findings and contribute to scientific advancements.
+Data Engineer:Design and manage large-scale data pipelines.Ensure smooth data flow for machine learning projects.
+Design and manage large-scale data pipelines.
+Ensure smooth data flow for machine learning projects.
+Business Intelligence Analyst:Use machine learning to derive insights from business data.Assist in decision-making using predictive analytics.
+Use machine learning to derive insights from business data.
+Assist in decision-making using predictive analytics.
+Natural Language Processing (NLP) Engineer:Build models to process and analyze human language.Work on tasks like text classification and machine translation.
+Build models to process and analyze human language.
+Work on tasks like text classification and machine translation.
+Computer Vision Engineer:Develop models for image and video recognition.Focus on applications like autonomous driving or medical imaging.
+Develop models for image and video recognition.
+Focus on applications like autonomous driving or medical imaging.
+Robotics Engineer:Apply machine learning to control autonomous robots.Work on decision-making, perception, and motion planning.
+Apply machine learning to control autonomous robots.
+Work on decision-making, perception, and motion planning.
+AI Consultant:Provide machine learning solutions to businesses.Help companies implement AI to improve operations.
+Provide machine learning solutions to businesses.
+Help companies implement AI to improve operations.
+Quantitative Analyst:Use machine learning models in finance.Focus on tasks like stock predictions and risk management.
+Use machine learning models in finance.
+Focus on tasks like stock predictions and risk management.
+Salary Trends in Machine Learning
+Machine learning professionals may be paid in a range from $3000 to $150000 per year depending on their role, experience and location
+Entry-Level: $1,65,319 annually.
+Mid-Level (2-5 years of experience): $1,66,399 annually.
+Senior-Level (5+ years of experience): $2,32,002 annually
+Also Read:Machine Learning Engineer Salary in India and Abroad
+Types of Machine Learning
+There are two types of machine learning :
+Supervised Learning:
+The model is trained with labeled data in supervised learning, which means that the input data is matched with the appropriate output. Learning a mapping from inputs to outputs using the labeled training data is the aim. By generalizing from the training data, the model generates predictions on fresh, unseen data. Examples include regression problems (like predicting housing prices) and classification tasks (like spam detection).
+Algorithms
+Linear Regression
+Decision Trees
+Support Vector Machines (SVMs)
+k-nearest Neighbors (KNN)
+Random Forests.
+Unsupervised Learning:
+Unsupervised learning works with unlabeled data, which means that the model must independently identify patterns or structures in the incoming data. Often, the objective is to minimize the dimensionality of the data for simpler analysis, or to group or cluster related data points.
+Examples: clustering (e.g., customer segmentation), and dimensionality reduction (e.g., Principal Component Analysis—PCA).
+Algorithms:
+K-means Clustering
+Hierarchical Clustering
+PCA
+t-SNE
+Also Read:
+Supervised Learning And Unsupervised Machine Learning
+Understanding Supervised and Unsupervised Learning
+ML vs DL vs AI vs GenAI
+Confused by the alphabet soup of tech terms? Clear up the differences between Machine Learning, Deep Learning, Artificial Intelligence, and Generative AI.
+Term
+Definition
+Key Characteristics
+Examples
+AI
+Broad field of simulating human intelligence.
+Encompasses all intelligent behavior simulation techniques.
+Virtual assistants, chatbots
+ML
+Subset of AI focused on learning from data.
+Uses data to improve algorithm performance over time.
+Spam filters, recommendation systems
+DL
+Subset of ML using neural networks with many layers.
+Excels in handling large datasets and complex tasks.
+Image recognition, speech recognition
+GenAI
+Subset of AI that generates new content.
+Creates new content based on learned patterns.
+GPT (text), DALL-E (images)
+Common Machine Learning Algorithms
+Now let’s see some commonly used machine learning algorithms
+Linear Regressionis used to predict a continuous target variable. It does this by fitting a linear relationship between the input features and the output.
+Logistic Regressionis used for binary classification problems.
+Decision Treesare a tree-based model. Decisions in this model are made based on feature splits.
+TheRandom Forestis an ensemble of decision trees. It is used to improve accuracy and help prevent overfitting.
+Support Vector Machines (SVM)classifies data by finding the optimal hyperplane that separates classes of data points with the largest margin in between them that can be achieved.
+k-Nearest Neighbors (KNN):Classifying data points. It does this based on how close they are to their neighbors.
+K-means Clustering:Partitioning data (unsupervised) into clusters. This is based on the similarity of features.
+Principal Component Analysis (PCA): It tackles the reduction of large datasets to a lower dimension. Here, it also retains most variability present in the data.
+Also Read:
+Machine Learning Algorithms
+Top 10 Machine Learning Algorithms to Use in 2024
+7 Regression Techniques You Should Know!
+Common Programming Languages for Building ML Models
+These are the some commonly used programing languages
+Python: The most widely used language for ML, thanks to its simplicity and vast ecosystem of libraries (e.g., NumPy, Pandas, TensorFlow).
+R: Popular among statisticians and for data analysis; good for exploratory data analysis and statistical models.
+Java: Often used in enterprise applications for ML due to its scalability and performance.
+Julia: Known for its speed and efficiency in handling large datasets, gaining popularity in scientific computing.
+MATLAB: Commonly used in academia for data analysis and ML algorithm development.
+Common Libraries in Machine Learning
+NumPy: Fundamental package for scientific computing in Python.
+Pandas: Data manipulation and analysis library.
+Scikit-learn: Machine learning library for classical algorithms.
+TensorFlow: Open-source platform for machine learning and deep learning.
+PyTorch: Deep learning framework with dynamic computation graphs.
+Keras: High-level neural networks API, now part of TensorFlow.
+SciPy: Library for scientific and technical computing.
+Matplotlib: Plotting library for creating static, animated, and interactive visualizations.
+Seaborn: Statistical data visualization based on matplotlib.
+XGBoost: Optimized gradient boosting library.
+Projects in Machine Learning
+These are some projects which one should make in ML
+Beginner Projects:
+House Price Prediction: Predict prices using regression.
+Iris Flower Classification: Classify flowers using KNN.
+Titanic Survival Prediction: Predict survival using classification.
+Intermediate Projects:
+Spam Detection: Classify emails as spam using Naive Bayes.
+Customer Segmentation: Cluster customers by behavior.
+Handwritten Digit Recognition: Identify digits with neural networks.
+Advanced Projects:
+Image Classification: Use CNN to classify complex images.
+Sentiment Analysis: Analyze text for positive or negative sentiment.
+Recommendation System: Build a system based on user preferences.
+Also Read:
+Top 25 Machine Learning Projects for Beginners in 2024
+Top 10 GitHub Data Science projects and Machine Learning Projects
+Machine Learning Books / ebooks
+Books have always been an essential and reliable resource for learning complex subjects, including machine learning (ML). They offer structured knowledge, detailed explanations, and a foundational understanding of theories, algorithms, and concepts that form the backbone of ML.
+Machine Learning: A Bayesian and Optimization Perspective by Sergios Theodoridis
+Hands-On Machine Learning with Scikit-Learn & TensorFlow by Aurélien Géron
+Python Data Science Handbook: Essential Tools for Working with Data
+Machine Learning Yearning by Andrew NG
+The Hundred-Page Machine Learning Book by Andriy Burkov
+Machine Learning for Hackers by Drew Conway and John Myles White
+Machine Learning by Tom M Mitchell
+Applied Math and Machine Learning Basics by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+Also Read:
+30 Best Data Science Books to Read in 2024
+Best AI Books on Machine Learning Artificial Intelligence
+Top 12 Books For Data Science to Read in 2024
+50+ Machine Learning Resources for Self Study in 2024
+Free Courses for Learning Machine Learning
+In this technological age, ML is impacting industries worldwide, and acquiring the necessary skills is essential. Employers increasingly look for candidates who have taken reputable courses as they offer a form of validation for technical knowledge and proficiency. These courses often include hands-on projects, quizzes, and certifications, making them valuable for skill-building and career advancement.
+Harvard’s CS50’s Introduction to Artificial Intelligence with Python
+Stanford CS229: Machine Learning
+MIT’s Introduction to Machine Learning Course
+Harvard’s Course on Data Science: Machine Learning
+Machine Learning Mastery: A Classical Approach with Scikit-learn
+Crafting Custom Machine Learning Models
+Introduction to AI & ML by Analytics Vidhya
+6 Free University Courses to Learn Machine Learning
+8 Microsoft Free Courses- Machine Learning, AI, Data Science & More
+Youtube Channels/ Influencers
+YouTube channels and influencers dedicated to machine learning are a fantastic resource for learners who benefit from visual explanations. These channels break down complex concepts into bite-sized, digestible content, making it easier for beginners and intermediates to grasp key topics.
+Grant Sanderson, an AI YouTuber
+Joma Tech
+Analytics Vidhya
+Sentdex
+Corey Schafer
+Brandon Foltz
+Data Science Dojo
+Abhishek Thakur
+Also Read:
+Top 10 Data Science Youtube Channels to Follow in 2024
+Top 15 AI YouTubers to Follow in 2024
+ML Interview Questions
+Preparing for a machine learning interview can be daunting, as the field covers many topics, from algorithms and statistics to deep learning and applied problem-solving. Having a list of frequently asked interview questions with answers can significantly reduce a candidate’s anxiety and improve their confidence.
+What is the difference between Parametric and non-parametric ML algorithms?
+What is the difference between feature selection and extraction?
+What are the 5 assumptions for linear regression?
+What are some of the techniques to avoid overfitting?
+What is the difference between Sigmoid and Softmax ?
+What is the difference between K-means and hierarchical clustering and when to use what?
+What is the difference between Supervised and Unsupervised learning?
+Why is the harmonic mean calculated in the f1 score and not the mean?
+What is the difference between catboost and XGboost?
+Why is SVM called a large margin classifier?
+What is the difference between False positive and False Negative? Give a scenario where a False positive is more important than a False Negative and vice-versa.
+What is online machine learning? How is it different from offline ML? List some of its applications.
+Also Read:
+Top 20 Most Asked Machine Learning Interview Questions
+Top 100 Data Science Interview Questions & Answers 2024
+Frequently Asked Questions
+What is machine learning?Machine learning is a branch of artificial intelligence (AI) where computers learn from data to make predictions or decisions without being explicitly programmed.
+What is overfitting in machine learning?Overfitting occurs when a model performs well on training data but poorly on unseen data due to learning noise or irrelevant patterns from the training data.
+What are the types of machine learning?There are three main types of machine learning: Supervised Learning, where models learn from labeled data; Unsupervised Learning, where models identify patterns in unlabeled data; and Reinforcement Learning, where models learn by interacting with their environment and receiving rewards or penalties.
+What is underfitting in machine learning?Underfitting happens when a model is too simple and cannot capture the underlying patterns in the data, leading to poor performance on both training and test data.
+What is a training set and a test set?The training set is the portion of data used to train the model, while the test set is the portion of data used to evaluate the model’s performance on unseen data.
+Trending articles
+AdvancedMachine LearningTop 10 Machine Learning Algorithms in 2025Sunil Ray28 Apr, 2025
+AdvancedMachine LearningNaive Bayes Classifier Explained With Practical ProblemsSunil Ray01 May, 2025
+AdvancedMachine LearningA Complete Python Tutorial to Learn Data Science from ScratchKunal Jain04 Apr, 2025
+AdvancedMachine LearningLearn How to Use Support Vector Machines (SVM) for Data ScienceSunil Ray01 May, 2025
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+www.analyticsvidhya.com_blog_category_machine-learning__0.webp
+www.analyticsvidhya.com_blog_category_machine-learning__1.webp
+www.analyticsvidhya.com_blog_category_machine-learning__2.webp
+www.analyticsvidhya.com_blog_category_machine-learning__3.webp
+www.analyticsvidhya.com_blog_category_machine-learning__4.webp
+www.analyticsvidhya.com_blog_category_machine-learning__5.webp
+www.analyticsvidhya.com_blog_category_machine-learning__6.webp
+www.analyticsvidhya.com_blog_category_machine-learning__7.webp
+www.analyticsvidhya.com_blog_category_machine-learning__8.webp
+www.analyticsvidhya.com_blog_category_machine-learning__9.webp
+www.analyticsvidhya.com_blog_category_machine-learning__10.webp

@@ -1,0 +1,217 @@
+Data Science IBM Certification
+Data Science
+Data Science Projects
+Data Analysis
+Data Visualization
+Machine Learning
+ML Projects
+Deep Learning
+NLP
+Computer Vision
+Artificial Intelligence
+Explore GfG Courses
+Share Your Experiences
+Deep Learning Tutorial
+Introduction to Deep Learning
+Introduction to Deep Learning
+Difference Between Artificial Intelligence vs Machine Learning vs Deep Learning
+Basic Neural Network
+Difference between ANN and BNN
+Single Layer Perceptron in TensorFlow
+Multi-Layer Perceptron Learning in Tensorflow
+Deep Neural net with forward and back propagation from scratch - Python
+Understanding Multi-Layer Feed Forward Networks
+List of Deep Learning Layers
+Activation Functions
+Activation Functions
+Types Of Activation Function in ANN
+Activation Functions in Pytorch
+Understanding Activation Functions in Depth
+Artificial Neural Network
+Artificial Neural Networks and its Applications
+Gradient Descent Optimization in Tensorflow
+Choose Optimal Number of Epochs to Train a Neural Network in Keras
+Classification
+Python | Classify Handwritten Digits with Tensorflow
+Train a Deep Learning Model With Pytorch
+Regression
+Linear Regression using PyTorch
+Linear Regression Using Tensorflow
+Hyperparameter tuning
+Hyperparameter tuning
+Introduction to Convolution Neural Network
+Introduction to Convolution Neural Network
+Digital Image Processing Basics
+Difference between Image Processing and Computer Vision
+CNN | Introduction to Pooling Layer
+CIFAR-10 Image Classification in TensorFlow
+Implementation of a CNN based Image Classifier using PyTorch
+Convolutional Neural Network (CNN) Architectures
+Object Detection  vs Object Recognition vs Image Segmentation
+YOLO v2 - Object Detection
+Recurrent Neural Network
+Natural Language Processing (NLP) Tutorial
+Introduction to NLTK: Tokenization, Stemming, Lemmatization, POS Tagging
+Word Embeddings in NLP
+Introduction to Recurrent Neural Networks
+Recurrent Neural Networks Explanation
+Sentiment Analysis with an Recurrent Neural Networks (RNN)
+Short term Memory
+What is LSTM - Long Short Term Memory?
+Long Short Term Memory Networks Explanation
+LSTM - Derivation of Back propagation through time
+Text Generation using Recurrent Long Short Term Memory Network
+Gated Recurrent Unit Networks
+Gated Recurrent Unit Networks
+ML | Text Generation using Gated Recurrent Unit Networks
+Generative Learning
+Autoencoders in Machine Learning
+How Autoencoders works ?
+Variational AutoEncoders
+Contractive Autoencoder (CAE)
+ML | AutoEncoder with TensorFlow
+Implementing an Autoencoder in PyTorch
+Generative adversarial networks
+Basics of Generative Adversarial Networks (GANs)
+Generative Adversarial Network (GAN)
+Use Cases of Generative Adversarial Networks
+Building a Generative Adversarial Network using Keras
+Cycle Generative Adversarial Network (CycleGAN)
+StyleGAN - Style Generative Adversarial Networks
+Reinforcement Learning
+Understanding Reinforcement Learning in-depth
+Introduction to Thompson Sampling | Reinforcement Learning
+Markov Decision Process
+Bellman Equation
+Meta-Learning in Machine Learning
+Q-Learning in Python
+Q-Learning in Reinforcement Learning
+ML | Reinforcement Learning Algorithm : Python Implementation using Q-learning
+Deep Q Learning
+Deep Q-Learning in Reinforcement Learning
+Implementing Deep Q-Learning using Tensorflow
+Deep Learning Interview Questions
+Machine Learning & Data ScienceCourse
+Deep Learning TutorialLast Updated :16 Dec, 2024CommentsImproveSuggest changesLike ArticleLikeReportDeep Learning tutorial covers the basics and more advanced topics, making it perfect for beginners and those with experience. Whether you're just starting or looking to expand your knowledge, this guide makes it easy to learn about the different technologies of Deep Learning.Deep Learning is a branch of Artificial Intelligence (AI) that enables machines to learn from large amounts of data.It uses neural networks with many layers to automatically find patterns and make predictions.It is very useful for tasks like image recognition, language translation, and speech processing.Deep learning models learn directly from data, without the need for manual feature extraction.Popular applications of Deep Learning include self-driving cars, chatbots, medical image analysis, and recommendation systems.Introduction to Neural NetworksNeural Networksare fundamentals of deep learning inspired by human brain. It consists of layers of interconnected nodes, or "neurons," each designed to perform specific calculations. These nodes receive input data, process it through various mathematical functions, and pass the output to subsequent layers.Biological Neurons vs Artificial NeuronsSingle Layer PerceptronMulti-Layer PerceptronArtificial Neural Networks (ANNs)Basic Components of Neural NetworksThe basic components of neural network are:NeuronsLayers in Neural NetworksWeights and BiasesForward PropagationActivation FunctionsLoss FunctionsBackpropagationLearning RateOptimization Algorithm in Deep LearningOptimization algorithms in deep learningare used to minimize the loss function by adjusting the weights and biases of the model. The most common ones are:Gradient DescentStochastic Gradient Descent (SGD)Mini-batch Gradient DescentRMSprop (Root Mean Square Propagation)Adam (Adaptive Moment Estimation)Convolutional Neural Networks (CNNs)Convolutional Neural Networks (CNNs)are a class of deep neural networks that are designed for processing grid-like data, such as images. They useconvolutional layersto automatically detect patterns like edges, textures, and shapes in the data.Basics of Digital Image ProcessingNeed for CNNStridesPaddingConvolutional LayersPooling LayersFully Connected LayersBatch NormalizationBackpropagation in CNNsTo learn about the implementation, you can explore the following articles:CNN based Image Classification using PyTorchCNN based Images Classification using TensorFlowCNN Based ArchitecturesThere are various architectures in CNNs that have been developed for specific kinds of problems, such as:LeNet-5AlexNetVGG-16 NetworkVGG-19 NetworkGoogLeNet/InceptionResNet (Residual Network)MobileNetRecurrent Neural Networks (RNNs)Recurrent Neural Networks (RNNs)are a class of neural networks that are used for modeling sequence data such as time series or natural language.Vanishing Gradient and Exploding Gradient ProblemHow RNN Differs from Feedforward Neural NetworksBackpropagation Through Time (BPTT)Types of Recurrent Neural NetworksBidirectional RNNsLong Short-Term Memory (LSTM)Bidirectional Long Short-Term Memory (Bi-LSTM)Gated Recurrent Units (GRU)Generative Models in Deep LearningGenerative models generate new data that resembles the training data. The key types of generative models include:Generative Adversarial Networks (GANs)AutoencodersRestricted Boltzmann Machines (RBMs)Variants ofGenerative Adversarial Networks (GANs)GANs consists of two neural networks - thegeneratorsand thediscriminatorthat compete with each other in a game like framework. The variants of GANs include the following:Deep Convolutional GAN (DCGAN)Conditional GAN (cGAN)Cycle-Consistent GAN (CycleGAN)Super-Resolution GAN (SRGAN)Wasserstein GAN (WGAN)StyleGANTypes of AutoencodersAutoencoders are neural networks used for unsupervised learning that learns to compress and reconstruct data. There are different types of autoencoders that serve different purpose such as noise reduction, generative modelling and feature learning.Sparse AutoencoderDenoising AutoencoderUndercomplete AutoencoderContractive AutoencoderConvolutional AutoencoderVariational AutoencoderDeep Reinforcement Learning (DRL)Deep Reinforcement Learningcombines the representation learning power of deep learning with the decision-making ability of reinforcement learning. It enables agents to learn optimal behaviors in complex environments through trial and error, using high-dimensional sensory inputs.Reinforcement LearningMarkov Decision ProcessesFunction ApproximationKey Algorithms in Deep Reinforcement LearningDeep Q-Networks (DQN)REINFORCEActor-Critic MethodsProximal Policy Optimization (PPO)Application of Deep LearningImage Recognition:Identifying objects, faces, and scenes in photos and videos.Natural Language Processing (NLP):Powering language translation, chatbots, and sentiment analysis.Speech Recognition:Converting spoken language into text for virtual assistants like Siri and Alexa.Medical Diagnostics:Detecting diseases from X-rays, MRIs, and other medical scans.Recommendation Systems:Personalizing suggestions for movies, music, and shopping.Autonomous Vehicles:Enabling self-driving cars to recognize objects and make driving decisions.Fraud Detection:Identifying unusual patterns in financial transactions and preventing fraud.Gaming:Enhancing AI in games and creating realistic environments in virtual reality.Predictive Analytics:Forecasting customer behavior, stock prices, and weather trends.Generative Models:Creating realistic images, deepfake videos, and AI-generated art.Robotics:Automating industrial tasks and powering intelligent drones.Customer Support:Enhancing chatbots for instant and intelligent customer interactions.Next ArticleIntroduction to Deep Learningabhishek1ImproveArticle Tags :Deep LearningAI-ML-DSTutorialsAI-ML-DS With Python
+Deep Learning Tutorial
+Deep Learning tutorial covers the basics and more advanced topics, making it perfect for beginners and those with experience. Whether you're just starting or looking to expand your knowledge, this guide makes it easy to learn about the different technologies of Deep Learning.
+Deep Learning is a branch of Artificial Intelligence (AI) that enables machines to learn from large amounts of data.
+It uses neural networks with many layers to automatically find patterns and make predictions.
+It is very useful for tasks like image recognition, language translation, and speech processing.
+Deep learning models learn directly from data, without the need for manual feature extraction.
+Popular applications of Deep Learning include self-driving cars, chatbots, medical image analysis, and recommendation systems.
+Introduction to Neural Networks
+Neural Networksare fundamentals of deep learning inspired by human brain. It consists of layers of interconnected nodes, or "neurons," each designed to perform specific calculations. These nodes receive input data, process it through various mathematical functions, and pass the output to subsequent layers.
+Biological Neurons vs Artificial Neurons
+Single Layer Perceptron
+Multi-Layer Perceptron
+Artificial Neural Networks (ANNs)
+Basic Components of Neural Networks
+The basic components of neural network are:
+Neurons
+Layers in Neural Networks
+Weights and Biases
+Forward Propagation
+Activation Functions
+Loss Functions
+Backpropagation
+Learning Rate
+Optimization Algorithm in Deep Learning
+Optimization algorithms in deep learningare used to minimize the loss function by adjusting the weights and biases of the model. The most common ones are:
+Gradient Descent
+Stochastic Gradient Descent (SGD)
+Mini-batch Gradient Descent
+RMSprop (Root Mean Square Propagation)
+Adam (Adaptive Moment Estimation)
+Convolutional Neural Networks (CNNs)
+Convolutional Neural Networks (CNNs)are a class of deep neural networks that are designed for processing grid-like data, such as images. They useconvolutional layersto automatically detect patterns like edges, textures, and shapes in the data.
+Basics of Digital Image Processing
+Need for CNN
+Strides
+Padding
+Convolutional Layers
+Pooling Layers
+Fully Connected Layers
+Batch Normalization
+Backpropagation in CNNs
+To learn about the implementation, you can explore the following articles:
+CNN based Image Classification using PyTorch
+CNN based Images Classification using TensorFlow
+CNN Based Architectures
+There are various architectures in CNNs that have been developed for specific kinds of problems, such as:
+LeNet-5
+AlexNet
+VGG-16 Network
+VGG-19 Network
+GoogLeNet/Inception
+ResNet (Residual Network)
+MobileNet
+Recurrent Neural Networks (RNNs)
+Recurrent Neural Networks (RNNs)are a class of neural networks that are used for modeling sequence data such as time series or natural language.
+Vanishing Gradient and Exploding Gradient Problem
+How RNN Differs from Feedforward Neural Networks
+Backpropagation Through Time (BPTT)
+Types of Recurrent Neural Networks
+Bidirectional RNNs
+Long Short-Term Memory (LSTM)
+Bidirectional Long Short-Term Memory (Bi-LSTM)
+Gated Recurrent Units (GRU)
+Generative Models in Deep Learning
+Generative models generate new data that resembles the training data. The key types of generative models include:
+Generative Adversarial Networks (GANs)
+Autoencoders
+Restricted Boltzmann Machines (RBMs)
+Variants ofGenerative Adversarial Networks (GANs)
+GANs consists of two neural networks - thegeneratorsand thediscriminatorthat compete with each other in a game like framework. The variants of GANs include the following:
+Deep Convolutional GAN (DCGAN)
+Conditional GAN (cGAN)
+Cycle-Consistent GAN (CycleGAN)
+Super-Resolution GAN (SRGAN)
+Wasserstein GAN (WGAN)
+StyleGAN
+Types of Autoencoders
+Autoencoders are neural networks used for unsupervised learning that learns to compress and reconstruct data. There are different types of autoencoders that serve different purpose such as noise reduction, generative modelling and feature learning.
+Sparse Autoencoder
+Denoising Autoencoder
+Undercomplete Autoencoder
+Contractive Autoencoder
+Convolutional Autoencoder
+Variational Autoencoder
+Deep Reinforcement Learning (DRL)
+Deep Reinforcement Learningcombines the representation learning power of deep learning with the decision-making ability of reinforcement learning. It enables agents to learn optimal behaviors in complex environments through trial and error, using high-dimensional sensory inputs.
+Reinforcement Learning
+Markov Decision Processes
+Function Approximation
+Key Algorithms in Deep Reinforcement Learning
+Deep Q-Networks (DQN)
+REINFORCE
+Actor-Critic Methods
+Proximal Policy Optimization (PPO)
+Application of Deep Learning
+Image Recognition:Identifying objects, faces, and scenes in photos and videos.
+Natural Language Processing (NLP):Powering language translation, chatbots, and sentiment analysis.
+Speech Recognition:Converting spoken language into text for virtual assistants like Siri and Alexa.
+Medical Diagnostics:Detecting diseases from X-rays, MRIs, and other medical scans.
+Recommendation Systems:Personalizing suggestions for movies, music, and shopping.
+Autonomous Vehicles:Enabling self-driving cars to recognize objects and make driving decisions.
+Fraud Detection:Identifying unusual patterns in financial transactions and preventing fraud.
+Gaming:Enhancing AI in games and creating realistic environments in virtual reality.
+Predictive Analytics:Forecasting customer behavior, stock prices, and weather trends.
+Generative Models:Creating realistic images, deepfake videos, and AI-generated art.
+Robotics:Automating industrial tasks and powering intelligent drones.
+Customer Support:Enhancing chatbots for instant and intelligent customer interactions.
+Deep Learning
+AI-ML-DS
+Tutorials
+AI-ML-DS With Python
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+www.geeksforgeeks.org_deep-learning-tutorial__0.webp
+www.geeksforgeeks.org_deep-learning-tutorial__1.webp
+www.geeksforgeeks.org_deep-learning-tutorial__2.webp
+www.geeksforgeeks.org_deep-learning-tutorial__3.webp
+www.geeksforgeeks.org_deep-learning-tutorial__4.png
+www.geeksforgeeks.org_deep-learning-tutorial__5.png

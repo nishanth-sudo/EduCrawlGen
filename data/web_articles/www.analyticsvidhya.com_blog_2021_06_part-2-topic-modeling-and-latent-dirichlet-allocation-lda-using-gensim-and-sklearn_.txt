@@ -1,0 +1,219 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+Part 2: Topic Modeling and Latent Dirichlet Allocation (LDA) using Gensim and Sklearn
+In the previous article, we had started with understanding the basic terminologies of text in Natural Language Processing(NLP), what is topic modeling, its applications, the types of models, and the different topic modeling techniques available.
+Let’s continue from there, explore Latent Dirichlet Allocation (LDA), working of LDA, and its similarity to another very popular dimensionality reduction technique called Principal Component Analysis (PCA).
+This article was published as a part of theData Science Blogathon
+Table of contents
+A Little Background about LDA
+Latent Dirichlet Allocation (LDA) and its ProcessNow, how does LDA work and how will it derive the particular distributions?Vector Space of LDAHow will LDA optimize the distributions?LDA is an iterative process
+Now, how does LDA work and how will it derive the particular distributions?
+Vector Space of LDA
+How will LDA optimize the distributions?
+LDA is an iterative process
+The Similarity between LDA and PCA
+Conclusion
+A Little Background about LDA
+Latent Dirichlet Allocation (LDA) is a popular topic modeling technique to extract topics from a given corpus. The term latent conveys something that exists but is not yet developed. In other words, latent means hidden or concealed.
+Now, the topics that we want to extract from the data are also “hidden topics”. It is yet to be discovered. Hence, the term “latent” in LDA. The Dirichlet allocation is after the Dirichlet distribution and process.
+Named after the German mathematician, Peter Gustav Lejeune Dirichlet, Dirichlet processes in probability theory are “a family of stochastic processes whose realizations are probability distributions.”
+This process is a distribution over distributions, meaning that each draw from a Dirichlet process is itself a distribution. What this implies is that a Dirichlet process is a probability distribution wherein the range of this distribution is itself a set of probability distributions!
+Okay, that’s great! But how is theDirichlet processhelpful for us in retrieving the topics from the documents? Remember from part 1 of the blog,topics or themesare a group ofstatistically significantwords within a corpus.
+So, without going into the technicalities of the process, in our context, the Dirichlet model describes the pattern of the words that are repeating together, occurring frequently, and these words are similar to each other.
+And this stochastic process uses Bayesian inferences for explaining “the prior knowledge about the distribution of random variables”. In the case of topic modeling, the process helps in estimating what are the chances of the words, which are spread over the document, will occur again? This enables the model to build data points, estimate probabilities, that’s why LDA is a breed of generative probabilistic model.
+LDA generates probabilities for words, which are then used to form topics, and these topics are subsequently classified into documents.
+Latent Dirichlet Allocation (LDA) and its Process
+Latent Dirichlet Allocation (LDA), a tool and technique for topic modeling, classifies or categorizes text within a document and models the words per topic based on Dirichlet distributions and processes.
+The LDA makes two key assumptions:
+Documents are a mixture of topics, and
+Topics are a mixture of tokens (or words)
+And, these topics using the probability distribution generate the words. In statistical language, we describe documents as the probability density (or distribution) of topics, and topics as the probability density (or distribution) of words.
+Now, how does LDA work and how will it derive the particular distributions?
+Firstly, LDA applies the above two important assumptions to the given corpus.Let’s say we have the corpus with the following five documents:
+Document 1: I want to watch a movie this weekend.
+Document 2: I went shopping yesterday. New Zealand won the World Test Championship by beating India by eight wickets at Southampton.
+Document 3: I don’t watch cricket. Netflix and Amazon Prime have very good movies to watch.
+Document 4: Movies are a nice way to chill however, this time I would like to paint and read some good books. It’s been so long!
+Document 5: This blueberry milkshake is so good! Try reading Dr. Joe Dispenza’s books. His work is such a game-changer! His books helped to learn so much about how our thoughts impact our biology and how we can all rewire our brains.
+We can represent any corpus, which is the collection of documents, as a document-word matrix (or document term matrix), also known as DTM.
+We know the first step with the text data is to clean, preprocess and tokenize the text to words. After preprocessing the documents, we get the following document word matrix where:
+D1, D2, D3, D4, and D5 are the five documents, and
+the words are represented by the Ws, say there are 8 unique words from W1, to W8.
+Hence, the shape of the matrix is 5 * 8 (five rows and eight columns):
+So, now the corpus is mainly the above-preprocessed document-word matrix, in which every row is a document and every column is the tokens or the words.
+LDA converts this document-word matrix into two other matrices: Document Term matrix and Topic Word matrix as shown below:
+These matrices:
+The Document-Topic matrix already contains the possible topics (represented by K above) that the documents can contain. Here, suppose we have 5 topics and had 5 documents so the matrix is of dimension 5*6
+The Document-Topic matrix already contains the possible topics (represented by K above) that the documents can contain. Here, suppose we have 5 topics and had 5 documents so the matrix is of dimension 5*6
+The Topic-Word matrix has the words (or terms) that those topics can contain. We have 5 topics and 8 unique tokens in the vocabulary hence the matrix had a shape of 6*8.
+The Topic-Word matrix has the words (or terms) that those topics can contain. We have 5 topics and 8 unique tokens in the vocabulary hence the matrix had a shape of 6*8.
+Vector Space of LDA
+The entire LDA space and its dataset are represented by the diagram below:
+Source:researchgate.net
+The yellow box refers to all the documents in the corpus (represented by M). In our case, M = 5 as we have 5 documents.
+Next, the peach color box is the number of words in a document, given by N
+Inside this peach box, there can be many words. One of those words is w, which is in the blue color circle.
+According to LDA, every word is associated with a latent topic (denoted as Z). Assigning Z to a topic word in these documents creates a topic-word distribution within the corpus, which we represent by theta (𝛳).
+The LDA model has two parameters that control the distributions:
+Alpha (ɑ) controls per-document topic distribution, and
+Beta (ꞵ) controls per topic word distribution
+To summarize:
+M: is the total documents in the corpus
+N: is the number of words in the document
+w: is the Word in a document
+z: is the latent topic assigned to a word
+theta (𝛳): is the topic distribution
+LDA model s parameters: Alpha (ɑ) and Beta (ꞵ)
+How will LDA optimize the distributions?
+Theend goal of LDAis to find the most optimal representation of the Document-Topic matrix and the Topic-Word matrix to find the most optimized Document-Topic distribution and Topic-Word distribution.
+As LDA assumes that documents are a mixture of topics and topics are a mixture of words so LDA backtracks from the document level to identify which topics would have generated these documents and which words would have generated those topics.
+Now, our corpus that had 5 documents (D1 to D5) and with their respective number of words:
+D1= (w1, w2, w3, w4, w5, w6, w7, w8)
+D2= (w`1, w`2, w`3, w`4, w`5, w`6, w`7, w`8, w`9, w`10)
+D3= (w“1, w“2, w“3, w“4, w“5, w“6, w“7, w“8, w“9, w“10, w“11, w“12, w“13, w“14 w“15)
+D4= (w“`1, w“`2, w“`3, w“`4, w“`5, w“`6, w“`7, w“`8, w“`9, w“`10, w“`11, w“`12)
+D5= (w““1, w““2, w““3, w““4, w““5, w““6, w““7, w““8, w““9, w““10,…, w““32, w““33, w““34)
+LDA is an iterative process
+The first iteration of LDA:
+In the first iteration, it randomly assigns the topics to each word in the document. We represent topics with the letter k. Therefore, in our corpus, the words in the documents will be associated with some random topics, as shown below:
+D1 = (w1 (k5), w2 (k3), w3 (k1), w4 (k2), w5 (k5), w6 (k4), w7 (k7), w8(k1))
+D2 = (w`1(k2), w`2 (k4), w`3 (k2), w`4 (k1), w`5 (k2), w`6 (k1), w`7 (k5), w`8(k3), w`9 (k7), w`10(k1))
+D3 = (w“1(k3), w“2 (k1), w“3 (k5), w“4 (k3), w“5 (k4), w“6(k1),…, w“13 (k1), w“14(k3), w“15 (k2))
+D4 = (w“`1(k4), w“`2 (k5), w“`3 (k3), w“`4 (k6), w“`5 (k5), w“`6 (k3) …, w“`10 (k3), w“`11 (k7), w“`12 (k1))
+D5 = (w““1 (k1), w““2 (k7), w““3 (k2), w““4 (k8), w““5 (k1), w““6(k8) …, w““32(k3), w““33(k6), w““34 (k5))
+This gives the output as Documents with the composition of Topics and Topics composing of words:
+The documents are the mixture of the topics:
+D1 = k5 + k3 + k1 + k2 + k5 + k4 + k7+ k1
+D2 = k2 + k4 + k2 + k1 + k5 + k2 + k1+ k5 + k3 + k7 + k1
+D3 = k4 + k5 + k3 + k6 + k5 + k3 + … + k3+ k7 + k1
+D3 = k1 + k7 + k2 + k8 + k1 + k8 + … + k3+ k6 + k5
+The topics are the mixture of the words:
+K1 = w3 + w8 + w`4 + w`6 + w’10 + w“2 + w“6 + … + w“13 + w“`12 + w““1 + w““5
+K2 = w4 + w`1 + w`3 + w“15 + …. + w““3 + …
+K3 = w2 + w’8 + w“1 + w“4 + w“14 + w“`3 + w“`6 + … + w“`10 + w““32 + …
+Similarly, LDA will give the word combinations for other topics.
+Post the first iteration of LDA:
+After the first iteration, LDA does provide the initial document- topic and topic-word matrices. The task at hand is to optimize these obtained results which LDA does by iterating over all the documents and all the words.
+LDA makes another assumptionthat all the topics that have been assigned are correct except the current word.So, based on those already-correct topic-word assignments, LDA tries to correct and adjust the topic assignment of the current word with a new assignment for which:
+LDA will iterate over: each document ‘D’ and each word ‘w’
+How would it do that? It does so by computing two probabilities: p1 and p2 for every topic (k) where:
+P1: proportion of words in the document (D) that are currently assigned to the topic (k)
+P2: is the proportion of assignments to the topic(k) over all documents that come from this word w. In other words, p2 is the proportion of those documents in which the word (w) is also assigned to the topic (k)
+P2: is the proportion of assignments to the topic(k) over all documents that come from this word w. In other words, p2 is the proportion of those documents in which the word (w) is also assigned to the topic (k)
+The formula for p1 and p2 is:
+P1 = proportion (topic k / document D) ,and
+P2 = proportion(word w / topic k)
+Now, using these probabilities p1 and p2, LDA estimates a new probability, which is the product of (p1*p2), and through this product probability, LDA identifies the new topic, which is the most relevant topic for the current word.
+Reassignment of word ‘w’ of the document ‘D’ to a new topic ‘k’ via the product probability of p1 * p2
+Now, LDA runs for many iterations, choosing a new topic ‘k’ until it reaches a steady state. LDA converges when it creates the most optimized representation of both the document-term matrix and the topic-word matrix.
+This completes the working and the process of Latent Dirichlet Allocation.
+Now, before moving on to the implementation of LDA, here’s one last thing …
+The Similarity between LDA and PCA
+Topic Modeling is similar to Principal Component Analysis (PCA). You may be wondering how is that? Allow me to explain.
+So, PCA is a dimensionality reduction technique, right? And, The system uses this for data with numerical values. A linear combination of variables creates components that build the model. PCA works by breaking or decomposing a larger value (i.e. a singular value) into smaller values to reduce the dimensions.
+LDA operates in the same way as PCA does. LDA is applied to the text data. It works by decomposing the corpus document word matrix (the larger matrix) into two parts (smaller matrices): the Document Topic Matrix and the Topic Word. Therefore, LDA like PCA is a matrix factorization technique.
+Let’s say we have the following corpus of documents having the tokenized words freekick, dunk, rebound, foul, shoot, NBA, Liverpool as below:
+Source:miro.medium.com
+In case, we do not apply LDA or any of the topic modeling techniques then, we will have the
+tokenized words (after the text preprocessing steps) which are on the left panel of the above image. The system passes these words to build a model and can include more features (more than the image shows).
+Now, instead of using the tokenized words obtained after applying theBag of Words vectorizer, if we transform the initial document-word matrix into two parts: one for the word per topic and the other for the topic per document.
+See, in the above image, rather than using the words: freekick, dunk, rebound, foul, shoot, NBA, Liverpool, we have combined similar words into two groups: Soccer and Basketball.
+This gave us two different topics: one on football where Soccer consists of the words freekick, shoot, and Liverpool, and the other topic Basketball consisting of the words dunk, rebound, foul, and NBA.
+This breaking of the initial larger word features matrix not only enabled us to classify text into documents but it also essentially reduced the features used to build the model.
+LDA breaks the corpus document word into lower-dimensional matrices. Therefore, Topic modeling and its techniques are also used for dimensionality reduction.
+Conclusion
+Latent Dirichlet Allocation (LDA) does two tasks: it finds the topics from the corpus, and at the same time, assigns these topics to the document present within the same corpus. The below schematic diagram summarizes the process of LDA well:
+Source:researchgate.net
+We will apply all theory that we learned and execute in Python using the gensim and sklearn packages in the next and last part of the Topic Modeling series.
+References:
+https://en.wikipedia.org/wiki/Dirichlet_process
+Dirichlet Process by Yee Whye Teh, University College London
+Thank You for reading and Happy Learning! 🙂
+About me
+Hi there! My name is Neha Seth, a technical writer for AnalytixLabs. I hold a Postgraduate Program in Data Science & Engineering from the Great Lakes Institute of Management and a Bachelors in Statistics. You can reach out to me onLinkedInand can read my other blogs forALabsandAV.
+Analytics Vidhya does not own the media in this article; the author decides how to use it.
+Hi there! I am Neha Seth. I work as a Data Scientist in Larsen & Toubro Infotech (LTI). I hold a Postgraduate Program in Data Science & Engineering from the Great Lakes Institute of Management and a Bachelors in Statistics. I have been featured as Top 10 Most Popular Guest Authors in 2020 on Analytics Vidhya (AV).
+My area of interest lies in NLP and Deep Learning. I have also passed the CFA Program. You can reach out to me on LinkedIn and can read my other blogs for AV.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+Top 10 Machine Learning Algorithms in 2025
+Top 10 Machine Learning Algorithms in 2025
+Exploratory Data Analysis (EDA) Using Python
+Exploratory Data Analysis (EDA) Using Python
+Topic Modeling Using Latent Dirichlet Allocatio...
+Topic Modeling Using Latent Dirichlet Allocatio...
+Part 18: Step by Step Guide to Master NLP ̵...
+Part 18: Step by Step Guide to Master NLP ̵...
+Topic Modelling With LDA -A Hands-on Introduction
+Topic Modelling With LDA -A Hands-on Introduction
+What is Topic Modeling?
+What is Topic Modeling?
+Part 3: Topic Modeling and Latent Dirichlet All...
+Part 3: Topic Modeling and Latent Dirichlet All...
+Topic Modeling and Latent Dirichlet Allocation(...
+Topic Modeling and Latent Dirichlet Allocation(...
+Part- 19: Step by Step Guide to Master NLP R...
+Part- 19: Step by Step Guide to Master NLP R...
+Topic Modelling in Natural Language Processing
+Topic Modelling in Natural Language Processing
+Responses From Readers
+Hey Neha Seth, thank you very much for the explanation about LDA. Very helpfull! It gives clearer understanding about how LDA works.
+
+note: there are some typo in matrices explanation, where the topics should be written '6', but you write it '5'.
+
+Regards,
+Prio
+super hard word done by this natural language process
+Hey Neha Seth, thank you very much for the explanation about LDA. Very helpfull! It gives clearer understanding about how LDA works.note: there are some typo in matrices explanation, where the topics should be written '6', but you write it '5'.Regards, Prio
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+www.analyticsvidhya.com_blog_2021_06_part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn__0.webp
+www.analyticsvidhya.com_blog_2021_06_part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn__1.webp
+www.analyticsvidhya.com_blog_2021_06_part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn__2.webp
+www.analyticsvidhya.com_blog_2021_06_part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn__3.webp
+www.analyticsvidhya.com_blog_2021_06_part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn__4.webp
+www.analyticsvidhya.com_blog_2021_06_part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn__5.webp
+www.analyticsvidhya.com_blog_2021_06_part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn__6.webp
+www.analyticsvidhya.com_blog_2021_06_part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn__7.webp
+www.analyticsvidhya.com_blog_2021_06_part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn__8.webp
+www.analyticsvidhya.com_blog_2021_06_part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn__9.webp
+www.analyticsvidhya.com_blog_2021_06_part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn__10.webp
+www.analyticsvidhya.com_blog_2021_06_part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn__11.webp
+www.analyticsvidhya.com_blog_2021_06_part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn__12.webp

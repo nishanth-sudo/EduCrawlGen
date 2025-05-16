@@ -1,0 +1,310 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+More articles in Langchain
+By Popular
+By Latest
+AI AgentsBeginnerGuideLangchainLangGraph Tutorial for BeginnersIf you are new to LangGraph and wish to learn about it, then this beginner's guide and hands-on tutorial is the best free content for you.Janvi Kumari08 May, 2025
+LangGraph Tutorial for Beginners
+If you are new to LangGraph and wish to learn about it, then this beginner's guide and hands-on tutorial is the best free content for you.
+AdvancedGenerative AILangchainHow to Create an MCP Client Server Using LangChainLearn how to create an MCP client server using LangChain for improved AI interactions with external tools and data.Harsh Mishra07 May, 2025
+How to Create an MCP Client Server Using LangChain
+Learn how to create an MCP client server using LangChain for improved AI interactions with external tools and data.
+AdvancedAI AgentsLangchainLangMem SDK: Personalizing AI Agents with Semantic MemoryLearn how LangMem SDK enables AI agents to store long-term memory, adapt to users, and improve interactions over time.purva27 Mar, 2025
+LangMem SDK: Personalizing AI Agents with Semantic Memory
+Learn how LangMem SDK enables AI agents to store long-term memory, adapt to users, and improve interactions over time.
+AI AgentsGenerative AIGenerative AI ApplicationIntermediateLangchainWhen to Use Agent SDK, LangChain, or CrewAI to Build Your AI AgentsThis Agent SDK, vs LangChain vs CrewAI guide explores when to use each framework to maximize the efficiency and performance of your AI agentsSoumil Jain24 Mar, 2025
+When to Use Agent SDK, LangChain, or CrewAI to Build Your AI Agents
+This Agent SDK, vs LangChain vs CrewAI guide explores when to use each framework to maximize the efficiency and performance of your AI agents
+AdvancedGenerative AIGenerative AI ApplicationLangchainBuild a Negotiation Agent Using DeepSeek-R1 Distill LLaMA-70BBuild a smart Negotiation Agent using DeepSeek-R1 to generate AI-driven strategies for salary, business, and contract deals.Gourav Lohar05 Mar, 2025
+Build a Negotiation Agent Using DeepSeek-R1 Distill LLaMA-70B
+Build a smart Negotiation Agent using DeepSeek-R1 to generate AI-driven strategies for salary, business, and contract deals.
+AdvancedGenerative AILangchainLLMs3 Advanced Strategies for Retrievers in LangChainLearn how Retrievers in LangChain, from vector stores to contextual compression, streamline data retrieval for complex queries and more.Janvi Kumari01 Nov, 2024
+3 Advanced Strategies for Retrievers in LangChain
+Learn how Retrievers in LangChain, from vector stores to contextual compression, streamline data retrieval for complex queries and more.
+AdvancedGenerative AILangchainLarge Language ModelsLLMsHow to Build a Simple LLM Application with LCEL?Learn how to build a simple LLM application with LCEL for English-to-Japanese translation. Create & deploy your LangChain-based tool.Janvi Kumari20 Oct, 2024
+How to Build a Simple LLM Application with LCEL?
+Learn how to build a simple LLM application with LCEL for English-to-Japanese translation. Create & deploy your LangChain-based tool.
+AdvancedAI AgentsGenerative AIGenerative AI ApplicationLangchainHow to Create Your Personalized News Digest Using AI Agents?Learn to build an AI agent to send you personalized and curated news digests daily, straight to your inbox!Santhosh Reddy Dandavolu04 Oct, 2024
+How to Create Your Personalized News Digest Using AI Agents?
+Learn to build an AI agent to send you personalized and curated news digests daily, straight to your inbox!
+AdvancedLangchainLarge Language ModelsLLMsWord EmbeddingsHow to Compute and Store Vector Embeddings with LangChain?Learn to efficiently find content similar to queries using vector embeddings and LangChain. Understand embeddings, implement LangChain models.Santhosh Reddy Dandavolu05 Aug, 2024
+How to Compute and Store Vector Embeddings with LangChain?
+Learn to efficiently find content similar to queries using vector embeddings and LangChain. Understand embeddings, implement LangChain models.
+LangchainLarge Language ModelsLLMsPythonPython7 Ways to Employ LangChain Text Splitters for Enhanced Data ProcessingLearn how LangChain text splitters enhance LLM performance by breaking large texts into smaller chunks, optimizing context size, cost & more.Santhosh Reddy D23 Jul, 2024
+7 Ways to Employ LangChain Text Splitters for Enhanced Data Processing
+Learn how LangChain text splitters enhance LLM performance by breaking large texts into smaller chunks, optimizing context size, cost & more.
+Langchain
+What is LangChain?
+LangChainis an open-source framework and ecosystem that allows developers to build applications using large language models (LLMs).
+It offers tools to chain multiple operations together, such as data preprocessing, prompt formatting, and response generation. LangChain supports integration with various LLMs, retrieval systems, and vector databases, enabling the creation of complex applications like AI agents, conversational systems, and retrieval-augmented generation (RAG) systems.
+Key Features of LangChain
+LangChain is important because it simplifies the development of applications leveraging large language models (LLMs), providing a flexible and modular framework to build complex systems like AI agents, RAG-based systems, and conversational applications.
+Its key features include:
+Chaining Operations: Easily combine multiple steps, such as data preprocessing, prompt creation, and response formatting, into a seamless workflow.
+Integration with LLMs: Supports connection to most major LLMs, including both open-source and commercial models.
+Retrieval-Augmented Generation (RAG): Allows the integration of custom enterprise data to improve LLM outputs.
+Embeddings & Vector Databases: Facilitates embedding document chunks and storing them in vector databases for fast retrieval.
+Agent and Tool Building: Enables the creation of AI agents that can interact with tools like search engines, APIs, and external data sources.
+Memory and Callback Features: Supports storing conversation histories and using callbacks for logging, monitoring, and streaming.
+These features make LangChain a powerful tool for building dynamic, scalable, and context-aware AI applications.
+What are the core components of LangChain?
+The core components of LangChain are:
+LangChain Core Library: Contains key functions, prompt templates, and tools to build applications, agents, and chains.
+LangServe: Used for deploying and serving LangChain-based applications and chains.
+LangSmith: A tool for monitoring, evaluating, and debugging deployed applications.
+LangGraph: A newer component allowing the creation of AI agents using graph-based workflows by combining multiple chains and agents.
+LangChain Community: Provides access to open-source LLMs, vector databases, and various tools hosted on platforms like HuggingFace.
+These components help in building, deploying, and managing applications leveraging LLMs.
+Is LangChain open source or closed source
+LangChain is completely open-source, and anyone can download and leverage it for developing applications. This openness enables developers and data scientists to use LangChain’s suite of tools and libraries for building applications that integrate large language models (LLMs), retrieval strategies, tools, agents, and more.
+How does LangChain Work?
+LangChain works by providing a flexible and modular framework for developing applications that leverage large language models (LLMs). It allows developers to chain multiple operations, integrate tools, and build more complex workflows using agents and retrieval systems. The framework supports prompt management, LLM integration, data retrieval, and more, enabling the creation of applications such as conversational agents, search engines, and retrieval-augmented generation (RAG) systems.
+LLM Application Cycle in LangChain:
+TheLLM applicationcycle within LangChain can be broken down into several key steps:
+Input Data Preparation:LangChain allows you to createprompt templateswhere you define how the input data will be formatted. These templates can be dynamic, meaning you can add live data to them at runtime.
+LangChain allows you to createprompt templateswhere you define how the input data will be formatted. These templates can be dynamic, meaning you can add live data to them at runtime.
+Connecting with LLMs:LangChain integrates with various LLMs, both commercial (like OpenAI, Google Gemini, and Anthropic Cloud) and open-source models (like those on HuggingFace). It sends the prepared input to these LLMs for processing.
+LangChain integrates with various LLMs, both commercial (like OpenAI, Google Gemini, and Anthropic Cloud) and open-source models (like those on HuggingFace). It sends the prepared input to these LLMs for processing.
+Generating Output:Once the input is processed by the LLM, LangChain provides tools to handle the output. You can format the output in various ways, such asJSONorCSV, depending on the specific use case.
+Once the input is processed by the LLM, LangChain provides tools to handle the output. You can format the output in various ways, such asJSONorCSV, depending on the specific use case.
+Chaining Steps:LangChain enables you to chain multiple operations together in a pipeline. For example, data preprocessing, prompt formatting, sending to LLMs, and retrieving results are all handled in a series of steps. This is useful in building more complex workflows, where multiple steps (e.g., chaining LLM prompts and retrieval mechanisms) are executed sequentially or in parallel.
+LangChain enables you to chain multiple operations together in a pipeline. For example, data preprocessing, prompt formatting, sending to LLMs, and retrieving results are all handled in a series of steps. This is useful in building more complex workflows, where multiple steps (e.g., chaining LLM prompts and retrieval mechanisms) are executed sequentially or in parallel.
+Retrieval-Augmented Generation (RAG):In cases where an LLM needs additional context from enterprise data, LangChain supportsretrieval-based systems. It allows you to integrate custom data into the LLM’s knowledge base. For example, if a healthcare application needs to pull data about rare diseases, LangChain can facilitate connecting this custom data with the LLM’s output.
+In cases where an LLM needs additional context from enterprise data, LangChain supportsretrieval-based systems. It allows you to integrate custom data into the LLM’s knowledge base. For example, if a healthcare application needs to pull data about rare diseases, LangChain can facilitate connecting this custom data with the LLM’s output.
+Embedding and Vector Databases:LangChain offers integration with embedding models to convert text into embeddings and store them invector databaseslike Pinecone or Chroma. These embeddings allow for fast retrieval of relevant documents during the application’s workflow, which is crucial in building search and recommendation systems.
+LangChain offers integration with embedding models to convert text into embeddings and store them invector databaseslike Pinecone or Chroma. These embeddings allow for fast retrieval of relevant documents during the application’s workflow, which is crucial in building search and recommendation systems.
+Tools and Agents:LangChain supportstool buildingandagent creation. Tools such as search, calculation, and programming can be integrated into the workflow. Agents can decide when to call a specific tool (like a search engine or calculator) based on user input. For example, an AI agent can answer a question like “Who won the Champions League in 2023?” by using an external API to search for live data.
+LangChain supportstool buildingandagent creation. Tools such as search, calculation, and programming can be integrated into the workflow. Agents can decide when to call a specific tool (like a search engine or calculator) based on user input. For example, an AI agent can answer a question like “Who won the Champions League in 2023?” by using an external API to search for live data.
+Monitoring and Deployment:LangChain supportsdeploymentthroughLangServeandmonitoringviaLangSmith, allowing developers to serve LLM-based applications and track their performance.
+LangChain supportsdeploymentthroughLangServeandmonitoringviaLangSmith, allowing developers to serve LLM-based applications and track their performance.
+Example of a Full LLM Application Cycle:
+Input: User query or document is passed into the system.
+Preprocessing: Input is formatted using a prompt template.
+LLM Integration: The formatted input is sent to an LLM (like OpenAI’s GPT or an open-source model).
+Output Generation: The LLM processes the input and returns a response.
+Postprocessing: The response is formatted into JSON, CSV, or another required structure.
+Retrieval: If additional context is required, a retrieval step fetches relevant data from a vector database or document store.
+Agent Execution: If needed, an agent decides what additional tools (like an API call) to use.
+Deployment and Monitoring: The final application is deployed using LangServe and monitored with LangSmith.
+LangChain makes this entire process streamlined, providing modular tools to integrate each step easily.
+Applications of LangChain
+LangChain has a wide range of applications, primarily focused on leveraging large language models (LLMs) to build advanced AI-driven systems.
+Here are some key applications:
+Building Chains for Multi-Step Processes:
+LangChain allows you to chain multiple operations like processing data, creating prompts, and generating outputs. This makes it useful for building applications where several steps are involved, like data input, processing, and response generation.
+Example: Creating a sequence of steps for data formatting, prompt generation, sending to an LLM, and output formatting.
+Retrieval-Augmented Generation (RAG) Systems:
+LangChain can be used to build retrieval systems that allow an LLM to access custom data, making it ideal for answering specific queries based on enterprise or proprietary data.
+Example: A system that augments a model’s knowledge with specialized healthcare data for answering questions related to rare diseases.
+Developing AI Agents:
+LangChain supports the creation of AI Agents by combining tools like search engines or APIs, allowing these agents to perform tasks beyond simple text generation.
+Example: An agent that answers questions by using an external API to search the web or perform calculations.
+Embedding and Vector Search Systems:
+LangChain helps in building systems that use embeddings to create vector representations of documents and store them in vector databases for efficient retrieval.
+Example: A search system where a user query retrieves the most relevant document chunks from a vector database.
+Application Monitoring and Deployment:
+LangChain provides tools like LangServe for deploying applications and LangSmith for monitoring and evaluating them.
+Example: Deploying an LLM-based system and monitoring its performance for debugging and optimization.
+AI Agents with Real-Time Information Retrieval:
+LangChain allows for the creation of AI agents that can fetch real-time data using tools like search engines.
+Example: An agent that can answer up-to-date questions like “Who won the Champions League in 2023?” by searching the web for the latest information.
+Thus, LangChain’s versatility allows it to be applied across industries and use cases, from simple conversational applications to more complex, enterprise-level AI solutions.
+Can I Build Agents Using LangChain?
+Yes, you can build agents using LangChain. LangChain provides tools and components that allow you to create AI agents capable of interfacing with LLMs and various tools. These agents can perform reasoning, make decisions, and execute actions based on user inputs.
+For example, an agent built with LangChain can:
+Reason:Determine what information is needed to answer a user’s question.
+Decide:Choose which tool or action to use to obtain that information.
+Act:Execute the chosen tool (e.g., a web search) to retrieve information.
+Respond:Provide the final answer to the user.
+Using LangGraph for Advanced Agents:
+While you can build agents using LangChain, LangGraph extends these capabilities by allowing you to model agents as graph-based systems. This is particularly beneficial for:
+Complex Agents:Agents that require multiple cycles of reasoning and action.
+State Management:Maintaining and updating the state throughout the agent’s operation.
+Multi-Agent Workflows:Combining multiple agents into a cohesive system where they can collaborate or coordinate tasks.
+Also, read these Articles:
+Transforming PDF Images into Interactive Dialogues with AI
+Build an AI Coding Agent with LangGraph by LangChain
+Building Reliable Agent using Advanced Rag Techniques, LangGraph, and Cohere LLM
+LangChain vs LangGraph
+Feature
+LangChain
+LangGraph
+Purpose
+Framework for building LLM-based applications and agents
+Framework built on top of LangChain to create cyclical graph-based systems for AI agents.
+Focus
+Chaining multiple steps or operations (e.g., input/output processing, LLM integration).
+Facilitating complex workflows and AI agents using a graph-based system with cyclical processes.
+Structure
+Sequential chains connecting multiple steps like tools, agents, or LLM calls.
+Graph-based system where nodes represent actions or tools and edges control the flow of data.
+Key Components
+Chains, tools, agents, LLM interaction, prompt management.
+Nodes (represent functions, tools, or chains) and edges (define data flow and state).
+State Management
+Sequential process flow; no persistent state across steps.
+Manages state across nodes and edges, maintaining information throughout the process.
+Agent Complexity
+Supports basic AI agents for reasoning and tool usage.
+Specializes in building complex AI agents with cyclical reasoning and decision-making loops.
+Multi-Agent Workflow
+Primarily single-agent or simple workflows.
+Supports multi-agent workflows where multiple agents can collaborate in a graph structure
+Cyclical Components
+Not inherently cyclical.
+Designed for cyclical computation, enabling agents to repeat reasoning and actions until tasks are completed.
+Integration with Tools
+Can integrate tools such as search APIs and external functions.
+Supports tool integration but with more complex coordination and checkpointing through graphs.
+Example Use Case
+Building a chain to process prompts, query an LLM, and return a response.
+Building a graph where an agent searches for information and reasons about it and takes multiple actions in a cyclical process
+Also, read this Articles:LlamaIndex vs LangChain: A Comparative Analysis
+How to automate tasks using LangChain
+Steps to Automate Tasks Using LangChain:
+Create Chains for Sequential Processes:LangChain allows you to chain multiple operations together. Each step in the chain can involve tasks like preprocessing data, formatting inputs, sending it to a large language model (LLM), retrieving outputs, and formatting the results.
+LangChain allows you to chain multiple operations together. Each step in the chain can involve tasks like preprocessing data, formatting inputs, sending it to a large language model (LLM), retrieving outputs, and formatting the results.
+Use Tools and Agents:LangChain supports the creation of AI agents that can automate tasks by reasoning and using tools (e.g., search APIs, Wikipedia queries). Agents decide which tools to use and execute actions based on user input.
+LangChain supports the creation of AI agents that can automate tasks by reasoning and using tools (e.g., search APIs, Wikipedia queries). Agents decide which tools to use and execute actions based on user input.
+Build Complex Workflows with LangGraph:If the task involves more complex automation with multiple steps, decision-making, and cyclical processes, LangGraph can be used. LangGraph allows tasks to be modeled as nodes in a graph, where each node represents a function, tool, or action, and the edges control the flow of information between them.
+If the task involves more complex automation with multiple steps, decision-making, and cyclical processes, LangGraph can be used. LangGraph allows tasks to be modeled as nodes in a graph, where each node represents a function, tool, or action, and the edges control the flow of information between them.
+State Management for Repeated Processes:When automating repetitive tasks that require multiple cycles of reasoning, LangGraph is useful. It maintains the state throughout the workflow, allowing the system to keep track of what has been done and what information is still needed to complete the task.
+When automating repetitive tasks that require multiple cycles of reasoning, LangGraph is useful. It maintains the state throughout the workflow, allowing the system to keep track of what has been done and what information is still needed to complete the task.
+Multi-Agent Workflow Automation:LangGraph supports automating tasks involving multiple agents. These agents can collaborate or perform separate tasks in parallel, all managed by a graph-based system.
+LangGraph supports automating tasks involving multiple agents. These agents can collaborate or perform separate tasks in parallel, all managed by a graph-based system.
+By using chains for simple tasks and LangGraph for more complex, cyclical, or multi-agent workflows, LangChain enables the automation of various processes with LLMs and external tools.
+Building Agentic Frameworks using LC
+Understanding Tools in LangChain:
+Toolsin LangChain act as interfaces that allow agents to interact with the external world and gather necessary information. For example, a search tool like SERP API can be used to look up information on the internet. Other tools might include databases or calculators.
+Examples:Search Engines: Tools such as Google Search, DuckDuckGo, and SERP API can be used to query live information from the web.Databases: Wikipedia, research papers, and other online archives can be accessed via tools integrated within LangChain.
+Search Engines: Tools such as Google Search, DuckDuckGo, and SERP API can be used to query live information from the web.
+Databases: Wikipedia, research papers, and other online archives can be accessed via tools integrated within LangChain.
+These tools allow an agent to perform a variety of tasks, like retrieving real-time information, performing calculations, or looking up specific data points.
+Agents in LangChain:
+Agentsare the core part of LangChain’s framework, where alarge language model (LLM)is used as the reasoning engine.The LLM determineswhat actionsto take.It decideswhich toolsto use andwhat inputsto feed into those tools.It uses areasoning cycleto continually process observations and decide whether additional actions are necessary, or if it can stop.
+The LLM determineswhat actionsto take.
+It decideswhich toolsto use andwhat inputsto feed into those tools.
+It uses areasoning cycleto continually process observations and decide whether additional actions are necessary, or if it can stop.
+Agent Workflow Example:
+User Query: A user asks, “How many countries are there in Africa?”
+LLM Reasoning: The LLM reasons it doesn’t have this information in its training data, but can use a search tool to find out.
+Tool Invocation: The agent calls theSERP API(a search tool) to search for the number of countries in Africa.
+Observation: The tool returns the answer, saying there are54 countries.
+Final Thought: The agent then determines if it has enough information to answer the user’s question. If yes, it stops and returns the answer; if no, it continues searching.
+This workflow shows how LangChain uses agents to manage a multi-step process, where each step involves gathering new information and using it to make decisions.
+Legacy Agent-Building Syntax in LangChain:
+In thelegacy approachto building agents, the LLM acts as the reasoning engine, deciding which tools to call. For example, if the agent is tasked with finding the result of “3 times 9,” it will call a calculator tool to compute the result.
+Agent Executor: Theexecutoris responsible for executing the function calls (invoking tools). It manages the process of sending queries to tools, receiving results, and sending those back to the LLM for further reasoning.
+Theworkflowcontinues until the LLM has gathered enough information to complete the task.
+However, this legacy syntax is limited in handling more complex workflows that require multiple iterations or more advanced reasoning.
+Building Agents with LangGraph:
+LangGraphis the recommended framework built on top of LangChain to createcyclical workflowsfor agents. Unlike the legacy syntax, LangGraph allows the agent to operate in acyclical loop, repeatedly reasoning and invoking tools until it has enough data.Cyclical Reasoning: The LLM doesn’t stop at a single function call. It continues reasoning in cycles, repeatedly checking if it has gathered sufficient information, and calling tools as needed.Graph-Based System: In LangGraph, this cyclical reasoning is modeled as agraph, where nodes represent various actions or tools, and edges direct the flow of data. Each node represents a function (like calling a tool or processing data), and edges represent the connections between those actions.
+Cyclical Reasoning: The LLM doesn’t stop at a single function call. It continues reasoning in cycles, repeatedly checking if it has gathered sufficient information, and calling tools as needed.
+Graph-Based System: In LangGraph, this cyclical reasoning is modeled as agraph, where nodes represent various actions or tools, and edges direct the flow of data. Each node represents a function (like calling a tool or processing data), and edges represent the connections between those actions.
+LangGraph Workflow Example:
+User Task: A user asks a question or gives a task (e.g., “Find the population of a country”).
+LLM Reasoning: The LLM begins reasoning whether it has enough information to answer. If not, it invokes a relevant tool (e.g., a search engine).
+Tool Invocation: The tool retrieves data (e.g., population data) and returns it to the LLM.
+Cyclic Process: If the LLM determines it still needs more information, it repeats the process: reasoning, tool invocation, and observation until enough information is gathered.
+Stop Condition: Once the agent has enough data, it stops the process and returns the final result to the user.
+In LangGraph, this continuous cycle of reasoning and tool invocation is represented as a graph where each part of the process is connected and flows logically.
+Conclusion:
+LangChain’slegacy approachprovides the foundation for building basic agents that can perform tasks using tools, but it may be limited for complex workflows.LangGraph, however, introduces agraph-based structurethat enables agents to handlecyclical processes, making it ideal for more complex applications requiring multiple steps, iterative reasoning, and continuous data gathering.
+Also, read this Articles:LangChain: A One-Stop Framework Building Applications with LLMs
+Minimum System Requirements to build application using LC
+Requirement
+Details
+CPU
+Multi-core processor.
+Ram
+8 GB (16 GB+ for more complex applications).
+Storage
+50 GB of free space (more for larger models).
+Operating System
+Windows, macOS, or Linux (64-bit recommended).
+Python Version
+Python 3.8 or later.
+Python Libraries
+langchain, openai, transformers, requests, pandas, numpy, faiss, pinecone-client.
+IDE/Editor
+VS Code, PyCharm, Jupyter Notebook.
+API Access
+OpenAI, Hugging Face, SERP API, etc.
+Vector Database
+Optional: Pinecone, FAISS, Weaviate.
+LangGraph Libraries
+NetworkX for graph-based workflows.
+Cloud Resources
+Optional: AWS, Google Cloud, GPU instances.
+Prerequisites to learn/use LC (do I need to know Python to use LC)
+Prerequisite
+Required?
+Details
+Python Knowledge
+Yes
+Basic to intermediate level (variables, functions, libraries, JSON handling).
+LLM Familiarity
+Helpful
+Basic understanding of how LLMs like GPT work
+API Interaction (HTTP Requests, JSON)
+Yes
+Essential for making tool/API calls in LangChain.
+Machine Learning Knowledge
+Optional
+Basic understanding can help but is not mandatory.
+Python Environment Setup
+Yes
+Familiarity with virtual environments and IDEs (VS Code, PyCharm, etc.).
+Cloud Platforms
+Optional
+Helpful for scaling applications but not required for beginners.
+Also, read these Articles:
+The Ultimate LangChain Cheatsheet: All Secrets on a Single Page
+Building A RAG Pipeline for Semi-structured Data with Langchain
+A Step-by-Step Guide to PDF Chatbots with Langchain and Ollama
+How to Master Resume Ranking with Langchain?
+Top 8 Langchain Alternatives to Use in 2024
+Frequently Asked Questions
+What is LangChain?LangChain is an open-source framework that helps developers build applications using large language models (LLMs). It provides tools to chain multiple operations such as data preprocessing, prompt formatting, and response generation, integrating with various LLMs, retrieval systems, and vector databases​.
+What are the core components of LangChain?The core components include:LangChain Core Library: Provides functions, prompt templates, and tools for building chains and agents.LangServe: Used to deploy and serve LangChain-based applications.LangSmith: A monitoring and debugging tool.LangGraph: A newer component for creating AI agents using graph-based workflows​.
+Can I build agents using LangChain?Yes, LangChain supports building AI agents that can interface with LLMs and external tools. Agents can reason, decide on actions, execute tasks, and respond to user queries. LangGraph further enhances this by allowing cyclical reasoning and decision-making processes​.
+What are the system requirements for LangChain applications?For LangChain applications, the recommended system requirements are:CPU: Multi-core processorRAM: 8 GB (16 GB+ for more complex applications)Storage: 50 GB free spacePython Version: Python 3.8 or later​.
+Trending articles
+LangchainLarge Language ModelsA Step-by-Step Guide to PDF Chatbots with Langchain and OllamaSubhradeep26 Dec, 2024
+LangchainLarge Language ModelsLangChain: A One-Stop Framework Building Applications with LLMsAjay22 Feb, 2024
+LangchainLarge Language ModelsWhat is LangChain?Shikha Sen07 Apr, 2025
+LangchainLarge Language ModelsRAG and Streamlit Chatbot: Chat with Documents Using LLMrendyk22 May, 2024
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+www.analyticsvidhya.com_blog_category_langchain__0.webp
+www.analyticsvidhya.com_blog_category_langchain__1.webp
+www.analyticsvidhya.com_blog_category_langchain__2.webp
+www.analyticsvidhya.com_blog_category_langchain__3.webp
+www.analyticsvidhya.com_blog_category_langchain__4.webp
+www.analyticsvidhya.com_blog_category_langchain__5.webp
+www.analyticsvidhya.com_blog_category_langchain__6.webp
+www.analyticsvidhya.com_blog_category_langchain__7.webp
+www.analyticsvidhya.com_blog_category_langchain__8.webp
+www.analyticsvidhya.com_blog_category_langchain__9.webp
+www.analyticsvidhya.com_blog_category_langchain__10.png
+www.analyticsvidhya.com_blog_category_langchain__11.png
+www.analyticsvidhya.com_blog_category_langchain__12.png
+www.analyticsvidhya.com_blog_category_langchain__13.png
+www.analyticsvidhya.com_blog_category_langchain__14.webp

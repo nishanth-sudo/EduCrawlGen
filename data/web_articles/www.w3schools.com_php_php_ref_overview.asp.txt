@@ -1,0 +1,26 @@
+PHPTutorial
+PHPForms
+PHPAdvanced
+PHPOOP
+MySQLDatabase
+PHPXML
+PHP- AJAX
+PHPExamples
+PHPReference
+PHP Reference
+This section contains a complete PHP reference documentation.
+PHP Reference
+The PHP reference contains different categories of all PHP functions, keywords and constants, along with examples.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_php_php_ref_overview.asp_0.png
+www.w3schools.com_php_php_ref_overview.asp_1.png

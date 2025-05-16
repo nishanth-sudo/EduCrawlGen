@@ -1,0 +1,268 @@
+Aptitude
+Engineering Mathematics
+Discrete Mathematics
+Operating System
+DBMS
+Computer Networks
+Digital Logic and Design
+C Programming
+Data Structures
+Algorithms
+Theory of Computation
+Compiler Design
+Computer Org and Architecture
+Crack GATE 2026
+Explore GfG Courses
+Computer Network Tutorial
+Basics of Computer Network
+Basics of Computer Networking
+Introduction to basic Networking Terminology
+Goals of Networks
+Basic Characteristics of Computer Networks
+Challenges of Computer Network
+Physical Components of Computer Network
+Network Hardware and Software
+Types of Computer Networks
+LAN Full Form - Local area network
+How to Set Up a LAN Network?
+MAN Full Form in Computer Networking
+MAN Full Form
+WAN Full Form
+Introduction of Internetworking
+Difference between Internet, Intranet and Extranet
+Protocol Hierarchies in Computer Network
+Network Devices (Hub, Repeater, Bridge, Switch, Router, Gateways and Brouter)
+Introduction of a Router
+Introduction of Gateways
+What is a Network Switch and How Does it Work?
+Network Topology
+Types of Network Topology
+Difference between Physical and Logical Topology
+OSI Model
+What is OSI Model? - Layers of OSI Model
+Physical Layer in OSI Model
+Data Link Layer in  OSI Model
+Session Layer in OSI model
+Presentation Layer in OSI model
+Application Layer in OSI Model
+Protocols
+Protocol and Standard in Computer Networks
+Examples of Data Link Layer Protocols
+TCP/IP Model
+TCP/IP Model
+TCP/IP Ports and Its Applications
+What is TCP (Transmission Control Protocol)?
+TCP 3-Way Handshake Process
+Services and Segment structure in TCP
+TCP Connection Establishment
+TCP Connection Termination
+TCP Timers
+Fast Recovery Technique For Loss Recovery in TCP
+Difference Between OSI Model and TCP/IP Model
+Medium Access Control
+MAC Full Form - Media Access Control
+Channel Allocation Problem in Computer Network
+Multiple Access Protocols in Computer Network
+Carrier Sense Multiple Access (CSMA)
+Collision Detection in CSMA/CD
+Controlled Access Protocols in Computer Network
+SLIDING WINDOW PROTOCOLS
+Stop and Wait ARQ
+Sliding Window Protocol | Set 3 (Selective Repeat)
+Piggybacking in Computer Networks
+IP Addressing
+What is IPv4?
+What is IPv6?
+Introduction of Classful IP Addressing
+Classless Addressing in IP Addressing
+Classful vs Classless Addressing
+Classless Inter Domain Routing (CIDR)
+Supernetting in Network Layer
+Introduction To Subnetting
+Difference between Subnetting and Supernetting
+Routing
+Types of Routing
+Difference between Static and Dynamic Routing
+Unicast Routing - Link State Routing
+Distance Vector Routing (DVR) Protocol
+Fixed and Flooding Routing algorithms
+Introduction of Firewall in Computer Network
+Congestion Control Algorithms
+Congestion Control in  Computer Networks
+Congestion Control techniques in Computer Networks
+Leaky bucket algorithm
+TCP Congestion Control
+Network Switching
+Circuit Switching in Computer Network
+Message switching techniques
+Packet Switching and Delays in Computer Network
+Differences Between Virtual Circuits and Datagram Networks
+Application Layer:DNS
+Domain Name System (DNS)
+Records in DNS
+Introduction to Electronic Mail
+E-Mail Format
+World Wide Web (WWW)
+HTTP Full Form - Hypertext Transfer Protocol
+Streaming Stored  Video
+What is a Content Distribution Network and how does it work?
+CN Interview Quetions
+Top 50 Plus Networking Interview Questions and Answers for 2024
+Top 50 TCP/IP Interview Questions and Answers 2025
+Top 50 IP Addressing Interview Questions and Answers
+Last Minute Notes for Computer Networks
+Computer Network - Cheat Sheet
+CN MCQ
+Network Layer
+Transport Layer
+Application Layer
+DSA to DevelopmentCourse
+Computer Network Tutorial
+A Computer Network is a system where two or more devices are linked together to share data, resources, and information.These networks can range from simple setups, like connecting two devices in your home, to massive global systems, like the Internet. Below are the main components of a computer network.
+Node: Any device which can share or receive data. Examples of devices are laptop, mobile, printer, earbuds and server.
+Transmission Media :The medium through which devices communicate It can be a wired media like Optical Fiber and Ethernet Cables. It can also be a wireless media like WiFi, Bluetooth and Infrared.
+Protocol: The set of rules that devices use to communicate. There are many different protocols for different types of communications. Examples are HTTP (For web browsing) and SMTP (For emails).
+Networking Devices: The devices with main purpose of providing network facilities. Examples are Router, Switch, Access Point and Hub.
+Networking Applications: Software that provide an interface to communicate and share. Examples are browser, email clients, and file sharing applications
+Computer networks are an important part of our daily lives. They allow devices like computers, smartphones, and tablets to connect and communicate with each other. Whether you’re browsing the internet, sending an email, or streaming a video, it all happens because of computer networks.
+Fundamentals of Computer Network
+Basics of Computer Networks
+Characteristics of Computer Network
+Types of Network
+Internet,Intranet&Extranet
+Types of Network Architecture
+Types of Network Devices
+Network Models
+OSI Model
+TCP/IP Model
+OSI vs TCP/IP Model
+Physical Layer
+Physical Layer
+Types of Network Topology
+Modes of Transmission
+Transmission Media
+Data Link Layer
+Data Link Layer
+Switching Techniques
+Virtual LAN
+Link Aggregation
+Framing
+Error Detection
+Error Correction
+Error Control
+Flow Control
+Stop and wait ARQ
+Sliding Window Protocol- Go Back N
+Sliding Window Protocol- Selective Repeat
+Piggybacking
+Data Link Layer Protocols
+Network Layer
+Network Layer
+Classful Network Addressing
+Classless Network Addressing
+What is an IP address?
+IPv4 Header Format
+IPv4 vs IPv6
+Private vs Public IP addresses
+Subnetting
+Subnetting basics
+Subnet masks
+Calculate network, broadcast, and host addresses
+Variable Length Subnet Masking (VLSM)
+Advanced VLSM
+Supernetting
+Routing
+What is Routing?
+Static vs Dynamic Routing
+Link State Routing
+Distance Vector Routing
+Network Address Translation(NAT)
+Network Layer Protocols
+Address Resolution Protocol(ARP)
+Reverse Address Resolution Protocol(RARP)
+Dynamic Host Configuration Protocol(DHCP)
+Internet Control Message Protocol(ICMP)
+Internet Group Management Protocol(IGMP)
+Routing Information Protocol(RIP)
+Open Shortest Path First(OSPF)
+Intermediate System to Intermediate System(IS-IS)
+Enhanced Interior Gateway Routing Protocol(EIGRP)
+Border Gateway Protocol(BGP)
+Multiprotocol Label Switching(MPLS)
+Internet Protocol(IP)
+Generic Routing Encapsulation(GRE)
+Transport Layer
+Transport Layer
+TCP Protocol
+TCP 3-Way Handshake Process
+Services and Segment structure in TCP
+TCP Connection Establishment
+TCP Termination
+Congestion Control in TCP
+UDP Protocol
+TCP vs UDP Protocol
+Stream Control Transmission Protocol(SCTP)
+Datagram Congestion Control Protocol(DCCP)
+Reliable User Datagram Protocol(RUDP)
+Quick UDP Internet Connections(QUIC)
+Session and Presentation Layer
+Session Layer
+Functions of Session Layer
+Presentation Layer
+Services Provided by Presentation Layer
+Application Filing Protocol(AFP)
+NetWare Core Protocol (NCP)
+Secure Socket Layer (SSL)
+Remote Procedure Call(RPC)
+Point-to-Point Tunneling Protocol(PPTP)
+Multipurpose Internet Mail Extensions(MIME)
+Application Layer
+Application Layer
+Client-Server Model
+World Wide Web (WWW)
+E-Mail
+Content Distribution Network(CDN)
+Application Layer Protocols
+Domain Name System (DNS)
+File Transfer Protocol (FTP)
+Simple Mail Transfer Protocol (SMTP)
+Simple Network Management Protocol (SNMP)
+HyperText Transfer Protocol(HTTP)
+HyperText Transfer Protocol Secure(HTTPS)
+Post Office Protocol v3(POP3)
+Internet Message Access Protocol(IMAP)
+Lightweight Directory Access Protocol(LDAP)
+Network Time Protocol(NTP)
+Trivial File Transfer Protocol(TFTP)
+Network News Transfer Protocol(NNTP)
+Message Queuing Telemetry Transport(MQTT)
+Session Initiation Protocol(SIP)
+Server Message Block(SMB)
+Methods of Network Security
+Authen­tic­ation
+Encryption
+Firewalls
+MAC Address Filtering
+QoS (Quality of Service)
+What is QoS and Multimedia?
+Techniques for achieving QoS
+Congestion Control in Computer Networks
+Token Bucket
+Leaky Bucket
+Wireless and Mobile Networking
+Wi-Fi Standards
+Bluetooth&Zigbee
+Mobile Networks
+Cloud Networking
+Types of Cloud Services
+Virtual Private Network
+Network Function Virtualization (NFV)
+Emerging Networking Trends
+5G and Beyond
+Network Slicing in 5G
+Quickly review ourLast Minute Notes on Computer Networksand test your knowledge with ourpractice quiz.
+Computer Networks
+GATE CS
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?

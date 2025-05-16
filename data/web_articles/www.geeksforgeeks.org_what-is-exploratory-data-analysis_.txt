@@ -1,0 +1,134 @@
+Data Science IBM Certification
+Data Science
+Data Science Projects
+Data Analysis
+Data Visualization
+Machine Learning
+ML Projects
+Deep Learning
+NLP
+Computer Vision
+Artificial Intelligence
+Explore GfG Courses
+Share Your Experiences
+What is Exploratory Data Analysis?
+Univariate Data  EDA
+Measures of Central Tendency in Statistics
+Measures of Spread - Range, Variance, and Standard Deviation
+Interquartile Range and Quartile Deviation using NumPy and SciPy
+Anova Formula
+Skewness of Statistical Data
+How to Calculate Skewness and Kurtosis in Python?
+Difference Between Skewness and Kurtosis
+Histogram | Meaning, Example, Types and Steps to Draw
+Interpretations of Histogram
+Quantile Quantile plots
+qqplot (Quantile-Quantile Plot) in Python
+Multivariate Data EDA
+Using pandas crosstab to create a bar plot
+Exploring Correlation in Python
+Covariance and Correlation
+Factor Analysis | Data Analysis
+Data Mining - Cluster Analysis
+MANOVA (Multivariate Analysis of Variance)
+What is Canonical Correlation Analysis?
+Correspondence Analysis using Python
+What is Multidimensional Scaling?
+DSA to DevelopmentCourse
+What is Exploratory Data Analysis?Last Updated :13 Jan, 2025CommentsImproveSuggest changesLike ArticleLikeReportExploratory Data Analysis (EDA) is an important first step in data science projects. It involves looking at and visualizing data to understand its main features, find patterns, and discover how different parts of the data are connected.EDA helps to spot any unusual data or outliers and is usually done before starting more detailed statistical analysis  or building models. In this article, we will discuss what isExploratory Data Analysis (EDA)and thesteps to perform EDA.Why Exploratory Data Analysis is Important?Exploratory Data Analysis (EDA) is important for several reasons, especially in the context of data science and statistical modeling. Here are some of the key reasons why EDA is a critical step in the data analysis process:Helps to  understand the dataset, showing how many features there are, the type of data in each feature, and how the data is spread out, which helps in choosing the right methods for analysis.EDA helps to identify hidden patterns and relationships between different data points,  which help us in and model building.Allows to spot errors or unusual data points (outliers) that could affect your results.Insights that you obtain from EDA help you decide which features are most important for building models and how to prepare them to improve performance.By understanding the data, EDA helps  us in choosing the best modeling techniques and adjusting them for better results.Types of Exploratory Data AnalysisThere are various sorts of EDA strategies based on nature of the records. Depending on the number of columns we are analyzing we can divide EDA into three types:Univariate, bivariate and multivariate.1. Univariate AnalysisUnivariate analysis focuses on studying one variable to understand its characteristics. It helps describe the data and find patterns within a single feature. Common methods includehistogramsto show data distribution,box plotsto detect outliers and understand data spread, andbar chartsfor categorical data.Summary statisticslikemean,median,mode,variance,andstandard deviationhelp describe the central tendency and spread of the data2. Bivariate AnalysisBivariate analysis focuses on exploring the relationship between two variables to find connections, correlations, and dependencies. It’s an important part of exploratory data analysis that helps understand how two variables interact. Some key techniques used in bivariate analysis includescatter plots, which visualize the relationship between two continuous variables;correlation coefficient, which measures how strongly two variables are related, commonly usingPearson’s correlationfor linear relationships; andcross-tabulation, orcontingency tables, which show the frequency distribution of two categorical variables and help understand their relationship.Line graphsare useful for comparing two variables over time, especially in time series data, to identify trends or patterns.Covariancemeasures how two variables change together, though it’s often supplemented by the correlation coefficient for a clearer, more standardized view of the relationship.3. Multivariate AnalysisMultivariate analysis examines the relationships between two or more variables in the dataset. It aims to understand how variables interact with one another, which is crucial for most statistical modeling techniques. It  include Techniques likepair plots,which show the relationships between multiple variables at once, helping to see how they interact. Another technique isPrincipal Component Analysis (PCA), which reduces the complexity of large datasets by simplifying them, while keeping the most important information.In addition to univariate and multivariate analysis, there are specialized EDA techniques tailored for specific types of data or analysis needs:Spatial Analysis: For geographical data, using maps and spatial plotting to understand the geographical distribution of variables.Text Analysis: Involves techniques like word clouds, frequency distributions, and sentiment analysis to explore text data.Time Series Analysis:This type of analysis is mainly applied to statistics sets that have a temporal component. Time collection evaluation entails inspecting and modeling styles, traits, and seasonality inside the statistics through the years. Techniques like line plots, autocorrelation analysis, transferring averages, andARIMA(AutoRegressive Integrated Moving Average) fashions are generally utilized in time series analysis.Steps for Performing Exploratory Data AnalysisPerforming Exploratory Data Analysis (EDA) involves a series of steps designed to help you understand the data you’re working with, uncover underlying patterns, identify anomalies, test hypotheses, and ensure the data is clean and suitable for further analysis.Step 1: Understand the Problem and the DataThe first step in any data analysis project is to clearly understand the problem you’re trying to solve and the data you have. This involves asking key questions such as:What is the business goal or research question?What are the variables in the dataand what do they represent?What types of data(numerical, categorical, text, etc.) do you have?Are there any knowndata quality issuesorlimitations?Are there anydomain-specific concernsor restrictions?By thoroughly understanding the problem and the data, you can better plan your analysis, avoid wrong assumptions, and ensure accurate conclusionsStep 2: Import and Inspect the DataAfter clearly understanding the problem and the data, the next step is to import the data into your analysis environment (likePython,R, or a spreadsheet tool). At this stage, it’s crucial to examine the data to get an initial understanding of its structure, variable types, and potential issues.Here’s what you can do:Load the datainto your environment carefully to avoid errors or truncations.Examine the sizeof the data (number of rows and columns) to understand its complexity.Check for missing valuesand see how they are distributed across variables, since missing data can impact the quality of your analysis.Identify data typesfor each variable (like numerical, categorical, etc.), which will help in the next steps of data manipulation and analysis.Look for errorsor inconsistencies, such as invalid values, mismatched units, or outliers, which could signal deeper issues with the data.By completing these tasks, you’ll be prepared to clean and analyze the data more effectively.Step 3: Handle Missing DataMissing data is common in many datasets and can significantly affect the quality of your analysis. DuringExploratory Data Analysis (EDA), it’s important to identify and handle missing data properly to avoid biased or misleading results.Here’s how to handle it:Understand the patternsand possible reasons for missing data. Is itmissing completely at random(MCAR),missing at random(MAR), ormissing not at random(MNAR)? Knowing this helps decide how to handle the missing data.Decide whether to removemissing data (listwise deletion) orimpute(fill in) the missing values. Removing data can lead to biased outcomes, especially if the missing data isn’t MCAR. Imputing values helps preserve data but should be done carefully.Use appropriateimputation methodslikemean/median imputation,regressionimputation, or machine learning techniques likeKNNordecision treesbased on the data’s characteristics.Consider the impactof missing data. Even after imputing, missing data can cause uncertainty and bias, so interpret the results with caution.Properly handling missing data improves the accuracy of your analysis and prevents misleading conclusions.Step 4: Explore Data CharacteristicsAfter addressing missing data, the next step inEDAis to explore the characteristics of your data by examining thedistribution,central tendency, andvariabilityof your variables, as well as identifying anyoutliersor anomalies. This helps in selecting appropriate analysis methods and spotting potential data issues. You should calculatesummary statisticslikemean,median,mode,standard deviation,skewness, andkurtosisfor numerical variables. These provide an overview of the data’s distribution and help identify any irregular patterns or issues.Step 5: Perform Data TransformationData transformation is an essential step inEDAbecause it prepares your data for accurate analysis and modeling. Depending on your data’s characteristics and analysis needs, you may need to transform it to ensure it’s in the right format.Common transformation techniques include:Scaling or normalizingnumerical variables (e.g.,min-max scalingorstandardization).Encoding categorical variablesfor machine learning (e.g.,one-hot encodingorlabel encoding).Applyingmathematical transformations(e.g.,logarithmicorsquare root) to correct skewness or non-linearity.Creating new variablesfrom existing ones (e.g., calculating ratios or combining variables).Aggregating or groupingdata based on specific variables or conditionsStep 6: Visualize Data RelationshipVisualization is a powerful tool in theEDAprocess, helping to uncover relationships between variables and identify patterns or trends that may not be obvious from summary statistics alone.For categorical variables, createfrequency tables,bar plots, andpie chartsto understand the distribution of categories and identify imbalances or unusual patterns.For numerical variables, generatehistograms,box plots,violin plots, anddensity plotsto visualize distribution, shape, spread, and potential outliers.To explore relationships between variables, usescatter plots,correlation matrices, or statistical tests likePearson’s correlation coefficientorSpearman’s rank correlationStep 7: Handling OutliersOutliers are data points that significantly differ from the rest of the data, often caused by errors in measurement or data entry. Detecting and handling outliers is important because they can skew your analysis and affect model performance. You can identify outliers using methods likeinterquartile range (IQR),Z-scores, ordomain-specific rules. Once identified, outliers can be removed or adjusted depending on the context. Properly managing outliers ensures your analysis is accurate and reliable.Step 8: Communicate Findings and InsightsThe final step inEDAis to communicate your findings clearly. This involves summarizing your analysis, pointing out key discoveries, and presenting your results in a clear and engaging way.Clearly state thegoalsandscopeof your analysis.Providecontextand background to help others understand your approach.Usevisualizationsto support your findings and make them easier to understand.Highlight keyinsights,patterns, oranomaliesdiscovered.Mention anylimitationsor challenges faced during the analysis.Suggestnext stepsor areas that need further investigation.Effective conversation is critical for ensuring that your EDA efforts have a meaningful impact and that your insights are understood and acted upon with the aid of stakeholders.Exploratory Data Analysis (EDA) can be performed using a variety of tools and software, each offering features that deal to different data and analysis needs.InPython, libraries likePandasare essential for data manipulation, providing functions to clean, filter, and transform data.Matplotlibis used for creating basic static, interactive, and animated visualizations, whileSeaborn, built on top of Matplotlib, allows for the creation of more attractive and informative statistical plots. For interactive and advanced visualizations,Plotlyis an excellent choiceInR, packages likeggplot2are powerful for creating complex and visually appealing plots from data frames.dplyrhelps in data manipulation, making tasks like filtering and summarizing easier, andtidyrensures your data is in a tidy format, making it easier to work with.Next ArticleMeasures of Central Tendency in StatisticsNnikhilaggarwal3ImproveArticle Tags :AI-ML-DSData AnalysisAI-ML-DS With PythonML-EDA
+What is Exploratory Data Analysis?
+Exploratory Data Analysis (EDA) is an important first step in data science projects. It involves looking at and visualizing data to understand its main features, find patterns, and discover how different parts of the data are connected.
+EDA helps to spot any unusual data or outliers and is usually done before starting more detailed statistical analysis  or building models. In this article, we will discuss what isExploratory Data Analysis (EDA)and thesteps to perform EDA.
+Why Exploratory Data Analysis is Important?
+Exploratory Data Analysis (EDA) is important for several reasons, especially in the context of data science and statistical modeling. Here are some of the key reasons why EDA is a critical step in the data analysis process:
+Helps to  understand the dataset, showing how many features there are, the type of data in each feature, and how the data is spread out, which helps in choosing the right methods for analysis.
+EDA helps to identify hidden patterns and relationships between different data points,  which help us in and model building.
+Allows to spot errors or unusual data points (outliers) that could affect your results.
+Insights that you obtain from EDA help you decide which features are most important for building models and how to prepare them to improve performance.
+By understanding the data, EDA helps  us in choosing the best modeling techniques and adjusting them for better results.
+Types of Exploratory Data Analysis
+There are various sorts of EDA strategies based on nature of the records. Depending on the number of columns we are analyzing we can divide EDA into three types:Univariate, bivariate and multivariate.
+1. Univariate Analysis
+Univariate analysis focuses on studying one variable to understand its characteristics. It helps describe the data and find patterns within a single feature. Common methods includehistogramsto show data distribution,box plotsto detect outliers and understand data spread, andbar chartsfor categorical data.Summary statisticslikemean,median,mode,variance,andstandard deviationhelp describe the central tendency and spread of the data
+2. Bivariate Analysis
+Bivariate analysis focuses on exploring the relationship between two variables to find connections, correlations, and dependencies. It’s an important part of exploratory data analysis that helps understand how two variables interact. Some key techniques used in bivariate analysis includescatter plots, which visualize the relationship between two continuous variables;correlation coefficient, which measures how strongly two variables are related, commonly usingPearson’s correlationfor linear relationships; andcross-tabulation, orcontingency tables, which show the frequency distribution of two categorical variables and help understand their relationship.
+Line graphsare useful for comparing two variables over time, especially in time series data, to identify trends or patterns.Covariancemeasures how two variables change together, though it’s often supplemented by the correlation coefficient for a clearer, more standardized view of the relationship.
+3. Multivariate Analysis
+Multivariate analysis examines the relationships between two or more variables in the dataset. It aims to understand how variables interact with one another, which is crucial for most statistical modeling techniques. It  include Techniques likepair plots,which show the relationships between multiple variables at once, helping to see how they interact. Another technique isPrincipal Component Analysis (PCA), which reduces the complexity of large datasets by simplifying them, while keeping the most important information.
+In addition to univariate and multivariate analysis, there are specialized EDA techniques tailored for specific types of data or analysis needs:
+Spatial Analysis: For geographical data, using maps and spatial plotting to understand the geographical distribution of variables.
+Text Analysis: Involves techniques like word clouds, frequency distributions, and sentiment analysis to explore text data.
+Time Series Analysis:This type of analysis is mainly applied to statistics sets that have a temporal component. Time collection evaluation entails inspecting and modeling styles, traits, and seasonality inside the statistics through the years. Techniques like line plots, autocorrelation analysis, transferring averages, andARIMA(AutoRegressive Integrated Moving Average) fashions are generally utilized in time series analysis.
+Steps for Performing Exploratory Data Analysis
+Performing Exploratory Data Analysis (EDA) involves a series of steps designed to help you understand the data you’re working with, uncover underlying patterns, identify anomalies, test hypotheses, and ensure the data is clean and suitable for further analysis.
+Step 1: Understand the Problem and the Data
+The first step in any data analysis project is to clearly understand the problem you’re trying to solve and the data you have. This involves asking key questions such as:
+What is the business goal or research question?
+What are the variables in the dataand what do they represent?
+What types of data(numerical, categorical, text, etc.) do you have?
+Are there any knowndata quality issuesorlimitations?
+Are there anydomain-specific concernsor restrictions?
+By thoroughly understanding the problem and the data, you can better plan your analysis, avoid wrong assumptions, and ensure accurate conclusions
+Step 2: Import and Inspect the Data
+After clearly understanding the problem and the data, the next step is to import the data into your analysis environment (likePython,R, or a spreadsheet tool). At this stage, it’s crucial to examine the data to get an initial understanding of its structure, variable types, and potential issues.
+Here’s what you can do:
+Load the datainto your environment carefully to avoid errors or truncations.
+Examine the sizeof the data (number of rows and columns) to understand its complexity.
+Check for missing valuesand see how they are distributed across variables, since missing data can impact the quality of your analysis.
+Identify data typesfor each variable (like numerical, categorical, etc.), which will help in the next steps of data manipulation and analysis.
+Look for errorsor inconsistencies, such as invalid values, mismatched units, or outliers, which could signal deeper issues with the data.
+By completing these tasks, you’ll be prepared to clean and analyze the data more effectively.
+Step 3: Handle Missing Data
+Missing data is common in many datasets and can significantly affect the quality of your analysis. DuringExploratory Data Analysis (EDA), it’s important to identify and handle missing data properly to avoid biased or misleading results.
+Here’s how to handle it:
+Understand the patternsand possible reasons for missing data. Is itmissing completely at random(MCAR),missing at random(MAR), ormissing not at random(MNAR)? Knowing this helps decide how to handle the missing data.
+Decide whether to removemissing data (listwise deletion) orimpute(fill in) the missing values. Removing data can lead to biased outcomes, especially if the missing data isn’t MCAR. Imputing values helps preserve data but should be done carefully.
+Use appropriateimputation methodslikemean/median imputation,regressionimputation, or machine learning techniques likeKNNordecision treesbased on the data’s characteristics.
+Consider the impactof missing data. Even after imputing, missing data can cause uncertainty and bias, so interpret the results with caution.
+Properly handling missing data improves the accuracy of your analysis and prevents misleading conclusions.
+Step 4: Explore Data Characteristics
+After addressing missing data, the next step inEDAis to explore the characteristics of your data by examining thedistribution,central tendency, andvariabilityof your variables, as well as identifying anyoutliersor anomalies. This helps in selecting appropriate analysis methods and spotting potential data issues. You should calculatesummary statisticslikemean,median,mode,standard deviation,skewness, andkurtosisfor numerical variables. These provide an overview of the data’s distribution and help identify any irregular patterns or issues.
+Step 5: Perform Data Transformation
+Data transformation is an essential step inEDAbecause it prepares your data for accurate analysis and modeling. Depending on your data’s characteristics and analysis needs, you may need to transform it to ensure it’s in the right format.
+Common transformation techniques include:
+Scaling or normalizingnumerical variables (e.g.,min-max scalingorstandardization).
+Encoding categorical variablesfor machine learning (e.g.,one-hot encodingorlabel encoding).
+Applyingmathematical transformations(e.g.,logarithmicorsquare root) to correct skewness or non-linearity.
+Creating new variablesfrom existing ones (e.g., calculating ratios or combining variables).
+Aggregating or groupingdata based on specific variables or conditions
+Step 6: Visualize Data Relationship
+Visualization is a powerful tool in theEDAprocess, helping to uncover relationships between variables and identify patterns or trends that may not be obvious from summary statistics alone.
+For categorical variables, createfrequency tables,bar plots, andpie chartsto understand the distribution of categories and identify imbalances or unusual patterns.
+For numerical variables, generatehistograms,box plots,violin plots, anddensity plotsto visualize distribution, shape, spread, and potential outliers.
+To explore relationships between variables, usescatter plots,correlation matrices, or statistical tests likePearson’s correlation coefficientorSpearman’s rank correlation
+Step 7: Handling Outliers
+Outliers are data points that significantly differ from the rest of the data, often caused by errors in measurement or data entry. Detecting and handling outliers is important because they can skew your analysis and affect model performance. You can identify outliers using methods likeinterquartile range (IQR),Z-scores, ordomain-specific rules. Once identified, outliers can be removed or adjusted depending on the context. Properly managing outliers ensures your analysis is accurate and reliable.
+Step 8: Communicate Findings and Insights
+The final step inEDAis to communicate your findings clearly. This involves summarizing your analysis, pointing out key discoveries, and presenting your results in a clear and engaging way.
+Clearly state thegoalsandscopeof your analysis.
+Providecontextand background to help others understand your approach.
+Usevisualizationsto support your findings and make them easier to understand.
+Highlight keyinsights,patterns, oranomaliesdiscovered.
+Mention anylimitationsor challenges faced during the analysis.
+Suggestnext stepsor areas that need further investigation.
+Effective conversation is critical for ensuring that your EDA efforts have a meaningful impact and that your insights are understood and acted upon with the aid of stakeholders.
+Exploratory Data Analysis (EDA) can be performed using a variety of tools and software, each offering features that deal to different data and analysis needs.
+InPython, libraries likePandasare essential for data manipulation, providing functions to clean, filter, and transform data.Matplotlibis used for creating basic static, interactive, and animated visualizations, whileSeaborn, built on top of Matplotlib, allows for the creation of more attractive and informative statistical plots. For interactive and advanced visualizations,Plotlyis an excellent choice
+InR, packages likeggplot2are powerful for creating complex and visually appealing plots from data frames.dplyrhelps in data manipulation, making tasks like filtering and summarizing easier, andtidyrensures your data is in a tidy format, making it easier to work with.
+N
+AI-ML-DS
+Data Analysis
+AI-ML-DS With Python
+ML-EDA
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+www.geeksforgeeks.org_what-is-exploratory-data-analysis__0.webp
+www.geeksforgeeks.org_what-is-exploratory-data-analysis__1.png
+www.geeksforgeeks.org_what-is-exploratory-data-analysis__2.webp
+www.geeksforgeeks.org_what-is-exploratory-data-analysis__3.webp
+www.geeksforgeeks.org_what-is-exploratory-data-analysis__4.webp
+www.geeksforgeeks.org_what-is-exploratory-data-analysis__5.png
+www.geeksforgeeks.org_what-is-exploratory-data-analysis__6.png

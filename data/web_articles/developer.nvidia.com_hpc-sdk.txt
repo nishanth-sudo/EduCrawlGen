@@ -1,0 +1,172 @@
+NVIDIA HPC SDK
+A Comprehensive Suite of Compilers, Libraries and Tools for HPC
+The NVIDIA HPC Software Development Kit (SDK) includes the proven compilers, libraries and
+      software tools essential to maximizing developer productivity and the performance and portability of HPC
+      applications.
+The NVIDIA HPC SDK C, C++, and Fortran compilers support GPU acceleration of HPC modeling and simulation
+        applications with standard C++ and Fortran, OpenACC® directives, and CUDA®. GPU-accelerated math libraries
+        maximize performance on common HPC algorithms, and optimized communications libraries enable standards-based
+        multi-GPU and scalable systems programming. Performance profiling and debugging tools simplify porting and
+        optimization of HPC applications, and containerization tools enable easy deployment on-premises or in the cloud.
+        With support for NVIDIA GPUs and Arm or x86-64 CPUs running Linux, the HPC SDK provides the tools
+        you need to build NVIDIA GPU-accelerated HPC applications.
+Download NowGet Container
+Why Use the NVIDIA HPC SDK?
+Performance
+Widely used HPC applications, including VASP, Gaussian, ANSYS Fluent, GROMACS, and NAMD, use CUDA, OpenACC, and
+      GPU-accelerated math libraries to deliver breakthrough performance to their users. You can use these same software
+      tools to GPU-accelerate your applications and achieve dramatic speedups and power efficiency using NVIDIA GPUs.
+Portability
+Build and optimize applications for over 99 percent of today's Top500 systems, including those based on NVIDIA
+      GPUs, x86-64, or Arm. You can use drop-in libraries, C++17 parallel algorithms and OpenACC
+      directives to GPU accelerate your code and ensure your applications are fully portable to other compilers and
+      systems.
+Productivity
+Maximize science and engineering throughput and minimize coding time with a single integrated suite that allows
+      you to quickly port, parallelize and optimize for GPU acceleration, including industry-standard communication
+      libraries for multi-GPU and scalable computing, and profiling and debugging tools for analysis.
+Support for Your Favorite Programming Languages
+C++17 Parallel Algorithms
+C++17 parallel algorithms enable portable parallel programming using the Standard Template Library (STL). The
+      NVIDIA HPC SDK C++ compiler supports full C++17 on CPUs and offloading of parallel algorithms to NVIDIA GPUs,
+      enabling GPU programming with no directives, pragmas, or annotations. Programs that use C++17 parallel algorithms
+      are readily portable to most C++ implementations for Linux, Windows, and macOS.
+Fortran 2003 Compiler
+The NVIDIA Fortran compiler supports Fortran 2003 and many features of Fortran 2008. With support for OpenACC andCUDA Fortranon NVIDIA GPUs, and SIMD vectorization, OpenACC and OpenMP for multicore
+      x86-64 and Arm, it has the features you need to port and optimize your Fortran applications on
+      today’s heterogeneous GPU-accelerated HPC systems.
+OpenACC Directives
+NVIDIA Fortran, C, and, C++ compilers support OpenACC directive-based parallel programming for NVIDIA GPUs and
+      multicore CPUs. Over 200 HPC application ports have been initiated or enabled using OpenACC, including production
+      applications like VASP, Gaussian, ANSYS Fluent, WRF, and MPAS. OpenACC is the proven performance-portable
+      directives solution for GPUs and multicore CPUs.
+Key Features
+GPU Math Libraries
+The NVIDIA HPC SDK includes a suite ofGPU-accelerated math librariesfor compute-intensive applications. The cuBLAS and cuSOLVER libraries provide GPU-optimized and multi-GPU
+      implementations of all BLAS routines and core routines from LAPACK, automatically using NVIDIA GPU Tensor Cores
+      where possible. cuFFT includes GPU-accelerated 1D, 2D, and 3D FFT routines for real and complex data, and cuSPARSE
+      provides basic linear algebra subroutines for sparse matrices. These libraries are callable from CUDA and OpenACC
+      programs written in C, C++ and Fortran.
+Optimized for Tensor Cores
+NVIDIA GPU Tensor Cores enable scientists and engineers to dramatically accelerate suitable algorithms using
+      mixed precision or double precision. The NVIDIA HPC SDK math libraries are optimized for Tensor Cores and
+      multi-GPU nodes to deliver the full performance potential of your system with minimal coding effort. Using the
+      NVIDIA Fortran compiler, you can leverage Tensor Cores through automatic mapping of transformational array
+      intrinsics to the cuTENSOR library.
+Technical Blog:Bringing Tensor Cores to Standard Fortran
+Optimized for Your CPU
+Heterogeneous HPC servers use GPUs for accelerated computing and multicore CPUs based on the x86-64 or
+      Arm instruction set architectures.NVIDIA HPC compilersand tools are supported on
+      all of these CPUs, and all compiler optimizations are fully enabled on any CPU that supports them. With uniform
+      features, command-line options, language implementations, programming models, and tool and library user interfaces
+      across all supported systems, the NVIDIA HPC SDK simplifies the developer experience in diverse HPC environments.
+Multi-GPU Programming
+The NVIDIA Collective Communications Library (NCCL) implements highly optimized multi-GPU and multi-node
+      collective communication primitives using MPI-compatible all-gather, all-reduce, broadcast, reduce, and
+      reduce-scatter routines to take advantage of all available GPUs within and across your HPC server nodes. NVSHMEM
+      implements the OpenSHMEM standard for GPU memory and provides multi-GPU and multi-node communication primitives
+      that can be initiated from a host CPU or GPU and called from within a CUDA kernel.
+Scalable Systems Programming
+MPI is the standard for programming distributed-memory scalable systems. The NVIDIA HPC SDK includes a CUDA-aware
+      MPI library based on Open MPI with support for GPUDirect™ so you can send and receive GPU buffers directly using
+      remote direct memory access (RDMA), including buffers allocated in CUDA Unified Memory. CUDA-aware Open MPI is
+      fully compatible with CUDA C/C++, CUDA Fortran and the NVIDIA OpenACC compilers.
+Nsight Performance Profiling
+Nsight™ Systems provides system-wide visualization of application performance on HPC servers and enables you to
+      optimize away bottlenecks and scale parallel applications across multicore CPUs and GPUs. Nsight Compute allows
+      you to deep dive into GPU kernels in an interactive profiler for GPU-accelerated applications via a graphical or
+      command-line user interface, and allows you to pinpoint performance bottlenecks using the NVTX API to directly
+      instrument regions of your source code.
+Deploy Anywhere
+Containerssimplify software deployment by bundling
+      applications and their dependencies into portable virtual environments. The NVIDIA HPC SDK includes instructions
+      for developing, profiling, and deploying software using the HPC Container Maker to simplify the creation of
+      container images. The NVIDIA Container Runtime enables seamless GPU support in virtually all container frameworks,
+      including Docker and Singularity.
+What Users are Saying
+“On Perlmutter, we need Fortran, C and C++ compilers that support all the programming models our users need
+        and expect on NVIDIA GPUs and AMD EPYC CPUs — MPI, OpenMP, OpenACC, CUDA and optimized math libraries. The
+        NVIDIA HPC SDK checks all of those boxes.”
+HPC Compilers Support Services
+HPC Compiler Support Services provide access to NVIDIA technical experts, including:
+Paid technical support for the NVFORTRAN, NVC++ and NVC compilers (NVCC excluded).
+Help with installation and usage of NVFORTRAN, NVC++ and NVC compilers.
+Confirmation of bug reports, prioritization of bug fixes above those from non-paid users.
+Where possible, help with temporary workarounds for confirmed compiler bugs.
+Access to release archives including both HPC SDK and legacy PGI packages.
+For more details please refer toEnd
+          Customer Terms & Conditions.
+Get Started
+Interested in purchasing the support offer?Contact us.
+Already have an active support contract and already registered for support? Log in to theNVIDIA support portal.
+Existing customer and want to renew your contract?Contact us.
+Questions? Learn more by sending email toenterpriseservices@nvidia.com.
+Featured Content
+Resources
+HPC SDK Documentation
+Developer Forums
+Training:Portable
+                    Acceleration of HPC Applications using ISO C++ - Part 1: FundamentalsPortable
+                    Acceleration of HPC Applications using ISO C++ - Part 2: FundamentalsScaling
+                    GPU-Accelerated Applications with the C++ Standard Library
+Portable
+                    Acceleration of HPC Applications using ISO C++ - Part 1: Fundamentals
+Portable
+                    Acceleration of HPC Applications using ISO C++ - Part 2: Fundamentals
+Scaling
+                    GPU-Accelerated Applications with the C++ Standard Library
+GPU Hackathons and Bootcamps
+Industry Articles:Why
+                    Standards-Based Parallel Programming Should be in Your HPC ToolboxLeveraging
+                    Standards-Based Parallel Programming in HPC ApplicationsNew C++
+                    Sender Library Enables Portable Asynchrony
+Why
+                    Standards-Based Parallel Programming Should be in Your HPC Toolbox
+Leveraging
+                    Standards-Based Parallel Programming in HPC Applications
+New C++
+                    Sender Library Enables Portable Asynchrony
+Technical Blogs:Developing Accelerated Code with Standard Language ParallelismMulti-GPU
+                  Programming with Standard Parallel C++: Part OneMulti-GPU
+                  Programming with Standard Parallel C++: Part TwoUsing Fortran Standard Parallel Programming for GPU AccelerationN Ways to SAXPY: Demonstrating the Breadth of GPU Programming OptionsAccelerating Standard
+                  C++ with GPUs Using stdparAccelerating Fortran DO CONCURRENT with GPUs and the NVIDIA HPC SDKBringing Tensor Cores to
+                  Standard FortranBuilding and Deploying HPC Applications Using NVIDIA HPC SDK from the NVIDIA NGC
+                  CatalogAccelerating Python on GPUs with
+                  nvc++ and CythonMultinode Multi-GPU: Using
+                  NVIDIA cuFFTMp FFTs at ScaleExtending
+                  Block-Cyclic Tensors for Multi-GPU with NVIDIA cuTensorMgAccelerating GPU
+                  Applications with NVIDIA Math LibrariesAccelerating
+                  NVIDIA HPC Software with SVE on AWS Graviton3
+Developing Accelerated Code with Standard Language Parallelism
+Multi-GPU
+                  Programming with Standard Parallel C++: Part One
+Multi-GPU
+                  Programming with Standard Parallel C++: Part Two
+Using Fortran Standard Parallel Programming for GPU Acceleration
+N Ways to SAXPY: Demonstrating the Breadth of GPU Programming Options
+Accelerating Standard
+                  C++ with GPUs Using stdpar
+Accelerating Fortran DO CONCURRENT with GPUs and the NVIDIA HPC SDK
+Bringing Tensor Cores to
+                  Standard Fortran
+Building and Deploying HPC Applications Using NVIDIA HPC SDK from the NVIDIA NGC
+                  Catalog
+Accelerating Python on GPUs with
+                  nvc++ and Cython
+Multinode Multi-GPU: Using
+                  NVIDIA cuFFTMp FFTs at Scale
+Extending
+                  Block-Cyclic Tensors for Multi-GPU with NVIDIA cuTensorMg
+Accelerating GPU
+                  Applications with NVIDIA Math Libraries
+Accelerating
+                  NVIDIA HPC Software with SVE on AWS Graviton3
+Presentations:Standard Fortran on GPUs and its
+                    Utility in Quantum Chemistry Codes
+Standard Fortran on GPUs and its
+                    Utility in Quantum Chemistry Codes
+Related libraries and software:NVIDIA GPUDirect®Magnum IO
+NVIDIA GPUDirect®
+Magnum IO
+Get Started
+Download

@@ -1,0 +1,39 @@
+StatisticsTutorial
+Descriptive Statistics
+Inferential Statistics
+StatReference
+Statistics Tutorial
+Learn Statistics
+Welcome to this introductory course in Statistics.
+This course serves as an excellent primer to Data Analytics.
+Learning by Reading
+We have created 36 tutorial pages for you to learn more about some of the most important concepts in Statistics.
+Basic Concepts
+Descriptive Statistics
+Inferential Statistics
+Learning by Examples
+In our "Try it Yourself" editor, you can use Python modules and R code, and modify the code to see the result.
+Example
+With Python use the NumPy librarymean()method to find the mean of the values 4,11,7,14:
+mean()
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_statistics_index.php_0.png
+www.w3schools.com_statistics_index.php_1.png

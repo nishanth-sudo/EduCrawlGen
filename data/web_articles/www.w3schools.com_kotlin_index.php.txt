@@ -1,0 +1,51 @@
+KotlinTutorial
+Kotlin Classes
+Kotlin Examples
+KotlinTutorial
+Learn Kotlin
+Kotlin is a modern, trending programming language.
+Kotlin is easy to learn, especially if you already know Java (it is 
+  100% compatible with Java).
+Kotlin is used to develop Android apps, server side apps, and much more.
+Examples in Each Chapter
+Our "Try it Yourself" editor makes it easy to learn Kotlin. You can edit the 
+code and view the result in your browser:
+Example
+fun main() {
+  println("Hello World")
+}
+fun main() {
+  println("Hello World")
+}
+Click on the "Try it Yourself" button to see how it works.
+We recommend reading this tutorial, in the sequence listed in the left menu.
+Kotlin Exercises
+Kotlin Quiz
+Learn by taking a quiz! This quiz will give you a signal of how much you know about Kotlin.
+Take the Kotlin Quiz
+Learn by Examples
+Learn by examples! This tutorial supplements all explanations with clarifying examples.
+See All Kotlin Examples
+Download Kotlin
+Download Kotlin from github:https://github.com/JetBrains/kotlin
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_kotlin_index.php_0.png
+www.w3schools.com_kotlin_index.php_1.png

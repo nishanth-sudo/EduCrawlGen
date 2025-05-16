@@ -1,0 +1,54 @@
+Tutorial
+Examples
+Reference
+AngularJS Tutorial
+Learn AngularJS
+AngularJS extends HTML with new attributes.
+AngularJS is perfect for Single Page Applications (SPAs).
+AngularJS is easy to learn.
+This Tutorial
+This tutorial is specially designed to help you learn AngularJS as quickly and efficiently as possible.
+First, you will learn the basics of AngularJS: directives, expressions, 
+filters, modules, and controllers.
+Then you will learn everything else you need to know about AngularJS:
+Events, DOM, Forms, Input, Validation, Http, and more.
+Try it Yourself Examples in Every Chapter
+In every chapter, you can edit the examples online, and click on a button to view the result.
+AngularJS Example
+What You Should Already Know
+Before you study AngularJS, you should have a basic understanding of:
+HTML
+CSS
+JavaScript
+AngularJS History
+AngularJS version 1.0 was released in 2012.
+MiÅ¡ko Hevery, a Google employee, started to work with AngularJS in 2009.
+The idea turned out very well, and the project is now officially supported by 
+Google.
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+AngularJS Examples
+W3Schools' AngularJS tutorial contains lots of AngularJS examples!
+AngularJS Examples
+AngularJS Reference
+The AngularJS reference contains all directives and filters used in this tutorial.
+AngularJS Reference
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_angular_default.asp_0.png
+www.w3schools.com_angular_default.asp_1.png

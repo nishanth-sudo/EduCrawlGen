@@ -1,0 +1,87 @@
+W3SchoolsQuizzes
+W3Schools Quizzes
+Test your skills with W3Schools' Quizzes.
+The Quiz
+Each quiz contains 25-40 questions,
+you get 1 point for each correct answer,
+at the end of each quiz you get your total score.
+When you finish the quiz, you can go through each question with the correct answer.
+HTML
+40 Questions covering the basics of HTML
+CSS
+25 Questions covering the basics of CSS
+JavaScript
+25 Questions covering the basics of JavaScript
+SQL
+25 Questions covering the basics of SQL
+MySQL
+25 Questions covering the basics of MySQL
+Python
+25 Questions covering the basics of Python
+PHP
+25 Questions covering the basics of PHP
+Bootstrap
+25 Questions covering the basics of Bootstrap
+Bootstrap 4
+25 Questions covering the basics of Bootstrap 4
+Bootstrap 5
+25 Questions covering the basics of Bootstrap 5
+jQuery
+25 Questions covering the basics of jQuery
+React
+25 Questions covering the basics of React
+Java
+25 Questions covering the basics of Java
+C
+25 Questions covering the basics of C
+C++
+25 Questions covering the basics of C++
+C#
+25 Questions covering the basics of C#
+R
+25 Questions covering the basics of R
+Kotlin
+25 Questions covering the basics of Kotlin
+NumPy
+25 Questions covering the basics of NumPy
+Pandas
+25 Questions covering the basics of Pandas
+SciPy
+25 Questions covering the basics of SciPy
+Django
+25 Questions covering the basics of Django
+Vue
+25 Questions covering the basics of Vue
+DSA
+25 Questions covering the basics of Data Structures and Algorithms
+PostgreSQL
+25 Questions covering the basics of PostgreSQL
+TypeScript
+25 Questions covering the basics of TypeScript
+XML
+25 Questions covering the basics of XML
+Math
+25 Questions covering the basics of Math
+Git
+25 Questions covering the basics of Git
+SVG
+25 Questions covering the basics of SVG
+Cyber Security
+25 Questions covering the basics of Cyber Security
+Accessibility
+25 Questions covering the basics of Accessibility
+Kickstart your career
+Get certified by completingthecourse
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_quiztest_default.asp_0.png
+www.w3schools.com_quiztest_default.asp_1.png

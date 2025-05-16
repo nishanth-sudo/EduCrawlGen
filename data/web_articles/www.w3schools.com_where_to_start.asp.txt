@@ -1,0 +1,46 @@
+Where To Start
+To become a web developer, start with the subjects below,in the following order:
+HTML
+1. Create your first web page
+The first thing you have to learn, is HTML, which is the standard markup language for creating web pages.
+HTML
+CSS
+2. Style your web page
+The next step is to learn CSS, to set the layout of your web page with beautiful colors, fonts, and much more.
+CSS
+JavaScript
+3. Make your web page interactive
+After studying HTML and CSS, you should learn JavaScript to create dynamic and interactive web pages for your users.
+JavaScript
+What's Next?
+Now you know how to use HTML, CSS, and JavaScriptto create, style, and make interactive web pages.
+Thenext stepis to publish your website,so that the rest of the world can see your work.
+There are tons of hosting services to choose from.We have made one for you, for free:
+W3Schools Spaces
+Create your own website withW3Schools Spaces,for free:
+Hello,Front-End Developer!
+People who create websites and web applications for a living, are calledFront-End Developers.
+Tip:Many Front-End Developers also have basic knowledge of different CSS and JavaScript frameworks and libraries, likeBootstrap,SASS (CSS pre-processor),jQueryandReact,and the popular version control system,Git.
+What About Back-End?
+Front-enddevelopment refers to theclient-side (how a web pagelooks).Back-enddevelopment refers to theserver-side (how a web pageworks).
+Front-end code is used to createstaticwebsites, where the purpose is to display the web page. However, if you want to make your websitedynamic(manage files and databases, 
+    add contact forms, control user-access, etc.), you need to learn a back-end programming language, likePHPorPython, and useSQLto communicate with databases.
+If you already have some backend experience, you should know that you can useW3Schools Spacesto build, test and deploy backend code as well.
+A list of other popular languages can be found on ourHomepage.
+Log In To CreateYour Own Learning Path
+Create a W3Schools account to build your own learning path and set yourself a goal.
+Learn in a structured way and track your progress as you improve.
+Select a Predefined Path, or pick one or more topics you want to learn:
+You have selected0Topics.
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_where_to_start.asp_0.gif
+www.w3schools.com_where_to_start.asp_1.png

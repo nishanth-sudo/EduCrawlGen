@@ -1,0 +1,3557 @@
+
+
+DSA Course
+DSA
+Algorithms
+Analysis of Algorithms
+Sorting
+Searching
+Greedy
+Recursion
+Backtracking
+Dynamic Programming
+Divide and Conquer
+Geometric Algorithms
+Mathematical Algorithms
+Pattern Searching
+Bitwise Algorithms
+Branch & Bound
+Randomized Algorithms
+Explore GfG Courses
+Share Your Experiences
+GATE CS Notes
+Benefits of writing GATE exam
+How to Use GeeksforGeeks to Prepare for GATE CS?
+GATE 2025 Syllabus For CSE (Computer Science & Engineering)
+DS & C Programming
+Data Structures Tutorial
+LMNs-Data Structures
+Algorithms
+Algorithms Tutorial
+LMNs- Algorithms
+Database Management System
+DBMS Tutorial – Learn Database Management System
+Database Management System - GATE CSE Previous Year Questions
+Last Minute Notes - DBMS
+Operating System
+Operating System Tutorial
+Operating System Interview Questions
+Last Minute Notes – Operating Systems
+Computer Networks
+Computer Network Tutorial
+Computer Networks - GATE CSE Previous Year Questions
+Last Minute Notes for Computer Networks
+Digital Logic and Design
+Digital Electronics and Logic Design Tutorials
+Digital Logic & Number representation
+LMN - Digital Electronics
+Theory of Computation
+Automata Tutorial
+Theory of Computation - GATE CSE Previous Year Questions
+Last Minute Notes - Theory of Computation
+Compiler Design
+Compiler Design Tutorial
+Compiler Design - GATE CSE Previous Year Questions
+Last Minute Notes - Compiler Design
+Computer Organization and Architecture
+Computer Organization and Architecture Tutorial
+Computer Organization and Architecture
+Last Minute Notes Computer Organization
+Discrete Mathematics
+Discrete Mathematics Tutorial
+Top MCQs on Graph Theory in Mathematics
+Last Minute Notes – Discrete Mathematics
+Engineering Mathematics
+Engineering Mathematics Tutorials
+Permutation and Combination
+Last Minute Notes - Engineering Mathematics
+GATE CS Preparation
+GATE CSE and DA Previous Years Papers PDF Download Link
+GATE 2025 Exam Preparation Strategy (for Last 30 Days)
+GATE 2024 Preparation Guide
+PSU Recruitment through GATE 2025 - Eligibility, Selection Process, Total Posts, and Cutoff
+Important Topics for GATE 2025 Computer Science
+7 Tips to Score High in GATE 2025 in Last 10 Days
+How to Prepare For GATE CSE For Non-CSE Student [2025]
+DSA to DevelopmentCourse
+Algorithms Tutorial
+Algorithmis a step-by-step procedure for solving a problem or accomplishing a task. In the context of data structures and algorithms, it is a set of well-defined instructions for performing a specific computational task. Algorithms are fundamental to computer science and play a very important role in designing efficient solutions for various problems. Understanding algorithms is essential for anyone interested in mastering data structures and algorithms.
+What is an Algorithm?
+Analgorithmis a finite sequence of well-defined instructions that can be used to solve a computational problem. It provides a step-by-step procedure that convert an input into a desired output.
+Algorithms typically follow a logical structure:
+Input:The algorithm receives input data.
+Processing:The algorithm performs a series of operations on the input data.
+Output:The algorithm produces the desired output.
+What is the Need for Algorithms?
+Algorithms are essential for solving complex computational problems efficiently and effectively. They provide a systematic approach to:
+Solving problems:Algorithms break down problems into smaller, manageable steps.
+Optimizing solutions:Algorithms find the best or near-optimal solutions to problems.
+Automating tasks:Algorithms can automate repetitive or complex tasks, saving time and effort.
+Please referComplete Data Structures & Algorithms Tutorialfor topic-wise guide, practice problems and interview questions.
+H
+Algorithms
+DSA
+Algorithms
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+DSA Course
+DSA
+Algorithms
+Analysis of Algorithms
+Sorting
+Searching
+Greedy
+Recursion
+Backtracking
+Dynamic Programming
+Divide and Conquer
+Geometric Algorithms
+Mathematical Algorithms
+Pattern Searching
+Bitwise Algorithms
+Branch & Bound
+Randomized Algorithms
+Explore GfG Courses
+Share Your Experiences
+GATE CS Notes
+Benefits of writing GATE exam
+How to Use GeeksforGeeks to Prepare for GATE CS?
+GATE 2025 Syllabus For CSE (Computer Science & Engineering)
+DS & C Programming
+Data Structures Tutorial
+LMNs-Data Structures
+Algorithms
+Algorithms Tutorial
+LMNs- Algorithms
+Database Management System
+DBMS Tutorial – Learn Database Management System
+Database Management System - GATE CSE Previous Year Questions
+Last Minute Notes - DBMS
+Operating System
+Operating System Tutorial
+Operating System Interview Questions
+Last Minute Notes – Operating Systems
+Computer Networks
+Computer Network Tutorial
+Computer Networks - GATE CSE Previous Year Questions
+Last Minute Notes for Computer Networks
+Digital Logic and Design
+Digital Electronics and Logic Design Tutorials
+Digital Logic & Number representation
+LMN - Digital Electronics
+Theory of Computation
+Automata Tutorial
+Theory of Computation - GATE CSE Previous Year Questions
+Last Minute Notes - Theory of Computation
+Compiler Design
+Compiler Design Tutorial
+Compiler Design - GATE CSE Previous Year Questions
+Last Minute Notes - Compiler Design
+Computer Organization and Architecture
+Computer Organization and Architecture Tutorial
+Computer Organization and Architecture
+Last Minute Notes Computer Organization
+Discrete Mathematics
+Discrete Mathematics Tutorial
+Top MCQs on Graph Theory in Mathematics
+Last Minute Notes – Discrete Mathematics
+Engineering Mathematics
+Engineering Mathematics Tutorials
+Permutation and Combination
+Last Minute Notes - Engineering Mathematics
+GATE CS Preparation
+GATE CSE and DA Previous Years Papers PDF Download Link
+GATE 2025 Exam Preparation Strategy (for Last 30 Days)
+GATE 2024 Preparation Guide
+PSU Recruitment through GATE 2025 - Eligibility, Selection Process, Total Posts, and Cutoff
+Important Topics for GATE 2025 Computer Science
+7 Tips to Score High in GATE 2025 in Last 10 Days
+How to Prepare For GATE CSE For Non-CSE Student [2025]
+DSA to DevelopmentCourse
+Algorithms Tutorial
+Algorithmis a step-by-step procedure for solving a problem or accomplishing a task. In the context of data structures and algorithms, it is a set of well-defined instructions for performing a specific computational task. Algorithms are fundamental to computer science and play a very important role in designing efficient solutions for various problems. Understanding algorithms is essential for anyone interested in mastering data structures and algorithms.
+What is an Algorithm?
+Analgorithmis a finite sequence of well-defined instructions that can be used to solve a computational problem. It provides a step-by-step procedure that convert an input into a desired output.
+Algorithms typically follow a logical structure:
+Input:The algorithm receives input data.
+Processing:The algorithm performs a series of operations on the input data.
+Output:The algorithm produces the desired output.
+What is the Need for Algorithms?
+Algorithms are essential for solving complex computational problems efficiently and effectively. They provide a systematic approach to:
+Solving problems:Algorithms break down problems into smaller, manageable steps.
+Optimizing solutions:Algorithms find the best or near-optimal solutions to problems.
+Automating tasks:Algorithms can automate repetitive or complex tasks, saving time and effort.
+Please referComplete Data Structures & Algorithms Tutorialfor topic-wise guide, practice problems and interview questions.
+H
+Algorithms
+DSA
+Algorithms
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+Courses
+Placement
+Data ScienceIBM
+GATE
+Practice
+DSA
+Practice Problems
+Python
+C
+C++
+Java
+Courses
+Machine Learning
+DevOps
+Web Development
+System Design
+Aptitude
+Projects
+Our website uses cookies
+All Courses
+Self-Paced
+Data Structures and Algorithms - Self Paced [Online Course]
+Most popular course on DSA trusted by over 1,00,000+ students! Built with years of experience by industry experts the course gives you a complete package ofvideo lectures, practice problems, quizzes, discussion forums, and contests.Enrol now to learn and master DSA skills!
+GFG Offer Extended - Ends Saturday! Grab Your 50% Discount NOW!!Use Coupon: "SKILLUP50" | Get an instant 50% discount!!
+Course Overview
+DSA Self-Paced Course - Overview
+ThisData Structures and Algorithms courseis designed to help you master the essential skills needed for programming and DSA coding interviews. In this complete DSA course, you'll learn about various data structures likearrays, linked lists, stacks, queues, trees, and graphs.You'll also learn about important algorithms such as sorting, searching, and hashing.
+In this self-paced online DSA course, well start with the basics of each data structure, explaining how they work and their real-world applications. Youll understand how to implement these data structures in popular programming languages like Python, Java, and C++. The online DSA course will cover key algorithms, teaching you how to sort data efficiently, search for elements quickly, and use hashing for faster data retrieval.
+By the end of the course, youll have a solid understanding ofdata structures and algorithms, which are crucial for solving complex coding problems and clearing technical interviews. Whether youre preparing for a job at a top tech company or looking to enhance your programming skills, this course provides everything you need to succeed.
+Enroll now to start your journey towards mastering data structures and algorithms, and open the door to exciting career opportunities in software development and engineering.
+GeeksforGeeks DSA Self-Paced Course - Highlights:
+Instructions provided in C++, Java, Javascript, and Python by CEO & Founder Mr. Sandeep Jain.
+60+ hours of recorded content for high-quality instruction.
+12 months of 24x7 Doubt Assistance for personalized support.
+Practice with 200+ industry-specific problems and 250+ MCQs.
+Real-time coding experience with 10 coding contests.
+In-depth learning with 5 DSA-implemented projects.
+Extensive coverage of topics: Sorting, Strings, Heaps, Searching, Trees, etc.
+Advanced topics coverage: Dynamic Programming, Segment Tree, etc
+Tailored preparation for SDE interviews with companies like Microsoft, Amazon, Adobe, etc.
+Why to Learn DSA?
+DSA teaches you to break down complex problems into manageable parts, analyze them, and develop efficient solutions.
+DSA allows you to get a clear understanding of the Software Development Process.
+Mastering DSA helps you write cleaner, more efficient, and well-structured code, making you a better programmer.
+Proficiency in DSA is a highly sought-after skill in the industry, opening up more job opportunities and career advancement possibilities.
+DSA is important for participating in coding competitions, such as hackathons, coding challenges, and Olympiads.
+DSA helps you write code that optimizes memory and time usage, leading to faster and more efficient software.
+What Sets Us Apart
+24 X 7 Doubt Support
+Recognised Certification
+Expert Mentors
+A dedicated service provided with this course for freeto help you overcome any doubt, at any time, and anywhere. So unleash your coding potential with confidence, as our Doubt Support service stands by your side!Benefits of this service:-Access to Expert TAs-Prompt Response-Tailored Guidance-1:1 Video & On-Call Support& Much MoreNow code with confidence, triumph over doubts, and level up your skills!Readmore
+A dedicated service provided with this course for freeto help you overcome any doubt, at any time, and anywhere. So unleash your coding potential with confidence, as our Doubt Support service stands by your side!
+Benefits of this service:
+-Access to Expert TAs-Prompt Response-Tailored Guidance-1:1 Video & On-Call Support& Much More
+Now code with confidence, triumph over doubts, and level up your skills!
+What Sets Us Apart
+A dedicated service provided with this course for freeto help you overcome any doubt, at any time, and anywhere. So unlea
+Boost your coding street cred!Excel in the tech landscape with our comprehensive course and prestigious certificates that
+With a passion for teaching, our mentor(s) sessions will providetailored guidance to all the aspiring coders. Launch a successful tech career with
+Course Content
+Analysis of Algorithms:Learn about the Order of Growth, Best, Average, and Worst cases of various algorithms using Asymptotic Notations and much more.
+Mathematics:Build your  maths foundation with problems like Factorial of a Number, HCF, LCM, and concepts like Sieve of Eratosthenes
+Bit Magic:Aquire Knowledge of Bitwise Operators with the help of important example tutorials
+Recursion:Gain understanding of Recursion, base cases, and Tail Recursion, and solve problems like Rope Cutting, Tower of Hanoi, and Josephus Problem.
+Arrays:Master Arrays from their Introduction and Operations to solving problems like Stock Buy and Sell, Trapping Rain Water, etc
+Searching:Get familiar with Binary Seach Technique with its analysis and various associated problems tutorials
+Sorting:Sort out your sorting concepts and learn about important sorting techniques like Insertion sort, Quick sort, and Radix sort to name a few
+Matrix:Escape your Matrix struggle by solving problems like Matrix in a Snake Pattern, Spiral Matrix traversal, and much more
+Hashing:Learn about Introduction and Time complexity analysis, Application of Hashing, Discussion on Direct Address Table, and much more
+String:Learn Strings form its Introduction and Methods to popular problem tutorials on Rabin Karp Algorithm, KMP algorithm, etc
+Linked List:Learn Singly, Doubly, and Circular Linked Lists and solve problems like loop detection, intersection of LLs, and LRU Cache.
+Pricing
+Reviews and Ratings
+Reviews and Ratings
+Frequently Asked Questions
+How can I register for the course?
+Is there any number to contact for query?
+How long will the course content be available for?
+Does the course include programming questions?
+How can I access contest solutions?
+What type of certificate will be offered in this program
+Is there a sample video to see how are the course videos?
+What is the difference between the DSA content covered here and the one covered in the Complete Interview Preparation Course?
+When can I make the payment for the course?
+Can I make the payment through PayPal?
+Do we have doubt support in this program?
+What features does Doubt Support have?
+What does Self-Paced mean?
+What is DSA (Data Structures and Algorithms)?
+Why should I learn DSA?
+Is DSA hard to learn?
+What programming languages are best for learning DSA?
+How does DSA help in coding interviews?
+
+DSA Course
+DSA
+Algorithms
+Analysis of Algorithms
+Sorting
+Searching
+Greedy
+Recursion
+Backtracking
+Dynamic Programming
+Divide and Conquer
+Geometric Algorithms
+Mathematical Algorithms
+Pattern Searching
+Bitwise Algorithms
+Branch & Bound
+Randomized Algorithms
+Explore GfG Courses
+Share Your Experiences
+Analysis of Algorithms
+Complete Guide On Complexity Analysis - Data Structure and Algorithms Tutorial
+Why is Analysis of Algorithm important?
+Types of Asymptotic Notations in Complexity Analysis of Algorithms
+Worst, Average and Best Case Analysis of Algorithms
+Asymptotic Analysis
+How to Analyse Loops for Complexity Analysis of Algorithms
+Sample Practice Problems on Complexity Analysis of Algorithms
+Basics on Analysis of Algorithms
+Why is Analysis of Algorithm important?
+Asymptotic Analysis
+Worst, Average and Best Case Analysis of Algorithms
+Types of Asymptotic Notations in Complexity Analysis of Algorithms
+How to Analyse Loops for Complexity Analysis of Algorithms
+How to analyse Complexity of Recurrence Relation
+Introduction to Amortized Analysis
+Asymptotic Notations
+Big O Notation Tutorial - A Guide to Big O Analysis
+Big O vs Theta Θ vs Big Omega Ω Notations
+Examples of Big-O analysis
+Difference between big O notations and tilde
+Analysis of Algorithms | Big-Omega Ω Notation
+Analysis of Algorithms | Θ (Theta) Notation
+Some Advance Topics
+P, NP, CoNP, NP hard and NP complete |  Complexity Classes
+Can Run Time Complexity of a comparison-based sorting algorithm be less than N logN?
+Why does accessing an Array element take O(1) time?
+What is the time efficiency of the push(), pop(), isEmpty() and peek() operations of Stacks?
+Complexity Proofs
+Proof that Clique Decision problem is NP-Complete
+Proof that Independent Set in Graph theory is NP Complete
+Prove that a problem consisting of Clique and Independent Set is NP Complete
+Prove that Dense Subgraph is NP Complete by Generalisation
+Prove that Sparse Graph is NP-Complete
+Top MCQs on Complexity Analysis of Algorithms with Answers
+DSA to DevelopmentCourse
+Analysis of Algorithms
+Analysis of Algorithmsis a fundamental aspect of computer science that involves evaluating performance of algorithms and programs. Efficiency is measured in terms oftimeandspace.
+Basics on Analysis of Algorithms:
+Why is Analysis Important?
+Order of Growth
+Asymptotic Analysis
+Worst, Average and Best Cases of Algorithms
+Asymptotic Notations:
+Big-O Notation
+Theta -  Θ Notation
+Big – Ω (Big- Omega) Notation
+Time Complexity
+Space Complexity
+Big O vs, Big Omega vs Theta
+Examples of Big-O analysis
+Practice Questions on Time Complexity Analysis
+Quiz on Time Complexity Analysis
+Analysis Examples
+Analyzing Loops
+Analyzing Recursive Functions
+Amortized Analysis
+Some Advance topics:
+P, NP, CoNP, NP hard and NP complete
+Proof that Clique Decision problem is NP-Complete
+Proof that Independent Set in Graph theory is NP Complete
+Prove that a problem consisting of Clique and Independent Set is NP Complete
+Prove that Dense Subgraph is NP Complete by Generalisation
+Prove that Sparse Graph is NP-Complete
+H
+Algorithms
+DSA
+Algorithms-Analysis of Algorithms
+Algorithms
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+DSA Course
+DSA
+Practice Sorting
+MCQs on Sorting
+Tutorial on Sorting
+Bubble Sort
+Quick Sort
+Merge Sort
+Insertion Sort
+Selection Sort
+Heap Sort
+Sorting Complexities
+Radix Sort
+ShellSort
+Counting Sort
+Bucket Sort
+TimSort
+Bitonic Sort
+Uses of Sorting Algorithm
+Explore GfG Courses
+Share Your Experiences
+Sorting Algorithms
+Introduction to Sorting Techniques – Data Structure and Algorithm Tutorials
+Most Common Sorting Algorithms
+Selection Sort
+Bubble Sort Algorithm
+Insertion Sort Algorithm
+Merge Sort - Data Structure and Algorithms Tutorials
+Quick Sort
+Heap Sort - Data Structures and Algorithms Tutorials
+Counting Sort - Data Structures and Algorithms Tutorials
+Radix Sort - Data Structures and Algorithms Tutorials
+Bucket Sort - Data Structures and Algorithms Tutorials
+Other Sorting Algorithms
+Shell Sort
+TimSort - Data Structures and Algorithms Tutorials
+Comb Sort
+Pigeonhole Sort
+Cycle Sort
+Cocktail Sort
+Strand Sort
+Bitonic Sort
+Pancake sorting
+BogoSort or Permutation Sort
+Gnome Sort
+Sleep Sort – The King of Laziness / Sorting while Sleeping
+Stooge Sort
+Tag Sort (To get both sorted and original)
+Tree Sort
+Odd-Even Sort / Brick Sort
+Comparison with other Sorting Algorithm
+Selection Sort VS Bubble Sort
+Difference between Insertion sort and Selection sort
+Merge Sort vs. Insertion Sort
+Radix Sort vs Bucket Sort
+C qsort() vs C++ sort()
+sort()  vs.  partial_sort()  vs. nth_element() + sort() in C++ STL
+Python - Difference between sorted() and sort()
+Easy problems on Sorting algorihtms
+Sort elements by frequency
+Sort an array of 0s, 1s and 2s - Dutch National Flag Problem
+Sort numbers stored on different machines
+Sort an array in wave form
+Check if any two intervals intersect in a given set
+How to sort an array of dates in C/C++?
+Sorting Strings using Bubble Sort
+Sort an array according to count of set bits
+Sort even-placed in increasing and odd-placed in decreasing order
+Sort an array when two halves are sorted
+Sorting Big Integers
+Sort a linked list of 0s, 1s and 2s
+Medium problems on Sorting algorithms
+Count Inversions of an Array
+Count Inversions of an Array
+Smallest Subarray to be Sorted to make the whole array sorted
+Sort a nearly sorted (or K sorted) array
+Sort n numbers in range from 0 to n^2 - 1 in linear time
+Sort an array according to the order defined by another array
+Find the point where maximum intervals overlap
+Find a permutation that causes worst case of Merge Sort
+Sort Vector of Pairs in Ascending Order in C++
+Minimum swaps to make two arrays consisting unique elements identical
+Chocolate Distribution Problem
+Permute two arrays such that sum of every pair is greater or equal to K
+Bucket Sort To Sort an Array with Negative Numbers
+Sort a Matrix in all way increasing order
+Convert an Array to reduced form using Vector of pairs
+Check if it is possible to sort an array with conditional swapping of adjacent allowed
+Hard problem on Sorting algorithms
+Surpasser Count of Each Element in Array
+Partition into minimum subsets of consecutive numbers
+Choose m elements having minimum difference between max and min
+K-th smallest element after removing some integers from natural numbers
+Maximum difference between frequency of two elements such that element having greater frequency is also greater
+Minimum swaps to reach permuted array with at most 2 positions left swaps allowed
+Check if Array Elemnts can be Made Equal with Given Operations
+Sort an array after applying the given equation
+Print array of strings in sorted order without copying one string into another
+DSA to DevelopmentCourse
+Sorting Algorithms
+ASorting Algorithmis used to rearrange a given array or list of elements in an order.  For example, a given array [10, 20, 5, 2] becomes [2, 5, 10, 20] after sorting in increasing order and becomes [20, 10, 5, 2] after sorting in decreasing order.
+There exist different sorting algorithms for different different types of inputs, for example a binary array, a character array, an array with a large range of values or an array with many duplicates or a small vs large array.
+The algorithms may also differ according to output requirements. For example, stable sorting (or maintains original order of equal elements) or not stable.
+Sorting is provided in library implementation of most of the programming languages.  These sorting functions typically are general purpose functions with flexibility of providing the expected sorting order (increasing or decreasing or by a specific key in case of objects).
+Basics of Sorting Algorithms:
+Introduction to Sorting
+Applications of Sorting
+Sorting Algorithms:
+Comparison Based :Selection Sort,Bubble Sort,Insertion Sort,Merge Sort,Quick Sort,Heap Sort,Cycle Sort,3-way Merge SortNon Comparison Based :Counting Sort,Radix Sort,Bucket Sort,TimSort,Comb Sort,Pigeonhole SortHybrid Sorting Algorithms :IntroSort,Tim Sort
+Library Implementations:
+qsort() in C
+sort() in C++ STL
+Arrays.sort() in Java with examples
+Collections.sort() in Java with Examples
+Sort a List in Python
+Sorting in JavaScript
+Easy Problems on Sorting:
+Check if an array is Sorted
+Sort an array of two types
+Sort a String
+Sort Each Row of a Matrix
+Sort a Matrix
+Sort a Linked List
+Sort in Wave Form
+Sort by Frequency
+Sort from Different Machines
+Check if any two intervals overlap
+Missing elements of a range
+Sort by set bits counts
+Sort even and odd placed in different orders
+Sorting Big Integers
+Sort strings by lengths
+Merge Two Sorted Arrays
+Sort when two halves are sorted
+2 Sum - Pair in a Sorted Array
+Intersection of two sorted arrays
+Union of two sorted arrays
+Meeting Rooms
+Medium Problems on Sorting:
+Minimum Increments to Make Unique
+Merge Overlapping Intervals
+Minimum Platforms
+Closest Pair of Elements
+Closest Pair of Points
+Chocolate Distribution Problem
+Min and Max Amount to Buy All
+Three Way Partitioning
+Sort an array of 0s, 1s and 2s
+Sort a linked list of 0s, 1s and 2s
+Inversion count
+K-th Smallest Element
+K Smallest Elements
+3 Sum - Find Any
+3 Sum - Closest Triplet
+Smallest Difference Triplet from Three arrays
+Merge K Sorted Arrays
+Merge K Sorted Linked Lists
+Min Unsorted Subarray to make array sorted
+Sort a nearly sorted array
+Sort n numbers in range from 0 to n^2 – 1
+Sort an array of 1 to n
+Sort according to order defined by another
+Maximum intervals overlap
+Permutation with worst Case of Merge Sort
+Minimum swaps to make two arrays identical
+Permute two arrays such that all pair suns are greater than K
+Bucket Sort To Sort an Array with Negative Numbers
+Convert an Array to reduced form using Vector of pairs
+Check if array can be sorted with conditional swapping of adjacent
+4 Sum - Find Any[More problems an 4 Sum are in Hard Section]
+Hard Problems on Sorting:
+Merge Without Extra Space
+Top K Frequent Elements
+3 Sum - Distinct Triplets
+4 Sum - Distinct Quadruples
+4 Sum - All Quadruples
+4 Sum - Closest Quadruple
+Surpasser Counts in an Array
+Count distinct occurrences as a subsequence
+Minimum consecutive number subsets
+Minimum swaps for Binary Tree to BST
+K-th smallest element after removing some integers from natural numbers
+Max frequency diff such greater freq item is also is also greater
+Min swaps to reach permuted array with at most 2 positions left swaps allowed
+Making Array Elements Same
+Sort an array after applying an equation
+Array of strings in sorted order without copying strings
+Quick Links :
+‘Practice Problems’ on Sorting
+Top Sorting Interview Questions
+‘Quizzes’ on Sorting
+Recommended:
+Learn Data Structure and Algorithms | DSA Tutorial
+H
+Sorting
+DSA
+Sorting
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+DSA Course
+DSA
+Practice Searching Algorithms
+MCQs on Searching Algorithms
+Tutorial on Searching Algorithms
+Linear Search
+Binary Search
+Ternary Search
+Jump Search
+Sentinel Linear Search
+Interpolation Search
+Exponential Search
+Fibonacci Search
+Ubiquitous Binary Search
+Linear Search Vs Binary Search
+Interpolation Search Vs Binary Search
+Binary Search Vs Ternary Search
+Sentinel Linear Search Vs Linear Search
+Explore GfG Courses
+Share Your Experiences
+Searching Algorithms
+Most Common Searching Algorithms
+Linear Search Algorithm
+Binary Search Algorithm - Iterative and Recursive Implementation
+Other Searching Algorithms
+Sentinel Linear Search
+Meta Binary Search | One-Sided Binary Search
+Ternary Search
+Jump Search
+Interpolation Search
+Exponential Search
+Fibonacci Search
+The Ubiquitous Binary Search | Set 1
+Comparisons between Searching Algorithms
+Linear Search vs Binary Search
+Interpolation search vs Binary search
+Why is Binary Search preferred over Ternary Search?
+Is Sentinel Linear Search better than normal Linear Search?
+Library implementations of Searching algorithms
+Binary Search functions in C++ STL (binary_search, lower_bound and upper_bound)
+Arrays.binarySearch() in Java with Examples | Set 1
+Arrays.binarySearch() in Java with examples | Set 2 (Search in subarray)
+Collections.binarySearch() in Java with Examples
+Easy problems on Searching algorithms
+Find the Missing Number
+Find the first repeating element in an array of integers
+Missing and Repeating in an Array
+Count 1's in a sorted binary array
+Two Sum -  Pair Closest to 0
+Pair with the given difference
+Kth smallest element in a row-wise and column-wise sorted 2D array
+Find common elements in three sorted arrays
+Ceiling in a sorted array
+Floor in a Sorted Array
+Bitonic Point - Maximum in Increasing Decreasing Array
+Given Array of size n and a number k, find all elements that appear more than n/k times
+Medium problems on Searching algorithms
+3 Sum - Find All Triplets with Zero Sum
+Find the element before which all the elements are smaller than it, and after which all are greater
+Largest pair sum in an array
+K’th Smallest Element in Unsorted Array
+Search in a Sorted and Rotated Array
+Minimum in a Sorted and Rotated Array
+Find a Fixed Point (Value equal to index) in a given array
+K Mmost Frequent Words in a File
+Find k closest elements to a given value
+2 Sum - Pair Sum Closest to Target using Binary Search
+Find the closest pair from two sorted arrays
+Find three closest elements from given three sorted arrays
+Search in an Array of Rational Numbers without floating point arithmetic
+Hard problems on Searching algorithms
+Median of two sorted arrays of same size
+Search in an almost sorted array
+Find position of an element in a sorted array of infinite numbers
+Pair Sum in a Sorted and Rotated Array
+K’th Smallest/Largest Element in Unsorted Array | Worst case Linear Time
+K'th largest element in a stream
+Best First Search (Informed Search)
+DSA to DevelopmentCourse
+Searching Algorithms
+Searching algorithmsare essential tools in computer science used to locate specific items within a collection of data. In this tutorial, we are mainly going to focus upon searching in an array. When we search an item in an array, there are two most common algorithms used based on the type of input array.
+Linear Search:  It is used for an unsorted array. It mainly does one by one comparison of the item to be search with array elements. It takes linear or O(n) Time.
+Binary Search: It is used for a sorted array. It mainly compares the array's middle element first and if the middle element is same as input, then it returns. Otherwise it searches in either left half or right half based on comparison result (Whether the mid element is smaller or greater). This algorithm is faster than linear search and takes O(Log n) time.
+One more common search technique isTwo Pointers Techniquewhere we begin searching from both ends of the array.
+Library Implementations of Binary Search
+binary_search, lower_bound and upper_bound in C++
+Arrays.binarySearch() in Java
+Arrays.binarySearch() in Java for Search in subarray
+Collections.binarySearch() in Java
+Bisect in Python
+List.BinarySearch in C#
+Easy Problems
+Largest in an Array
+Second Largest in an array
+Largest three in an array
+Missing Number
+First Repeating
+Missing and Repeating
+Count 1’s in a sorted binary array
+Closest to 0 Sum Pair
+Pair with the given difference
+k largest(or smallest) Elements
+Kth smallest in row and column-wise sorted
+Common elements in 3 sorted
+Ceiling in a sorted
+Floor in a Sorted
+Maximum in a Bitonic
+Elements that appear more than n/k times
+Medium Problems
+Triplets with zero sum
+Partition Point
+Largest pair sum
+K’th Smallest in Unsorted Array
+Search an in a sorted and rotated
+Min in a sorted and rotated
+Max in a sorted and rotated
+Peak element
+Max and min using minimum comparisons
+Find a Fixed Point in a given array
+K most frequent words from a file
+K closest elements
+2 Sum – Pair Sum Closest to Target in Sorted Array
+Closest pair from two sorted arrays
+Three closest from three sorted arrays
+Binary Search for Rationals
+Missing Element in AP
+Hard Problems
+Median of two sorted arrays
+Median of two sorted of different sizes
+Search in an almost sorted array
+Search in a sorted infinite array
+Pair sum in a sorted and rotated array
+K’th Smallest/Largest Element in Unsorted Array
+K’th largest element in a stream
+Best First Search (Informed Search)
+More Searching Algorithms
+Sentinel Linear Search
+Meta Binary Search | One-Sided Binary Search
+Ternary Search
+Jump Search
+Interpolation Search
+Exponential Search
+Fibonacci Search
+The Ubiquitous Binary Search
+Comparisons Between Different Searching Algorithms
+Linear Search vs Binary Search
+Interpolation search vs Binary search
+Why is Binary Search preferred over Ternary Search?
+Is Sentinel Linear Search better than normal Linear Search?
+Quick Links:
+‘Practice Problems’ on Searching
+Top Searching Interview Questions
+‘Quizzes’ on Searching
+Learn Data Structure and Algorithms | DSA Tutorial
+H
+Searching
+DSA
+Searching
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+DSA Course
+DSA
+Algorithms
+Analysis of Algorithms
+Sorting
+Searching
+Greedy
+Recursion
+Backtracking
+Dynamic Programming
+Divide and Conquer
+Geometric Algorithms
+Mathematical Algorithms
+Pattern Searching
+Bitwise Algorithms
+Branch & Bound
+Randomized Algorithms
+Explore GfG Courses
+Share Your Experiences
+DSA Tutorial - Learn Data Structures and Algorithms
+Array Data Structure  Guide
+String in Data Structure
+Matrix Data Structure
+Searching Algorithms
+Sorting Algorithms
+Hashing in Data Structure
+Two Pointers Technique
+Sliding Window Technique
+Prefix Sum Array - Implementation and Applications
+Linked List Data Structure
+Stack Data Structure
+Queue Data Structure
+Recursive Algorithms
+Tree Data Structure
+Heap Data Structure
+Greedy Algorithms
+Dynamic Programming or DP
+Divide and Conquer Algorithm
+Graph  Algorithms
+Competitive Programming - A Complete Guide
+DSA to DevelopmentCourse
+Greedy Algorithms
+Greedy algorithmsare a class of algorithms that makelocally optimalchoices at each step with the hope of finding aglobal optimumsolution.
+At every step of the algorithm, we make a choice that looks the best at the moment. To make the choice, we sometimes sort the array so that we can always get the next optimal choice quickly. We sometimes also use a priority queue to get the next optimal item.
+After making a choice, we check for constraints (if there are any) and keep picking until we find the solution.
+Greedy algorithms do not always give the best solution. For example, in coin change and 0/1 knapsack problems, we get the best solution using Dynamic Programming.
+Examples of popular algorithms where Greedy gives the best solution areFractional Knapsack,Dijkstra's algorithm,Kruskal's algorithm,Huffman codingandPrim's Algorithm
+Basics of Greedy Algorithm
+Introduction to Greedy Algorithm
+Greedy Algorithms General Structure
+Easy Problems on GreedyAlgorithm
+Fractional Knapsack
+Min Cost to Make Array Size 1
+Min Rotations for Circular Lock
+Max Composite Numbers to Make n
+Smallest Subset Greater Sum
+Assign Cookies
+Buy Maximum Stocks
+Max Consecutive Diff Sum
+Min and Max Costs to buy all
+Min Notes with Given Sum
+Max Equal Sum of Three Stacks
+Medium Problems on GreedyAlgorithm
+Activity Selection Problem
+Jump Game
+Job Sequencing Problem
+Egyptian Fraction
+Merge Overlapping Intervals
+Min Fibonacci Terms with Sum K
+Minimum Platforms
+Min Cost to Connect n ropes
+Max trains
+Partition 1 to n into two min diff groups
+Paper cut into min squares
+Min diff groups of size two
+Max Satisfied Customers
+Min initial vertices to traverse matrix with constraints
+Largest palindromic number by permuting digits
+Smallest with n digits and digits sum
+Lexicographically largest subsequence with every char at least k times
+Hard Problems on GreedyAlgorithm
+Minimize the Max Height Diff
+Making max equal with k updates
+Minimize cash flow among friends
+Minimum Cost to cut a board into squares
+Minimum cost to process m tasks where switching costs
+Minimum time to finish all jobs with given constraints
+Minimize the maximum difference between the heights of towers
+Minimum edges to reverse to make path from a source to a destination
+Find the Largest Cube formed by Deleting minimum Digits from a number
+Rearrange characters in a string such that no two adjacent are same
+Rearrange a string so that all same characters become d distance away
+Standard Greedy Algorithms
+Activity Selection Problem
+Job Sequencing Problem
+Huffman Coding
+Huffman Decoding
+Water Connection Problem
+Minimum Swaps for Bracket Balancing
+Egyptian Fraction
+Policemen catch thieves
+Fitting Shelves Problem
+Assign Mice to Holes
+Greedy Problems on Array
+Minimum product subset of an array
+Maximize array sum after K negations using Sorting
+Minimum sum of product of two arrays
+Minimum sum of absolute difference of pairs of two arrays
+Minimum increment/decrement to make array non-Increasing
+Sorting array with reverse around middle
+Sum of Areas of Rectangles possible for an array
+Largest lexicographic array with at-most K consecutive swaps
+Partition into two subarrays of lengths k and (N – k) such that the difference of sums is maximum
+Greedy Problems in Operating System
+First Fit algorithm in Memory Management
+Best Fit algorithm in Memory Management
+Worst Fit algorithm in Memory Management
+Shortest Job First Scheduling
+Job Scheduling with two jobs allowed at a time
+Program for Optimal Page Replacement Algorithm
+Greedy Problems on Graph
+Kruskal’s Minimum Spanning Tree
+Prim’s Minimum Spanning Tree
+Boruvka’s Minimum Spanning Tree
+Dijkastra’s Shortest Path Algorithm
+Dial’s Algorithm
+Minimum cost to connect all cities
+Max Flow Problem Introduction
+Number of single cycle components in an undirected graph
+Approximate Greedy Algorithm for NP Complete
+Set cover problem
+Bin Packing Problem
+Graph Coloring
+K-centers problem
+Shortest superstring problem
+Approximate solution for Travelling Salesman Problem using MST
+Greedy for Special cases of DP
+Fractional Knapsack Problem
+Minimum number of coins required
+Quick Links
+Learn Data Structure and Algorithms | DSA Tutorial
+Top 20 Greedy Algorithms Interview Questions
+‘Practice Problems’ on Greedy Algorithms
+‘Quiz’ on Greedy Algorithms
+H
+Greedy
+DSA
+Algorithms-Greedy Algorithms
+Greedy
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+DSA Course
+DSA
+Interview Problems on Recursion
+Practice Recursion
+MCQs on Recursion
+Recursion Tutorial
+Recursive Function
+Recursion vs Iteration
+Types of Recursions
+Tail Recursion
+Josephus Problem
+Tower of Hanoi
+Check Palindrome
+Explore GfG Courses
+Share Your Experiences
+DSA Tutorial - Learn Data Structures and Algorithms
+Array Data Structure  Guide
+String in Data Structure
+Matrix Data Structure
+Searching Algorithms
+Sorting Algorithms
+Hashing in Data Structure
+Two Pointers Technique
+Sliding Window Technique
+Prefix Sum Array - Implementation and Applications
+Linked List Data Structure
+Stack Data Structure
+Queue Data Structure
+Recursive Algorithms
+Tree Data Structure
+Heap Data Structure
+Greedy Algorithms
+Dynamic Programming or DP
+Divide and Conquer Algorithm
+Graph  Algorithms
+Competitive Programming - A Complete Guide
+DSA to DevelopmentCourse
+Recursive Algorithms
+Recursionis technique used in computer science to solve big problems by breaking them into smaller, similar problems. The process in which a function calls itself directly or indirectly is calledrecursionand the corresponding function is called a recursive function. Using a recursive algorithm, certain problems can be solved quite easily.
+Learn Basics of Recursion Algorithms:
+Introduction to Recursion
+Recursion vs Iteration
+Finite and Infinite Recursion
+What is Tail Recursion
+Tail Recursion Optimization
+Recursion in Different Languages:
+Recursion in Python
+Recursion in Java
+Recursion in C#
+Recursion in JavaScript
+EasyProblems on Recursion
+Print 1 to n without loop
+Print n to 1 without loop
+Mean of Array using Recursion
+Sum of natural numbers using recursion
+Decimal to binary number using recursion
+Sum of array elements using recursion
+Print reverse of a string using recursion
+Program for length of a string using recursion
+Sum of digit of a number using recursion
+Tail recursion to calculate sum of array elements.
+Program to print first n Fibonacci Numbers | Set 1
+Factorial of a number
+Array Min and Max using Recursion
+Palindrome Check using Recursion
+Count Set-bits using Recursion
+Fibonacci Series in reverse order using Recursion
+MediumProblems on Recursion
+Recursively remove all adjacent duplicates
+Sort the Queue using Recursion
+Reversing a queue using recursion
+Coin Change
+Binary to Gray code using recursion
+Delete a linked list using recursion
+Product of 2 Numbers using Recursion
+Programs for Printing Pyramid Patterns using Recursion
+Length of longest palindromic sub-string : Recursion
+Program for Tower of Hanoi Algorithm
+Time Complexity Analysis | Tower Of Hanoi (Recursion)
+Program to calculate value of nCr using Recursion
+Find geometric sum of the series using recursion
+Convert a String to an Integer using Recursion
+DFS traversal of a Tree
+Bottom View of a Binary Tree using Recursion
+Write a program to print all Permutations of given String
+Print all subsets of a given Set or Array
+Print all possible paths from top left to bottom right of a mXn matrix
+Print all combinations of balanced parentheses
+Longest Common Subsequence (LCS)
+HardProblems on Recursion
+Find the value of a number raised to its reverse
+How to Sort a Stack using Recursion
+Reverse a Doubly linked list using recursion
+Given a string, print all possible palindromic partitions
+Check if a string is a scrambled form of another string
+Word Break Problem | DP-32
+Print all palindromic partitions of a string
+N Queen Problem | Backtracking-3
+Algorithm to Solve Sudoku | Sudoku Solver
+The Knight’s tour problem
+Practice Sets on Recursion
+Recursive Practice Problems with Solutions
+Practice Questions for Recursion | Set 1
+Practice Questions for Recursion | Set 2
+Practice Questions for Recursion | Set 3
+Practice Questions for Recursion | Set 4
+Practice Questions for Recursion | Set 5
+Practice Questions for Recursion | Set 6
+Practice Questions for Recursion | Set 7
+Practice questions for Linked List and Recursion
+Quiz based on Recursion:
+Top MCQs on Recursion Algorithm with Answers
+What is a Recursive Algorithm?
+A recursive algorithm is an algorithm that uses recursion to solve a problem. Recursive algorithms typically have two parts:
+Base case:Which is a condition that stops the recursion.
+Recursive case:Which is a call to the function itself with a smaller version of the problem.
+Types of Recursion
+There are several different recursion types and terms. These include:
+Direct recursion:This is typified by the factorial implementation where the methods call itself.
+In-Direct recursion:This happens where one method, say methodA, calls another methodB, which then calls methodA. This involves two or more methods that eventually create a circular call sequence.
+Head recursion:The recursive call is made at the beginning of the method.
+Tail recursion:The recursive call is the last statement.
+When to Use Recursion?
+Recursion is a powerful technique that can be used to solve a wide variety of problems. However, it is important to use recursion carefully, as it can lead to stack overflows if not used properly.
+Recursion should be used when:
+The problem can be broken down into smaller subproblems that can be solved recursively.
+The base case is easy to identify.
+The recursive calls are tail recursive.
+Examples of Recursion
+Here are some common examples of recursion:
+Example 1: Factorial:The factorial of a numbernis the product of all the integers from1ton. The factorial ofncan be defined recursively as:
+factorial(n) = n * factorial(n-1)
+Example 2: Fibonacci sequence:The Fibonacci sequence is a sequence of numbers where each number is the sum of the two preceding numbers. The Fibonacci sequence can be defined recursively as:
+fib(n) = fib(n-1) + fib(n-2)
+Applications of Recursion Algorithms:
+Here are some common applications of recursion:
+Tree and Graph Traversal:Depth-first search (DFS) and breadth-first search (BFS)
+Dynamic Programming:Solving optimization problems by breaking them into smaller subproblems
+Divide-and-Conquer:Solving problems by dividing them into smaller parts, solving each part recursively, and combining the results
+Backtracking:Exploring all possible solutions to a problem by recursively trying different options
+Combinatorics:Counting or generating all possible combinations or permutations of a set
+DSA
+Recursion
+Recursion
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+DSA Course
+DSA
+Practice Backtracking
+Interview Problems on Backtracking
+MCQs on Backtracking
+Tutorial on Backtracking
+Backtracking vs Recursion
+Backtracking vs Branch & Bound
+Print Permutations
+Subset Sum Problem
+N-Queen Problem
+Knight's Tour
+Sudoku Solver
+Rat in Maze
+Hamiltonian Cycle
+Graph Coloring
+Explore GfG Courses
+Share Your Experiences
+Backtracking Algorithm
+Introduction to Backtracking
+Difference between Backtracking and Branch-N-Bound technique
+What is the difference between Backtracking and Recursion?
+Standard problems on backtracking
+The Knight's tour problem
+Rat in a Maze
+N Queen Problem
+Subset Sum Problem using Backtracking
+M-Coloring Problem
+Hamiltonian Cycle
+Algorithm to Solve Sudoku | Sudoku Solver
+Magnet Puzzle
+Remove Invalid Parentheses
+A backtracking approach to generate n bit Gray Codes
+Permutations of given String
+Easy Problems on Backtracking
+Print all subsets of a given Set or Array
+Check if a given string is sum-string
+Count all possible Paths between two Vertices
+Find all distinct subsets of a given set using BitMasking Approach
+Find if there is a path of more than k length from a source
+Print all paths from a given source to a destination
+Print all possible strings that can be made by placing spaces
+Medium prblems on Backtracking
+Tug of War
+8 queen problem
+Combination Sum
+Warnsdorff's algorithm for Knight’s tour problem
+Find paths from corner cell to middle cell in maze
+Maximum number possible by doing at-most K swaps
+Rat in a Maze with multiple steps or  jump allowed
+N Queen in O(n) space
+Hard problems on Backtracking
+Power Set in Lexicographic order
+Word Break Problem using Backtracking
+Partition of a set into K subsets with equal sum
+Longest Possible Route in a Matrix with Hurdles
+Find shortest safe route in a path with landmines
+Printing all solutions in N-Queen Problem
+Print all longest common sub-sequences in lexicographical order
+Top 20 Backtracking Algorithm Interview Questions
+DSA to DevelopmentCourse
+Backtracking Algorithm
+Backtracking algorithmsare like problem-solving strategies that help explore different options to find the best solution. They work by trying out different paths and if one doesn't work, they backtrack and try another until they find the right one. It's like solving a puzzle by testing different pieces until they fit together perfectly.
+Basic of Backtracking Algorithm:
+Introduction to Backtracking
+Backtracking vs Recursion
+Backtracking vs Branch and Bound
+Standard Problems
+Permutations of a String
+The Knight’s tour problem
+Rat in a Maze
+N Queen Problem | Backtracking-3
+Subset Sum problem
+m Coloring Problem
+Hamiltonian Cycle
+Sudoku | Backtracking-7
+Magnet Puzzle
+Remove Invalid Parentheses
+A backtracking approach to generate n bit Gray Codes
+Easy Problem:
+Backtracking to find all subsets
+Check if a given string is sum-string
+Count all possible paths between two vertices
+Find all distinct subsets of a given set
+Find if there is a path of more than k length from a source
+Print all paths from a given source to a destination
+Print all possible strings that can be made by placing spaces
+Medium Problems:
+Tug of War
+8 queen problem
+Combinational Sum
+Warnsdorff’s algorithm for Knight’s tour problem
+Find paths from corner cell to middle cell in maze
+Find Maximum number possible by doing at-most K swaps
+Rat in a Maze with multiple steps or jump allowed
+N Queen in O(n) space
+Hard Problems:
+Power Set in Lexicographic order
+Word Break Problem using Backtracking
+Partition of a set into K subsets with equal sum
+Longest Possible Route in a Matrix with Hurdles
+Find shortest safe route in a path with landmines
+Print all palindromic partitions of a string
+Printing all solutions in N-Queen Problem
+Print all longest common sub-sequences in lexicographical order
+Quick Links :
+Learn Data Structure and Algorithms | DSA Tutorial
+Top 20 Backtracking Algorithm Interview Questions
+‘Practice Problems’ on Backtracking
+‘Quiz’ on Backtracking
+‘Videos’ on Backtracking
+What is Backtracking Algorithm?
+Backtrackingis a problem-solving algorithmic technique that involves finding a solution incrementally by tryingdifferent optionsandundoingthem if they lead to adead end.
+It is commonly used in situations where you need to explore multiple possibilities to solve a problem, like searching for a path in a maze or solving puzzles likeSudoku. When a dead end is reached, the algorithm backtracks to the previous decision point and explores a different path until a solution is found or all possibilities have been exhausted.
+How Does a Backtracking Algorithm Work?
+Abacktracking algorithmworks by recursively exploring all possible solutions to a problem. It starts by choosing an initial solution, and then it explores all possible extensions of that solution. If an extension leads to a solution, the algorithm returns that solution. If an extension does not lead to a solution, the algorithm backtracks to the previous solution and tries a different extension.
+The following is a general outline of how a backtracking algorithm works:
+Choose an initial solution.
+Explore all possible extensions of the current solution.
+If an extension leads to a solution, return that solution.
+If an extension does not lead to a solution, backtrack to the previous solution and try a different extension.
+Repeat steps 2-4 until all possible solutions have been explored.
+Example of Backtracking Algorithm
+Example:Finding the shortest path through a maze
+Input:A maze represented as a 2D array, where0represents an open space and1represents a wall.
+Algorithm:
+Start at the starting point.
+For each of the four possible directions (up, down, left, right), try moving in that direction.
+If moving in that direction leads to the ending point, return the path taken.
+If moving in that direction does not lead to the ending point, backtrack to the previous position and try a different direction.
+Repeat steps 2-4 until the ending point is reached or all possible paths have been explored.
+When to Use a Backtracking Algorithm?
+Backtracking algorithms are best used to solve problems that have the following characteristics:
+There are multiple possible solutions to the problem.
+The problem can be broken down into smaller subproblems.
+The subproblems can be solved independently.
+Applications of Backtracking Algorithm
+Backtracking algorithms are used in a wide variety of applications, including:
+Solving puzzles (e.g., Sudoku, crossword puzzles)
+Finding the shortest path through a maze
+Scheduling problems
+Resource allocation problems
+Network optimization problems
+Combinatorial problems, such as generating permutations, combinations, or subsets.
+H
+Backtracking
+DSA
+Algorithms-Backtracking
+Algorithms-Recursion
+Backtracking
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+DSA Course
+DSA
+Interview Problems on DP
+Practice DP
+MCQs on DP
+Tutorial on Dynamic Programming
+Optimal Substructure
+Overlapping Subproblem
+Memoization
+Tabulation
+Tabulation vs Memoization
+0/1 Knapsack
+Unbounded Knapsack
+Subset Sum
+LCS
+LIS
+Coin Change
+Word Break
+Egg Dropping Puzzle
+Matrix Chain Multiplication
+Palindrome Partitioning
+DP on Arrays
+DP with Bitmasking
+Digit DP
+DP on Trees
+DP on Graph
+Explore GfG Courses
+Share Your Experiences
+DSA Tutorial - Learn Data Structures and Algorithms
+Array Data Structure  Guide
+String in Data Structure
+Matrix Data Structure
+Searching Algorithms
+Sorting Algorithms
+Hashing in Data Structure
+Two Pointers Technique
+Sliding Window Technique
+Prefix Sum Array - Implementation and Applications
+Linked List Data Structure
+Stack Data Structure
+Queue Data Structure
+Recursive Algorithms
+Tree Data Structure
+Heap Data Structure
+Greedy Algorithms
+Dynamic Programming or DP
+Divide and Conquer Algorithm
+Graph  Algorithms
+Competitive Programming - A Complete Guide
+DSA to DevelopmentCourse
+Dynamic Programming or DP
+Dynamic Programming is an algorithmic technique with the following properties.
+It is mainly an optimization over plain recursion. Wherever we see a recursive solution that has repeated calls for the same inputs, we can optimize it using Dynamic Programming.
+The idea is to simply store the results of subproblems so that we do not have to re-compute them when needed later. This simple optimization typically reduces time complexities from exponential to polynomial.
+Some popular problems solved using Dynamic Programming areFibonacci Numbers,Diff Utility (Longest Common Subsequence),Bellman–Ford Shortest Path,Floyd Warshall,Edit DistanceandMatrix Chain Multiplication.
+Basic of DP
+Introduction to DP
+Tabulation vs Memoization
+Steps to solve a DP Problem
+Basic Problems
+Fibonacci numbers
+Tribonacci Numbers
+Lucas Numbers
+Climbing Stairs
+Climbing Stairs with 3 Moves
+Weighted Climbing Stairs
+Maximum Segments
+nth Catalan Number
+Count Unique BSTs
+Count Valid Parenthesis
+Ways to Triangulate a Polygon
+Min Sum in a Triangle
+Minimum Perfect Squares
+Ways to Partition a Set
+Binomial Coefficient
+Pascal's Triangle
+Nth Row of Pascal Triangle
+Min Sum in a Triangle
+Easy Problems
+House Robber
+Min Cost Path
+Decode Ways
+Subset Sum Problem
+Coin change problem - Count Ways
+Coin Change – Minimum Coins to Make Sum
+Painting Fence Algorithm
+Cutting a Rod
+Jump Game
+Longest Common Substring
+Count all paths in a Grid
+Paths in a Grid with Obstacles
+Permutations with K Inversions
+Max A's using Special Keyboard
+Medium Problems
+Water Overflow
+Longest Common Subsequence
+Longest Increasing Subsequence
+Edit Distance
+Largest Divisible Subset
+Weighted Job Schedulling
+0-1 Knapsack Problem
+Printing Items in 0/1 Knapsack
+Unbounded Knapsack
+Word Break Problem
+Tile Stacking Problem
+Box-Stacking Problem
+Partition Problem
+Longest Palindromic Subsequence
+Longest Common Increasing Subsequence (LCS + LIS)
+All distinct subset (or subsequence) sums
+Count Derangements
+Minimum insertions for palindrome
+Wildcard Pattern Matching
+Regular Expression Matching
+Arrange Balls with adjacent of different types
+Longest Subsequence with 1 adjacent difference
+Maximum size square sub-matrix with all 1s
+Bellman–Ford Algorithm
+Floyd Warshall Algorithm
+Maximum Tip Calculator
+Hard Problems
+Largest X Bordered Square
+Egg Dropping Problem
+Palindrome Partitioning
+Palindromic Substring Count
+Word Wrap Problem
+Optimal Strategy for a Game
+The painter’s partition problem
+Program for Bridge and Torch problem
+Matrix Chain Multiplication
+Printing Matrix Chain Multiplication
+Maximum sum rectangle
+Stock Buy and Sell - At-Most k Times
+Stock Buy and Sell - At Most 2 Times
+Min cost to sort strings using Reversals
+Count of AP Subsequences
+DP on Trees
+Max Height of Tree when any Node can be Root
+Longest repeating and non-overlapping substring
+Palindrome Substrings Count
+DP Problems Sorted by Topic / Dimensions / Standard Problems
+DP Standard Problems and Variations.
+DP Problems Dimension Wise (1D, 2D and 3D)
+DP Problems Topic Wise
+Advanced Concepts in Dynamic Programming (DP)
+Bitmasking and Dynamic Programming | Set 1
+Bitmasking and Dynamic Programming | Set-2 (TSP)
+Digit DP | Introduction
+Sum over Subsets | Dynamic Programming
+Quick Links:
+Learn Data Structure and Algorithms | DSA Tutorial
+Top 20 Dynamic Programming Interview Questions
+‘Practice Problems’ on Dynamic Programming
+‘Quiz’ on Dynamic Programming
+H
+Algorithms
+Dynamic Programming
+DSA
+Algorithms
+Dynamic Programming
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+DSA Course
+DSA
+Practice Divide and Conquer
+MCQs on Divide and Conquer
+Tutorial on Divide & Conquer
+Binary Search
+Merge Sort
+Quick Sort
+Calculate Power
+Strassen's Matrix Multiplication
+Karatsuba Algorithm
+Divide and Conquer Optimization
+Closest Pair of Points
+Explore GfG Courses
+Share Your Experiences
+Divide and Conquer Algorithm
+Introduction to Divide and Conquer Algorithm
+Dynamic Programming vs Divide-and-Conquer
+Decrease and Conquer
+Advanced master theorem for divide and conquer recurrences
+Some standard Divide and Conquer Algorithms
+Write program to calculate pow(b, e)
+Karatsuba algorithm for fast multiplication using Divide and Conquer algorithm
+Strassen's Matrix Multiplication
+Convex Hull using Divide and Conquer Algorithm
+Quickhull Algorithm for Convex Hull
+Binary Search based problems
+Peak Element in Array
+Check for Majority Element in a sorted array
+K-th Element of Merged Two Sorted Arrays
+Find the number of zeroes
+Rotation Count in a Rotated Sorted array
+Unbounded Binary Search Example (Find the point where a monotonically increasing function becomes positive first time)
+Median of two Sorted Arrays of Different Sizes
+The Painter's Partition Problem using Binary Search
+Some practice problems on Divide and Conquer algorithm
+Program for Square Root of Integer
+Maximum and minimum of an array using minimum number of comparisons
+Find frequency of each element in a limited range array in less than O(n) time
+Tiling Problem using Divide and Conquer algorithm
+Count Inversions of an Array
+The Skyline Problem | Set-1
+Search in a Row-wise and Column-wise Sorted 2D Array using Divide and Conquer algorithm
+Allocate Minimum Pages
+DSA to DevelopmentCourse
+Divide and Conquer Algorithm
+Divide and Conquer algorithmis a problem-solving strategy that involves.
+Divide: Break the given problem into smaller non-overlapping problems.
+Conquer: Solve Smaller Problems
+Combine:  Use the Solutions of Smaller Problems to find the overall result.
+Examples of Divide and Conquer areMerge Sort,Quick Sort,Binary SearchandClosest Pair of Points.
+Basics of Divide and Conquer Algorithm:
+Introduction to Divide and Conquer
+Dynamic Programming vs Divide-and-Conquer
+Decrease and Conquer
+Advanced master theorem for divide and conquer recurrences
+Standard Algorithms onDivide and Conquer Algorithm:
+Binary Search
+Merge Sort
+Quick Sort
+Calculate pow(x, n)
+Karatsuba algorithm for fast multiplication
+Strassen’s Matrix Multiplication
+Convex Hull (Simple Divide and Conquer Algorithm)
+Quickhull Algorithm for Convex Hull
+Practice problems onDivide and Conquer Algorithm:
+Square root of an integer
+Maximum and minimum of an array using minimum number of comparisons
+Find frequency of each element in a limited range array in less than O(n) time
+Tiling Problem
+Count Inversions
+The Skyline Problem
+Search in a Row-wise and Column-wise Sorted 2D Array
+Allocate minimum number of pages
+Modular Exponentiation (Power in Modular Arithmetic)
+Problems Based on Standard Divide and Conquer Algorithms
+Binary Search Based Problems
+Merge Sort Based Problems
+Quick Sort Based Problems
+Quick Links :
+Learn Data Structure and Algorithms | DSA Tutorial
+‘Practice Problems’ on Divide and Conquer
+‘Quizzes’ on Divide and Conquer
+H
+Divide and Conquer
+DSA
+Divide and Conquer
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+DSA Course
+DSA
+Geometric Algorithms
+Basic Geometry
+Computational Geometry
+Slope of Line
+Point of Intersection of Two Lines
+Closest Pair of Points
+Convex Hull
+Pythagorean Quadruple
+Polygon Triangulation
+Explore GfG Courses
+Share Your Experiences
+Geometric Algorithms
+Problems based on Pattern Printing
+Print lower triangle with alternate '*' and '#'
+Print the pattern 1*2*5*6 --3*4
+Python Program to print the pattern 'G'
+Program to Print Pascal's Triangle
+Program to print pyramid pattern
+Program to print the Diamond Shape
+Hour-glass Pattern
+Program to print V and inverted-V pattern
+Program to print hollow pyramid, diamond pattern and their modifications
+Code to Generate the Map of India (With Explanation)
+Problems based on Lines
+How to check if two given line segments intersect?
+Sweep Line Algorithm  - Find if any Two Segments Intersect
+Klee's Algorithm (Length Of Union Of Segments of a line)
+Count maximum points on same line
+Minimum lines to cover all points
+Represent a given set of points by the best possible straight line
+Program to find line passing through 2 Points
+Reflection of a point about a line in C++
+Program to find the mid-point of a line
+Sum of Manhattan distances between all pairs of points
+Program to check if three points are collinear
+Problems based on Triangles
+Check whether a given point lies inside a triangle or not
+Program to find area of a triangle
+Count Integral points inside a Triangle
+Maximum number of 2x2 squares that can be fit inside a right isosceles triangle
+Find all angles of a given triangle
+Check if right triangle possible from given area and hypotenuse
+Number of Triangles that can be formed given a set of lines in Euclidean Plane
+Program to calculate area of Circumcircle of an Equilateral Triangle
+Program to calculate area and perimeter of equilateral triangle
+Minimum height of  a triangle with given base and area
+Problems based on Rectangle, Square and Circle
+Find if two rectangles overlap
+Check if four segments form a rectangle
+Minimum Perimeter of n blocks
+Number of rectangles in N*M grid
+Coordinates of rectangle with given points lie inside
+Program for Area Of Square
+Circle and Lattice Points
+Pizza cut problem (Or Circle Division by Lines)
+Angular Sweep (Maximum points that can be enclosed in a circle of given radius)
+Check if a line touches or intersects a circle
+Area of a Circumscribed Circle of a Square
+Area of square Circumscribed by Circle
+Program to find area of a Circular Segment
+Arc length from given Angle
+Program to find Circumference of a Circle
+Check if two given circles touch or intersect each other
+Problems based on 3D Objects
+Find the perimeter of a cylinder
+Find the Surface area of a 3D figure
+Calculate Volume of Dodecahedron
+Program to calculate volume of Octahedron
+Program to calculate Volume and Surface area of Hemisphere
+Program for volume of Pyramid
+Program to calculate volume of Ellipsoid
+Program for Volume and Surface Area of Cube
+Problems based on Quadrilateral
+Number of parallelograms when n horizontal parallel lines intersect m vertical parallel lines
+Program for Circumference of a Parallelogram
+Program to calculate area and perimeter of Trapezium
+Program to find area of a Trapezoid
+Find all possible coordinates of parallelogram
+Maximum area of quadrilateral
+Check whether four points make a parallelogram
+Find the Missing Point of Parallelogram
+Problems based on Polygon and Convex Hull
+How to check if a given point lies inside or outside a polygon?
+Area of a polygon with given n ordered vertices
+Tangents between two Convex Polygons
+Find number of diagonals in n sided convex polygon
+Convex Hull using Jarvis' Algorithm or Wrapping
+Convex Hull using Graham Scan
+Dynamic Convex hull | Adding Points to an Existing Convex Hull
+Deleting points from Convex Hull
+Minimum area of a Polygon with three points given
+Find Simple Closed Path for a given set of points
+Minimum Distance between Two Points
+Optimum location of point to minimize total distance
+Count of parallelograms in a plane
+Rotation of a point about another point
+Finding the vertex, focus and directrix of a parabola
+Find mirror image of a point in 2-D plane
+Equable Shapes
+DSA to DevelopmentCourse
+Geometric Algorithms
+Geometric algorithmsare a type of algorithm that deal with solving problems related togeometry. These algorithms are used to solve various geometric problems such as computing the area of a polygon, finding the intersection of geometric shapes, determining the convex hull of a set of points, and many other tasks related to geometric objects and their properties. Geometric algorithms are important in various fields such as computer graphics, computer-aided design, robotics, and geographical information systems.
+Table of Content
+What are Geometric Algorithms?
+Pattern Printing
+Lines
+Triangle
+Rectangle | Square | Circle
+Quadrilateral
+3D Objects
+Polygon and Convex Hull
+Standard Problems on Geometric Algorithm
+Pattern Printing:
+Print lower triangle with alternate ‘*’ and ‘#’
+Print the pattern 1*2*5*6 –3*4
+Python Program to print the pattern ‘G’
+Pascal’s Triangle
+Program to print pyramid pattern
+Program to print the diamond shape
+Hour-glass Pattern
+Program to print V and inverted-V pattern
+Program to print hollow pyramid, diamond pattern and their modifications
+Code to Generate the Map of India (With Explanation)
+Lines:
+Program to find the mid-point of a line
+Section formula (Point that divides a line in given ratio)
+Program to find slope of a line
+Program to find line passing through 2 Points
+Program for Point of Intersection of Two Lines
+Reflection of a point about a line in C++
+Find points at a given distance on a line of given slope
+Given n line segments, find if any two segments intersect
+Count maximum points on same line
+Minimum lines to cover all points
+Triangle:
+Check whether triangle is valid or not if sides are given
+Check whether a given point lies inside a triangle or not
+Program to find area of a triangle
+Check if right triangle possible from given area and hypotenuse
+Count Integral points inside a Triangle
+Find all angles of a given triangle
+Program to find Circumcenter of a Triangle
+Number of Triangles that can be formed given a set of lines in Euclidean Plane
+Program to calculate area of Circumcircle of an Equilateral Triangle
+Program to find third side of triangle using law of cosines
+Rectangle | Square | Circle:
+Check whether a given point lies inside a rectangle or not
+Program for Area And Perimeter Of Rectangle
+Find if two rectangles overlap
+How to check if given four points form a square
+Number of rectangles in N*M grid
+Program to find Circumference of a Circle
+Program to find area of a circle
+Check whether a point exists in circle sector or not
+Check if two given circles touch or intersect each other
+Program to find area of a Circular Segment
+Check if a line touches or intersects a circle
+Area of a Circumscribed Circle of a Square
+Find minimum radius such that atleast k point lie inside the circle
+Angular Sweep (Maximum points that can be enclosed in a circle of given radius)
+Quadrilateral:
+Number of parallelograms when n horizontal parallel lines intersect m vertical parallellines
+Program for Circumference of a Parallelogram
+Program to calculate area and perimeter of Trapezium
+Program to find area of a Trapezoid
+Find all possible coordinates of parallelogram
+Maximum area of quadrilateral
+Check whether four points make a parallelogram
+Find the Missing Point of Parallelogram
+3D Objects:
+Find the perimeter of a cylinder
+Program for Volume and Surface area of Frustum of Cone
+Program to calculate volume of Ellipsoid
+Program for volume of Pyramid
+Calculate volume and surface area of a cone
+Calculate Volume and Surface area Of Sphere
+Program for Volume and Surface Area of Cuboid
+Program for Volume and Surface Area of Cube
+Pythagorean Quadruple
+LS3/NS3 sphere generation algorithm and its implementation
+Polygon and Convex Hull:
+How to check if a given point lies inside or outside a polygon?
+Area of a polygon with given n ordered vertices
+Tangents between two Convex Polygons
+Find number of diagonals in n sided convex polygon
+Convex Hull using Jarvis’ Algorithm or Wrapping
+Quickhull Algorithm for Convex Hull
+Deleting points from Convex Hull
+Minimum area of a Polygon with three points given
+Standard Problems on Geometric Algorithm:
+Finding the vertex, focus
+and directrix of a parabola
+Find Simple Closed Path for a given set of points
+Number of Integral Points between Two Points
+Optimum location of point to minimize total distance
+Find perimeter of shapes formed with 1s in binary matrix
+Draw geometric shapes on images using OpenCV
+Find if it’s possible to rotate the page by an angle or not
+Equable Shapes
+Quick Links :
+Learn Data Structure and Algorithms | DSA Tutorial
+‘Practice Problems’ on Geometric Algorithms
+Recent Articles on Geometric Algorithms
+H
+Geometric
+DSA
+Geometric
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+DSA Course
+DSA
+Practice Mathematical Algorithm
+Mathematical Algorithms
+Pythagorean Triplet
+Fibonacci Number
+Euclidean Algorithm
+LCM of Array
+GCD of Array
+Binomial Coefficient
+Catalan Numbers
+Sieve of Eratosthenes
+Euler Totient Function
+Modular Exponentiation
+Modular Multiplicative Inverse
+Stein's Algorithm
+Juggler Sequence
+Chinese Remainder Theorem
+Quiz on Fibonacci Numbers
+Explore GfG Courses
+Share Your Experiences
+Algorithms Tutorial
+What is an Algorithm | Introduction to Algorithms
+Definition, Types, Complexity and Examples of Algorithm
+Algorithms Design Techniques
+Why is Analysis of Algorithm important?
+Analysis of Algorithms
+Asymptotic Analysis
+Worst, Average and Best Case Analysis of Algorithms
+Types of Asymptotic Notations in Complexity Analysis of Algorithms
+How to Analyse Loops for Complexity Analysis of Algorithms
+How to analyse Complexity of Recurrence Relation
+Introduction to Amortized Analysis
+Types of Algorithms
+Sorting Algorithms
+Searching Algorithms
+Greedy Algorithms
+Dynamic Programming or DP
+What is Pattern Searching ?
+Backtracking Algorithm
+Divide and Conquer Algorithm
+Mathematical Algorithms
+Geometric Algorithms
+Bitwise Algorithms
+Graph  Algorithms
+Randomized Algorithms
+Branch and Bound Algorithm
+The Role of Algorithms in Computing
+Most important type of Algorithms
+DSA to DevelopmentCourse
+Mathematical Algorithms
+The following is the list of mathematical coding problem ordered topic wise. Please referMathematical Algorithms (Difficulty Wise)for the difficulty wise list of problems.
+GCD and LCM:
+GCD of Two Numbers
+LCM of Two Numbers
+LCM of array
+GCD of array
+Basic and Extended Euclidean
+Stein’s Algorithm for GCD
+GCD, LCM and Distributive Property
+Count pairs with gcd (A, B) as B
+GCD of floating point numbers
+Series with largest GCD and sum equals to n
+Largest Subset with GCD 1
+Summation of GCD of all the pairs up to N
+Divisibility & Large Numbers:
+Divisibility by 3
+Divisibility by 4
+Divisibility by 6
+Divisibility by 7
+Divisibility by 9
+Divisibility by 11
+Divisibility by 12
+Divisibility by 13
+Divisibility by 15
+Divisibility by 29
+Series:
+Juggler Sequence
+Padovan Sequence
+Aliquot Sequence
+Moser-de Bruijn Sequence
+Stern-Brocot Sequence
+Newman-Conway Sequence
+Sylvester’s sequence
+Recaman’s sequence
+Sum of 2, 22, 222, ………
+Sum of 1^2 + 3^2 + 5^2 + . . . + (2*n – 1)^2
+Sum of 0.6, 0.06, 0.006, 0.0006, …to n terms
+n-th term of 2, 12, 36, 80, 150….
+Number Digits:
+Minimum digits to remove to make a number Perfect Square
+Print first k digits of 1/n where n is a positive integer
+Check if a given number can be represented in given a no. of digits in any base
+Find element using minimum segments in Seven Segment Display
+Find next greater number with same set of digits
+Check if a number is jumbled or not
+Numbers having difference with digit sum more than s
+Total numbers with no repeated digits in a range
+K-th digit in ‘a’ raised to power ‘b’
+Algebra:
+Program to add two polynomials
+Multiply two polynomials
+Find number of solutions of a linear equation of n variables
+Calculate the Discriminant Value
+Program for dot product and cross product of two vectors
+Iterated Logarithm log*(n)
+Program to find correlation coefficient
+Program for Muller Method
+Number of non-negative integral solutions of a + b + c = n
+Generate Pythagorean Triplets
+Number System:
+Exponential notation of a decimal number
+Check if a number is power of k using base changing method
+Convert a binary number to hexadecimal number
+Program for decimal to hexadecimal conversion
+Converting a Real Number (between 0 and 1) to Binary String
+Convert from any base to decimal and vice versa
+Decimal to binary conversion without using arithmetic operators
+Prime Numbers & Primality Tests:
+Prime Numbers
+Left-Truncatable Prime
+Mersenne Prime
+Super Prime
+Hardy-Ramanujan Theorem
+Rosser’s Theorem
+Fermat’s little theorem
+Introduction to Primality Test and School Method
+Vantieghems Theorem for Primality Test
+AKS Primality Test
+Lucas Primality Test
+Prime Factorization & Divisors:
+Prime factors
+Smith Numbers
+Sphenic Number
+Hoax Number
+k-th prime factor of a given number
+Pollard’s Rho Algorithm for Prime Factorization
+Finding power of prime number p in n!
+Find all divisors of a natural number
+Find numbers with n-divisors in a given range
+Modular Arithmetic:
+Modular Exponentiation (Power in Modular Arithmetic)
+Modular multiplicative inverse
+Modular Division
+Euler’s criterion (Check if square root under modulo p exists)
+Find sum of modulo K of first N natural number
+How to compute mod of a big number?
+Exponential Squaring (Fast Modulo Multiplication)
+Trick for modular division ( (x1 * x2 …. xn) / b ) mod (m)
+Factorial:
+Program for factorial of a number
+Legendre’s formula (Given p and n, find the largest x such that p^x divides n!)
+Count trailing zeroes in factorial of a number
+Factorial of a large number
+Primorial of a number
+Find maximum power of a number that divides a factorial
+Largest power of k in n! (factorial) where k may not be prime
+Check if a number is a Krishnamurthy Number or not
+Last non-zero digit of a factorial
+Count digits in a factorial using Logarithm
+Fibonacci Numbers:
+Fibonacci Numbers
+Interesting facts about Fibonacci numbers
+Zeckendorf’s Theorem (Non-Neighbouring Fibonacci Representation)
+Finding nth Fibonacci Number using Golden Ratio
+Matrix Exponentiation
+Fibonacci Coding
+Cassini’s Identity
+Tail Recursion for Fibonacci
+Catalan Numbers:
+Catalan numbers
+Applications of Catalan Numbers
+Dyck path
+Succinct Encoding of Binary Tree
+Find the number of valid parentheses expressions of given length
+nCr Computations:
+Binomial Coefficient
+Introduction and Dynamic Programming solution to compute nCr%p
+Program to calculate value of nCr
+Rencontres Number (Counting partial derangements)
+Sum of squares of binomial coefficients
+Space and time efficient Binomial Coefficient
+Horner’s Method for Polynomial Evaluation
+Set Theory:
+Power Set
+Minimize the absolute difference of sum of two subsets
+Sum of all subsets of a set formed by first n natural numbers
+Sum of average of all subsets
+Bell Numbers (Number of ways to Partition a Set)
+Sieve Algorithms:
+Sieve of Eratosthenes
+Segmented Sieve
+Sieve of Atkin
+Sieve of Sundaram to print all primes smaller than n
+Sieve of Eratosthenes in 0(n) time complexity
+Prime Factorization using Sieve O(log n) for multiple queries
+Euler Totient Function:
+Euler’s Totient Function
+Optimized Euler Totient Function for Multiple Evaluations
+Euler’s Totient function for all numbers smaller than or equal to n
+Primitive root of a prime number n modulo n
+Euler’s Four Square Identity
+Chinese Remainder Theorem:
+Introduction to Chinese Remainder Theorem
+Implementation of Chinese Remainder theorem (Inverse Modulo based implementation)
+Cyclic Redundancy Check and Modulo-2 Division
+Using Chinese Remainder Theorem to Combine Modular equations
+Some Practice Problems:
+Interquartile Range (IQR)
+Simulated Annealing
+Pseudo Random Number Generator (PRNG)
+Square root of a number using log
+Find ways an Integer can be expressed as sum of n-th power of unique natural numbers
+N-th root of a number
+Fast Fourier Transformation for poynomial multiplication
+Find Harmonic mean using Arithmetic mean and Geometric mean
+Double Base Palindrome
+Program for Derivative of a Polynomial
+Sgn value of a polynomial
+Check if a number is a power of another number
+Program to evaluate simple expressions
+Make a fair coin from a biased coin
+Implement *, – and / operations using only + arithmetic operator
+Quick Links :
+Learn Data Structure and Algorithms | DSA Tutorial
+Practrice Problems on Mathematical Algorithms
+Quizzes on Mathematical Algorithms
+Videos on Mathematical Algorithms
+H
+DSA
+Mathematical
+Mathematical
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+DSA Course
+DSA
+Practice Pattern Searching
+Tutorial on Pattern Searching
+Naive Pattern Searching
+Rabin Karp
+KMP Algorithm
+Z Algorithm
+Trie for Pattern Seaching
+Manacher Algorithm
+Suffix Tree
+Ukkonen's Suffix Tree Construction
+Boyer Moore
+Aho-Corasick Algorithm
+Wildcard Pattern Matching
+Explore GfG Courses
+Share Your Experiences
+What is Pattern Searching ?
+Pattern of Strings
+Pattern Searching using C++ library
+Introduction to Pattern Searching
+Search the pattern in given String
+Spiral Pattern
+Naive algorithm for Pattern Searching
+Print Triangle separated pattern
+Y shaped pattern
+Wave Patterns
+Program to print pattern
+Pattern Printing Problems
+Boyer Moore Algorithm for Pattern Searching
+Printing Heart Pattern in C
+Print a String in wave pattern
+Inner reducing pattern printing
+Print symmetric double triangle pattern
+Finite Automata algorithm for Pattern Searching
+Mountain Sequence Pattern
+DSA to DevelopmentCourse
+Pattern Searching
+Pattern searching algorithmsare essential tools in computer science and data processing. These algorithms are designed to efficiently find a particular pattern within a larger set of data.
+Important Pattern Searching Algorithms:
+Naive String Matching: A Simple Algorithm that works in O(m x n) time wheremis the length of the pattern andnis the length of the text.
+Knuth-Morris-Pratt (KMP) AlgorithmIt preprocesses pattern and works in O(m + n) Time.
+Rabin-Karp Algorithm: It uses hashing to compare the pattern with the text. It works in O(m x n) Time in worst case,
+Aho-Corasick Algorithm: A deterministic finite automaton (DFA) based algorithm and works in O(m + n) time.
+Learn Basics ofPattern Searching:
+Introduction to Pattern Searching
+Naive Pattern Searching
+StandardPattern Searching Algorithms:
+Rabin-Karp Algorithm
+KMP Algorithm
+Z algorithm
+Finite Automata
+Boyer Moore – Bad Character Heuristic
+Aho-Corasick Algorithm
+Suffix Array
+Kasai’s Algorithm for LCP array from Suffix Array
+Online algorithm for checking palindrome in a stream
+Manacher’s Algorithm
+Ukkonen’s Suffix Tree Construction – Part 1
+Generalized Suffix Tree
+Practice Problems onPattern Searching:
+Frequency of a Substring
+Anagram Substring Search
+Check if Two Strings Rotations
+Substrings with all Vowels
+Substrings with only Given Character
+Find all Occurrences of a Subarray
+Pattern Searching using a Trie of all Suffixes
+Wildcard Pattern Matching
+Regular Expression Matching
+Longest prefix which is also suffix
+Count string in a 2D array
+Find all the patterns of “1(0+)1”
+Max length prefix as Subsequence
+Search a Word in a 2D Grid
+Word Search with Zig-Zag
+Suffix Tree Application 1 – Substring Check
+Applications of Pattern Searching
+Pattern searching algorithms have numerous applications, including:
+Text Processing:Searching for keywords in a document, finding and replacing text, spell checking, and plagiarism detection.
+Information Retrieval:Finding relevant documents in a database, web search, and data mining.
+Bioinformatics:Searching for DNA sequences in a genome, protein analysis, and gene expression analysis.
+Network Security:Detecting malicious patterns in network traffic, intrusion detection, and malware analysis.
+Data Mining:Identifying patterns in large datasets, customer segmentation, and fraud detection.
+Recommended:
+Learn Data Structure and Algorithms | DSA Tutorial
+Practice problems on Pattern Searching
+H
+Algorithms
+Pattern Searching
+DSA
+Algorithms
+Pattern Searching
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+DSA Course
+DSA
+Practice Bitwise Algorithms
+MCQs on Bitwise Algorithms
+Tutorial on Biwise Algorithms
+Binary Representation
+Bitwise Operators
+Bit Swapping
+Bit Manipulation
+Count Set bits
+Setting a Bit
+Clear a Bit
+Toggling a Bit
+Left & Right Shift
+Gray Code
+Checking Power of 2
+Important Tactics
+Bit Manipulation for CP
+Fast Exponentiation
+Explore GfG Courses
+Share Your Experiences
+Bitwise Algorithms
+Introduction to Bitwise Algorithms - Data Structures and Algorithms Tutorial
+Bitwise Operators in C
+Bitwise Operators in Java
+Python Bitwise Operators
+JavaScript Bitwise Operators
+All about Bit Manipulation
+What is Endianness? Big-Endian & Little-Endian
+Bits manipulation (Important tactics)
+Easy Problems on Bit Manipulations and Bitwise Algorithms
+Binary representation of a given number
+Count set bits in an integer
+Add two bit strings
+Turn off the rightmost set bit
+Rotate bits of a number
+Compute modulus division by a power-of-2-number
+Find the Number Occurring Odd Number of Times
+Program to find whether a given number is power of 2
+Find position of the only set bit
+Check for Integer Overflow
+Find XOR of two number without using XOR operator
+Check if two numbers are equal without using arithmetic and comparison operators
+Detect if two integers have opposite signs
+Swap Two Numbers Without Using Third Variable
+Russian Peasant  (Multiply two numbers using bitwise operators)
+Medium Problems on Bit Manipulations and Bitwise Algorithms
+Swap bits in a given number
+Smallest of three integers without comparison operators
+Compute the minimum or maximum of two integers without branching
+Smallest power of 2 greater than or equal to n
+Program to find parity
+Check if binary representation of a number is palindrome
+Generate n-bit Gray Codes
+Check if a given number is sparse or not
+Euclid's Algorithm when % and / operations are costly
+Calculate square of a number without using *, / and pow()
+Copy set bits in a range
+Check if a number is Bleak
+Gray to Binary and Binary to Gray conversion
+Hard Problems on Bit Manipulations and Bitwise Algorithms
+Next higher number with same number of set bits
+Find the maximum subarray XOR in a given array
+Find longest sequence of 1's in binary representation with one flip
+Closest (or Next) smaller and greater numbers with same number of set bits
+Bitmasking and Dynamic Programming | Travelling Salesman Problem
+Compute the parity of a number using XOR and table look-up
+XOR Encryption by Shifting Plaintext
+Count pairs in an array which have at least one digit common
+Convert Floating to Binary - Python
+Booth’s Multiplication Algorithm
+Number of pairs with Pandigital Concatenation
+Find the n-th number whose binary representation is a palindrome
+Unique Numbers ||
+Builtin functions of GCC compiler
+DSA to DevelopmentCourse
+Bitwise Algorithms
+Bitwise algorithmsin Data Structures and Algorithms (DSA) involve manipulating individual bits of binary representations of numbers to perform operations efficiently. These algorithms utilize bitwise operators like AND, OR, XOR, NOT, Left Shift, and Right Shift.
+Basics
+Introduction to Bitwise Algorithms
+Bitwise Operators in C/C++
+Bitwise Operators in Java
+Python Bitwise Operators
+JavaScript Bitwise Operators
+All about Bit Manipulation
+Little and Big Endian Mystery
+Bit Manipulation Tips and Tricks
+Bits manipulation (Important tactics)
+Bitwise Hacks for Competitive Programming
+Easy Problems on Bit Algorithms
+Binary Representation
+Turn off the rightmost set bit
+Check if K-th Bit Set
+Set the K-th Bit
+Modulus division by 2's Power
+Odd Occurring Number
+Power of two
+The only set bit
+Add Bit Strings
+Check for Integer Overflow
+XOR without using XOR
+Check for Equal
+Check for opposite signs
+Swap Two Numbers
+Russian Peasant
+Medium Problems on Bit Algorithms
+Most Significant Set Bit
+Rightmost Set Bit
+Count Set Bits
+Swap Bits
+Rotate Bits
+Smallest of Three
+Minimum without branching
+Smallest power of 2 greater than or equal to n
+Program to find parity
+Check if binary is palindrome
+Generate n-bit Gray Codes
+Check for Sparse
+Euclid when % and / are costly
+Square without using *, / and pow()
+Cyclic Redundancy Check and Modulo-2 Division
+Set Bits in a Range
+Check for Bleak
+Gray to Binary and Vice Versa
+Hard Problems on Bit Algorithms
+Next higher with same  set bits
+Karatsuba Algorithm for fast Multiplication
+Max Subarray XOR
+Longest Sequence of 1’s in Binary with One Flip
+Closest Smaller and greater with same set bits
+Bitmasking and Dynamic Programming
+Compute the Parity
+XOR Encryption by Shifting Plaintext
+Count pairs with at least one digit common
+Floating to Binary
+Booth’s Multiplication Algorithm
+Pairs with Pandigital Concatenation
+n-th number whose binary is a palindrome
+Two non-repeating in an array of repeating
+Quick Links :
+DSA Tutorial
+‘Practice Problems’ on Bit Magic
+‘Quiz’ on Bit Magic
+‘Videos’ on Bit Magic
+What are Bitwise Algorithms?
+Bitwise algorithms are algorithms that operate on individual bits of data rather than on larger data types like integers or floating-point numbers. These algorithms manipulate bits directly, typically using bitwise operators such as AND, OR, XOR, shift left, shift right, and complement.
+Common Bitwise Algorithms and Operations
+Here are some common bitwise algorithms and operations:
+Bitwise AND (&):Takes two numbers as input and performs a bitwise AND operation on their corresponding bits. It returns 1 only if both bits are 1; otherwise, it returns 0.
+Bitwise OR (|):Performs a bitwise OR operation on the corresponding bits of two numbers. It returns 1 if at least one of the bits is 1.
+Bitwise XOR (^):Performs a bitwise exclusive OR operation on the corresponding bits of two numbers. It returns 1 if the bits are different and 0 if they are the same.
+Bitwise NOT (~):Performs a bitwise NOT operation, which flips each bit of the input (1 becomes 0 and 0 becomes 1).
+Left Shift (<<) and Right Shift (>>):These operators shift the bits of a number to the left or right by a specified number of positions. Left shifting is equivalent to multiplying the number by 2, while right shifting is equivalent to dividing by 2.
+Applications of Bitwise Algorithms
+Bit manipulation (setting, clearing, toggling bits):Bitwise operators are often used to manipulate individual bits of numbers. This includes tasks such as setting bits (using OR), clearing bits (using AND with the complement), toggling bits (using XOR with 1), and checking the value of a specific bit.
+Efficient storage of data:Bitwise algorithms play a crucial role in data compression techniques like Huffman coding. They can efficiently represent and process compressed data by manipulating bits directly.
+Cryptography:Many cryptographic algorithms, such as AES (Advanced Encryption Standard), DES (Data Encryption Standard), and SHA (Secure Hash Algorithm), utilize bitwise operations for encryption, decryption, and hashing. Bitwise XOR, in particular, is commonly used in encryption algorithms for its simplicity and effectiveness.
+Networking and Protocol Handling:Bitwise algorithms are used in networking protocols for tasks like IP address manipulation, subnet masking, and packet parsing. For example, bitwise AND is used in subnet masking to determine the network address from an IP address and subnet mask.
+Low-Level System Programming:Bitwise operations are essential in low-level system programming for tasks such as device control, memory management, and bit-level I/O operations. They are used to manipulate hardware registers, set/clear flags, and optimize code for performance.
+Error Detection and Correction:Bitwise algorithms are employed in error detection and correction techniques, such as CRC (Cyclic Redundancy Check) and Hamming codes. These algorithms use bitwise XOR and other operations to detect and correct errors in transmitted data.
+Quick Links :
+DSA Tutorial
+‘Practice Problems’ on Bit Magic
+‘Quiz’ on Bit Magic
+‘Videos’ on Bit Magic
+H
+Bit Magic
+DSA
+Bit Magic
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+DSA Course
+DSA
+Branch and Bound Tutorial
+Backtracking Vs Branch-N-Bound
+0/1 Knapsack
+8 Puzzle Problem
+Job Assignment Problem
+N-Queen Problem
+Travelling Salesman Problem
+Explore GfG Courses
+Share Your Experiences
+Algorithms Tutorial
+What is an Algorithm | Introduction to Algorithms
+Definition, Types, Complexity and Examples of Algorithm
+Algorithms Design Techniques
+Why is Analysis of Algorithm important?
+Analysis of Algorithms
+Asymptotic Analysis
+Worst, Average and Best Case Analysis of Algorithms
+Types of Asymptotic Notations in Complexity Analysis of Algorithms
+How to Analyse Loops for Complexity Analysis of Algorithms
+How to analyse Complexity of Recurrence Relation
+Introduction to Amortized Analysis
+Types of Algorithms
+Sorting Algorithms
+Searching Algorithms
+Greedy Algorithms
+Dynamic Programming or DP
+What is Pattern Searching ?
+Backtracking Algorithm
+Divide and Conquer Algorithm
+Mathematical Algorithms
+Geometric Algorithms
+Bitwise Algorithms
+Graph  Algorithms
+Randomized Algorithms
+Branch and Bound Algorithm
+The Role of Algorithms in Computing
+Most important type of Algorithms
+DSA to DevelopmentCourse
+Branch and Bound Algorithm
+TheBranch and Bound Algorithmis a method used incombinatorialoptimization problems to systematically search for the best solution. It works by dividing the problem into smaller subproblems, or branches, and then eliminating certain branches based on bounds on the optimal solution. This process continues until the best solution is found or all branches have been explored.Branch and Boundis commonly used in problems like thetraveling salesmanandjob scheduling.
+Branch and Bound Algorithm
+Introduction to Branch and Bound:
+Branch and Bound meaning in DSA
+Introduction to Branch and Bound
+Difference between Backtracking and Branch-N-Bound
+Standard Problems on Branch and Bound:
+Branch and Bound | Set 1 (Introduction with 0/1 Knapsack)
+Branch and Bound | Set 2 (Implementation of 0/1 Knapsack)
+0/1 Knapsack using Least Cost Branch and Bound
+Branch and Bound | Set 3 (8 puzzle Problem)
+Branch and Bound | Set 5 (N Queen Problem)
+Branch And Bound | Set 6 (Traveling Salesman Problem)
+Job Assignment Problem using Branch And Bound
+Travelling Salesman Problem (TSP) using Reduced Matrix Method
+Generate Binary Strings of length N using Branch and Bound
+Quick Links:
+Learn Data Structure and Algorithms | DSA Tutorial
+H
+Branch and Bound
+DSA
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+DSA Course
+DSA
+Tutorial on Randomized Algorithms
+Importance of Randomized Algorithms
+Random Variables
+Randomized Binary Search Algorithm
+Randomized Quick Sort Algorithm
+Las Vegas & Monte Carlo Algorithms
+Birthday Paradox
+Treap
+Skip List
+Generate Captcha
+Fisher-Yates Shuffle
+Reservoir Sampling
+Freivald's Algorithm
+1/2 Approximate Median
+Explore GfG Courses
+Share Your Experiences
+Algorithms Tutorial
+What is an Algorithm | Introduction to Algorithms
+Definition, Types, Complexity and Examples of Algorithm
+Algorithms Design Techniques
+Why is Analysis of Algorithm important?
+Analysis of Algorithms
+Asymptotic Analysis
+Worst, Average and Best Case Analysis of Algorithms
+Types of Asymptotic Notations in Complexity Analysis of Algorithms
+How to Analyse Loops for Complexity Analysis of Algorithms
+How to analyse Complexity of Recurrence Relation
+Introduction to Amortized Analysis
+Types of Algorithms
+Sorting Algorithms
+Searching Algorithms
+Greedy Algorithms
+Dynamic Programming or DP
+What is Pattern Searching ?
+Backtracking Algorithm
+Divide and Conquer Algorithm
+Mathematical Algorithms
+Geometric Algorithms
+Bitwise Algorithms
+Graph  Algorithms
+Randomized Algorithms
+Branch and Bound Algorithm
+The Role of Algorithms in Computing
+Most important type of Algorithms
+DSA to DevelopmentCourse
+Randomized Algorithms
+Randomized algorithmsin data structures and algorithms (DSA) are algorithms that use randomness in their computations to achieve a desired outcome. These algorithms introduce randomness to improve efficiency or simplify the algorithm design. By incorporating random choices into their processes, randomized algorithms can often provide faster solutions or better approximations compared to deterministic algorithms. They are particularly useful in situations where exact solutions are difficult to find or when a probabilistic approach is acceptable.
+For example, inRandomized Quick Sort, we use a random number to pick the next pivot (or we randomly shuffle the array). Typically, this randomness is used to reduce time complexity or space complexity in other standard algorithms.
+Introduction
+Introduction and Analysis
+Classification and Applications
+1/2 Approximate Median Example
+Easy Problems
+Generates one of 3 according to given probabilities
+Generate 0 and 1 with 25% and 75% probability
+Implement rand3() using rand2()
+Birthday Paradox
+Expected Value of an array
+Shuffle a deck of cards
+Generate CAPTCHA and verify
+Index of max occurring with equal probability
+Randomized Binary Search
+Medium Problems
+Make a fair coin from a biased coin
+Shuffle a given array using Fisher–Yates shuffle Algorithm
+Expected Number of Trials until Success
+Strong Password Suggester Program
+QuickSort using Random Pivoting
+Operations on Sparse Matrices
+Estimating the value of Pi using Monte Carlo
+Implement rand12() using rand6() in one line
+Hard Problems
+Generate integer from 1 to 7 with equal probability
+Implement random-0-6-Generator using the given random-0-1-Generator
+Select a random number from stream, with O(1) space
+Random number generator in arbitrary probability distribution fashion
+Reservoir Sampling
+Linearity of Expectation
+Introduction and implementation of Karger’s algorithm for Minimum Cut
+Select a Random Node from a Singly Linked List
+Select a Random Node from a tree with equal probability
+Freivald’s Algorithm to check if a matrix is product of two
+Random Acyclic Maze Generator with given Entry and Exit point
+Recommended:
+Learn Data Structure and Algorithms | DSA Tutorial
+H
+Algorithms
+Randomized
+DSA
+Algorithms
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+Aptitude
+Engineering Mathematics
+Discrete Mathematics
+Operating System
+DBMS
+Computer Networks
+Digital Logic and Design
+C Programming
+Data Structures
+Algorithms
+Theory of Computation
+Compiler Design
+Computer Org and Architecture
+Crack GATE 2026
+Explore GfG Courses
+GATE CS Notes
+Benefits of writing GATE exam
+How to Use GeeksforGeeks to Prepare for GATE CS?
+GATE 2025 Syllabus For CSE (Computer Science & Engineering)
+DS & C Programming
+Data Structures Tutorial
+LMNs-Data Structures
+Algorithms
+Algorithms Tutorial
+LMNs- Algorithms
+Database Management System
+DBMS Tutorial – Learn Database Management System
+Database Management System - GATE CSE Previous Year Questions
+Last Minute Notes - DBMS
+Operating System
+Operating System Tutorial
+Operating System Interview Questions
+Last Minute Notes – Operating Systems
+Computer Networks
+Computer Network Tutorial
+Computer Networks - GATE CSE Previous Year Questions
+Last Minute Notes for Computer Networks
+Digital Logic and Design
+Digital Electronics and Logic Design Tutorials
+Digital Logic & Number representation
+LMN - Digital Electronics
+Theory of Computation
+Automata Tutorial
+Theory of Computation - GATE CSE Previous Year Questions
+Last Minute Notes - Theory of Computation
+Compiler Design
+Compiler Design Tutorial
+Compiler Design - GATE CSE Previous Year Questions
+Last Minute Notes - Compiler Design
+Computer Organization and Architecture
+Computer Organization and Architecture Tutorial
+Computer Organization and Architecture
+Last Minute Notes Computer Organization
+Discrete Mathematics
+Discrete Mathematics Tutorial
+Top MCQs on Graph Theory in Mathematics
+Last Minute Notes – Discrete Mathematics
+Engineering Mathematics
+Engineering Mathematics Tutorials
+Permutation and Combination
+Last Minute Notes - Engineering Mathematics
+GATE CS Preparation
+GATE CSE and DA Previous Years Papers PDF Download Link
+GATE 2025 Exam Preparation Strategy (for Last 30 Days)
+GATE 2024 Preparation Guide
+PSU Recruitment through GATE 2025 - Eligibility, Selection Process, Total Posts, and Cutoff
+Important Topics for GATE 2025 Computer Science
+7 Tips to Score High in GATE 2025 in Last 10 Days
+How to Prepare For GATE CSE For Non-CSE Student [2025]
+DSA to DevelopmentCourse
+GATE CS Notes
+The Graduate Aptitude Test in Engineering (GATE) is a national-level exam in India, jointly conducted by the Indian Institute of Science (IISc) and seven Indian Institutes of Technology (IITs) on a rotational basis. GATE 2026 is scheduled to be organized by IIT Guwahati.
+This computer-based exam assesses the technical aptitude of engineering graduates. A good GATE score opens doors to postgraduate programs like Master of Technology (MTech) or Master of Engineering (ME) at prestigious institutions, as well as job opportunities in Public Sector Undertakings (PSUs).
+Do you want to crack GATE Exam? Explore ourGATE Coursescurated by experts.Also, predict your performance in GATE 2025 exam with ourGATE Rank Predictor.
+TheGATE Computer Scienceexam is generally conducted in the first or second week of February and theGATE scoreis valid for 3 years. Stay tuned to our website for all the information regarding the GATE 2026 Exam. The GATE exam is conducted once a year. The GATE exam consists of 65 questions, including 10 General Aptitude and 55 core subject questions. The duration of the exam is 3 hours.
+Check out our official GATE CS 2025 Quizzes:
+Set 1
+Set 2
+There are three types of questions that come into the GATE exam:
+Multiple Choice Questions (MCQs)
+Multiple Select Questions (MSQs)
+Numerical Answer Type (NAT)
+This GATE CS Tutorial will help you to understand the GATE Syllabus in a very organized manner and helps you in preparing for the exams for each subject. In this tutorial page, you will find the articles related to each topic that are mentioned in the GATE Syllabus.
+General Aptitude
+The syllabus or important topics of General Aptitude for the GATE CSE exam are provided below.
+General Aptitude Notes for GATE CSE
+Verbal Aptitude
+Basic English Grammar
+Tenses
+Articles
+Adjectives
+Prepositions
+Conjunctions
+Verb-Noun
+Agreement
+Parts of Speech
+Basic Vocabulary
+Words
+Idioms
+Phrases in context Reading and comprehension
+Narrative sequencing
+Quantitative Aptitude
+Data interpretation
+Data Graphs (Bar Graphs,Pie Chartsand other graphs representing data)
+2- and 3-Dimensional Plot
+Maps
+Tables
+Numerical Computation and Estimation
+Ratios
+Percentages
+Powers
+ExponentsandLogarithms
+Permutations and Combinations
+Series
+Mensuration and Geometry
+Elementary Statistics and Probability
+Analytical Aptitude
+Logic: Deduction and Induction
+Analogy
+Numerical relations and reasoning
+Spatial Aptitude
+Spatial Aptitude
+Transformation of Shapes
+Translation
+Rotation
+Scaling
+Mirroring
+Assembling
+Grouping
+Paper Folding, Cutting, and Patterns in 2 and 3 Dimensions
+Engineering Mathematics
+The syllabus or important topics of Engineering Mathematics for the GATE CSE exam are provided below.
+Engineering Mathematics Notes for GATE CSE
+Linear Algebra
+Introduction to Matrix
+Different operations on matrices
+Determinant of a Matrix
+Properties of Determinants of Matrices
+Rank of Matrices
+Row Echelon Form
+L U Decomposition
+Null Space and Nullity of a Matrix
+System of Linear Equations
+Eigen Values and Eigen Vectors
+Matrix Diagonalization
+Finding Inverse of a Square Matrix using Cayley Hamilton
+Probability
+Introduction to Probability
+Random Variables
+Mean,Variance, andStandard Deviation
+Law of Total Probability
+Conditional Probability
+Bayes’s Formula for Conditional Probability
+Probability Distribution
+Uniform Distribution
+Exponential Distribution
+Normal Distribution
+Binomial Distribution
+Poisson Distribution
+Covariance and Correlation
+Calculus
+Limits,ContinuityandDifferentiability
+Indeterminate Forms
+Logarithmic Differentiation
+Lagrange’s Mean Value Theorem
+Rolle’s Mean Value Theorem
+Cauchy’s mean value theorem
+Taylor's Theorem and Taylor series
+Maclaurin series
+Euler's Formula
+Chain Rule Derivative
+Indefinite Integrals
+Finding the Various nth term of any polynomial sequence
+Application of Derivative
+Absolute Minima and Maxima
+Sequence and Series
+Summation Formula
+Misc
+CATEGORY ARCHIVES: ENGINEERING MATHEMATICS
+Last Minute Notes – Engineering Mathematics
+Discrete Mathematics
+The syllabus or important topics of Discrete Mathematics for the GATE CSE exam are provided below.
+Discrete Mathematics Notes for GATE CSE
+Propositional and First-Order Logic
+Introduction to Propositional Logic
+Proposition Laws and Algebra
+Propositional Equivalence
+Predicates and Quantifiers Set 1
+Predicates and Quantifiers Set 2
+Some theorems on Nested Quantifiers
+Rules of Inference
+Consensus Theorem
+Sets, Relations, Functions, Partial orders,and Lattices. Monoids, Groups
+Introduction to Set Theory
+Set Operations in Set Theory
+Power Set
+Cartesian Product of Two Sets
+Relations and their types
+Relations and their Representations
+Closure of Relations
+Equivalence Relations
+Classes of Functions
+Types of Functions
+Inverse Functions
+Composition of Functions
+Total Number of Possible Functions
+Number of possible equivalence relations
+Groups
+Sub-group and Order of Group
+Modular Addition
+Multiplication Modulo
+Partial Orders and Lattices
+Types of Lattices
+Hasse Diagrams
+Combinatorics: Counting, RecurrenceRelations, Generating Functions
+Combinatorics Basics
+Pigeonhole Principle
+Binomial Coefficients
+Generalized PnC Set 1
+Generalized PnC Set 2
+Principle of Inclusion-Exclusion
+Corollaries of Binomial Theorem
+Generating Functions
+Graphs: Connectivity, Matching, Coloring
+Graph Theory Basics
+Walks, Trails, Paths, Cycles, and Circuits in Graph
+Number of Nodes and Height of a Binary Tree
+Havel-Hakimi Theorem
+Graph Measurements: Length, Distance, Diameter, Eccentricity, Radius, Center
+Graph Isomorphisms and Connectivity
+Planar Graphs and Graph Coloring
+Euler and Hamiltonian Paths
+Independent Sets, Covering,, and Matching
+Matching in Graph Theory
+Graph Theory Practice Questions
+Data Structures & C Programming
+The syllabus or important topics of Data Structures & C Programming for the GATE CSE exam are provided below.
+Data Structures & C Programming Notes for GATE CSE
+Programming in C
+Introduction to C Programming
+Data Types in C
+Variables in C
+Operators in C
+Functions in C
+Scope of a Variable
+Pointers in C
+Enum, Struct & Union in C
+Type Casting in C
+Recursion
+Introduction to Recursion
+Types of Recursion
+Arrays
+Introduction to Arrays
+1D, 2D and 3D Arrays
+Row Major Order and Column Major Order
+Stacks
+Introduction to Stack
+Implementation of Stack using SLL
+Applications, Advantages and Disadvantages of Stack
+Infix to Postfix
+Postfix Evaluation
+Towers of Hanoi
+Fibonaaci Series
+Queues
+Introduction to Queue
+Implementation of Queue using Array
+Implementation of Queue using Linked List
+Implementation of Queue using Stack
+Circular Queue
+Priority Queue
+Double Ended Queue
+Linked List
+Introduction to Linked List
+Single Linked List(SLL)
+Double Linked List(DLL)
+Circular Linked List
+Trees
+Binary Search Trees
+Introduction to Binary Search Tree
+BST Insertion
+BST Deletion
+AVL Trees
+Tree Traversal
+Binary Heaps
+Introduction to Heap
+Time Complexity of Building a Heap
+Advanatges and Disadvanatges of Heap
+Graphs
+Introduction to Graphs
+BFS in Graph
+DFS in Graph
+Types of Graph and Examples
+Graph and its Representations
+Basic Properties of Graph
+Applications, Advanatges and Disadvantages of Graph
+Hashing
+Introduction to Hashing
+Hash Function and Types
+Collision Resolution Technique
+Chaining
+Open Addressing (Linear Probing, Quadratic Probing, Double Hashing)
+Quadratic Probing
+Double Hashing
+Misc
+CATEGORY ARCHIVES: DATA STRUCTURES
+CATEGORY ARCHIVES: C
+Last Minute Notes – DATA STRUCTURE
+Last Minute Notes – C/C++
+Algorithms
+The syllabus or important topics of Algorithms for the GATE CSE exam are provided below.
+Algorithms Notes for GATE CSE
+Asymptotic Analysis of Algorithms
+Introduction of Algorithms
+Asymptotic Analysis
+Worst, Average and Best Cases
+Asymptotic Notations
+Analysis of Loops
+Small ‘o’ and Small ‘Omega’ Notation
+What does ‘Space Complexity’ mean?
+Recurrence Relations
+Introduction to Recurrence Relations
+Master Theorem
+Different types of recurrence relations and their solutions
+Divide and Conquer
+Introduction to Divide and Conquer
+Binary Search
+Merge Sort
+Merge Sort for Linked Lists
+How to make Mergesort to perform O(n) comparisons in best case?
+QuickSort
+Iterative Quick Sort
+QuickSort on Singly Linked List
+Median of two sorted arrays
+Count Inversions in an array Using Merge Sort
+Closest Pair of Points
+Strassen’s Matrix Multiplication
+Sort a nearly sorted (or K sorted) array
+Search in an almost sorted array
+K-th Element of Two Sorted Arrays
+K’th Smallest/Largest Element in Unsorted Array
+Greedy Techniques
+Introduction to Greedy Algorithms
+Activity Selection Problem
+Job Sequencing Problem
+Huffman Coding
+Efficient Huffman Coding for Sorted Input
+Fractional Knapsack Problem
+Optimal File Merge Patterns
+Kruskal’s Minimum Spanning Tree Algorithm
+Prim’s Minimum Spanning Tree (MST)
+Prim’s MST for Adjacency List Representation
+Dijkstra’s shortest path algorithm
+Dijkstra’s Algorithm for Adjacency List Representation
+Introduction to Graph Algorithms
+Breadth First Traversal or BFS for a Graph
+Depth First Traversal or DFS for a Graph
+Applications of Depth First Search
+Detect Cycle in a Directed Graph
+Topological Sorting
+Bellman–Ford Algorithm
+Floyd Warshall Algorithm
+Shortest path with exactly k edges in a directed and weighted graph
+Biconnected graph
+Articulation Points (or Cut Vertices) in a Graph
+Check if a graph is strongly connected (Kosaraju’s Theoram)
+Bridges in a graph
+Transitive closure of a graph
+Dynamic Programming
+Introduction to Dynamic Programming
+Overlapping Subproblems Property
+Optimal Substructure Property
+Longest Common Subsequence
+Matrix Chain Multiplication
+0-1 Knapsack Problem
+Min Cost Path
+Subset Sum Problem
+Bellman–Ford Algorithm
+Floyd Warshall Algorithm
+Total number of non-decreasing numbers with n digits
+Smallest power of 2 greater than or equal to n
+Searching, Sorting, Technique-based Theorem and Hashing
+Introduction to Searching Algorithms
+Introduction to Sorting Algorithm
+Linear Search
+Linear Search vs Binary Search
+Binary Search
+Selection Sort
+Bubble Sort
+Insertion Sort
+Merge Sort
+QuickSort
+Heap Sort
+Counting Sort
+Misc
+Top 20 Hashing Technique based Interview Questions
+CATEGORY ARCHIVES: ALGORITHMS
+Last Minute Notes – Algorithms
+Theory of Computation
+The syllabus or important topics of the Theory of Computation for the GATE CSE exam are provided below.
+Theory of Computation Notes for GATE CSE
+Regular Expression, Languages,
+Grammar, and Finite Automata
+Introduction of Theory of Computation
+Introduction to Finite Automata
+Designing Deterministic Finite Automata Set 1
+Designing Deterministic Finite Automata Set 2
+Designing Deterministic Finite Automata (Set 3)
+DFA machines accepting odd number of 0’s or/and even number of 1’s
+DFA for accepting the language L = {anbm | n+m=even}
+DFA for Strings not ending with “THE”
+Union process in DFA
+Concatenation process in DFA
+Minimization of DFA
+Designing Non-Deterministic Finite Automata (Set 1)
+Designing Non-Deterministic Finite Automata (Set 3)
+Conversion from NFA to DFA
+NFA with epsilon move to DFA Conversion
+Regular Expressions, Regular Grammar and Regular Languages
+How to write Regular Expressions?
+How to identify if a language is regular or not
+Generating regular expression from finite automata
+Designing Finite Automata from Regular Expression
+Closure properties of Regular languages
+Introduction To Grammar in Theory of Computation
+Chomsky Hierarchy
+Pumping Lemma
+Mealy and Moore Machines
+Difference between Mealy machine and Moore machine
+Union & Intersection of Regular languages with CFL
+Context Sensitive Language
+Turing Machines and Undecidability
+Introduction to Recursive and Recursive Enumerable Languages
+Introduction to Turing Machine
+Halting Problem
+Turing Machine for addition
+Turing machine for subtraction
+Turing machine for multiplication
+Turing machine for copying data
+Construct a Turing Machine for language L = {0n1n2n | n≥1}
+Construct a Turing Machine for language L = {wwr | w ∈ {0, 1}}
+Construct a Turing Machine for language L = {ww | w ∈ {0,1}}
+Construct a Turing machine for L = {aibjck | i*j = k; i, j, k ≥ 1}
+Types of Complexity Classes | P, NP, CoNP, and NP hard
+Introduction to NP-Completeness
+Decidability
+Decidable and undecidable problems
+Undecidability and Reducibility
+Computable and non-computable problems
+Misc
+CATEGORY ARCHIVES: THEORY OF COMPUTATION & AUTOMATA
+Last Minute Notes – Theory of Computation
+Compiler Design
+The syllabus or important topics of Compiler Design for the GATE CSE exam are provided below.
+Compiler Design Notes for GATE CSE
+Lexical Analysis, Parsing, Syntax-directed
+Introduction of Compiler design
+Phases of a Compiler
+Introduction to Compiler
+Symbol Table in Compiler
+Static and Dynamic Scoping
+Generation of Programming Languages
+Error Handling in Compiler Design
+Error detection and Recovery in Compiler
+Linker
+Lexical Analysis
+Fast Lexical Analyzer Generator
+Classification of Context Free Grammars
+Ambiguous Grammar
+Removal of ambiguity
+Why FIRST and FOLLOW?
+FIRST Set in Syntax Analysis
+FOLLOW Set in Syntax Analysis
+Program to calculate First and Follow sets of given grammar
+Introduction to Syntax Analysis
+Parsing Set 1
+Bottom Up or Shift Reduce Parsers
+SLR, CLR and LALR Parsers
+Shift Reduce Parser in Compiler
+Classification of top down parsers
+Backtracking(Top down parser)
+Recursive descent
+Operator grammar and precedence parser
+Practice Question on Lexical analysis, parsing, syntax-directed
+Runtime Environment
+Runtime Environments
+Stack Allocation
+Heap Allocation
+Parameters Passing
+Pass by Value
+Pass by Reference
+Pass by Copy-restore
+Pass by Name
+Intermediate Code Generation
+Intermediate Code Generation
+Three address code in Compiler
+Detection of a Loop in Three Address Code
+Code Optimization
+Introduction of Object Code
+Data flow analysis in Compiler
+CATEGORY ARCHIVES: COMPILER DESIGN
+Last Minute Notes – Compiler Design
+Local Optimization
+Compile Time Evaluation
+Variable Propagation
+Constant Propagation
+Constant Folding
+Copy Propagation
+Common Sub Expression Elimination
+Dead Code Elimination
+Unreachable Code Elimination
+Function Inlining
+Induction Variable and Strength Reduction
+Code MotionorFrequency Reduction
+Loop Jamming
+Data Flow Analysis
+USE, IN & OUT
+Data flow analysis
+Database Management System
+The syllabus or important topics of Database Management System for the GATE CSE exam are provided below.
+Database Management System Notes for GATE CSE
+Introduction
+Introduction to Database Management System
+DBMS 3-Tier Architecture
+DBMS 2-Level, 3-Level Architecture
+Need for DBMS
+Challenges of Database Security in DBMS
+Advantages of DBMS over File system
+Data Abstraction and Data Independence
+ER-Model
+Introduction to ER Model
+Recursive Relationships
+Minimization of ER Diagram
+Enhanced ER Model
+Mapping from ER Model to Relational Model
+Relational Model (relational algebra, tuple calculus)
+Introduction to Relational Model
+Relational Algebra – Overview
+Anomalies in Relational Model
+Relational Model Introduction and Codd Rules
+Keys in Relational Model (Candidate, Super, Primary, Alternate and Foreign)
+Relational Algebra – Extended Operators
+Tuple Relational Calculus
+How to solve Relational Algebra problems for GATE
+Database Design (integrity constraints, normal forms)
+Introduction to Database Normalization
+Normal Forms in Database Normalization
+Functional Dependency and Attribute Closure
+Types of Functional Dependency
+Finding Attribute Closure and Candidate Keys using Functional Dependencies
+Number of possible Superkeys
+Lossy and Lossless Decomposition
+Dependency Preserving Decomposition
+Lossless Join and Dependency Preserving Decomposition
+DBMS | How to find the highest normal form of a relation
+Minimum relations satisfying 1NF
+Equivalence of Functional Dependencies
+Canonical Cover
+Multivalued Dependency
+Structured Query Languages (SQL)
+Introduction to Structured Query Language (SQL)
+Parts of SQL
+Data Manipulation Language in SQL
+Data Definition in SQL
+Joins in SQL
+Inner VS Outer Join
+Having Vs Where Clause
+Database Objects
+Nested Queries in SQL
+Join operation Vs nested query
+Indexing in Databases
+SQL Clauses
+SQL Views
+SQL Indexes
+SQL queries on clustered and non-clustered Indexes
+SQL Tutorial
+Transactions and Concurrency Control
+Introduction to Concurrency Control
+Database Recovery Techniques
+ACID Properties in DBMS
+Log based recovery
+Why recovery is needed?
+Transaction Isolation Levels in DBMS
+Types of Schedules in Concurrency Control
+Types of Recoverability of Schedules in DBMS
+Conflict Serializability
+Precedence Graph For Testing Conflict Serializability
+How to test if two schedules are View Equal or not ?
+Recoverability of Schedules
+Cascadeless in DBMS
+Deadlock in DBMS
+Starvation in DBMS
+Transaction and Concurrency Control
+Lock Based Protocol
+Concurrency Control Techniques
+Two Phase Locking (2-PL)
+Categories of Two Phase Locking (2-PL)
+Thomas Write Rule
+Timestamp Ordering Protocols
+Multiple Granularity Locking
+Graph Based Protocol
+Introduction to TimeStamp and Deadlock Prevention Schemes
+Implementation of Locking in DBMS
+File Structures (sequential files, indexing, B and B+ trees)
+Introduction to Indexing in Databases
+File Organization
+Hashing in DBMS
+Introduction to B-Tree
+Insertion in B-Tree
+Deletion in B-Tree
+Introduction to B+ Trees
+Insertion in a B+ tree
+Difference between B tree and B+ tree
+Misc
+CATEGORY ARCHIVES: DBMS
+Last Minute Notes – DBMS
+Computer Networks
+The syllabus or important topics of Computer Networks for the GATE CSE exam are provided below.
+Computer Networks Notes for GATE CSE
+Network Fundamental and
+Physical Layer
+Basics of Computer Networking
+Network goals
+Network Topologies
+Types of area networks – LAN, MAN and WAN
+Types of Transmission Media
+Transmission Modes in Computer Networks(Simplex, Half-Duplex and Full-Duplex)
+Redundant link problems
+Difference between Unipolar, Polar andBipolar Line Coding Schemes
+Difference between Broadband andBaseband Transmission
+Let’s experiment with Networking
+Layers of OSI Model
+TCP/IP Model
+Data Link Layer
+Multiple Access Protocols
+P2P(Peer To Peer) File Sharing
+Framing In Data Link Layer
+LAN Technologies | ETHERNET
+Ethernet Frame Format
+Token Ring frame format
+Bit Stuffing
+Difference between Byte stuffing and Bit stuffing
+Hamming Code
+Aloha
+Slotted Aloha
+Pure Aloha
+Carrier sense multiple access (CSMA)
+Controlled Access Protocols
+Back-off Algorithm for CSMA/CD
+Collision Detection in CSMA/CD
+Efficiency of CSMA/CD
+Efficiency of Token Ring
+Computer Networks | Error Detection
+Stop and Wait ARQ
+Sliding Window Protocol | Set 1 (Sender Side)
+Sliding Window Protocol | Set 2 (Receiver Side)
+Sliding Window Protocol | Set 3 (Selective Repeat)
+Sliding Window protocols Summary With Questions
+Program to remotely Power On a PC over the internet using the Wake-on-LAN protocol
+Program to calculate the Round Trip Time (RTT)
+To calculate the expected Round Trip Time
+Introduction of MAC Address
+Collision Avoidance in wireless networks
+Maximum data rate (channel capacity) for noiseless and noisy channels
+Switches
+Routers
+Types of switches
+Network Layer
+Internetworking
+Line Configuration in Computer Networks
+Difference between Unicast, Broadcast and Multicast
+Collision Domain and Broadcast Domain
+IP Addressing | Introduction and Classful Addressing
+Network Layer | Introduction and IPv4 Datagram Header
+Network Layer | Ipv4 Datagram Fragmentation and Delays
+Fragmentation at Network Layer
+Internet Protocol v6 | IPv6
+Internet Protocol version 6 (IPv6) Header
+IP Addressing | Classless Addressing
+Subnetting in Computer Network
+Supernetting
+Computer Networks | Longest Prefix Matching in Routers
+Program to determine class, Network and Host ID of an IPv4 address
+C Program to find IP Address, Subnet Mask & Default Gateway
+IPv4 classless Subnet equation
+Introduction to variable length subnet mask (VLSM)
+Network address translation (NAT)
+Types of Network address translation (NAT)
+Classification of Routing Algorithms – Set 1
+Types of routing – Set 2
+Classes of routing protocols – Set 3
+Distance vector routing v/s Link state routing
+Fixed and Flooding Routing algorithms
+Routing v/s Routed Protocols
+Unicast Routing – Link State Routing
+Routing Protocols Set 1 (Distance Vector Routing)
+Route Poisoning and Count to infinity problem
+Internet Control Message Protocol (ICMP) | Computer Networks
+OSPF protocol fundamentals
+OSPF protocol States
+OSPF router roles and configuration
+Root Bridge Election in Spanning Tree Protocol
+Types of Spanning Tree Protocol (STP)
+Routing Information Protocol (RIP)
+Routing Interface Protocol (RIP) V1 & V2
+Link state advertisement (LSA)
+Administrative Distance (AD) and Autonomous System (AS)
+Circuit Switching
+Packet Switching and Delays
+Differences between Virtual Circuits & Datagram Networks
+Computer Network | Circuit Switching VS Packet Switching
+RARP
+Traceroute
+How ARP works?
+ARP, Reverse ARP(RARP), Inverse ARP(InARP), Proxy ARP and Gratuitous ARP
+Packet flow in the same network
+Packet flow in different network
+Difference between layer-2 and layer-3 switches
+What’s difference between Ping and Traceroute?
+Computer Network | Servers
+What is Local Host?
+Transport Layer
+Transport Layer responsibilities
+Congestion Control
+Leaky Bucket Algorithm
+TCP | Services and Segment structure
+TCP Congestion Control
+TCP 3-Way Handshake Process
+TCP Connection Establishment
+TCP Connection Termination
+Error Control in TCP
+TCP Timers
+TCP flags
+TCP Server-Client implementation in C
+User Datagram Protocol (UDP)
+Differences between TCP and UDP
+Multiplexing and Demultiplexing in Transport Layer
+Application Layer
+Protocols in Application Layer
+DNS (Domain Name Server) | NetWorking
+Address Resolution in DNS
+DNS Spoofing or DNS Cache poisoning
+Why does DNS use UDP and not TCP?
+Dynamic Host Configuration Protocol (DHCP)
+DHCP Relay Agent
+How DHCP server dynamically assigns IP address to a host?
+Simple network management protocol (SNMP)
+Simple Mail Transfer Protocol (SMTP)
+File Transfer Protocol (FTP)
+HTTP Non-Persistent & Persistent Connection
+HTTP parallel and non parallel
+Multipurpose Internet mail extension (MIME)
+What’s difference between http:// and https:// ?
+What’s difference between HTML and HTTP ?
+What’s difference between The Internet and The Web ?
+Basics of Wi-Fi
+Wifi protected setup (WPS)
+Wifi protected access (WPA)
+LiFi vs. WiFi
+Network Devices (Hub, Repeater, Bridge, Switch, Router and Gateways)
+Misc
+Operating System
+The syllabus or important topics of Operating System for the GATE CSE exam are provided below.
+Operating System Notes for GATE CSE
+Processes, Threads, CPU Scheduling
+Introduction of System Call
+Operating System | Thread
+Threads and its types
+Difference between thread and process
+Multithreading
+Multi threading models
+Benefits of Multithreading
+Process-based and Thread-based Multitasking
+User Level thread Vs Kernel Level thread
+Microkernel
+Monolithic Kernel and key differences from Microkernel
+Difference between multitasking, multithreading and multiprocessing
+Context Switching in OS
+Fork function call
+fork() in C
+Inter‐process Communication,
+Concurrency, and Synchronization
+Process Synchronization | Introduction
+Operating System | Process Synchronization | Set 2
+Critical Section
+Inter Process Communication
+IPC using Message Queues
+IPC through shared memory
+Interprocess Communication: Methods
+Semaphores in operating system
+Mutex vs Semaphore
+Lock variable synchronization mechanism
+Peterson’s Algorithm for Mutual Exclusion | Set 1 (Basic C implementation)
+Peterson’s Algorithm for Mutual Exclusion | Set 2 (CPU Cycles and Memory Fence)
+Peterson’s Algorithm (Using processes and shared memory)
+Readers-Writers Problem | Set 1 (Introduction and Readers Preference Solution)
+Reader-Writers solution using Monitors
+Producer Consumer Problem using Semaphores | Set 1
+Producer-Consumer solution using Semaphores in Java | Set 2
+Process Synchronization | Monitors
+Dining Philosopher Problem
+Dining-Philosophers Solution Using Monitors
+Dining Philosopher Problem Using Semaphores
+Priority Inversion : What the heck !
+What’s difference between Priority Inversion and Priority Inheritance ?
+Deadlock, Starvation, and Livelock
+Deadlock
+Process Management | Deadlock Introduction
+Program for Deadlock free condition
+Deadlock Prevention And Avoidance
+Deadlock Detection And Recovery
+Resource Allocation Graph (RAG)
+Banker’s Algorithm
+Program for Banker’s Algorithm | Set 1 (Safety Algorithm)
+Banker’s Algorithm : Print all the safe state
+Deadlock detection algorithm
+Methods of resource allocation to processes by operating system
+Main Memory Management
+Mapping virtual address to physical addresses
+Logical vs Physical Address in Operating System
+Paging
+Page Table Entries
+Multilevel Paging
+Inverted Page Table
+Segmentation
+Demand Paging
+Memory Management | Partition Allocation Method
+Non-Contiguous Allocation
+Fixed (or static) Partitioning
+Variable (or dynamic) Partitioning
+Working with Shared Libraries | Set 1
+Static and Dynamic Libraries | Set 1
+Buddy System
+Buddy System Memory Allocation
+Buddy System Memory Deallocation
+Allocating kernel memory
+Requirements of memory management system
+Virtual Memory
+Virtual Memory
+Secondary memory – Hard disk drive
+Page Fault Handling
+Page Replacement Algorithms
+Belady’s Anomaly
+Program for Optimal Page Replacement Algorithm
+Techniques to handle Thrashing
+What exactly Spooling is all about?
+Difference between Spooling and Buffering
+Overlays in Memory Management
+Swap Space
+File System and Disk Scheduling
+File Systems
+Structures of Directory
+File Directory | Path Name
+File Access Methods
+File Allocation Methods
+Operating System | Free space management
+Difference between FAT32, exFAT, and NTFS File System
+Disk Scheduling Algorithms
+Program for SSTF disk scheduling algorithm
+CATEGORY ARCHIVES: OPERATING SYSTEMS
+Last Minute Notes – Operating Systems
+Digital Logic and Design
+The syllabus or important topics of Digital Logic and Design for the GATE CSE exam are provided below.
+Digital Logic & Design Notes for GATE CSE
+Introduction of Boolean Algebra and Logic Gates
+Logic Gates
+Properties of Boolean algebra
+Logical gates in logic design
+Boolean functions
+Minimization of Boolean Functions
+Representation of Boolean Functions
+Canonical and Standard Form
+Functional Completeness
+K-Map
+Implicants in K-Map
+Prime implicants and Explicit implicants
+PDNF and PCNF
+Variable entrant map (VEM)
+Consensus theorem
+Combinational Circuit
+Grey Code
+Half Adder
+Full Adder
+Half Subtractor
+Full Subtractor
+Half Adder and Half Subtractor using NAND NOR gates
+Encoders and Decoders
+Encoder
+Binary Decoder
+Combinational circuits using Decoder
+Multiplexers
+De-MUX
+Carry Look-Ahead Adder
+Parallel Adder & Parallel Subtractor
+BCD Adder
+Magnitude Comparator
+BCD to 7 Segment Decoder
+Programmable Logic Array
+Programming Array Logic
+Read-Only Memory (ROM)
+Static Hazards
+Sequential Circuit
+Introduction of Sequential Circuits
+Flip-flop types and their Conversion
+Synchronous Sequential Circuits
+Counters
+Ring Counter
+n-bit Johnson Counter
+Ripple Counter
+Design counter for given sequence
+Master Slave JK Flip Flop
+S-R FlipFlop
+T Flipflop
+D Flipflop
+Asynchronous Sequential Circuits
+Shift Registers
+Design 101 sequence detector
+Amortized analysis for increment in counter
+Number Representation and Computer Arithmetic
+Number System and base conversions
+Code Converters – BCD(8421) to/from Excess-3
+Code Converters – Binary to/from Gray Code
+Program for Decimal to Binary Conversion
+Program for Binary To Decimal Conversion
+Program for Decimal to Octal Conversion
+Program for Octal to Decimal Conversion
+Program for Hexadecimal to Decimal Conversion
+Computer Arithmetic | Set – 1
+Computer Arithmetic | Set – 2
+Floating Point Representation
+What’s difference between 1’s Complement and 2’s Complement?
+Booth’s Algorithm
+Restoring Division Algorithm For Unsigned Integer
+Non-Restoring Division For Unsigned Integer
+CATEGORY ARCHIVES: DIGITAL ELECTRONICS & LOGIC DESIGN
+Last Minute Notes – Digital Electronics
+Computer Organization and Architecture
+The syllabus or important topics of Computer Organization and Architecture for the GATE CSE exam are provided below.
+Computer Organization and Architecture Notes for GATE CSE
+Machine Instructions and Addressing Modes
+Introduction to Computer Organization and Architecture
+Basic Computer Instructions
+Instruction Design and Format
+Computer Arithmetic
+Microprogrammed Control
+Memory Organization
+A simple understanding of Computer
+Issues in Computer Design
+Computer System Level Hierarchy
+Computer Architecture and Computer Organization
+Basic Computer Instructions
+Von Neumann architecture
+Harvard Architecture
+Von Neumann architecture vs Harvard Architecture
+Basic Computer Instructions
+Instruction Formats (Zero, One, Two and Three Address Instruction)
+Stack based CPU Organization
+General Register based CPU Organization
+Single Accumulator based CPU organization
+Problem Solving on Instruction Format
+Addressing Modes
+Machine Instructions
+Difference between CALL and JUMP instructions
+Simplified Instructional Computer (SIC)
+Hardware architecture (parallel computing)
+Flynn’s taxonomy
+Generations of computer
+Amdahl’s law and its proof
+ALU, Data‐Path and Control Unit
+Control Unit and design
+Hardwired v/s Micro-programmed Control Unit
+Hardwired Vs Micro-programmed Control unit | Set 2
+Horizontal micro-programmed Vs Vertical micro-programmed control unit
+Synchronous Data Transfer
+Asynchronous Data Transfer
+Instruction Pipelining
+Pipelining
+Types of pipelining
+Pipelining | Set 1 (Execution, Stages and Throughput)
+Pipelining | Set 2 (Dependencies and Data Hazard)
+Pipelining | Set 3 (Types and Stalling)
+Different Instruction Cycles
+Performance of Computer
+Micro-Operation
+RISC and CISC
+RISC and CISC | Set 2
+Cache Memory
+Memory Hierarchy Design and its Characteristics
+Cache Memory
+Cache Organization | Introduction
+Locality and Cache friendly code
+What’s difference between CPU Cache and TLB?
+Read and Write operations in memory
+Memory Interleaving
+Introduction to memory and memory units
+2D and 2.5D Memory organization
+Types of computer memory (RAM and ROM)
+Different Types of RAM
+RAM vs ROM
+I/O interface (Interrupt and DMA mode)
+I/O Interface (Interrupt and DMA Mode)
+Input-Output Processor
+Kernel I/O Subsystem
+Memory mapped I/O and Isolated I/O
+BUS Arbitration
+Priority Interrupts | (S/W Polling and Daisy Chaining)
+Asynchronous input output synchronization
+Computer Ports
+Clusters In Computer Organisation
+Human – Computer interaction through the ages
+CATEGORY ARCHIVES: COMPUTER ORGANIZATION & ARCHITECTURE
+GATE CS
+GATE CS
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+Aptitude
+Engineering Mathematics
+Discrete Mathematics
+Operating System
+DBMS
+Computer Networks
+Digital Logic and Design
+C Programming
+Data Structures
+Algorithms
+Theory of Computation
+Compiler Design
+Computer Org and Architecture
+Crack GATE 2026
+Explore GfG Courses
+GATE CS Notes
+Benefits of writing GATE exam
+How to Use GeeksforGeeks to Prepare for GATE CS?
+GATE 2025 Syllabus For CSE (Computer Science & Engineering)
+DS & C Programming
+Data Structures Tutorial
+LMNs-Data Structures
+Algorithms
+Algorithms Tutorial
+LMNs- Algorithms
+Database Management System
+DBMS Tutorial – Learn Database Management System
+Database Management System - GATE CSE Previous Year Questions
+Last Minute Notes - DBMS
+Operating System
+Operating System Tutorial
+Operating System Interview Questions
+Last Minute Notes – Operating Systems
+Computer Networks
+Computer Network Tutorial
+Computer Networks - GATE CSE Previous Year Questions
+Last Minute Notes for Computer Networks
+Digital Logic and Design
+Digital Electronics and Logic Design Tutorials
+Digital Logic & Number representation
+LMN - Digital Electronics
+Theory of Computation
+Automata Tutorial
+Theory of Computation - GATE CSE Previous Year Questions
+Last Minute Notes - Theory of Computation
+Compiler Design
+Compiler Design Tutorial
+Compiler Design - GATE CSE Previous Year Questions
+Last Minute Notes - Compiler Design
+Computer Organization and Architecture
+Computer Organization and Architecture Tutorial
+Computer Organization and Architecture
+Last Minute Notes Computer Organization
+Discrete Mathematics
+Discrete Mathematics Tutorial
+Top MCQs on Graph Theory in Mathematics
+Last Minute Notes – Discrete Mathematics
+Engineering Mathematics
+Engineering Mathematics Tutorials
+Permutation and Combination
+Last Minute Notes - Engineering Mathematics
+GATE CS Preparation
+GATE CSE and DA Previous Years Papers PDF Download Link
+GATE 2025 Exam Preparation Strategy (for Last 30 Days)
+GATE 2024 Preparation Guide
+PSU Recruitment through GATE 2025 - Eligibility, Selection Process, Total Posts, and Cutoff
+Important Topics for GATE 2025 Computer Science
+7 Tips to Score High in GATE 2025 in Last 10 Days
+How to Prepare For GATE CSE For Non-CSE Student [2025]
+DSA to DevelopmentCourse
+Benefits of writing GATE exam
+TheGATE examis created to test the knowledge and understanding of undergraduate students in various subjects of engineering and science. It is conducted by IISc and seven IIT’s jointly on behalf of the National Coordination Board (GATE) and is basically a gateway for post-graduate admissions in India and entry-level positions in Indian PSU’s.
+The GATE exam was started in 1984 and is held once every year, usually in February and the results are declared approximately a month later. There are many benefits ofwriting the GATE exam. Some of them are given in detail as follows:
+Admission into M.E. / M.Tech../ M.Sc. programs through GATE examThe GATE exam can be used to obtain admission into M.E. / M.Tech../ M.Sc. programs of the top institutions of India such as IISC, IIT’s, NIT’s, etc. Studying in these institutions is an enriching experience as they provide a conducive environment for intellectual satisfaction as well as future financial security.
+Stipends in ME/M. Tech through GATE examThe ME/M. Tech programs provide a stipend of Rs 12, 400 per month for 24 months to students for 8 hours of work per week. This ensures that the students have the required financial assistance to complete their course.
+PSU recruitment through GATE exam:The GATE exam can be used for recruitment into various PSU’s such as NTPC. ONGC, SAIL, BHEL, IOCL, CIL, GAIL, etc. These PSU’s are state-owned enterprises and recruitment into them provides a high paying job as well as financial stability. Also, it is possible that the remaining PSU’s will recruit through the GATE exam in the near future.
+Research institutes recruitment through GATE examThe GATE exam can be used for recruitment into various research institutes. The Council of Scientific and Industrial Research provides the award of Junior Research Fellowship (JRF) and Senior Research Fellowship (SRF) to engineers who have qualified the GATE exam. These fellowships also provide a stipend of Rs 31, 000 to Rs 35, 000 per month.
+BARC recruitment through GATE examThe Bhabha Atomic Research Centre (BARC) is the nuclear research facility of India. The GATE score is used to shortlist for the interview process and after selection, BARC provides training and then a job as a Scientific Officer C in the Atomic Energy Regulatory Board or the DAE units.
+Teaching jobs after GATE examIt is mandatory to have a ME/M. Tech degree to apply for teaching jobs in Indian universities. To ensure that a teaching job is obtained in good universities, it is necessary to have graduated from well-reputed universities and this can only be obtained by getting a high score in GATE exam.
+Foreign study through GATE examThe GATE score is used as a criterion for judgement by universities like Nanyang Technological University (Singapore), National University of Singapore (Singapore), RWTH Aachen (Germany), TU Munich (Germany), etc. to grant admission into Masters and Ph.D. programs without the requirement of a GRE score.
+Higher chance of recruitment in top MNC’s after GATE examPost-graduation from the top institutions of India after the GATE exam provides a better chance for recruitment into top MNC’s such as Google, CISCO, SKODA, Siemens, Samsung, Maruti, LG electronics, etc. as these companies require highly qualified recruits and also provide the corresponding remuneration.
+In conclusion, quality preparation, as well as rigid discipline, is required to ace the GATE exam as it tests the knowledge and understanding of various engineering fundamentals. However, the benefits of writing the GATE exam are also numerous as demonstrated in this article.
+GeeksforGeeks Sudo GATE Course:
+Register for Sudo GATE
+Schedule for Sudo GATE Course.
+GATE CS
+GBlog
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+Aptitude
+Engineering Mathematics
+Discrete Mathematics
+Operating System
+DBMS
+Computer Networks
+Digital Logic and Design
+C Programming
+Data Structures
+Algorithms
+Theory of Computation
+Compiler Design
+Computer Org and Architecture
+Crack GATE 2026
+Explore GfG Courses
+GATE CSE 2023
+GATE CS 2022
+GATE CS 2021 | Set 1
+GATE CS 2021 | Set 2
+GATE CS 2020
+GATE CS 2019
+GATE CS 2018
+GATE-CS-2017 (Set 1)
+GATE-CS-2017 (Set 2)
+GATE-CS-2016 (Set 1)
+GATE-CS-2016 (Set 2)
+More previous year Question
+GATE-CS-2015 (Set 1)
+GATE-CS-2015 (Set 2)
+GATE-CS-2015 (Set 3)
+GATE-CS-2014-(Set-1)
+GATE-CS-2014-(Set-2)
+GATE-CS-2014-(Set-3)
+GATE CS 2013
+GATE CS 2012
+GATE CS 2011
+GATE CS 2010
+GATE-CS-2009
+GATE CS 2008
+GATE-CS-2007
+GATE-CS-2006
+GATE-CS-2004
+Gate IT 2005
+GATE-CS-2003
+GATE-CS-2002
+GATE-CS-2001
+GATE-CS-2000
+GATE 2025 - Registration (Updated), Exam Date, Eligibility, Syllabus PDF, Exam Pattern
+GATE CS Notes
+GATE 2025 Syllabus For CSE (Computer Science & Engineering)
+Tips to Prepare for GATE CS
+7 Key Tips to Crack the GATE Exam in First Attempt in 2025
+GATE CS Preparation
+How to Use GeeksforGeeks to Prepare for GATE CS?
+How to Prepare For GATE CSE For Non-CSE Student [2025]
+DSA to DevelopmentCourse
+How to Use GeeksforGeeks to Prepare for GATE CS?
+Everyone knows that GATE is one of the very popular, versatile, and standard exams in India as it leverages you with numerous career benefits whether it be about getting admissions to the country’s top colleges like IITs, NITs, etc. for Post-Graduation or direct recruitment in Indian PSUs. Some of the PSUs that use GATE scores to shortlist the candidates for employment are ONGC, GAIL, BARC, and many others. It is indeed a life-changing exam. The questions in the GATE exam assess your abilities for – Recall, Comprehension, Application, and Analysis & Synthesis.
+However, as the GATE exam rewards you with such remarkable benefits – it requires you to follow the well-structured preparation process consistently with quality learning resources to ace the exam. And, in a similar context, let us tell you that the renowned platform GeeksforGeeks can help you in this i.e., to prepare for the GATE exam. Yes, you heard it right!
+Step by Step Procedure for Using GFG Resources
+Here are a few steps/guidelines mentioned below that you can use to prepare for your GATE CS exam with the help of the GeeksforGeeks website. Follow each and every step in sequence:
+1. GATE Syllabus
+The very first thing that you need to do to start your GATE preparation is – Understand the GATE Syllabus. You can simply access the GATE syllabus by clicking on “GATE 2024” present on Home Menu Bar.
+On this page, you’ll find that we have listed articles subjective-wise and according to the GATE CS syllabus. There are four columns :
+GATE CS syllabus, which includes all the topics for the GATE exam in an ordered manner.
+Learn, which listed important articles for learning purposes.
+Practice, which listed all important Quizzes and Previous Year Topic-wise Solved questions.
+External Resources, which listed all-important external links of foreign universities and CS portals.
+You should read/learn the content/articles of this table subject-wise and in the above-given sequence.
+2. CS Subject-Wise
+Then, you can explore and go through the tutorials of CS subjects in accordance with the GATE syllabus.
+According to the current syllabus of GATE CS, there are 11 Subjects :
+General Aptitude:- Verbal Aptitude, Quantitative Aptitude, Analytical Aptitude, and Spatial Aptitude.
+Engineering Math and Discrete Math:- Discrete Mathematics:Propositional and first order logic. Sets, relations, functions, partial orders and lattices. Monoids, Groups. Graphs: connectivity, matching, coloring. Combinatorics: counting, recurrence relations, generating functions.Linear Algebra: Matrices, determinants, system of linear equations, eigenvalues and eigenvectors,LU decomposition.Calculus:Limits, continuity and differentiability. Maxima and minima. Mean value theorem. Integration.Probability and Statistics:Random variables. Uniform, normal, exponential, poisson and binomial distributions. Mean, median, mode and standard deviation. Conditional probability and Bayes theorem.
+Algorithms:-Searching, sorting, hashing. Asymptotic worst case time and space complexity. Algorithm design techniques: greedy, dynamic programming and divide‐and‐conquer. Graph traversals, minimum spanning trees, shortest paths
+ProgrammingandData Structures:-Programming in C. Recursion. Arrays, stacks, queues, linked lists, trees, binary search trees, binary heaps, graphs.
+Operating System:-System calls, processes, threads, inter‐process communication, concurrency and synchronization. Deadlock. CPU and I/O scheduling. Memory management and virtual memory. File systems.
+Computer Organization and Architecture:-Machine instructions and addressing modes. ALU, data‐path and control unit. Instruction pipelining, pipeline hazards. Memory hierarchy: cache, main memory and secondary storage; I/O interface (interrupt and DMA mode).
+DataBases:-ER‐model. Relational model: relational algebra, tuple calculus, SQL. Integrity constraints, normal forms. File organization, indexing (e.g., B and B+ trees). Transactions and concurrency control.
+Computer Networks:-Concept of layering: OSI and TCP/IP Protocol Stacks; Basics of packet, circuit and virtual circuit-switching; Data link layer: framing, error detection, Medium Access Control, Ethernet bridging; Routing protocols: shortest path, flooding, distance vector and link state routing; Fragmentation and IP addressing, IPv4, CIDR notation, Basics of IP support protocols (ARP, DHCP, ICMP), Network Address Translation (NAT); Transport layer: flow control and congestion control, UDP, TCP, sockets; Application layer protocols: DNS, SMTP, HTTP, FTP, Email.
+Theory of Computation:-Regular expressions and finite automata. Context-free grammars and push-down automata. Regular and contex-free languages, pumping lemma. Turing machines and undecidability.
+Compiler Design:-Lexical analysis, parsing, syntax-directed translation. Runtime environments. Intermediate code generation. Local optimisation, Data flow analyses: constant propagation, liveness analysis, common sub expression elimination.
+Digital Logic:-Boolean algebra. Combinational and sequential circuits. Minimization. Number representations and computer arithmetic (fixed and floating point).
+You can find/analyzeGATE CS 2024 (Revised) Syllabusfor learning the relevant topics.
+3. Searching Particular Topic/Article
+You can use the search bar to find/search published GATE articles in GFG.
+You can also get to know theImportant Topics for GATE 2024 Computer Sciencefor preparation purposes. You can use GfG as following steps for GATE CS preparation:
+Analysis GATE CS revised syllabus
+Choose Subject
+Choose Topic
+Search topic on GFG
+Read the Article
+You can click on related/suggested articles if you wish to clarify more. Also, you can click on Tag(s) or Category of that article, if you wish to read articles of that tag or category.
+You can also use theGATE CS categoryto read relevant articles.
+4. Practice Phase
+Whenever your preparation is ready and you have learned all the GATE concepts, you can start your practice phase. You should practice previous year’s GATE CS papers and all those relevant to the GATE CS syllabus, like ISRO CS, NET CS, TIFR, etc. You should practice as much as possible. Here, we have listed these GfG links for practicing questions, these have topic-wise and year-wise collections.
+Here are important links for practice purpose:
+https://www.geeksforgeeks.org/gate-corner-2-gq/
+https://www.geeksforgeeks.org/previous-solved-cs-papers-year-wise-gate-ugc-isro/
+https://www.geeksforgeeks.org/placements-gq/
+5. Revision Phase
+Revision is necessary. GeeksforGeeks have prepared “Last Minute Notes (LMN)” for revision of CS Subjects. These are explained in brief and to the point. You should start reading LMNs before 1 or 2 months of the GATE exam.
+6. Sudo GATE CS (Free of Cost Test Series) by GeeksforGeeks
+GeeksforGeeks has been providing free of costGATE CS Test Seriessince 2015. Links are given below, you can practice. Questions of these test series are fresh and developed by GATE CS qualifiers with a high score.
+7. Revision
+Revision is the key to crack GATE exam, Regularly revise each and every topic that you are studying. Revise every topic around 2 to 3 times that will make you strong in the concepts.
+8.Community and Discussion
+You can Participate in the GeeksforGeeks community. Discuss your doubts and you can solve doubts of others, share your knowledge, and learn from others. participating in discussions can provide additional things.
+Again, you need to remember that to crack the GATE exam – you’re required to follow the right approaches with the right mindset and learning resources. Also, do not forget to practice and revise all the concepts efficiently to crack the GATE exam with a higher score!
+Computer Subject
+GATE CS
+GBlog
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?

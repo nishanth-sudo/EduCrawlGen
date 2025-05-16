@@ -1,0 +1,68 @@
+HTML Graphics
+SVG Tutorial
+Canvas Tutorial
+Canvas Clock
+Plotting
+Google Maps
+HTML Game
+SVGTutorial
+Learn SVG
+SVG stands for Scalable Vector Graphics.
+SVG defines vector-based graphics in XML format.
+SVG graphics are scalable, and do not lose any quality if they are zoomed or resized.
+SVG is supported by all major browsers.
+Examples in Each Chapter
+With our "Try it Yourself" editor, you can edit the SVG, and click on a button to view the result.
+SVG Example
+What you should already know
+Before you continue, you should have a basic understanding of the following:
+HTML
+Basic XML
+If you want to study these subjects first, find the tutorials on ourHome page.
+What is SVG?
+SVG stands for Scalable Vector Graphics
+SVG is used to define vector-based graphics for the Web
+SVG defines graphics in XML format
+Each element and attribute in SVG files can be animated
+SVG is a W3C recommendation
+SVG integrates with other standards, such as CSS, DOM, XSL and JavaScript
+SVG is a W3C Recommendation
+SVG 1.0 became a W3C Recommendation on 4 September 2001.
+SVG 1.1 became a W3C Recommendation on 14 January 2003.
+SVG 1.1 (Second Edition) became a W3C Recommendation on 16 August 2011.
+SVG Advantages
+Advantages of using SVG over other image formats (like JPEG 
+and GIF) are:
+SVG images can be created and edited with any text editor
+SVG images can be searched, indexed, scripted, and compressed
+SVG images are scalable
+SVG images can be printed with high quality at any resolution
+SVG images are zoomable
+SVG graphics do NOT lose any quality if they are zoomed or resized
+SVG is an open standard
+SVG files are pure XML
+How does it Work?
+SVG has elements and attributes for rectangles, circles, ellipses, lines, 
+polygons, curves, and more.
+SVG also supports filter and blur effects, gradients, rotations, animations, 
+interactivity with JavaScript, and more.
+A simple SVG document consists of the <svg> root element and several basic 
+shape elements that will build a graphic together.
+Creating SVG Images
+SVG images can be created with any text editor, or with a drawing program, likeInkscape.
+For you to learn the concept and basics of SVG, this tutorial will just use 
+plain text to teach you SVG.
+The next page shows how to embed an SVG image directly into an HTML page!
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_graphics_svg_intro.asp_0.png
+www.w3schools.com_graphics_svg_intro.asp_1.png

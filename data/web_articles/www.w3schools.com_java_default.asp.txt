@@ -1,0 +1,80 @@
+JavaTutorial
+Java Methods
+Java Classes
+Java Data Structures
+Java Advanced
+Java File Handling
+Java How To's
+Java Reference
+Java Examples
+JavaTutorial
+Learn Java
+Java is a popular programming language.
+Java is used to develop mobile apps, web apps, desktop apps, games and much 
+more.
+Examples in Each Chapter
+Our "Try it Yourself" editor makes it easy to learn Java. You can edit Java code and view the result 
+in your browser.
+Example
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+Try it Yourself »
+Click on the "Run example" button to see how it works.
+We recommend reading this tutorial, in the sequence listed in the left menu.
+Java is an object oriented language and some concepts may be new. Take breaks when needed, and go
+over the examples as many times as needed.
+Java Exercises
+Many chapters in this tutorial end with an exercise where you can check your level of knowledge.
+See all Java Exercises
+Java Quiz
+Test your Java skills with a quiz.
+Start Java Quiz
+Learn by Examples
+Learn by examples! This tutorial supplements all explanations with clarifying examples.
+See All Java Examples
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+Java Reference
+You will also find complete keyword and method references:
+Java Keywords
+Java String Methods
+Java Math Methods
+Java Output Methods
+Java Arrays Methods
+Java ArrayList Methods
+Java LinkedList Methods
+Java HashMap Methods
+Java Scanner Methods
+Java Iterator Methods
+Java Errors and Exception Types
+Download Java
+Download Java from the official Java web site:https://www.oracle.com
+Kickstart your career
+Get certified by completingthecourse
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_java_default.asp_0.png
+www.w3schools.com_java_default.asp_1.png

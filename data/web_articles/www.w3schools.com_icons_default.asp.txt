@@ -1,0 +1,50 @@
+IconsTutorial
+Font Awesome 5
+Font Awesome 4
+Bootstrap
+Google
+Icons Tutorial
+How To Add Icons
+To insert an icon, add the name of the icon class to any inline HTML element.
+The<i>and<span>elements are widely used to add 
+icons.
+<i>
+<span>
+All the icons in the icon libraries below, are scalable vector icons that can 
+be customized with CSS (size, color, shadow, etc.)
+Font Awesome 5 Icons
+To use the Free Font Awesome 5 icons, go tofontawesome.comand sign in to get a code to use in your web pages.
+Read more about how to get started with Font Awesome in ourFont Awesome 5chapter.
+Note:No downloading or installation is required!
+Example
+Font Awesome 4 Icons
+To use the Font Awesome 4 icons, add the following line inside the<head>section of your HTML page:
+<head>
+Note:No downloading or installation is required!
+Example
+Bootstrap 3 Icons
+To use the Bootstrap 3 glyphicons, add the following line inside the<head>section of your HTML page:
+<head>
+Note:No downloading or installation is required!
+Example
+Note:Glyphicons are not supported in Bootstrap 4.
+For more information about Bootstrap 3 and Glyphicons, visit ourBootstrap 3 Tutorial.
+Google Icons
+To use the Google icons, add the following line inside the<head>section of your HTML page:
+<head>
+Note:No downloading or installation is required!
+Example
+For a complete list of ALL icons (font awesome, bootstrap and google), visit theIcon Reference.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_icons_default.asp_0.png
+www.w3schools.com_icons_default.asp_1.png

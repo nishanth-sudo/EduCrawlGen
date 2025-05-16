@@ -1,0 +1,504 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+How to Get Started with NLP – 6 Unique Methods to Perform Tokenization
+Are you fascinated by the amount of text data available on the internet? Are you looking for ways to work with this text data but aren’t sure where to begin? Machines, after all, recognize numbers, not the letters of our language. And that can be a tricky landscape to navigate in machine learning. One fundamental step in working with text data in Python is tokenization in Python.
+So how can we manipulate and clean this text data to build a model? The answer lies in the wonderful world ofNatural Language Processing (NLP). Solving an NLP problem is a multi-stage process. We need to clean the unstructured text data first before we can even think about getting to the modeling stage. Cleaning the data consists of a few key steps:
+Word tokenization
+Predicting parts of speech for each token
+Text lemmatization
+Identifying and removing stop words, and much more.
+In this article, we will talk about the very first step – tokenization. We will first see what tokenization is and why it’s required in NLP. We will then look at six unique ways to perform tokenization in Python.
+This article has no prerequisites. Anyone with an interest in NLP or data science will be able to follow along. If you’re looking for an end-to-end resource for learning NLP, you should check out our comprehensive course:Natural Language Processing using Python
+Table of contents
+What is Tokenization?
+Types of Tokenization in Python?
+Why is Tokenization required in NLP?
+Methods to Perform Tokenization in PythonTokenization using Python’s split() functionTokenization using Regular Expressions (RegEx)Tokenization using NLTKTokenization using the spaCy libraryTokenization using KerasTokenization using Gensim
+Tokenization using Python’s split() function
+Tokenization using Regular Expressions (RegEx)
+Tokenization using NLTK
+Tokenization using the spaCy library
+Tokenization using Keras
+Tokenization using Gensim
+Conclusion
+Frequently Asked Questions
+What is Tokenization?
+Tokenizationis one of the most common tasks when it comes to working with text data. But what does the term ‘tokenization’ actually mean?
+Tokenization in Python is essentially splitting a phrase, sentence, paragraph, or an entire text document into smaller units, such as individual words or terms. Each of these smaller units are called tokens.
+Check out the below image to visualize this definition:
+The tokens could be words, numbers or punctuation marks. In tokenization, smaller units are created by locating word boundaries. Wait – what are word boundaries?
+These are the ending point of a word and the beginning of the next word.These tokens are considered as a first step forstemmingand lemmatization (the next stage in text preprocessing which we will cover in the next article).
+Difficult? Do not worry! The 21st century has made learning and knowledge accessibility easy. AnyNatural Language Processing Coursecan be used to learn them easily.
+Also Read:Stemming vs Lemmatization in NLP: Must-Know Differences
+Types of Tokenization in Python?
+Three simple types of tokenization in Python:
+Word Tokenization:Splitting a sentence into individual words.
+Sentence Tokenization:Breaking a paragraph into separate sentences.
+Regular Expression Tokenization:Using patterns to split text based on specific rules or conditions.
+Why is Tokenization required in NLP?
+I want you to think about the English language here. Pick up any sentence you can think of and hold that in your mind as you read this section. This will help you understand the importance of tokenization in a much easier manner.
+Before processing a natural language, we need to identify thewordsthat constitute a string of characters. That’s why tokenization is the most basic step to proceed with NLP (text data). This is important because the meaning of the text could easily be interpreted by analyzing the words present in the text.
+Let’s take an example. Consider the below string:
+“This is a cat.”
+What do you think will happen after we perform tokenization on this string? We get [‘This’, ‘is’, ‘a’, cat’].
+There are numerous uses of doing this. We can use this tokenized form to:
+Count the number of words in the text
+Count the frequency of the word, that is, the number of times a particular word is present
+And so on. We can extract a lot more information which we’ll discuss in detail in future articles. For now, it’s time to dive into the meat of this article – the different methods of performing tokenization in NLP.
+Methods to Perform Tokenization in Python
+We are going to look at six unique ways we can perform tokenization in Python on text data. I have provided the Python code for each method so you can follow along on your machine.
+Tokenization using Python’s split() function
+Let’s start with the split() method as it is the most basic one. It returns a list of strings after breaking the given string by the specified separator. By default, split() breaks a string at each space. We can change the separator to anything. Let’s check it out.
+Word Tokenization
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+# Splits at space 
+text.split()
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+# Splits at space 
+text.split()
+Output : ['Founded', 'in', '2002,', 'SpaceX’s', 'mission', 'is', 'to', 'enable', 'humans', 
+          'to', 'become', 'a', 'spacefaring', 'civilization', 'and', 'a', 'multi-planet', 
+          'species', 'by', 'building', 'a', 'self-sustaining', 'city', 'on', 'Mars.', 'In', 
+          '2008,', 'SpaceX’s', 'Falcon', '1', 'became', 'the', 'first', 'privately', 
+          'developed', 'liquid-fuel', 'launch', 'vehicle', 'to', 'orbit', 'the', 'Earth.']
+Output : ['Founded', 'in', '2002,', 'SpaceX’s', 'mission', 'is', 'to', 'enable', 'humans', 
+          'to', 'become', 'a', 'spacefaring', 'civilization', 'and', 'a', 'multi-planet', 
+          'species', 'by', 'building', 'a', 'self-sustaining', 'city', 'on', 'Mars.', 'In', 
+          '2008,', 'SpaceX’s', 'Falcon', '1', 'became', 'the', 'first', 'privately', 
+          'developed', 'liquid-fuel', 'launch', 'vehicle', 'to', 'orbit', 'the', 'Earth.']
+Sentence Tokenization
+This is similar to word tokenization. Here, we study the structure of sentences in the analysis. A sentence usually ends with a full stop (.), so we can use “.” as a separator to break the string:
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+# Splits at '.' 
+text.split('. ')
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+# Splits at '.' 
+text.split('. ')
+Output : ['Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring 
+           civilization and a multi-planet \nspecies by building a self-sustaining city on 
+           Mars', 
+          'In 2008, SpaceX’s Falcon 1 became the first privately developed \nliquid-fuel 
+           launch vehicle to orbit the Earth.']
+Output : ['Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring 
+           civilization and a multi-planet \nspecies by building a self-sustaining city on 
+           Mars', 
+          'In 2008, SpaceX’s Falcon 1 became the first privately developed \nliquid-fuel 
+           launch vehicle to orbit the Earth.']
+One major drawback of using Python’ssplit()method is that we can use only one separator at a time. Another thing to note – in word tokenization,split()did not consider punctuation as a separate token.
+Tokenization using Regular Expressions (RegEx)
+First, let’s understand what a regular expression is. It is basically a special character sequence that helps you match or find other strings or sets of strings using that sequence as a pattern.
+We can use therelibrary in Python to work with regular expressions. Thislibrarycomes preinstalled with the Python installation package.
+Now, let’s perform word tokenization and sentence tokenization keeping RegEx in mind.
+Word Tokenization
+Python Code:
+import re
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+tokens = re.findall("[\w']+", text)
+print(tokens)
+import re
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+tokens = re.findall("[\w']+", text)
+print(tokens)
+There.findall()function finds all the words that match the pattern passed on it and stores it in the list.
+The “\w” represents “any word character” which usually means alphanumeric (letters, numbers) and underscore (_). ‘+’ means any number of times. So[\w’]+signals that the code should find all the alphanumeric characters until any other character is encountered.
+\w
+To perform sentence tokenization, we can use there.split()function. This will split the text into sentences by passing a pattern into it.
+import re
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on, Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+sentences = re.compile('[.!?] ').split(text)
+sentences
+import re
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on, Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+sentences = re.compile('[.!?] ').split(text)
+sentences
+Output : ['Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring 
+           civilization and a multi-planet \nspecies by building a self-sustaining city on 
+           Mars.', 
+          'In 2008, SpaceX’s Falcon 1 became the first privately developed \nliquid-fuel 
+           launch vehicle to orbit the Earth.']
+Output : ['Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring 
+           civilization and a multi-planet \nspecies by building a self-sustaining city on 
+           Mars.', 
+          'In 2008, SpaceX’s Falcon 1 became the first privately developed \nliquid-fuel 
+           launch vehicle to orbit the Earth.']
+Here, we have an edge over thesplit()method as we can pass multiple separators at the same time. In the above code, we used there.compile()function wherein we passed [.?!]. This means that sentences will split as soon as any of these characters are encountered.
+Interested in reading more about RegEx? The below resources will get you started with Regular Expressions in NLP:
+Beginners Tutorial for Regular Expressions in Python
+Extracting information from reports using Regular Expressions Library in Python
+Tokenization using NLTK
+Now, this is a library you will appreciate the more you work with text data.NLTK, short for Natural Language ToolKit, is a library written in Python for symbolic and statistical Natural Language Processing.
+You can install NLTK using the below code:
+pipinstall--user-Unltk
+pipinstall--user-Unltk
+NLTK contains a module calledtokenize()which further classifies into two sub-categories:
+Word tokenize:We use the word_tokenize() method to split a sentence into tokens or words
+Sentence tokenize:We use the sent_tokenize() method to split a document or paragraph into sentences
+Let’s see both of these one by one.
+Word Tokenization
+from nltk.tokenize import word_tokenize 
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+word_tokenize(text)
+from nltk.tokenize import word_tokenize 
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+word_tokenize(text)
+Output: ['Founded', 'in', '2002', ',', 'SpaceX', '’', 's', 'mission', 'is', 'to', 'enable', 
+         'humans', 'to', 'become', 'a', 'spacefaring', 'civilization', 'and', 'a', 
+         'multi-planet', 'species', 'by', 'building', 'a', 'self-sustaining', 'city', 'on', 
+         'Mars', '.', 'In', '2008', ',', 'SpaceX', '’', 's', 'Falcon', '1', 'became', 
+         'the', 'first', 'privately', 'developed', 'liquid-fuel', 'launch', 'vehicle', 
+         'to', 'orbit', 'the', 'Earth', '.']
+Output: ['Founded', 'in', '2002', ',', 'SpaceX', '’', 's', 'mission', 'is', 'to', 'enable', 
+         'humans', 'to', 'become', 'a', 'spacefaring', 'civilization', 'and', 'a', 
+         'multi-planet', 'species', 'by', 'building', 'a', 'self-sustaining', 'city', 'on', 
+         'Mars', '.', 'In', '2008', ',', 'SpaceX', '’', 's', 'Falcon', '1', 'became', 
+         'the', 'first', 'privately', 'developed', 'liquid-fuel', 'launch', 'vehicle', 
+         'to', 'orbit', 'the', 'Earth', '.']
+Notice how NLTK is considering punctuation as a token? Hence for future tasks, we need to remove the punctuations from the initial list.
+Sentence Tokenization
+from nltk.tokenize import sent_tokenize
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+sent_tokenize(text)
+from nltk.tokenize import sent_tokenize
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+sent_tokenize(text)
+Output: ['Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring 
+          civilization and a multi-planet \nspecies by building a self-sustaining city on 
+          Mars.', 
+         'In 2008, SpaceX’s Falcon 1 became the first privately developed \nliquid-fuel 
+          launch vehicle to orbit the Earth.']
+Output: ['Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring 
+          civilization and a multi-planet \nspecies by building a self-sustaining city on 
+          Mars.', 
+         'In 2008, SpaceX’s Falcon 1 became the first privately developed \nliquid-fuel 
+          launch vehicle to orbit the Earth.']
+Tokenization using the spaCy library
+I love theSpaCylibrary. I can’t remember the last time I didn’t use it when I was working on an NLP project. It is just that useful.
+spaCy is an open-source library for advanced Natural Language Processing (NLP). It supports over 49+ languages and provides state-of-the-art computation speed.
+To install Spacy in Linux:
+pip install -U spacy
+python -m spacy download en
+pip install -U spacy
+python -m spacy download en
+To install it on other operating systems, go throughthis link.
+So, let’s see how we can utilize the awesomeness of spaCy to perform tokenization. We will usespacy.lang.enwhich supports the English language.
+Word Tokenization
+from spacy.lang.en import English
+
+# Load English tokenizer, tagger, parser, NER and word vectors
+nlp = English()
+
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+
+#  "nlp" Object is used to create documents with linguistic annotations.
+my_doc = nlp(text)
+
+# Create list of word tokens
+token_list = []
+for token in my_doc:
+    token_list.append(token.text)
+token_list
+from spacy.lang.en import English
+
+# Load English tokenizer, tagger, parser, NER and word vectors
+nlp = English()
+
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+
+#  "nlp" Object is used to create documents with linguistic annotations.
+my_doc = nlp(text)
+
+# Create list of word tokens
+token_list = []
+for token in my_doc:
+    token_list.append(token.text)
+token_list
+Output : ['Founded', 'in', '2002', ',', 'SpaceX', '’s', 'mission', 'is', 'to', 'enable', 
+          'humans', 'to', 'become', 'a', 'spacefaring', 'civilization', 'and', 'a', 
+          'multi', '-', 'planet', '\n', 'species', 'by', 'building', 'a', 'self', '-', 
+          'sustaining', 'city', 'on', 'Mars', '.', 'In', '2008', ',', 'SpaceX', '’s', 
+          'Falcon', '1', 'became', 'the', 'first', 'privately', 'developed', '\n', 
+          'liquid', '-', 'fuel', 'launch', 'vehicle', 'to', 'orbit', 'the', 'Earth', '.']
+Output : ['Founded', 'in', '2002', ',', 'SpaceX', '’s', 'mission', 'is', 'to', 'enable', 
+          'humans', 'to', 'become', 'a', 'spacefaring', 'civilization', 'and', 'a', 
+          'multi', '-', 'planet', '\n', 'species', 'by', 'building', 'a', 'self', '-', 
+          'sustaining', 'city', 'on', 'Mars', '.', 'In', '2008', ',', 'SpaceX', '’s', 
+          'Falcon', '1', 'became', 'the', 'first', 'privately', 'developed', '\n', 
+          'liquid', '-', 'fuel', 'launch', 'vehicle', 'to', 'orbit', 'the', 'Earth', '.']
+Sentence Tokenization
+from spacy.lang.en import English
+
+# Load English tokenizer, tagger, parser, NER and word vectors
+nlp = English()
+
+# Create the pipeline 'sentencizer' component
+sbd = nlp.create_pipe('sentencizer')
+
+# Add the component to the pipeline
+nlp.add_pipe(sbd)
+
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+
+#  "nlp" Object is used to create documents with linguistic annotations.
+doc = nlp(text)
+
+# create list of sentence tokens
+sents_list = []
+for sent in doc.sents:
+    sents_list.append(sent.text)
+sents_list
+from spacy.lang.en import English
+
+# Load English tokenizer, tagger, parser, NER and word vectors
+nlp = English()
+
+# Create the pipeline 'sentencizer' component
+sbd = nlp.create_pipe('sentencizer')
+
+# Add the component to the pipeline
+nlp.add_pipe(sbd)
+
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+
+#  "nlp" Object is used to create documents with linguistic annotations.
+doc = nlp(text)
+
+# create list of sentence tokens
+sents_list = []
+for sent in doc.sents:
+    sents_list.append(sent.text)
+sents_list
+Output : ['Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring 
+           civilization and a multi-planet \nspecies by building a self-sustaining city on 
+           Mars.', 
+          'In 2008, SpaceX’s Falcon 1 became the first privately developed \nliquid-fuel 
+           launch vehicle to orbit the Earth.']
+Output : ['Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring 
+           civilization and a multi-planet \nspecies by building a self-sustaining city on 
+           Mars.', 
+          'In 2008, SpaceX’s Falcon 1 became the first privately developed \nliquid-fuel 
+           launch vehicle to orbit the Earth.']
+SpaCy is quite fast as compared to other libraries while performing NLP tasks (yes, even NLTK). I encourage you to listen to the below DataHack Radio podcast to know the story behind how spaCy was created and where you can use it:
+DataHack Radio #23: Ines Montani and Matthew Honnibal – The Brains behind spaCy
+And here’s an in-depth tutorial to get you started with spaCy:
+Natural Language Processing Made Easy – using SpaCy (​in Python)
+Tokenization using Keras
+Keras! One of the hottestdeep-learningframeworks in the industry right now. It is an open-sourceneural networklibrary for Python. Keras is super easy to use and can also run on top of TensorFlow.
+In the NLP context, we can use Keras to clean the unstructured text data that we typically collect.
+You can install Keras on your machine using just one line of code:
+pip install Keras
+pip install Keras
+Let’s get cracking. To perform word tokenization using Keras, we use thetext_to_word_sequencemethod from thekeras.preprocessing.textclass.
+Let’s see Keras in action.
+Word Tokenization
+from keras.preprocessing.text import text_to_word_sequence
+# define
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+# tokenize
+result = text_to_word_sequence(text)
+result
+from keras.preprocessing.text import text_to_word_sequence
+# define
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+# tokenize
+result = text_to_word_sequence(text)
+result
+Output : ['founded', 'in', '2002', 'spacex’s', 'mission', 'is', 'to', 'enable', 'humans', 
+          'to', 'become', 'a', 'spacefaring', 'civilization', 'and', 'a', 'multi', 
+          'planet', 'species', 'by', 'building', 'a', 'self', 'sustaining', 'city', 'on', 
+          'mars', 'in', '2008', 'spacex’s', 'falcon', '1', 'became', 'the', 'first', 
+          'privately', 'developed', 'liquid', 'fuel', 'launch', 'vehicle', 'to', 'orbit', 
+          'the', 'earth']
+Output : ['founded', 'in', '2002', 'spacex’s', 'mission', 'is', 'to', 'enable', 'humans', 
+          'to', 'become', 'a', 'spacefaring', 'civilization', 'and', 'a', 'multi', 
+          'planet', 'species', 'by', 'building', 'a', 'self', 'sustaining', 'city', 'on', 
+          'mars', 'in', '2008', 'spacex’s', 'falcon', '1', 'became', 'the', 'first', 
+          'privately', 'developed', 'liquid', 'fuel', 'launch', 'vehicle', 'to', 'orbit', 
+          'the', 'earth']
+Keras lowers the case of all the alphabets before tokenizing them. That saves us quite a lot of time as you can imagine!
+Tokenization using Gensim
+The final tokenizationmethodwe will cover here is using the Gensim library. It is an open-source library for unsupervised topic modeling and natural language processing and is designed to automatically extract semantic topics from a given document.
+Here’s how you can install Gensim:
+pip install gensim
+pip install gensim
+We can use thegensim.utilsclass to import thetokenizemethod for performing word tokenization.
+Word Tokenization
+from gensim.utils import tokenize
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+list(tokenize(text))
+from gensim.utils import tokenize
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+list(tokenize(text))
+Outpur : ['Founded', 'in', 'SpaceX', 's', 'mission', 'is', 'to', 'enable', 'humans', 'to', 
+          'become', 'a', 'spacefaring', 'civilization', 'and', 'a', 'multi', 'planet', 
+          'species', 'by', 'building', 'a', 'self', 'sustaining', 'city', 'on', 'Mars', 
+          'In', 'SpaceX', 's', 'Falcon', 'became', 'the', 'first', 'privately', 
+          'developed', 'liquid', 'fuel', 'launch', 'vehicle', 'to', 'orbit', 'the', 
+          'Earth']
+Outpur : ['Founded', 'in', 'SpaceX', 's', 'mission', 'is', 'to', 'enable', 'humans', 'to', 
+          'become', 'a', 'spacefaring', 'civilization', 'and', 'a', 'multi', 'planet', 
+          'species', 'by', 'building', 'a', 'self', 'sustaining', 'city', 'on', 'Mars', 
+          'In', 'SpaceX', 's', 'Falcon', 'became', 'the', 'first', 'privately', 
+          'developed', 'liquid', 'fuel', 'launch', 'vehicle', 'to', 'orbit', 'the', 
+          'Earth']
+Sentence Tokenization
+To perform sentence tokenization, we use thesplit_sentencesmethod from thegensim.summerization.texttcleanerclass:
+from gensim.summarization.textcleaner import split_sentences
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+result = split_sentences(text)
+result
+from gensim.summarization.textcleaner import split_sentences
+text = """Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring civilization and a multi-planet 
+species by building a self-sustaining city on Mars. In 2008, SpaceX’s Falcon 1 became the first privately developed 
+liquid-fuel launch vehicle to orbit the Earth."""
+result = split_sentences(text)
+result
+Output : ['Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring 
+           civilization and a multi-planet ', 
+          'species by building a self-sustaining city on Mars.', 
+          'In 2008, SpaceX’s Falcon 1 became the first privately developed ', 
+          'liquid-fuel launch vehicle to orbit the Earth.']
+Output : ['Founded in 2002, SpaceX’s mission is to enable humans to become a spacefaring 
+           civilization and a multi-planet ', 
+          'species by building a self-sustaining city on Mars.', 
+          'In 2008, SpaceX’s Falcon 1 became the first privately developed ', 
+          'liquid-fuel launch vehicle to orbit the Earth.']
+You might have noticed that Gensim is quite strict with punctuation. It splits whenever a punctuation is encountered. In sentence splitting as well, Gensim tokenized the text on encountering “\n” while other libraries ignored it.
+Conclusion
+In conclusion, tokenization serves as the foundation of any NLP pipeline, enabling machines to process and analyze text data effectively. By breaking text into manageable tokens, we open the door to advanced techniques like lemmatization, part-of-speech tagging, and sentiment analysis. Among the various methods available, tokenization using NLTK stands out for its simplicity and robustness. Whether you’re splitting text into words or sentences, tokenization in NLTK provides powerful tools like word_tokenize and sent_tokenize to handle the complexities of natural language. Mastering tokenization is a crucial step toward unlocking the full potential of NLP in Python.
+Frequently Asked Questions
+A. In Python, tokenization in NLP can be accomplished using various libraries such as NLTK, SpaCy, or the tokenization module in the Transformers library. These libraries offer functions to split text into tokens, such as words or subwords, based on different rules and language-specific considerations. Tokenization plays a crucial role in various NLP tasks, including text preprocessing and feature extraction.
+A. To create tokens in Python, you can use thesplit()method available for strings, which splits a string into a list of substrings based on a specified delimiter. For example, to tokenize a sentence into individual words:sentence = “Hello, how are you?”tokens = sentence.split()print(tokens)This will output:[‘Hello,’, ‘how’, ‘are’, ‘you?’]You can further preprocess the tokens by removing punctuation, converting to lowercase, or applying other transformations as per your requirements.
+split()
+A. In NLTK, tokenization means splitting text into smaller parts like words or sentences.
+A. In coding, tokenization is breaking down source code into smaller elements like keywords or punctuation.
+A Data Science Enthusiast who loves reading & writing about Data Science and its applications. He has done many projects in this field and his recent work include concepts like Web Scraping, NLP etc. He is a Data Science Content Strategist Intern at Analytics Vidhya. And currently pursuing BTech in Computer Science from DIT University, Dehradun.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+What Are N-Grams and How to Implement Them in P...
+What Are N-Grams and How to Implement Them in P...
+Stemming vs Lemmatization in NLP: Must-Know Dif...
+Stemming vs Lemmatization in NLP: Must-Know Dif...
+What is Tokenization in NLP? Here’s All Y...
+What is Tokenization in NLP? Here’s All Y...
+Guide for Tokenization in a Nutshell – To...
+Guide for Tokenization in a Nutshell – To...
+Introduction to Natural Language Processing and...
+Introduction to Natural Language Processing and...
+A Quick Guide to Text Cleaning Using the nltk L...
+A Quick Guide to Text Cleaning Using the nltk L...
+Hugging Face Releases New NLP ‘Tokenizers...
+Hugging Face Releases New NLP ‘Tokenizers...
+NLP Tutorials Part -I from Basics to Advance
+NLP Tutorials Part -I from Basics to Advance
+How to Build a GPT Tokenizer?
+How to Build a GPT Tokenizer?
+Part 3: Step by Step Guide to NLP – Text ...
+Part 3: Step by Step Guide to NLP – Text ...
+Responses From Readers
+Great article 👍
+Thank You! I hope it helped.
+Nice Article... can you create articles for analyzing service now tickets.
+Thanks Sruthi,
+
+I'll take it in consideration, thanks for your suggestion
+Great article!
+
+I'm working on a concept of gathering Subject-Verb-Object out of a very complicated database that has some information about many lines of data. Any thoughts on how to work around such concepts? It'll be great to get some good guidance
+Comments are Closed
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__0.webp
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__1.jpg
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__2.png
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__3.png
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__4.png
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__5.jpg
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__6.png
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__7.webp
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__8.webp
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__9.webp
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__10.webp
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__11.webp
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__12.webp
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__13.webp
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__14.webp
+www.analyticsvidhya.com_blog_2019_07_how-get-started-nlp-6-unique-ways-perform-tokenization__15.webp

@@ -1,0 +1,79 @@
+JS Tutorial
+JS Versions
+JS Objects
+JS Functions
+JS Classes
+JS Async
+JS HTML DOM
+JS Browser BOM
+JS Web APIs
+JS AJAX
+JS JSON
+JS vs jQuery
+JS Graphics
+JS Examples
+JS References
+JavaScriptJSON
+JSON is a format for storing and transporting data.
+JSON is often used when data is sent from a server to a web 
+page.
+What is JSON?
+JSON stands forJavaScriptObjectNotation
+JSON is a lightweight data interchange format
+JSON is language independent*
+JSON is "self-describing" and easy to understand
+* The JSON syntax is derived from JavaScript object notation syntax, but the JSON format is text only. 
+Code for reading and generating JSON data can be written in any programming 
+language.
+JSON Example
+This JSON syntax defines an employees object: an array of 3 employee records (objects):
+JSON Example
+The JSON Format Evaluates to JavaScript Objects
+The JSON format is syntactically identical to the code for creating 
+JavaScript objects.
+Because of this similarity, a JavaScript program 
+can easily convert JSON data into native 
+JavaScript objects.
+JSON Syntax Rules
+Data is in name/value pairs
+Data is separated by commas
+Curly braces hold objects
+Square brackets hold arrays
+JSON Data - A Name and a Value
+JSON data is written as name/value pairs, just like JavaScript object 
+properties.
+A name/value pair consists of a field name (in double quotes), 
+followed by a colon, followed by a value:
+JSON names require double quotes. JavaScript names do not.
+JSON Objects
+JSON objects are written inside curly braces.
+Just like in JavaScript, objects can contain multiple name/value pairs:
+JSON Arrays
+JSON arrays are written inside square brackets.
+Just like in JavaScript, an array can contain objects:
+In the example above, the object "employees" is an array. It contains three 
+objects.
+Each object is a record of a person (with a first name and a last name).
+Converting a JSON Text to a JavaScript Object
+A common use of JSON is to read data from a web server, 
+and display the data in a web page.
+For simplicity, this can be demonstrated using a string as input.
+First, create a JavaScript string containing JSON syntax:
+Then, use the JavaScript built-in functionJSON.parse()to convert the string into a JavaScript object:
+JSON.parse()
+Finally, use the new JavaScript object in your page:
+Example
+You can read more about JSON in ourJSON tutorial.
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_js_js_json.asp_0.png
+www.w3schools.com_js_js_json.asp_1.png

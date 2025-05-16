@@ -1,0 +1,200 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+More articles in Project
+By Popular
+By Latest
+CareerGenerative AIGenerative AI ApplicationIntermediateProjectTop 20 List of Generative AI ProjectsA curated list of the best generative AI (GenAI) projects ranging from AI assistants to agents to RAGs and more to upgrade your resume in 2025K.C. Sabreena Basheer04 Apr, 2025
+Top 20 List of Generative AI Projects
+A curated list of the best generative AI (GenAI) projects ranging from AI assistants to agents to RAGs and more to upgrade your resume in 2025
+BeginnerGenerative AIProject7 Hugging Face AI Projects You Can’t Ignore7 Hugging Face AI projects revolutionizing creativity, automation, and media. Explore cutting-edge tools transforming industries.Pankaj Singh10 Jan, 2025
+7 Hugging Face AI Projects You Can’t Ignore
+7 Hugging Face AI projects revolutionizing creativity, automation, and media. Explore cutting-edge tools transforming industries.
+BeginnerComputer VisionProject30 Computer Vision Projects for 2025Discover 30 computer vision projects for beginners, intermediates, and advanced learnerswith datasets and tutorials. Check it out now!Akash Sharma27 Mar, 2025
+30 Computer Vision Projects for 2025
+Discover 30 computer vision projects for beginners, intermediates, and advanced learnerswith datasets and tutorials. Check it out now!
+BeginnerMachine LearningProjectResourceTop 30 Machine Learning Projects for Beginners in 2025Explore 30 Machine Learning Projects for beginners to advanced levels, enhancing skills in regression, classification, and deep learning.Akash Sharma01 May, 2025
+Top 30 Machine Learning Projects for Beginners in 2025
+Explore 30 Machine Learning Projects for beginners to advanced levels, enhancing skills in regression, classification, and deep learning.
+Artificial IntelligenceBeginnerGenAI ToolsGenerative AIProjectHow to optimize Project and Team Management using Ayanza?Optimize your organization's success with Ayanza – a powerful tool revolutionizing project and team management.Deepsandhya Shukla25 Apr, 2024
+How to optimize Project and Team Management using Ayanza?
+Optimize your organization's success with Ayanza – a powerful tool revolutionizing project and team management.
+BeginnerData ScienceProject8 GitHub Alternatives for Data Science ProjectsExplore top 8 github alternatives for data science projects. Read on to explore their features, best practices and more.Nitika Sharma17 Feb, 2025
+8 GitHub Alternatives for Data Science Projects
+Explore top 8 github alternatives for data science projects. Read on to explore their features, best practices and more.
+Data ScienceListicleProject15 Guided Projects on AI and Big Data (2025)Learn how guided projects in data science can boost your career. Understand the importance of theory and experience with real-world applications.K.C. Sabreena Basheer12 Dec, 2024
+15 Guided Projects on AI and Big Data (2025)
+Learn how guided projects in data science can boost your career. Understand the importance of theory and experience with real-world applications.
+BeginnerData ScienceListicleProjectProject-based ArticleTop 5 Free Data Science Projects With SolutionsExplore free data science projects with solutions, tips, tools, & techniques to enhance your skills & tackle real-world challenges. Read Now!Nitika Sharma10 Dec, 2024
+Top 5 Free Data Science Projects With Solutions
+Explore free data science projects with solutions, tips, tools, & techniques to enhance your skills & tackle real-world challenges. Read Now!
+BeginnerData SciencePower BIProjectUse CasesTop 18 Power BI Project Ideas For Practice 2025Check out top 18 power bi practice projects and way to solve them. Find projects for beginners to expert level with source code. Read Now!Nitika Sharma04 Apr, 2025
+Top 18 Power BI Project Ideas For Practice 2025
+Check out top 18 power bi practice projects and way to solve them. Find projects for beginners to expert level with source code. Read Now!
+NLPProjectProject-based ArticleUse CasesTop Best 15 NLP ProjectsDiscover the top 15 NLP projects for all levels and ideas in 2025, from Named Entity Recognition to Sentiment Analysis. Explore Now!Ayushi Trivedi15 Apr, 2025
+Top Best 15 NLP Projects
+Discover the top 15 NLP projects for all levels and ideas in 2025, from Named Entity Recognition to Sentiment Analysis. Explore Now!
+Project
+Introduction
+AI/ML projects are comparable to going to the core of advanced technology, where creativity and effective solutions to human problems are developed. Just think about designing a model that would foresee the further tendencies, check the frauds instantly, or comprehend the individual feelings.Artificial IntelligenceandMachine learningprojects make you face not only the practical coding tasks but also give you the thrill of working for solving difficult tasks and bringing tangible value-additions. Whether one works with complex sets of data or designs complex models, each piece of work is a process of navigating through the developing landscapes of AI and ML, which offer an exclusive opportunity to gain practical experience and to get a sense of how artificial intelligence and machine learning are progressing.
+Learning Outcomes
+Gain practical experience in designing and implementing AI and ML models.
+Develop skills in handling real-world data and solving complex problems.
+Understand the application of various algorithms and tools in AI/ML projects.
+What are AIML Projects?
+AIML projects require the application of AI and ML in the analysis and finding of solutions to real life challenges. These projects include a broad scope of work based on constructing coherent and efficient predictive models, natural language processing and even further enhancement of thecomputer visionsystems. Winter’s field is based on the goals of using data and algorithms to design intelligent systems with the capability of learning and improving. Whether it is about repetitive tasks or involving generation of more insights from data, AIML projects form the core of development and innovation across fields and sectors.
+Why Work on AIML Projects?
+The actual application working on AIML projects is helpful since it provides practical exposure towards new age technologies and actually helps in solving practical problems. It also improves your proficiency indata analysis,algorithmdevelopment together with software engineering. Participation in such lines of work can go a long way in the enhancement of your career portfolio by job proving your capability to handle intricate issues. They are most likely to be teamwork/creative projects, which make a lot of sense as they help unlock solutions in a number of domains including healthcare, financial, and autonomous systems among others, over and above giving one’s work a sense of purpose and relevance.
+Benefits of AIML Projects for Career Growth
+AIML projects help in getting real life experience and showcase the practical experience to the employers. They assist the creation of a competent portfolio, where you demonstrate competency in deployment and efficiency of AI and ML models. It also means that working on such tasks may not only bring benefits in form of money, but also create a possibility to meet new people experienced in a particular field or related to its industry. Furthermore, knowledge from these projects puts you in a better position to provide a competitive edge in the job market for data scientists, AI engineers, and many other advanced positions.
+AIML Project Lifecycle
+The AIML project lifecycle involves several key stages: and they include problem formulation,data acquisition,data cleaning, model building, model assessment, and implementation. To begin with, the scope of a problem is determined in addition to the collection of related information and data. Then, you prepare the data which is going to be used for modeling for analysis and transformations. Then we create and build machine learning models. It is then followed by assessment of the models, where different metrics are applied to the models in order to achieve the required performance. Last of all, the model is put into a production environment and managed to ensure that it is performing effectively as well as making necessary changes.
+Types of AIML Projects
+AIML projects can be categorized based on their application areas.
+Computer Vision Projects:Computer Vision projects facilitate the training of machines into recognizing images, and other visual stimuli.Some of the usual problems solved by CNN/pr deep learning are image classification, object identification, etc.
+Natural Language Processing (NLP) Projects:The data that is processed innatural languageprocessing projects include both spoken and written language. The technique that is commonly used includes transformers with some of the most important applications beingsentiment analysis,machine translationand chatbots.
+Predictive Modeling Projects:The type of projects that are characteristic of Predictive Modeling are future-oriented and are based on historical data.Regressionand classification type of methods are employed for uses for example insales forecastingand risk evaluation.
+Reinforcement Learning Projects:Reinforcement Learningprojects are the type of project, where an agent is trained to make decisions based on some predetermined rules in a trial and error sort of manner. Example areas of use are in games, and robotic systems and sub techniques such asQ-learning, and Deep Reinforcement Learning.
+Time Series Forecasting Projects:Time Series Forecasting projects deal with the kinds of work that use historical data to make the future value estimations. Some of the examples of such methods includeARIMAandLSTMwhere they are applied in areas such as demand forecasting and even in predicting the financial markets.
+Generative AI Projects:Whilegenerative AIuses the new data which is similar to the previous value sets. Approaches likeGANsandVAEsare applied in the cases like generating believable images as well as creative materials.
+Common Algorithms Used in AIML Projects
+Linear Regression:Bracketed to predict a real value depending on one or more than one predictor variable. Forecasting and Trend analysis are the most common uses in the business environment of moving average.
+Logistic Regression:Used for binary class problems only. It estimates probabilities of class membership and is often used with spam detection & Medical Expert Systems.
+Decision Trees: Best known and commonly used function, performing the roles of a classifier and a regressor. It divides data on the basis of feature value for prediction and applied in the customer segmentation.
+Support Vector Machines (SVM): Good for handling procedures on high dimensionality as well as classification issues. SVM is a classification algorithm which tries to find out the best hyperplane that separates different classes and is used in image classification.
+K-Nearest Neighbors (KNN):A simple algorithm which puts data points into categories according to the label of the nearest neighbors. There are also some applications of the given algorithm which are recommendation systems andanomaly detection.
+Random Forests:An ensemble learning method that combines multiple decision trees to improve accuracy and robustness. It’s used for classification and regression tasks.
+K-Means Clustering:A popular unsupervised learning algorithm for partitioning data into clusters based on similarity. It’s used in market segmentation and image compression.
+Principal Component Analysis (PCA):A dimensionality reduction technique that transforms data into a lower-dimensional space while retaining most of its variance. It’s used for data preprocessing and visualization.
+Generative Adversarial Networks (GANs):Consist of two networks (generator and discriminator) that compete to create realistic data. GANs are used in generating synthetic images and data augmentation.
+Popular Programming Languages for AIML Projects
+Python:The most popular language for AIML due to its extensive libraries (e.g.,TensorFlow,PyTorch) and ease of use. It’s widely used for developing machine learning models and data analysis.
+R:Preferred forstatistical analysisanddata visualization. R provides packages like caret andrandomForest, making it suitable for data-driven AIML projects.
+Java:Known for its performance and scalability, Java is used in big data frameworks and enterprise-level AIML applications. Libraries like Weka and Deeplearning4j are popular in this domain.
+C++:Offers high performance and efficiency, especially in computationally intensive tasks. It’s used in implementing machine learning algorithms and systems where speed is crucial.
+Julia:A high-level language designed for numerical and scientific computing. Julia’s speed and mathematical capabilities make it ideal for complex AIML tasks and data analysis.
+Scala:Often used withApache Sparkfor big data processing. Scala’s functional programming features are beneficial for large-scale AIML projects involving distributed computing.
+MATLAB:Known for its mathematical and simulation capabilities, MATLAB is used in academic and research-oriented AIML projects, particularly in signal processing and system modeling.
+Swift:Used for integrating AIML models into iOS applications. Swift’s performance and safety features make it suitable for developing AI-driven apps on Apple platforms.
+SQL:Essential for managing and querying large datasets. SQL is used to interact with databases, making it crucial for data preprocessing and integration in AIML projects.
+JavaScript:With libraries like TensorFlow.js, JavaScript is increasingly used for deploying machine learning models in web applications and building interactive AIML-powered websites.
+Tools & Libraries for AIML Projects
+TensorFlow: An open source library developed by Google for Deep learning and Machine learning. It supports the neural network models as well as other large scale machine learning operations.
+PyTorch: One of the commonly used frameworks fordeep learningandartificial intelligenceis PyTorch which was developed by Facebook.
+Keras: A higher level API developed for construction and training of a deep learning model using TensorFlow or Theano. Easy to learn and very useful for sketching for those early designs or first drafts, if you will.
+Scikit-Learn:A classical platform to implement bothsupervised and unsupervisedlearning algorithms in Python. Classification, and regression, clustering, and other tasks are some of the capabilities of this software.
+XGBoost:Highly optimized gradient boosting library which is specifically tailored to achieve top level performance. Quite popular in handling structures and tabular data as well as dominating Kaggle competitions.
+OpenCV: The collective term that defines all the related activities of computation of computer vision tasks. It offers functions for manipulation with images and videos as well as object detection and image recognition.
+NLTK (Natural Language Toolkit): A vast repository for tasks related to natural language processing. This is a toolkit that comes with features of text pre-processing, tokenization, and linguistic analysis.
+SpaCy: An NLP library for Python that is considered to be fast and easy to use by the developers. Originally, it was used for commercial purposes and works well for intensive texts analysis.
+Hugging Face Transformers: A repository of the current research in natural language processing. It presents pre-trained models for such actions as text generation, text translation and even sentiment analysis.
+Apache Spark: An enhancement big data processing tool to assist in the processing of big data required in machine learning through the MLlib library. The largest write operation point is utilized for Big Data processing as well as distributed computing.
+RapidMiner:It is an open source data science platform which helps in the preparation, modeling and assessing of data. It is quite easy to use and anyone with basic knowledge of installing new programs wouldn’t need coders to do it.
+Tableau:A data visualization that serves as an AIML tool for generating a dashboard for interacting with the data analysis projects.
+Best Practices in Building AIML Projects
+Best practices in building AIML projects include ensuring data quality, choosing appropriate algorithms, and validating models thoroughly. It’s crucial to preprocess and clean data, split it into training and testing sets, and use cross-validation to assess model performance. Regularly update models with new data and monitor their performance in production. Documentation and version control are also important to track changes and facilitate collaboration.
+How to Choose the Right AIML Project?
+Choosing the right AIML project involves considering your interests, skills, and the problem’s impact. Start by identifying a problem or area you’re passionate about and assess the data availability. Consider the complexity of the project and whether it aligns with your learning goals or career aspirations. Evaluate the potential for real-world applications and the feasibility of completing the project with your current resources and expertise.
+Beginner AIML Projects
+Sentiment Analysis:Analyze text data to determine sentiment (positive, negative, neutral). Useful for understanding customer feedback and reviews.
+Image Classification: Classify images into categories using supervised learning techniques. Applications include object recognition and photo tagging.
+Predicting Stock Prices: Develop models to forecast future stock prices based on historical data. Useful for financial analysis and trading strategies.
+Spam Detection:Implement a classifier to detect and filter out spam emails from a dataset of emails using natural language processing techniques.
+Movie Recommendation System:Design a basic recommendation engine that suggests movies based on user preferences and viewing history.
+Intermediate AIML Projects
+Chatbot Development: Create conversational agents that interact with users through natural language. Applications include customer service and virtual assistants.
+Object Detection in Images: Identify and locate objects within images using techniques like YOLO or SSD. Useful for security and autonomous systems.
+Recommendation Systems: Build systems that suggest products or content based on user preferences. Applications include e-commerce and media streaming.
+Text Summarization:Implement a model to automatically generate concise summaries of long articles or documents, using methods like extractive or abstractive summarization.
+Customer Churn Prediction:Develop a predictive model to identify customers who are likely to churn based on their usage patterns and interactions.
+Advanced AIML Projects
+Autonomous Driving Systems: Develop self-driving vehicle technologies using computer vision and reinforcement learning. Applications include autonomous cars and drones.
+GANs for Image Generation: Use Generative Adversarial Networks to create realistic images from noise. Applications include art and synthetic data generation.
+Speech Recognition Models: Build models to transcribe spoken language into text. Useful for voice assistants and transcription services.
+Predictive Maintenance:Develop a model to predict equipment failures or maintenance needs in industrial settings based on sensor data and operational history.
+AI-Powered Personal Assistant:Create a sophisticated virtual assistant that can perform tasks such as scheduling, reminders, and personal recommendations by integrating natural language understanding and machine learning.
+How to Document & Present AIML Projects
+Documenting and presenting AIML projects involves clearly describing the problem, data, methodology, and results. Create comprehensive documentation including code, data sources, and model evaluations. Use visualizations such as charts and graphs to illustrate findings. When presenting, focus on the impact and practical applications of your project, and be prepared to explain your choices and methodologies in a clear and engaging manner.
+Real-World Applications of AIML Projects
+Healthcare Diagnostics:It helps in diagnosis of diseases from medical images, prognosis of patient condition and even helps in suggesting the best treatment to administer based on past records.
+Fraud Detection:By detecting the movement or the flow of money the algorithms detect fraudulent activities and facilitate the protection of online transactions.
+Customer Service Automation:Customer responses are managed through AI enabled chatbots as well as virtual assistants who are also involved in enhancing users’ experience through NLP.
+Recommendation Systems:AIML is applied to enhance realistic product suggestions in e-shopping, on-demand media, and social networks taking into consideration customers’ preferences and actions.
+Autonomous Vehicles:Self-driving cars extensively use [AI and machine learning], particularly as real-time decision makers, for enabling computer vision that usesreinforcement learning.
+Predictive Maintenance:AI models estimate the failure of equipment and their maintenance requirements based on the data from the sensors, therefore avoiding system downtimes and conserving cost.
+Sentiment Analysis:Customer satisfaction and brand awareness can be determined by machine learning techniques that consider customers’ opinions and rants on social media platforms and other related feedback channels.
+Supply Chain Optimization:Supply chain management in AIML utilizes it to predict the demand, control inventory and even control the uptake of logistics to maintain the functionality of the supply chain.
+Finance and Trading:Machine learning algorithms work on market data and make trades and decisions about investment portfolios in real-time.
+Language Translation:Some of the applications involve translation based on Natural language processing models that allow an individual to interact in different languages and even understand other cultures at the same time.
+Best Platforms for AIML Project Datasets
+Kaggle:A popular platform with a vast collection of datasets for various AIML tasks, including competitions, kernels, and community-driven projects.
+UCI Machine Learning Repository:A comprehensive collection of datasets for machine learning and data mining, covering diverse domains and research purposes
+Google Dataset Search:A tool by Google that helps find datasets across the web, making it easy to discover datasets relevant to specific AIML projects.
+Amazon AWS Public Datasets:Provides access to a wide range of large datasets hosted on AWS, including data for machine learning, deep learning, and data analysis.
+Microsoft Azure Open Datasets:Offers a variety of high-quality datasets for training machine learning models, with a focus on data relevant to real-world scenarios.
+Data.gov:The U.S. government’s open data platform, offering datasets on various topics, including healthcare, finance, and transportation, useful for AIML projects.
+Data World:A collaborative data platform with a diverse collection of datasets, including those contributed by the community and organizations.
+Open Data Portal by World Bank:Provides global datasets related to economic, social, and environmental data, suitable for a range of AIML applications.
+GitHub:Many researchers and practitioners share their datasets and projects on GitHub, making it a valuable resource for finding and collaborating on AIML datasets.
+European Data Portal:Offers datasets from European countries, covering various domains like economy, transport, and science, useful for international AIML projects.
+Tips for Deploying AIML Projects in Production
+Deploying AIML projects in production requires careful planning and execution. Begin by ensuring your model is well-tested with diverse datasets to avoid overfitting and ensure robustness. Optimize performance through techniques like model compression and efficient resource utilization. Implement scalable infrastructure using cloud platforms or containerization technologies like Docker and Kubernetes to handle varying workloads. Monitor model performance continuously and set up automated retraining pipelines to adapt to new data or changing conditions. Ensure data privacy and security by adhering to best practices and compliance regulations. Finally, provide thorough documentation and maintain clear communication channels for seamless updates and troubleshooting.
+Resources for Learning AIML Projects
+Free CoursesAccess a variety of free courses that offer structured learning paths and practical exercises in AIML, helping you build foundational skills and advanced knowledge.
+YouTube Channels / InfluencersFollowYouTube channelsand influencers who provide video tutorials, project demonstrations, and expert insights on AIML topics, making complex concepts more accessible.
+Books / eBooksUtilize books andeBooksfor in-depth coverage of AIML principles, algorithms, and real-world applications, providing a comprehensive reference for learners and practitioners.
+Blogs & TutorialsRead blogs and tutorials that offer practical tips, project ideas, and industry trends in AIML, helping you stay updated and refine your skills through real-world examples.
+AIML Project Challenges and How to Overcome Them
+AIML projects come with a set of challenges, including data quality issues, overfitting, and computational constraints. Data quality problems, such as missing or noisy data, can undermine model performance; addressing this requires rigorous preprocessing and data augmentation.Overfittingoccurs when a model learns the training data too well, reducing its ability to generalize to new data; this can be mitigated using techniques like cross-validation and regularization. Computational constraints, especially with large models or datasets, can be managed by utilizing cloud computing resources, optimizing algorithms, or using distributed computing frameworks to ensure efficient processing and scalability.
+AIML Projects for Hackathons and Competitions
+AIML projectsin hackathons and competitions offer unique opportunities to showcase and enhance your skills under competitive conditions. These events often involve working on real-world problems with tight deadlines, fostering innovation and creativity. Participating in such contests allows you to apply theoretical knowledge practically, receive valuable feedback from industry experts, and network with fellow enthusiasts. Winning or performing well in these events can also provide recognition and open doors to career opportunities, collaborations, or further learning. Moreover, they serve as excellent platforms for testing new ideas and gaining experience in a high-stakes environment.
+AIML Project Certifications
+Certifications for AIMLprojects serve as a formal validation of your skills and knowledge in the field. Obtained from recognized institutions or platforms, these certifications demonstrate your expertise to potential employers and peers. They often cover a range of topics, from basic principles to advanced techniques, and may require passing exams or completing projects. Certifications can enhance your credibility, making you a more attractive candidate for job roles and career advancements in AIML. They also provide a structured learning path, ensuring that you have a comprehensive understanding of AIML concepts and practices relevant to industry standards.
+Conclusion
+AI and ML projects offer an unparalleled opportunity to explore the transformative potential of technology. By engaging in these projects, you not only enhance your technical expertise but also contribute to innovative solutions that drive progress in numerous fields. From refining algorithms to applying advanced techniques, each project serves as a stepping stone towards mastering the intricacies of artificial intelligence and machine learning. Embrace these challenges, and you’ll be well-equipped to shape the future of technology.
+Frequently Asked Questions
+Q: What is AIML?A:AIML stands for Artificial Intelligence and Machine Learning, which involves creating systems that can learn from data and make decisions or predictions.
+Q: Why should I work on AIML projects?A:AIML projects enhance practical skills, provide hands-on experience with real-world data, and can significantly boost career prospects in tech fields.
+Q: What types of AIML projects should I consider?A:Consider projects in areas such as computer vision, natural language processing, predictive modeling, reinforcement learning, time series forecasting, and generative AI.
+Q: How do I choose the right AIML project?A:Choose a project based on your interests, skill level, and the technologies you want to work with. Consider the project’s complexity and its relevance to your career goals.
+Q: What are some common algorithms used in AIML projects?A:Common algorithms include decision trees, neural networks, support vector machines, clustering algorithms, and reinforcement learning algorithms.
+Q: What programming languages are popular for AIML projects?A:Python and R are popular due to their extensive libraries and ease of use in data analysis and machine learning.
+Q: What tools and libraries should I use for AIML projects?A:Essential tools and libraries include TensorFlow, PyTorch, Keras, Scikit-learn, and OpenCV for developing and deploying machine learning models.
+Q: How can I effectively document and present AIML projects?A:Document your projects by including detailed explanations, code comments, results, and visualizations. Present them with clear, concise summaries and practical implications.
+Q: What are some challenges in AIML projects, and how can I overcome them?A:Challenges include data quality issues, model overfitting, and computational resource limitations. Overcome these by using data preprocessing techniques, regularization methods, and optimizing algorithms.
+Q: How can I get involved in AIML hackathons and competitions?A:Join platforms like Kaggle and participate in competitions. They provide opportunities to apply skills, collaborate with others, and gain recognition.
+Q: What certifications are valuable for AIML professionals?A:Valuable certifications include those from recognized organizations like Google, Microsoft, and IBM, focusing on machine learning, data science, and AI technologies.
+Trending articles
+NLPProjectTop 25 Machine Learning Projects for Beginners in 2025Analytics Vidhya04 Dec, 2024
+NLPProjectRandom Forest Algorithm in Machine LearningSruthi01 May, 2025
+NLPProjectStock Market Price Prediction Using Deep LearningAishwarya Singh14 Apr, 2025
+NLPProjectA Comprehensive Guide to Understand and Implement Text Classification in PythonShivam Bansal01 May, 2025
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+www.analyticsvidhya.com_blog_category_project__0.webp
+www.analyticsvidhya.com_blog_category_project__1.webp
+www.analyticsvidhya.com_blog_category_project__2.webp
+www.analyticsvidhya.com_blog_category_project__3.webp
+www.analyticsvidhya.com_blog_category_project__4.jpg
+www.analyticsvidhya.com_blog_category_project__5.jpg
+www.analyticsvidhya.com_blog_category_project__6.png
+www.analyticsvidhya.com_blog_category_project__7.webp
+www.analyticsvidhya.com_blog_category_project__8.webp
+www.analyticsvidhya.com_blog_category_project__9.webp
+www.analyticsvidhya.com_blog_category_project__10.jpg

@@ -1,0 +1,81 @@
+PythonTutorial
+File Handling
+Python Modules
+Python Matplotlib
+Machine Learning
+Python MySQL
+Python MongoDB
+Python Reference
+Module Reference
+Python How To
+Python Examples
+PythonExamples
+Python Syntax
+Syntax Explained
+Python Variables
+Variables Explained
+Python Numbers
+Numbers Explained
+Python Casting
+Casting Explained
+Python Strings
+Strings Explained
+Python Operators
+Operators Explained
+Python Lists
+Lists Explained
+Python Tuples
+Tuples Explained
+Python Sets
+Sets Explained
+Python Dictionaries
+Dictionaries Explained
+Python If ... Else
+If ... Else Explained
+Python While Loop
+While Loop Explained
+Python For Loop
+For Loop Explained
+Python Functions
+Functions Explained
+Python Lambda
+Lambda Explained
+Python Arrays
+Arrays Explained
+Python Classes and Objects
+Classes/Objects Explained
+Python Iterators
+Iterators Explained
+Python Modules
+Modules Explained
+Python Dates
+Dates Explained
+Python Math
+Math Explained
+Python JSON
+JSON Explained
+Python RegEx
+RegEx Explained
+Python PIP
+PIP Explained
+Python Try Except
+Try Except Explained
+Python File Handling
+File Handling Explained
+Python MySQL
+MySQL Explained
+Python MongoDB
+MongoDB Explained
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_python_python_examples.asp_0.png
+www.w3schools.com_python_python_examples.asp_1.png

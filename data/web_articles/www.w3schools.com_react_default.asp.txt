@@ -1,0 +1,102 @@
+ReactTutorial
+React Hooks
+React Exercises
+React Tutorial
+Learn React
+React is a JavaScript library for building user interfaces.
+React is used to build single-page applications.
+React allows us to create reusable UI components.
+Learning by Examples
+Our "Show React" tool makes it easy to demonstrate React. It shows both the code and the result.
+Example:
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+
+function Hello(props) {
+  return <h1>Hello World!</h1>;
+}
+
+const container = document.getElementById("root");
+const root = ReactDOM.createRoot(container);
+root.render(<Hello />);
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+
+function Hello(props) {
+  return <h1>Hello World!</h1>;
+}
+
+const container = document.getElementById("root");
+const root = ReactDOM.createRoot(container);
+root.render(<Hello />);
+Run 
+Example »
+Learning by Exercises
+Many chapters in this tutorial end with an exercise where you can check you level of knowledge.
+See all React Exercises
+React Quiz
+Test your React skills with a quiz.
+React Quiz
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+Create React App
+To learn and test React, you should set up a React Environment on 
+your computer.
+This tutorial uses thecreate-react-app.
+create-react-app
+Thecreate-react-apptool is an officially supported way to create React applications.
+create-react-app
+Node.jsis required to usecreate-react-app.
+create-react-app
+Open your terminal in the directory you would like to create your 
+application.
+Run this command to create a React application namedmy-react-app:
+my-react-app
+create-react-appwill set up everything you need to run a React application.
+create-react-app
+Note:If you've previously installedcreate-react-appglobally,
+it is recommended that you uninstall the package to ensure npx always uses the latest version ofcreate-react-app.
+To uninstall, run this command:npm uninstall -g create-react-app.
+create-react-app
+create-react-app
+npm uninstall -g create-react-app
+Run the React Application
+Run this command to move to themy-react-appdirectory:
+my-react-app
+Run this command to execute the React applicationmy-react-app:
+my-react-app
+A new browser window will pop up with your newly created React App! If not, open your browser and typelocalhost:3000in the address bar.
+localhost:3000
+The result:
+You will learn more about thecreate-react-appin theReact Get Startedchapter.
+create-react-app
+What You Should Already Know
+Before you continue you should have a basic understanding of the following:
+HTML
+CSS
+JavaScript
+If you want to study these subjects first, find the tutorials on ourHome page.
+In addition, you should also have some experience with the new JavaScript features 
+introduced in ECMAScript 6 (ES6), you will learn about them in theReact ES6chapter.
+Kickstart your career
+Get certified by completingthecourse
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_react_default.asp_0.png
+www.w3schools.com_react_default.asp_1.png
+www.w3schools.com_react_default.asp_2.png

@@ -1,0 +1,368 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+More articles in Generative AI
+By Popular
+By Latest
+Generative AIIntermediateBulbul-V2 by Sarvam AI: India’s Best TTS Model with Support for 11 Indian LanguagesLearn about Bulbul-V2's role in making AI accessible for all. Find out how it enhances digital content in Indian languages.Vipin Vashisth08 May, 2025
+Bulbul-V2 by Sarvam AI: India’s Best TTS Model with Support for 11 Indian Languages
+Learn about Bulbul-V2's role in making AI accessible for all. Find out how it enhances digital content in Indian languages.
+AdvancedGenerative AIHow to Do Real-Time Face Swap using Deep Live Cam?Learn how to set up Deep Live Cam and create amazing Deepfake videos effortlessly with real-time face swap technology.Harsh Mishra08 May, 2025
+How to Do Real-Time Face Swap using Deep Live Cam?
+Learn how to set up Deep Live Cam and create amazing Deepfake videos effortlessly with real-time face swap technology.
+BeginnerchatbotGenerative AIIntermediateStreamlitBuilding an Emergency Operator Voice ChatbotUnderstand the advantages of using the Emergency Operator Voice Chatbot for real-time assistance and effective communication.Shaik Hamzah08 May, 2025
+Building an Emergency Operator Voice Chatbot
+Understand the advantages of using the Emergency Operator Voice Chatbot for real-time assistance and effective communication.
+BeginnerGenerative AI5 Insights by Satya Nadella and Mark Zuckerberg on the Future of AISatya Nadella and Mark Zuckerberg shared mic at Llamacon 2025. This is a summary of the major things they discussed on the future of AI.Nitika Sharma06 May, 2025
+5 Insights by Satya Nadella and Mark Zuckerberg on the Future of AI
+Satya Nadella and Mark Zuckerberg shared mic at Llamacon 2025. This is a summary of the major things they discussed on the future of AI.
+AI AgentsGenerative AIIntermediateTop 7 Computer Use AgentsFind out how you can now use AI agents for running tasks on your computer. Explore the features and use cases of computer use AI agents.Soumil Jain03 May, 2025
+Top 7 Computer Use Agents
+Find out how you can now use AI agents for running tasks on your computer. Explore the features and use cases of computer use AI agents.
+Generative AIIntermediateMicrosoft Launches Two Powerful Phi-4 Reasoning ModelsMicrosoft releases its Phi-4 Reasoning models to compete with o3-mini and DeepSeek. Find out more about their performance and benchmarks here.Anu Madan02 May, 2025
+Microsoft Launches Two Powerful Phi-4 Reasoning Models
+Microsoft releases its Phi-4 Reasoning models to compete with o3-mini and DeepSeek. Find out more about their performance and benchmarks here.
+BeginnerGenerative AIGenerative AI ApplicationHow to Build RAG Systems and AI Agents with Qwen3Learn to build RAG systems and AI agents with Qwen's latest model - Qwen3. Explore the key features and applications of Qwen3.Vipin Vashisth30 Apr, 2025
+How to Build RAG Systems and AI Agents with Qwen3
+Learn to build RAG systems and AI agents with Qwen's latest model - Qwen3. Explore the key features and applications of Qwen3.
+BeginnerGenAI ToolsGenerative AIQwen3 Models: How to Access, Performance, Features, and ApplicationsLearn all about the Qwen3 Models - how to access them, their features, applications, performance benchmarks, and more.Anu Madan30 Apr, 2025
+Qwen3 Models: How to Access, Performance, Features, and Applications
+Learn all about the Qwen3 Models - how to access them, their features, applications, performance benchmarks, and more.
+BeginnerGenAI ToolsGenerative AIGenerative AI ApplicationIs This the End of Virtual Interviews?Get to know Cluely.ai - an AI tool that helps people cheat in video interviews and sales calls - and the repercussions of using it.Anu Madan29 Apr, 2025
+Is This the End of Virtual Interviews?
+Get to know Cluely.ai - an AI tool that helps people cheat in video interviews and sales calls - and the repercussions of using it.
+BeginnerGenAI ToolsGenerative AIGemini 2.0 Flash vs o4-mini: Can Google Do Better Than OpenAI?Find out if Google's latest model outperforms OpenAI's most efficient model in this Gemini 2.0 Flash vs o4-mini comparison.Riya Bansal.26 Apr, 2025
+Gemini 2.0 Flash vs o4-mini: Can Google Do Better Than OpenAI?
+Find out if Google's latest model outperforms OpenAI's most efficient model in this Gemini 2.0 Flash vs o4-mini comparison.
+Generative AI
+Generative AI has the potential to change the world in ways that we can’t even imagine. It has the power to create new ideas, products, and services that will make our lives easier, more productive, and more creative. -Bill Gates
+The journey of Generative AI began with machines learning to predict and classify data. But the real advancement started when these machines were trained to create. This pivotal moment marked the shift from predictive analytics to content generation, where AI systems could produce outputs. Initially, generative ai models learned to generate simple text and patterns, but soon, with the integration of deep learning and neural networks, they began crafting original creations.
+This evolution allowed machines to compose music, design artwork, and even generate realistic images and videos, all on their own. The ability to create, rather than just classify, was a significant breakthrough, opening up endless possibilities and applications across various industries. It sparked a new era where AI systems became co-creators, pushing the boundaries of what was previously thought achievable.
+What is Generative AI?
+Generative AI is a branch of artificial intelligence, holding the power to bring new creations to life. Instead of solely analyzing and understanding data, GenAI is all about generating fresh content and information. It learns from existing data, identifies patterns and structures, and then uses this knowledge to craft something entirely new.
+What sets Generative AI apart is its ability to go beyond interpretation and create unique outputs. Whether it’s writing a story, composing a melody, or designing an image, GenAI goes beyond imitation.
+Here are some key aspects of generative AI:
+Generative AI can create text, images, music, and videos, such as GPT for text and MidJourney for images.
+Trained on large datasets, generative AI learns patterns to produce logical and relevant content.
+Generative AI is used in marketing, software development, R&D, and more, automating tasks like content creation and code generation.
+Advanced generative models can handle multiple formats, generating text, images, and audio together.
+It enhances productivity by automating tasks, speeding up content creation, and aiding decision-making across industries.
+Applications of Generative AI
+Application
+Description
+Text
+Content Creation:Models like GPT can write articles, blog posts, stories, scripts, and code.Conversational Agents:Chatbots and virtual assistants can engage in human-like conversations, answer queries, and provide personalized assistance.
+Conversational Agents:Chatbots and virtual assistants can engage in human-like conversations, answer queries, and provide personalized assistance.
+Image and Video
+Art and Design:GANs can generate realistic images, paintings, and artwork, and assist in fashion, architecture, and more.Video Synthesis:Creates videos, from deepfakes to realistic scenes for movies and games.
+Video Synthesis:Creates videos, from deepfakes to realistic scenes for movies and games.
+Music and Sound
+AI models can compose original music, create sound effects, and generate new instrumental arrangements.
+Synthetic Data
+Generates synthetic datasets to augment training data, useful for training machine learning models in areas like healthcare, finance, and autonomous driving.
+Impact of Generative AI on Different Industries
+Generative AI’s ability to automate tasks, enhance customer interactions, and improve operational efficiencies positions it as a transformative force across multiple industries, potentially reshaping how businesses operate and deliver value. Generative AI is expected to have a significant impact across various industries, with potential value contributions varying by sector.
+The following image represents the impact GenAI has across different industries:
+Source: McKinsey
+How Generative AI Is Reshaping Business, Healthcare, and the Arts?
+Transforming Customer Engagement with Generative AI
+Generative AI in Data Analytics
+Application of Generative AI across Industries
+AI vs GenAI vs Large Language Models (LLMs) vs ML
+Artificial Intelligence (AI)
+Generative AI (GenAI)
+Large Language Models (LLMs)
+Machine Learning (ML)
+A broad field focused on creating models that simulate human intelligence to perform tasks like decision-making, problem-solving, and learning.
+A subset of AI focused on creating new content (text, images, music, etc.) based on learned patterns from existing data.
+A type of large neural network model designed to understand and generate human-like language, often used in NLP tasks.
+A subset of AI that enables models to learn from data and make predictions or decisions without explicit programming.
+Developing intelligent models that can mimic human capabilities.
+Generating creative content, such as text, images, or audio.
+Understanding, generating, and processing human language.
+Learning from data to make predictions, classifications, or decisions.
+Uses techniques like rule-based systems, machine learning, natural language processing, computer vision, etc.
+Heavily relies on deep learning models (e.g., GANs, transformers) to generate new content.
+Utilizes large deep learning architectures, primarily transformers, to model language.
+Relies on algorithms like decision trees, neural networks, and regression for predictive tasks.
+Robotics, speech recognition, autonomous systems, medical diagnostics.
+Content creation, image generation, music composition, text generation.
+Chatbots, text completion, machine translation, summarization.
+Fraud detection, recommendation systems, medical diagnosis, personalized marketing.
+Can use various forms of structured and unstructured data depending on the task.
+Requires large datasets for training in specific content domains like text, images, or music.
+Typically trained on vast amounts of text data to generate human-like responses.
+Uses labeled or unlabeled data to train models that predict or classify outcomes.
+Self-driving cars, virtual assistants (e.g., Siri, Alexa).
+DALL·E, ChatGPT, Stable Diffusion.
+GPT-4o, BERT, Mistral, Llama 3.1.
+Random Forests, Support Vector Machines (SVM), k-Means Clustering.
+Encompasses both ML and GenAI as subfields.
+A specialized subset within AI focused on creating new data or content.
+A specific type of generative model within GenAI used primarily for language tasks.
+A foundational subset of AI that provides learning techniques for both AI and GenAI.
+Types of Generative AI Models
+Variational Autoencoders (VAEs)
+VAEslearn to encode input data into a latent space and then decode it back to reconstruct the original data. They are often used for generating images and other types of data.
+DCVAE
+Beta-VAE
+CVAE
+VQ-VAE
+VAE-GAN
+PixelVAE
+InfoVAE
+FactorVAE
+JointVAE
+Ladder VAE
+Generative Adversarial Networks (GANs)
+GANs consist of two neural networks, a generator and a discriminator, that compete against each other. The generator creates new data, while the discriminator evaluates its authenticity. This process helps GANs generate highly realistic images.
+DCGAN
+CycleGAN
+StyleGAN
+BigGAN
+Pix2Pix
+WGAN
+ProGAN
+StarGAN
+InfoGAN
+SRGAN (Super-Resolution GAN)
+VQGAN
+Transformers
+Transformers are particularly effective for tasks involving sequential data, such as language modeling. They use self-attention mechanisms to process input data in parallel, making them highly efficient for generating text and other sequential data. Transformers generally fall into two categories:Small Language Models (SLM) and Large Language Models (LLM), depending on their size, capabilities, and use cases.
+Small Language Models(SLM)
+SLMs are typically compact and designed to perform specific tasks with fewer parameters compared to large models. These models excel in tasks like sentence classification, named entity recognition, and question answering, where the complexity or scale of the task doesn’t demand extensive computational resources. SLMs are faster, require less computational power, and are easier to fine-tune for specific applications.Examples include:
+Phi3 Mini
+BERT
+T5 (Text-to-Text Transfer Transformer)
+RoBERTa
+XLNet
+Large Language Models (LLM)
+LLMs are significantly bigger, with billions of parameters, and can handle more complex tasks. These models used for text generation, translation, summarization, and even advanced tasks like reasoning, coding, or holding extended conversations. LLMs require more computational power and memory but provide much more accurate, nuanced, and human-like outputs, making them suitable for various applications.Examples include:
+GPT-4o
+Llama 3.1 70B
+Claude 3.5
+Gemini 1.5
+RNN and LSTMRNNs and their advanced variant, LSTM, are widely used for sequential data generation. These models process data in sequence, making them suitable for text generation, language modeling, and speech synthesis. They can learn patterns and structures in the data, enabling them to predict and generate the next item in a sequence, be it a word, a musical note, or a time series value.
+Char-RNN
+LSTM (for Music Generation, Time Series, and Text)
+Deep Voice
+Seq2Seq
+Diffusion Models
+Diffusion models are a relatively new yet powerful class of generative models. They work by gradually adding noise to data and then learning to reverse this process, generating new data by removing the noise. This iterative process allows for the creation of high-quality images, audio, and even 3D structures. Diffusion models have gained attention for their ability to generate diverse and detailed outputs.
+DDPM
+GLIDE
+Score-Based Model
+DDIM
+Stable Diffusion
+Evolution of Generative AI
+The evolution of Generative AI has seen significant milestones, particularly in recent years:
+Early Foundations (1950s – 1980s): Emergence of neural network concepts and early chatbots like ELIZA.
+Neural Network Renaissance (1990s): Development of RNNs and LSTMs for improved sequential data processing.
+Deep Learning Breakthrough (2000s): Advancements enabling AI to process various data forms.
+Advanced Neural Networks (Early 2010s): Progress in Autoencoders and introduction of VAEs.
+GANs and Image Generation (2014 – 2018): Introduction of GANs and improvements in image generation quality.
+Transformer Models and GPT Series (2018 – 2022):Introduction of Transformer models in 2017OpenAI’s GPT series: GPT-1, GPT-2, and GPT-3Release of ChatGPT in November 2022
+Introduction of Transformer models in 2017
+OpenAI’s GPT series: GPT-1, GPT-2, and GPT-3
+Release of ChatGPT in November 2022
+Major AI Model Releases and Integration (2023):OpenAI released GPT-4Demonstrated human-level performance on various benchmarksImproved reasoning capabilities and reduced hallucinationsIntroduced multimodal capabilities with image inputGoogle announced BardMicrosoft integrated GPT-4 into Bing ChatExpansion of AI assistants (Bard, Copilot) across languages and platformsMeta released Llama2OpenAI introduced DALL·E 3
+OpenAI released GPT-4Demonstrated human-level performance on various benchmarksImproved reasoning capabilities and reduced hallucinationsIntroduced multimodal capabilities with image input
+Demonstrated human-level performance on various benchmarks
+Improved reasoning capabilities and reduced hallucinations
+Introduced multimodal capabilities with image input
+Google announced Bard
+Microsoft integrated GPT-4 into Bing Chat
+Expansion of AI assistants (Bard, Copilot) across languages and platforms
+Meta released Llama2
+OpenAI introduced DALL·E 3
+Latest Advancements (Late 2023 – Early 2024):Release of more powerful models: Claude 3.5 sonnet, Gemini 1.5 Family, GPT-4oFurther advancements in multimodal AI and specialized hardwareIncreased focus on AI safety, ethics, and regulation
+Release of more powerful models: Claude 3.5 sonnet, Gemini 1.5 Family, GPT-4o
+Further advancements in multimodal AI and specialized hardware
+Increased focus on AI safety, ethics, and regulation
+Common Libraries and Frameworks
+Essential for GenAIHere is a list of some of the most common libraries, frameworks, and tools used in Generative AI:Libraries and FrameworksThese libraries and frameworks provide the essential tools and building blocks for developing and implementing Generative AI models, offering a wide range of capabilities to researchers and developers:
+TensorFlow
+PyTorch
+Keras
+Transformers
+Diffusers
+OpenAI
+Datasets
+LangChain
+FastAI
+Chainer
+Theano
+OpenCV
+NLTK
+SpaCy
+AllenNLP
+Tesseract
+Fairseq
+PEFT
+TRL
+PEFT
+Generative AI Models
+GPT-4o
+DALLE 2
+Midjourney
+Gemini
+Stable Diffusion
+StyleGAN3
+WaveNet
+ControlNet
+Claude
+Bard
+Runway Gen-2
+DeepAI
+PaddleGAN
+BigGAN
+Taming Transformers
+VQGAN+CLIP
+MusicLM
+Codex
+Text-to-Image Synthesis Models
+Image GPT
+Neural Radiance Fields (NeRF)
+DeepDream
+Flow-based Generative Models
+Reformer
+How does Generative AI Model Work?
+Neural Network Architecture: These models are based on complex neural networks, often using transformer architectures with attention mechanisms.
+Training Process: They learn through an iterative process of processing data, calculating errors, and adjusting their parameters.
+Tokenization: For text-based models, input is broken down into tokens and converted into numerical representations.
+Self-Attention and Context: Transformer models use self-attention to understand context and relationships within the input data.
+Generation Process: Content is generated by predicting the most likely next token based on learned patterns and context.
+Fine-tuning and Transfer Learning: Models can be adapted for specific tasks or domains through additional training.
+Multimodal Capabilities: Advanced models can handle multiple types of data, like text and images.
+Ethical Considerations: Development includes efforts to mitigate bias and ensure safe, appropriate outputs.
+Continuous Learning and Improvement: Models are regularly updated with new data and architectural improvements.
+Who Can Transition to Generative AI?
+Professionals from various backgrounds can transition into Generative AI roles. By leveraging their existing skills and gaining knowledge in Generative AI through structured programs like theGenAI Pinnacle Program, individuals from these roles can successfully transition into the field of Generative AI. Here are some key roles that are well-suited for this transition:
+Software Developers: Leverage your coding prowess by exploring AI-specific libraries and frameworks. Dive into hands-on projects, building generative models to quickly grasp the practical aspects of AI development.
+Data Scientists:Expand your machine learning toolkit with Generative AI techniques. Focus on tutorials and courses that teach data generation methods, allowing you to apply your analytical skills in creating synthetic data.
+Machine Learning Engineers:Deepen your knowledge with specialized training on Generative AI models. Online resources and boot camps covering GANs, VAEs, and language models will empower you to train and fine-tune state-of-the-art systems.
+Business Analysts:Immerse yourself in the strategic applications of Generative AI. Case studies and industry-specific AI implementation guides will illustrate how AI transforms businesses, providing a roadmap for your role in this evolution.
+Best Roadmap to Learn Generative AI in 2024
+Common Technical Skills Required for Generative AI
+Programming proficiency (especiallyPython)
+Deep learningand neuralnetwork architectures
+Mathematics(linear algebra, calculus, probability)
+Natural Language Processing(NLP) techniques
+Data preprocessingandfeature engineering
+Machine learning frameworks (e.g.,TensorFlow,PyTorch)
+Understanding of ethical AI principles
+How to Make a Career in Generative AI?
+Start by mastering Python, the most popular programming language for AI. Get comfortable with data structures, algorithms, and libraries like Pandas and NumPy for handling data.
+Build a strong foundation in probability and statistics. Understanding these concepts is critical for grasping how AI models work and making sense of their predictions.
+Learn how to preprocess and clean data. Before diving into models, you need to know how to handle raw data, clean it up, and prepare it for training. This step is crucial, as high-quality data leads to better models.
+Get familiar with machine learning fundamentals. Understand key algorithms in supervised and unsupervised learning, and learn how to evaluate models using metrics like accuracy, precision, and recall.
+Move on to deep learning. Start with the basics of neural networks, activation functions, and backpropagation. Use frameworks like TensorFlow or PyTorch to implement simple models and gradually build your skills.
+Next, dive into Natural Language Processing (NLP). Learn how language models work, and experiment with text generation using models like transformers. NLP is at the core of text-based generative AI.
+Explore computer vision. Once you’re comfortable with text generation, shift your focus to image-related tasks. Learn how convolutional neural networks (CNNs) work, and apply them to tasks like image generation or classification.
+Focus on model evaluation and optimization. It’s important to know how to measure model performance and fine-tune hyperparameters for better results.
+Learn to leverage GPU programmingto speed up model training and inference. Using GPUs is essential for training large models efficiently.
+Don’t forget to address ethical considerationsin AI. As you develop your skills, make sure you’re aware of potential biases in models and understand how to create fair, responsible AI systems.
+Job Roles in Generative AI
+In the field of Generative AI, there are various job roles that cater to different skill sets and interests. Here’s an overview of some key job roles you might consider pursuing:Salary Trends in Generative AIAccording toStatista, the global Generative AI market is expected to reach $36.06 billion by 2024, with an annual growth rate of 46.47% from 2024 to 2030, potentially reaching $356.10 billion by 2030. The U.S. is projected to lead, with a market size of $11.66 billion in 2024. These figures reflect the growing impact and opportunities of Generative AI across industries globally.In terms of salaries, according to6figr.com, professionals skilled in Generative AI earn an average salary of₹45.8 lakhs. Verified profiles show a range from₹28.1 lakhsto₹164.8 lakhs, highlighting the lucrative opportunities in this field.
+Checkout Generative AI salary trends here.
+Generative AI Projects
+Text Chatbot
+Youtube Video Summarizer
+Code Generator
+Image Generator
+Video Generator
+Music Generator
+QR Code Generator
+Article Summarizer
+AI-Powered Game
+Deepfake or Face Swap Application
+Find the solution to theseGenerative AI projects here.
+Books on Generative AI
+The Equalizing Quillby Angela E. Lauria
+Ripples of Generative AI: How Generative AI Impacts, Informs and Transforms Our Livesby Jacob Emerson
+Artificial Intelligence Fundamentals for Business Leadersby I Almeida
+Generative AI on AWSby Chris Fregly, Antje Barth, Shelbee Eigenbrode
+Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Playby David Foster
+Top 10 Generative AI Books you must read
+Free Courses for Learning Generative AI
+Generative AI – A Way of Life
+Getting Started with Large Language Models
+Building LLM Applications using Prompt Engineering
+Building Your first RAG System using LlamaIndex
+Stability.AI
+MidJourney
+Building Production Ready RAG systems using LlamaIndex
+Building LLMs for Code
+Youtube Channels
+CodeWithHarry
+Two Minute Papers
+StatQuest with Josh Starmer
+Google Cloud Tech
+DeepLearning.AI
+AI Explained
+Olivio Sarikas
+All About AI
+Robert Miles AI Safety
+Aitrepreneur
+Analytics Vidhya
+Generative AI Influencers
+Andrew Ng
+Sudalai Rajkumar
+Dipanjan Sarkar
+Fei-Fei Li
+Demis Hassabis
+Allie Miller
+Francois Chollet
+Fabio Moioli
+Karen Hao
+Timnit Gebru
+Find more about theseGenerative AI leaders here.
+Frequently Asked Questions
+Q1: What are some limitations of generative AI?A: Generative AI can produce biased or inaccurate outputs, lacks true understanding, and can be computationally intensive. It may also struggle with complex reasoning and can potentially be misused for creating misleading content.
+Q2: What are the possibilities of generative AI?A: Generative AI can create content like text, images, and music; assist in drug discovery; design new materials; enhance creative processes; automate code generation; and personalize user experiences across various industries.
+Q3:What problems can generative AI solve?A: Generative AI can address challenges in content creation, language translation, data augmentation, predictive maintenance, personalized medicine, virtual assistants, and automated design in fields like architecture and engineering.
+Q4: Which technique is commonly used in generative AI?A: Generative Adversarial Networks (GANs) and Transformer models are commonly used in generative AI. These techniques enable the creation of diverse and realistic outputs across various domains.
+Q5: How is generative AI trained?A: Generative AI is trained on large datasets using techniques like unsupervised learning, reinforcement learning, and adversarial training. It learns patterns and structures from data to generate new, similar content.
+Q6 Is generative AI supervised or unsupervised?A: Generative AI can be both supervised and unsupervised, depending on the specific model and task. Many generative models use unsupervised learning, but some incorporate supervised elements for specific applications.
+Q7: How does generative AI create images?A: Generative AI creates images by learning patterns from large datasets of existing images. It then uses techniques like GANs or diffusion models to generate new images that match these learned patterns.
+Q8: How do we keep control of generative AI?A: Control of generative AI involves ethical guidelines, robust testing, human oversight, transparency in development, and implementing safety measures like content filtering and bias detection in the models.
+Q9: Will generative AI replace humans?A: Generative AI is unlikely to fully replace humans but will augment human capabilities in many fields. It will automate certain tasks, potentially changing job roles, but human creativity and judgment remain crucial.
+Q10: What is the danger of generative AI?A: Dangers of generative AI include potential misuse for creating deepfakes or misinformation, privacy concerns, job displacement, and the amplification of biases present in training data.
+Trending articles
+BeginnerGenAI ToolsHow to Create 3D Images using Bing AI?Aayush Tyagi01 May, 2025
+BeginnerGenAI Tools8 Easy Ways to Access ChatGPT for FreeAayush Tyagi01 May, 2025
+BeginnerGenAI Tools12 Jobs That AI Can’t ReplaceNitika Sharma01 May, 2025
+BeginnerGenAI ToolsWhat are Large Language Models(LLMs)?Suvojit04 Apr, 2025
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+www.analyticsvidhya.com_blog_category_generative-ai__0.webp
+www.analyticsvidhya.com_blog_category_generative-ai__1.webp
+www.analyticsvidhya.com_blog_category_generative-ai__2.png
+www.analyticsvidhya.com_blog_category_generative-ai__3.webp
+www.analyticsvidhya.com_blog_category_generative-ai__4.webp
+www.analyticsvidhya.com_blog_category_generative-ai__5.webp
+www.analyticsvidhya.com_blog_category_generative-ai__6.webp
+www.analyticsvidhya.com_blog_category_generative-ai__7.webp
+www.analyticsvidhya.com_blog_category_generative-ai__8.webp
+www.analyticsvidhya.com_blog_category_generative-ai__9.webp
+www.analyticsvidhya.com_blog_category_generative-ai__10.png
+www.analyticsvidhya.com_blog_category_generative-ai__11.webp
+www.analyticsvidhya.com_blog_category_generative-ai__12.webp
+www.analyticsvidhya.com_blog_category_generative-ai__13.png
+www.analyticsvidhya.com_blog_category_generative-ai__14.jpg

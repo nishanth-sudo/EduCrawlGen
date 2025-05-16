@@ -1,0 +1,53 @@
+VueTutorial
+ScalingUp
+Vue Reference
+Vue Examples
+VueTutorial
+Learn Vue
+Vue is a popular JavaScript framework.
+User interfaces built in Vue updates automatically when data changes.
+Vue is easy to learn.
+This Tutorial
+This tutorial is specially designed to help you learn Vue as quickly and efficiently as possible.
+First, you will learn the basics of Vue: text interpolation, directives, and how to incorporate events and forms into your project.
+Then you will learn everything else you need to know about Vue:
+Computed properties, watchers, methods, setup for Single-File Components (SFCs, *.vue files), and more.
+Try it Yourself Examples in Every Chapter
+In every chapter, you can edit the examples online, and click on a button to view the result.
+Example
+What You Should Already Know
+Before you study Vue, you should have a basic understanding of:
+HTML
+CSS
+JavaScript
+Vue History
+Evan You, a Google employee using AngularJS, started to develop Vue in 2013.
+Vue version 1.0 was released in 2015.
+Vue Exercises
+Vue Quiz ?
+Learn by taking a quiz! The quiz will give you a signal of how much you know about Vue.
+Start Vue Quiz
+Track Your Progress
+Create a free W3Schools account and get access to more features and learning materials:
+View your completed tutorials, exercises, and quizzes
+Keep an eye on your progress and daily streaks
+Set goals and create learning paths
+Create your own personal website
+Sign Up for Free
+Note:This is an optional feature. You can study at W3Schools without creating an account.
+Learn by Examples
+Learn by examples! This tutorial supplements all explanations with clarifying examples.
+See All Vue Examples
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_vue_index.php_0.png
+www.w3schools.com_vue_index.php_1.png

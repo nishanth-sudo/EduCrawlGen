@@ -1,0 +1,83 @@
+عربي
+Bahasa Indonesia
+Deutsch
+English
+Español
+Français
+Italiano
+Português
+Tiếng Việt
+Türkçe
+Ρусский
+ไทย
+日本語
+한국어
+中文 (简体)
+中文 (繁體)
+My Profile
+Sign out of AWS Builder ID
+AWS Management Console
+Account Settings
+Billing & Cost Management
+Security Credentials
+AWS Personal Health Dashboard
+Support Center
+Expert Help
+Knowledge Center
+AWS Support Overview
+AWS re:Post
+AWS›
+Training and Certification
+AWS Training and Certification
+Explore what’s new
+Develop your generative AI career with training content built by AWS experts
+Grow your cloud career with 200+ gen AI-powered simulations paired with hands-on labs
+Get the flexibility of digital training with the depth of classroom training
+Become a cloud developer in as little as 9 months – no tech background needed
+Get started with training by role or domain
+Cloud Practitioner
+Learn cloud fundamentals and best practices
+Solutions Architect
+Learn to design highly available systems
+Developer
+Learn to develop applications for the cloud
+Machine Learning and Artificial Intelligence
+Learn how to apply machine learning, artificial intelligence, and deep learning to innovate faster
+Security
+Learn the processes and best practices for securing the AWS platform
+Data analytics
+Learn to design, build, secure, and maintain analytics solutions
+Ways to learn
+Digital training
+Begin learning by accessing 600+ free digital courses, curated by the experts at AWS. Unlock diverse lab experiences and more by becoming an AWS Skill Builder subscriber.
+AWS Certification Exam preparation
+Prepare for certification exams with training and materials that complement your hands-on AWS experience.
+Training for AWS Partners
+Build practical skills and cloud expertise with engaging and interactive learning experiences designed for AWS Partners.
+Free training events
+Join us for free, fun, and interactive training on Twitch, virtual events, and more.
+Classroom training
+Ask questions, work through solutions in person, and get feedback from AWS-accredited instructors with deep technical knowledge.
+AWS Educate
+Join AWS Educate for free cloud content and labs curated for individuals as young as 13, plus access to an exclusive job board and the AWS Emerging Talent Community.
+Build Your AWS Cloud skills with Ramp-Up Guides
+Our downloadable Ramp-Up Guides offer a variety of resources to help build your skills and knowledge of the AWS Cloud. Each guide, features carefully selected digital training, classroom courses, videos, whitepapers, certifications and more to remove the guesswork of learning AWS.
+Download the Generative AI Ramp-Up Guide
+Benefits of AWS Training and Certification
+Learn at your own pace
+Exploreself-paced digital trainingthat's available on demand when and where it's convenient for you. Take the next step in your cloud journey and learn by doing with interactive digital training, available on-demand as part ofAWS Skill Builder subscriptions.
+Train with an AWS expert
+Build technical skills and learn best practices from anaccredited instructor. Choose in-person or virtual courses.
+Choose your training path
+Follow a recommendedlearning planfor a specific domain or job role. You can also skip around—it's flexible.
+Get AWS Certified
+Validate your AWS Cloud skills and enhance your credibility with anindustry-recognized credentialvirtually with online proctoring or in a testing center.
+What people are saying
+Find out what learners and leaders are saying about the transformative impact of building AWS Cloud skills.
+Learn more
+Explore more AWS Training
+Innovate globally, educate locally when you work with a global AWS Training Partner who is trusted to deliver official AWS-authored digital and classroom training.
+Explore AWS Ramp-Up Guides for resources to help you build your AWS Cloud skills by role, solution, or industry.
+Still have questions about training?
+Did you find what you were looking for today?
+Let us know so we can improve the quality of the content on our pages.

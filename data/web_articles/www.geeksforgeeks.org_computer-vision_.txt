@@ -1,0 +1,287 @@
+Data Science IBM Certification
+Data Science
+Data Science Projects
+Data Analysis
+Data Visualization
+Machine Learning
+ML Projects
+Deep Learning
+NLP
+Computer Vision
+Artificial Intelligence
+Explore GfG Courses
+Share Your Experiences
+Computer Vision Tutorial
+Introduction to Computer Vision
+Computer Vision - Introduction
+A Quick Overview to Computer Vision
+Applications of Computer Vision
+Fundamentals of Image Formation
+Satellite Image Processing
+Image Formats
+Image Processing & Transformation
+Digital Image Processing Basics
+Difference Between RGB, CMYK, HSV, and YIQ Color Models
+Image Enhancement Techniques using OpenCV - Python
+Image Transformations using OpenCV in Python
+How to find the Fourier Transform of an image using OpenCV Python?
+Python | Intensity Transformation Operations on Images
+Histogram Equalization in Digital Image Processing
+Python - Color Inversion using Pillow
+Image Sharpening Using Laplacian Filter and High Boost Filtering in MATLAB
+Wand sharpen() function - Python
+Python OpenCV - Smoothing and Blurring
+Python PIL | GaussianBlur() method
+Apply a Gauss filter to an image with Python
+Spatial Filtering and its Types
+Python PIL | MedianFilter() and ModeFilter() method
+Python | Bilateral Filtering
+Python OpenCV - Morphological Operations
+Erosion and Dilation of images using OpenCV in python
+Introduction to Resampling methods
+Python | Image Registration using OpenCV
+Feature Extraction and Description
+Feature Extraction Techniques - NLP
+SIFT Interest Point Detector Using Python - OpenCV
+Feature Matching using Brute Force in OpenCV
+Feature detection and matching with OpenCV-Python
+Feature matching using ORB algorithm in Python-OpenCV
+Mahotas - Speeded-Up Robust Features
+Create Local Binary Pattern of an image using OpenCV-Python
+Deep Learning for Computer Vision
+Image Classification using CNN
+What is Transfer Learning?
+Top 5 PreTrained Models in Natural Language Processing (NLP)
+ML | Introduction to Strided Convolutions
+Dilated Convolution
+Continuous Kernel Convolution
+CNN | Introduction to Pooling Layer
+CNN | Introduction to Padding
+What is the difference between 'SAME' and 'VALID' padding in tf.nn.max_pool of tensorflow?
+Convolutional Neural Network (CNN) Architectures
+Deep Transfer Learning - Introduction
+Introduction to Residual Networks
+Residual Networks (ResNet) - Deep Learning
+ML | Inception Network V1
+Understanding GoogLeNet Model -  CNN Architecture
+Image Recognition with Mobilenet
+VGG-16 | CNN model
+Autoencoders in Machine Learning
+How Autoencoders works ?
+Difference Between Encoder and Decoder
+Implementing an Autoencoder in PyTorch
+Generative Adversarial Network (GAN)
+Deep Convolutional GAN with Keras
+StyleGAN - Style Generative Adversarial Networks
+Object Detection and Recognition
+Detect an object with OpenCV-Python
+Haar Cascades for Object Detection - Python
+R-CNN - Region-Based Convolutional Neural Networks
+YOLO v2 - Object Detection
+Face recognition using Artificial Intelligence
+Deep Face Recognition
+ML | Face Recognition Using Eigenfaces (PCA Algorithm)
+Emojify using Face Recognition with Machine Learning
+Object Detection with Detection Transformer (DETR) by Facebook
+Image Segmentation
+Image Segmentation Using TensorFlow
+Thresholding-Based Image Segmentation
+Region and Edge Based Segmentation
+Image Segmentation with Watershed Algorithm - OpenCV Python
+Mask R-CNN | ML
+3D Reconstruction
+Python OpenCV - Depth map from Stereo Images
+Top 7 Modern-Day Applications of Augmented Reality (AR)
+Virtual Reality, Augmented Reality, and Mixed Reality
+Camera Calibration with Python - OpenCV
+Python OpenCV - Pose Estimation
+40+ Top Computer Vision Projects [2025 Updated]
+DSA to DevelopmentCourse
+Computer Vision TutorialLast Updated :30 Jan, 2025CommentsImproveSuggest changesLike ArticleLikeReportComputer Vision is a branch of Artificial Intelligence (AI) that enables computers to interpret and extract information from images and videos, similar to human perception. It involves developing algorithms to process visual data and derive meaningful insights.Why Learn Computer Vision?High Demand in the Job Market:Essential for careers in AI, machine learning, and data science across industries like healthcare, automotive, and robotics.Revolutionizing Industries:Powers advancements in self-driving cars, medical diagnostics, agriculture, and manufacturing by automating visual tasks.Solving Real-World Problems:Enhances public safety, improves medical imaging, and optimizes industrial processes.Applications of Computer VisionThisComputer Vision tutorialis designed for both beginners and experienced professionals, covering key concepts of computer vision, including Image Processing, Feature Extraction, Object Detection and Recognition, and Image Segmentation.Before diving into computer vision, it is recommended to have a foundational understanding of:Machine LearningDeep LearningOpenCVThese resources will help you build the necessary background for understanding and implementing computer vision techniques effectivelyMathematical Prerequisites for Computer Vision1.Linear AlgebraVectorsMatrices and TensorsEigenvalues and EigenvectorsSingular Value Decomposition2.Probability and StatisticsProbability DistributionsBayesian Inference and Bayes' TheoremMarkov ChainsKalman Filters3.Signal ProcessingImage Filtering and ConvolutionDiscrete Fourier Transform (DFT)Fast Fourier Transform (FFT)Principal Component Analysis (PCA)Image ProcessingImage processing refers to a set of techniques for manipulating and analyzing digital images. The techniques include:1.Image Transformationis process of modifying or changing an images.Geometric TransformationsFourier TransformIntensity Transformation2.Image Enhancementimprove the visual quality or clarity of image to highlight important features or details to minimize noise or distortions.Histogram EqualizationContrast EnhancementImage SharpeningColor Correction3.Noise Reduction Techniquesremoves unwanted noise from images while preserving important features like edges and texture.Gaussian SmoothingMedian FilteringBilateral FilteringWavelet Denoising4.Morphological Operationsprocess images based on their structure and shape. Common morphological operations include:Erosion and DilationOpeningClosingMorphological GradientFeature Extraction1.Edge Detection Techniquesidentify significant changes in the intensity or color, that corresponds to the boundaries of objects with an image.Canny Edge DetectorSobel OperatorPrewitt OperatorLaplacian of Gaussian (LoG)2.Corner and Interest Point Detectionidentify points in an image that are distinctive and can be detected across different views, transformations or scales.Harris Corner DetectionShi-Tomasi Corner Detector3.Feature Descriptorsgenerates a compact representation of local image region around keypoints making it easier to correspond features across different images.SIFT (Scale-Invariant Feature Transform)SURF (Speeded-Up Robust Features)ORB (Oriented FAST and Rotated BRIEF)HOG (Histogram of Oriented Gradients)Deep Learning for Computer VisionDeep learninghas revolutionized the field of computer vision by enabling machines to understand and interpret visual data in ways that were previously unimaginable.1. Convolutional Neural Networks (CNNs)Convolutional Neural Networksare designed to learn spatial hierarchies of features from image. Key components include:Convolutional LayersPooling LayersFully Connected Layers2. Generative Adversarial Networks (GANs)Generative Adversarial Networks (GANs)consists of two networks (generator and discriminator) that work against each other to create realistic images. There are various types of GANs, each designed for specific tasks and improvements:Deep Convolutional GAN (DCGAN)Conditional GAN (cGAN)Cycle-Consistent GAN (CycleGAN)Super-Resolution GAN (SRGAN)Wasserstein GAN (WGAN)StyleGAN3. Variational Autoencoders (VAEs)Variational Autoencoders (VAEs)are probabilistic version of autoencoders, which forces the model to learn a distribution over the latent space rather than a fixed point. Other autoencoders used in computer vision are:Vanilla AutoencodersDenoising Autoencoders (DAE)Convolutional Autoencoder (CAE)4. Vision Transformers (ViT)Vision Transformers (ViT)are inspired by transformers models to treat images and sequence of patches and process them using self-attention mechanisms. Common vision transformers include:DeiT (Data-efficient Image Transformer)Swin TransformerCvT (Convolutional Vision Transformer)T2T-ViT (Tokens-to-Token Vision Transformer)5. Vision Language ModelsVision language modelsintegrate visual and textual information to perform image processing and natural language understanding.CLIP (Contrastive Language-Image Pre-training)ALIGN (A Large-scale ImaGe and Noisy-text)BLIP (Bootstrapping Language-Image Pre-training)Computer Vision Tasks1.Image Classificationassigns a label or category to an entire image based on its content.Multiclass classificationclassifies an image into multiple predefined classes.Multilabel classificationinvolves assigning multiple labels to a single image.Zero-shot classificationclassifies images into categories that model has never seen during training.You can perform image classification using following methods.Image Classification using Support Vector Machine (SVM)Image Classification using RandomForestImage Classification using CNNImage Classification using TensorFlowImage Classification using PyTorch LightningImage Classification using InceptionResNetV2To learn about the datasets for image classification, you can go through the article onDataset for Image Classification.2.Object Detectioninvolves identifying and locating objects within an image by drawing bounding boxes around them. Object detection include following concepts:Bounding Box RegressionIntersection over Union (IoU)Region Proposal Networks (RPN)Non-Maximum Suppression (NMS)Type of Object Detection Approaches1. Single-Stage Object DetectionYOLO (You Only Look Once)SSD (Single Shot Multibox Detector)2. Two-Stage Object DetectionRegion-Based Convolutional Neural Networks (R-CNNs)Fast R-CNNFaster R-CNNMask R-CNNYou can perform object detection using the following methods:Object Detection using TensorFlowObject Detection using PyTorch3.Image Segmentationinvolves partitioning an image into distinct regions or segments to identify objects or boundaries at a pixel level. Types of image segmentation are:Semantic SegmentationInstance SegmentationPanoptic SegmentationYou can perform image segmentation using the following methods:Image Segmentation using K Means ClusteringImage Segmentation using UNetImage Segmentation using UNet++Image Segmentation using TensorFlowImage Segmentation with Mask R-CNNTo learn more related to this, you can refer to:Computer Vision TasksHow does Computer Vision Work?Computer Vision Works similarly to our brain and eye work, To get any Information first our eye capture that image and then sends that signal to our brain. Then After, our brain processes that signal data and converted it into meaningful full information about the object then It recognizes/categorises that object based on its properties.In a similar fashion to Computer Vision Work, In CV we have a camera to capture the Objects and Then it processes that Visual data by some pattern recognition algorithms and based on that property that object is identified. But, Before giving unknown data to the machine/Algorithm, we trained that machine on a vast amount of Visual labelled data. This labelled data enables the machine to analyze different patterns in all the data points and can relate to those labels.Example: Suppose we provide audio data of thousands of bird songs. In that case, the computer learns from this data, analyzes each sound, pitch, duration of each note, rhythm, etc., and hence identifies patterns similar to bird songs and generates a model. As a result, this audio recognition model can now accurately detect whether the sound contains a bird song or not for each input sound.Evolution of Computer VisionTime PeriodEvolution of Computer Vision2010-2015Development of deep learning algorithms for. recognition image.Introduction of convolutional neural networks (CNNs) for image classification.Use of computer vision in autonomous vehicles for object detection and navigation.2015-2020Advancements in real-time object detection with systems like YOLO (You Only Look Once).in facial recognition technology, used in various applications like unlocking smartphones and surveillance.Integration of computer vision in augmented reality (AR) and virtual reality (VR) systems.Use of computer vision in medical imaging for disease diagnosis.2020-2025 (Predicted)Further advancements in real-time object detection and image recognition.More sophisticated use of computer vision in autonomous vehicles.Increased use of computer vision in healthcare for early disease detection and treatment.Integration of computer vision in more consumer products, like smart home devices.Applications of Computer VisionHealthcare: Computer vision is used in medical imaging to detect diseases and abnormalities. It helps in analyzing X-rays, MRIs, and other scans to provide accurate diagnoses.Automotive Industry: In self-driving cars, computer vision is used for object detection, lane keeping, and traffic sign recognition. It helps in making autonomous driving safe and efficient.Retail: Computer vision is used in retail for inventory management, theft prevention, and customer behaviour analysis. It can track products on shelves and monitor customer movements.Agriculture: In agriculture, computer vision is used for crop monitoring and disease detection. It helps in identifying unhealthy plants and areas that need more attention.Manufacturing: Computer vision is used in quality control in defect detect can It. manufacturing products that are hard to spot with the human eye.Security and Surveillance: Computer vision is used in security cameras to detect suspicious activities, recognize faces, and track objects. It can alert security personnel when it detects a threat.Augmented and Virtual Reality: In AR and VR, computer vision is used to track the user's movements and interact with the virtual environment. It helps in creating a more immersive experience.Social Media: Computer vision is used in social media for image recognition. It can identify objects, places, and people in images and provide relevant tags.Drones: In drones, computer vision is used for navigation and object tracking. It helps in avoiding obstacles and tracking targets.Sports: In sports, computer vision is used for player tracking, game analysis, and highlight generation. It can track the movements of players and the ball to provide insightful statistics.Next ArticleComputer Vision - Introductionkumar_satyamImproveArticle Tags :Computer VisionAI-ML-DSTutorials
+Computer Vision Tutorial
+Computer Vision is a branch of Artificial Intelligence (AI) that enables computers to interpret and extract information from images and videos, similar to human perception. It involves developing algorithms to process visual data and derive meaningful insights.
+Why Learn Computer Vision?
+High Demand in the Job Market:Essential for careers in AI, machine learning, and data science across industries like healthcare, automotive, and robotics.
+Revolutionizing Industries:Powers advancements in self-driving cars, medical diagnostics, agriculture, and manufacturing by automating visual tasks.
+Solving Real-World Problems:Enhances public safety, improves medical imaging, and optimizes industrial processes.
+ThisComputer Vision tutorialis designed for both beginners and experienced professionals, covering key concepts of computer vision, including Image Processing, Feature Extraction, Object Detection and Recognition, and Image Segmentation.
+Before diving into computer vision, it is recommended to have a foundational understanding of:
+Machine Learning
+Deep Learning
+OpenCV
+These resources will help you build the necessary background for understanding and implementing computer vision techniques effectively
+Mathematical Prerequisites for Computer Vision
+1.Linear Algebra
+Vectors
+Matrices and Tensors
+Eigenvalues and Eigenvectors
+Singular Value Decomposition
+2.Probability and Statistics
+Probability Distributions
+Bayesian Inference and Bayes' Theorem
+Markov Chains
+Kalman Filters
+3.Signal Processing
+Image Filtering and Convolution
+Discrete Fourier Transform (DFT)
+Fast Fourier Transform (FFT)
+Principal Component Analysis (PCA)
+Image Processing
+Image processing refers to a set of techniques for manipulating and analyzing digital images. The techniques include:
+1.Image Transformationis process of modifying or changing an images.
+Geometric Transformations
+Fourier Transform
+Intensity Transformation
+2.Image Enhancementimprove the visual quality or clarity of image to highlight important features or details to minimize noise or distortions.
+Histogram Equalization
+Contrast Enhancement
+Image Sharpening
+Color Correction
+3.Noise Reduction Techniquesremoves unwanted noise from images while preserving important features like edges and texture.
+Gaussian Smoothing
+Median Filtering
+Bilateral Filtering
+Wavelet Denoising
+4.Morphological Operationsprocess images based on their structure and shape. Common morphological operations include:
+Erosion and Dilation
+Opening
+Closing
+Morphological Gradient
+Feature Extraction
+1.Edge Detection Techniquesidentify significant changes in the intensity or color, that corresponds to the boundaries of objects with an image.
+Canny Edge Detector
+Sobel Operator
+Prewitt Operator
+Laplacian of Gaussian (LoG)
+2.Corner and Interest Point Detectionidentify points in an image that are distinctive and can be detected across different views, transformations or scales.
+Harris Corner Detection
+Shi-Tomasi Corner Detector
+3.Feature Descriptorsgenerates a compact representation of local image region around keypoints making it easier to correspond features across different images.
+SIFT (Scale-Invariant Feature Transform)
+SURF (Speeded-Up Robust Features)
+ORB (Oriented FAST and Rotated BRIEF)
+HOG (Histogram of Oriented Gradients)
+Deep Learning for Computer Vision
+Deep learninghas revolutionized the field of computer vision by enabling machines to understand and interpret visual data in ways that were previously unimaginable.
+1. Convolutional Neural Networks (CNNs)
+Convolutional Neural Networksare designed to learn spatial hierarchies of features from image. Key components include:
+Convolutional Layers
+Pooling Layers
+Fully Connected Layers
+2. Generative Adversarial Networks (GANs)
+Generative Adversarial Networks (GANs)consists of two networks (generator and discriminator) that work against each other to create realistic images. There are various types of GANs, each designed for specific tasks and improvements:
+Deep Convolutional GAN (DCGAN)
+Conditional GAN (cGAN)
+Cycle-Consistent GAN (CycleGAN)
+Super-Resolution GAN (SRGAN)
+Wasserstein GAN (WGAN)
+StyleGAN
+3. Variational Autoencoders (VAEs)
+Variational Autoencoders (VAEs)are probabilistic version of autoencoders, which forces the model to learn a distribution over the latent space rather than a fixed point. Other autoencoders used in computer vision are:
+Vanilla Autoencoders
+Denoising Autoencoders (DAE)
+Convolutional Autoencoder (CAE)
+4. Vision Transformers (ViT)
+Vision Transformers (ViT)are inspired by transformers models to treat images and sequence of patches and process them using self-attention mechanisms. Common vision transformers include:
+DeiT (Data-efficient Image Transformer)
+Swin Transformer
+CvT (Convolutional Vision Transformer)
+T2T-ViT (Tokens-to-Token Vision Transformer)
+5. Vision Language Models
+Vision language modelsintegrate visual and textual information to perform image processing and natural language understanding.
+CLIP (Contrastive Language-Image Pre-training)
+ALIGN (A Large-scale ImaGe and Noisy-text)
+BLIP (Bootstrapping Language-Image Pre-training)
+Computer Vision Tasks
+1.Image Classificationassigns a label or category to an entire image based on its content.
+Multiclass classificationclassifies an image into multiple predefined classes.
+Multilabel classificationinvolves assigning multiple labels to a single image.
+Zero-shot classificationclassifies images into categories that model has never seen during training.
+You can perform image classification using following methods.
+Image Classification using Support Vector Machine (SVM)
+Image Classification using RandomForest
+Image Classification using CNN
+Image Classification using TensorFlow
+Image Classification using PyTorch Lightning
+Image Classification using InceptionResNetV2
+To learn about the datasets for image classification, you can go through the article onDataset for Image Classification.
+2.Object Detectioninvolves identifying and locating objects within an image by drawing bounding boxes around them. Object detection include following concepts:
+Bounding Box Regression
+Intersection over Union (IoU)
+Region Proposal Networks (RPN)
+Non-Maximum Suppression (NMS)
+Type of Object Detection Approaches
+1. Single-Stage Object Detection
+YOLO (You Only Look Once)
+SSD (Single Shot Multibox Detector)
+2. Two-Stage Object Detection
+Region-Based Convolutional Neural Networks (R-CNNs)
+Fast R-CNN
+Faster R-CNN
+Mask R-CNN
+You can perform object detection using the following methods:
+Object Detection using TensorFlow
+Object Detection using PyTorch
+3.Image Segmentationinvolves partitioning an image into distinct regions or segments to identify objects or boundaries at a pixel level. Types of image segmentation are:
+Semantic Segmentation
+Instance Segmentation
+Panoptic Segmentation
+You can perform image segmentation using the following methods:
+Image Segmentation using K Means Clustering
+Image Segmentation using UNet
+Image Segmentation using UNet++
+Image Segmentation using TensorFlow
+Image Segmentation with Mask R-CNN
+To learn more related to this, you can refer to:Computer Vision Tasks
+How does Computer Vision Work?
+Computer Vision Works similarly to our brain and eye work, To get any Information first our eye capture that image and then sends that signal to our brain. Then After, our brain processes that signal data and converted it into meaningful full information about the object then It recognizes/categorises that object based on its properties.
+In a similar fashion to Computer Vision Work, In CV we have a camera to capture the Objects and Then it processes that Visual data by some pattern recognition algorithms and based on that property that object is identified. But, Before giving unknown data to the machine/Algorithm, we trained that machine on a vast amount of Visual labelled data. This labelled data enables the machine to analyze different patterns in all the data points and can relate to those labels.
+Example: Suppose we provide audio data of thousands of bird songs. In that case, the computer learns from this data, analyzes each sound, pitch, duration of each note, rhythm, etc., and hence identifies patterns similar to bird songs and generates a model. As a result, this audio recognition model can now accurately detect whether the sound contains a bird song or not for each input sound.
+Evolution of Computer Vision
+Time Period
+Time Period
+Evolution of Computer Vision
+Evolution of Computer Vision
+2010-2015
+Development of deep learning algorithms for. recognition image.Introduction of convolutional neural networks (CNNs) for image classification.Use of computer vision in autonomous vehicles for object detection and navigation.
+Development of deep learning algorithms for. recognition image.
+Introduction of convolutional neural networks (CNNs) for image classification.
+Use of computer vision in autonomous vehicles for object detection and navigation.
+2015-2020
+Advancements in real-time object detection with systems like YOLO (You Only Look Once).in facial recognition technology, used in various applications like unlocking smartphones and surveillance.Integration of computer vision in augmented reality (AR) and virtual reality (VR) systems.Use of computer vision in medical imaging for disease diagnosis.
+Advancements in real-time object detection with systems like YOLO (You Only Look Once).
+in facial recognition technology, used in various applications like unlocking smartphones and surveillance.
+Integration of computer vision in augmented reality (AR) and virtual reality (VR) systems.
+Use of computer vision in medical imaging for disease diagnosis.
+2020-2025 (Predicted)
+Further advancements in real-time object detection and image recognition.More sophisticated use of computer vision in autonomous vehicles.Increased use of computer vision in healthcare for early disease detection and treatment.Integration of computer vision in more consumer products, like smart home devices.
+Further advancements in real-time object detection and image recognition.
+More sophisticated use of computer vision in autonomous vehicles.
+Increased use of computer vision in healthcare for early disease detection and treatment.
+Integration of computer vision in more consumer products, like smart home devices.
+Applications of Computer Vision
+Healthcare: Computer vision is used in medical imaging to detect diseases and abnormalities. It helps in analyzing X-rays, MRIs, and other scans to provide accurate diagnoses.
+Automotive Industry: In self-driving cars, computer vision is used for object detection, lane keeping, and traffic sign recognition. It helps in making autonomous driving safe and efficient.
+Retail: Computer vision is used in retail for inventory management, theft prevention, and customer behaviour analysis. It can track products on shelves and monitor customer movements.
+Agriculture: In agriculture, computer vision is used for crop monitoring and disease detection. It helps in identifying unhealthy plants and areas that need more attention.
+Manufacturing: Computer vision is used in quality control in defect detect can It. manufacturing products that are hard to spot with the human eye.
+Security and Surveillance: Computer vision is used in security cameras to detect suspicious activities, recognize faces, and track objects. It can alert security personnel when it detects a threat.
+Augmented and Virtual Reality: In AR and VR, computer vision is used to track the user's movements and interact with the virtual environment. It helps in creating a more immersive experience.
+Social Media: Computer vision is used in social media for image recognition. It can identify objects, places, and people in images and provide relevant tags.
+Drones: In drones, computer vision is used for navigation and object tracking. It helps in avoiding obstacles and tracking targets.
+Sports: In sports, computer vision is used for player tracking, game analysis, and highlight generation. It can track the movements of players and the ball to provide insightful statistics.
+Computer Vision
+AI-ML-DS
+Tutorials
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+www.geeksforgeeks.org_computer-vision__0.webp
+www.geeksforgeeks.org_computer-vision__1.webp
+www.geeksforgeeks.org_computer-vision__2.webp
+www.geeksforgeeks.org_computer-vision__3.webp
+www.geeksforgeeks.org_computer-vision__4.webp
+www.geeksforgeeks.org_computer-vision__5.png
+www.geeksforgeeks.org_computer-vision__6.png

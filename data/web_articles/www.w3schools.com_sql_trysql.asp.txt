@@ -1,0 +1,15 @@
+Result:
+The Try-SQL Editoratw3schools.com
+This SQL-Statement is not supported in the WebSQL Database.
+The example still works, because it uses a modified version of SQL.
+Your browser does not support WebSQL.
+You are now using a light-version of the Try-SQL Editor, with a read-only Database.
+If you switch to a browser with WebSQL support, you can try any SQL statement, and play with the Database as much as you like. The Database can also be restored at any time.
+Our Try-SQL Editor uses WebSQL to demonstrate SQL.
+A Database-object is created in your browser, for testing purposes.
+You can try any SQL statement, and play with the Database as much as you like. The Database can be restored at any time, simply by clicking the "Restore Database" button.
+W3C WebSQL
+WebSQL stores a Database locally, on the user's computer. Each user gets their own Database object.
+WebSQL Browser Support
+WebSQL is supported in Chrome, Safari, Opera, and Edge(79).
+If you use another browser you will still be able to use our Try SQL Editor, but a different version, using a server-based ASP application, with a read-only Access Database, where users are not allowed to make any changes to the data.

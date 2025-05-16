@@ -1,0 +1,72 @@
+English
+Deutsch
+Español – América Latina
+Français
+Indonesia
+Italiano
+Português – Brasil
+中文 – 简体
+日本語
+한국어
+Cloud Natural Language
+Home
+Cloud Natural Language
+Documentation
+Cloud Natural Language documentation
+The Cloud Natural Language API provides natural language understanding
+  technologies to developers, including sentiment analysis, entity analysis,
+  entity sentiment analysis, content classification, and syntax analysis.
+  This API is part of the larger Cloud Machine Learning API family.Learn more
+For information on which languages are supported by the Natural Language,
+  seeLanguage Support.
+Build and test a proof of concept with the free trial credits and free monthly usage of
+            20+ products.
+Access 20+ free products for common use cases, including AI APIs, VMs, data warehouses,
+          and more.
+Documentation resources
+Quickstart: Setup the Natural Language
+Quickstart: Setup the Natural Language
+Quickstart: Perform sentiment analysis by using the gcloud CLI
+Quickstart: Perform sentiment analysis by using the gcloud CLI
+Quickstart: Perform sentiment analysis by using client libraries
+Quickstart: Perform sentiment analysis by using client libraries
+Analyzing Sentiment
+Analyzing Sentiment
+Analyzing Entities
+Analyzing Entities
+Classifying Content
+Classifying Content
+Analyzing Syntax
+Analyzing Syntax
+Analyzing Entity Sentiment
+Analyzing Entity Sentiment
+Language Support
+Language Support
+Content Categories
+Content Categories
+Natural Language Client Libraries
+Natural Language Client Libraries
+REST API
+REST API
+Service APIs Overview
+Service APIs Overview
+RPC API
+RPC API
+Locations
+Locations
+Apache Airflow / Cloud Composer operators
+Apache Airflow / Cloud Composer operators
+Pricing
+Pricing
+Quotas and limits
+Quotas and limits
+Release notes
+Release notes
+Billing questions
+Billing questions
+Getting support
+Getting support
+Related videos
+Try Natural Language for yourself
+Except as otherwise noted, the content of this page is licensed under theCreative Commons Attribution 4.0 License, and code samples are licensed under theApache 2.0 License. For details, see theGoogle Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2025-04-30 UTC.

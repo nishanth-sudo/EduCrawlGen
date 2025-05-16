@@ -1,0 +1,301 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+Text Preprocessing in NLP with Python Codes
+Text preprocessing is an essential step innatural language processing(NLP) that involves cleaning and transforming unstructured text data to prepare it for analysis. It includestokenization,stemming, lemmatization, stop-word removal, and part-of-speech tagging. In this article, we will introduce the basics of text preprocessing and providePythoncode examples to illustrate how to implement these tasks using theNLTK library.By the end of the article, readers will better understand how to prepare text data for NLP tasks.
+Learning Outcomes
+Learn about the essential steps in text preprocessing using Python, including tokenization, stemming, lemmatization, and stop-word removal.
+Discover the importance of text preprocessing in improving data quality and reducing noise for effective NLP analysis.
+With practical code examples, you can learn how to clean and prepare text data using Python and the NLTK library.
+Explore the differences between stemming and lemmatization and their impact on word meaning and context.
+Understand the application of preprocessing techniques on SMS spam data to prepare it for model building.
+This article was published as a part of theData Science Blogathon
+Table of contents
+What is Text Preprocessing in NLP?
+Why is Text Preprocessing Important?
+SMS Spam Data for Text Preprocessing
+Steps to Clean the DataPunctuation RemovalLowering the TextTokenizationStop Word RemovalStemmingLemmatization
+Punctuation Removal
+Lowering the Text
+Tokenization
+Stop Word Removal
+Stemming
+Lemmatization
+Frequently Asked Questions
+What is Text Preprocessing in NLP?
+Natural Language Processing (NLP) is a branch ofData Sciencethat deals withtext data. Apart from numerical data, text data is available to a great extent and is used to analyze and solve business problems. However, before using the data foranalysisor prediction, processing the data is important.
+We perform text preprocessing to prepare the text data for the model building. It is the very first step of NLP projects. Some of the preprocessing steps are:
+Removing punctuations like . , ! $( ) * % @
+Removing URLs
+Removing Stop words
+Lower casing
+Tokenization
+Stemming
+Lemmatization
+Why is Text Preprocessing Important?
+Text preprocessing is crucial in naturallanguage processing(NLP) for several reasons:
+Preprocessing Task
+Reasons
+Noise Reduction
+Text data often contains noise such as punctuation, special characters, and irrelevant symbols. Preprocessing helps remove these elements, making the text cleaner and easier to analyze.
+Normalization
+Different forms of words (e.g., “run,” “running,” “ran”) can convey the same meaning but appear in different forms. Preprocessing techniques like stemming and lemmatization help standardize these variations.
+Tokenization
+Text data needs to be broken down into smaller units, such as words or phrases, for analysis. Tokenization divides text into meaningful units, facilitating subsequent processing steps like feature extraction.
+Stopword Removal
+Stopwords are common words like “the,” “is,” and “and” that often occur frequently but convey little semantic meaning. Removing stopwords can improve the efficiency of text analysis by reducing noise.
+Feature Extraction
+Preprocessing can involve extracting features from text, such as word frequencies, n-grams, or word embeddings, which are essential for building machine learning models.
+Dimensionality Reduction
+Text data often has a high dimensionality due to the presence of a large vocabulary. Preprocessing techniques like term frequency-inverse document frequency (TF-IDF) or dimensionality reduction methods can help.
+Text preprocessing is crucial in preparing text data for NLP tasks. It improves data quality, reduces noise, and facilitates effective analysis and modelling.
+SMS Spam Data for Text Preprocessing
+We need to use the required steps based on our dataset. This article will useSMS spam datato understand the steps in text preprocessing in NLP using Python’sPandaslibrary.
+Let’s start by importing the Pandas library and reading the data for text processing in NLP.
+import pandas as pd
+data = pd.read_csv("spam.csv",encoding="ISO-8859-1")
+print(data.head())
+import pandas as pd
+data = pd.read_csv("spam.csv",encoding="ISO-8859-1")
+print(data.head())
+#expanding the dispay of text sms column
+pd.set_option('display.max_colwidth', -1)
+#using only v1 and v2 column
+data= data [['v1','v2']]
+data.head()
+#expanding the dispay of text sms column
+pd.set_option('display.max_colwidth', -1)
+#using only v1 and v2 column
+data= data [['v1','v2']]
+data.head()
+The data has 5572 rows and 2 columns. You can check the shape of data using data.shape function. Let’s check the dependent variable distribution between spam and ham.
+#checking the count of the dependent variable
+data['v1'].value_counts()
+#checking the count of the dependent variable
+data['v1'].value_counts()
+Steps to Clean the Data
+Now, let us learn the steps for cleaning the data.
+Punctuation Removal
+This step in text processing in NLP involves removing all the punctuation from the text.Stringlibrary of Python contains some pre-defined list of punctuations such as‘!”#$%&'()*+,-./:;?@[\]^_`{|}~’
+#library that contains punctuation
+import string
+string.punctuation
+#library that contains punctuation
+import string
+string.punctuation
+#defining the function to remove punctuation
+def remove_punctuation(text):
+    punctuationfree="".join([i for i in text if i not in string.punctuation])
+    return punctuationfree
+#storing the puntuation free text
+data['clean_msg']= data['v2'].apply(lambda x:remove_punctuation(x))
+data.head()
+#defining the function to remove punctuation
+def remove_punctuation(text):
+    punctuationfree="".join([i for i in text if i not in string.punctuation])
+    return punctuationfree
+#storing the puntuation free text
+data['clean_msg']= data['v2'].apply(lambda x:remove_punctuation(x))
+data.head()
+We remove all the punctuations from v2 and store them in theclean_msgcolumn, as shown in the above output.
+clean_msg
+Lowering the Text
+Converting the text into the same case, preferably lowercase, is one of Python’s most common text preprocessing steps. However, doing this step for text processing every time you work on an NLP problem is unnecessary, as lower casing can lead to a loss of information for some problems.
+For example, when dealing with a person’s emotions in any project, words written in upper case can signify frustration or excitement.
+data['msg_lower']= data['clean_msg'].apply(lambda x: x.lower())
+data['msg_lower']= data['clean_msg'].apply(lambda x: x.lower())
+Output:All the text of clean_msg column is converted into lowercase and stored in the msg_lower column
+Tokenization
+In this step, the text is split into smaller units. Based on our problem statement, we can use sentence or wordtokenization.
+#defining function for tokenization
+import re
+def tokenization(text):
+    tokens = re.split('W+',text)
+    return tokens
+#applying function to the column
+data['msg_tokenied']= data['msg_lower'].apply(lambda x: tokenization(x))
+#defining function for tokenization
+import re
+def tokenization(text):
+    tokens = re.split('W+',text)
+    return tokens
+#applying function to the column
+data['msg_tokenied']= data['msg_lower'].apply(lambda x: tokenization(x))
+Output:Sentences are tokenized into words.
+Stop Word Removal
+We remove commonly used stopwords from the text because they do not add value to the analysis and carry little or no meaning.
+NLTK library consists of a list of stopwords considered stopwords in the English language. Some of them are : [i, me, my, myself, we, our, ours, ourselves, you, you’re, you’ve, you’ll, you’d, your, yours, yourself, yourselves, he, most, other, some, such, no, nor, not, only, own, same, so, then, too, very, s, t, can, will, just, don, don’t, should, should’ve, now, d, ll, m, o, re, ve, y, ain, aren’t, could, couldn’t, didn’t, didn’t]
+However, using the provided list of stopwords is unnecessary, as they should be chosen wisely based on the project. For example, ‘How’ can be a stopword for a model but can be important for some other problem where we are working on customers’ queries. We can create a customized list of stopwords for different problems.
+#importing nlp library
+import nltk
+#Stop words present in the library
+stopwords = nltk.corpus.stopwords.words('english')
+stopwords[0:10]
+['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', "you're"]
+#importing nlp library
+import nltk
+#Stop words present in the library
+stopwords = nltk.corpus.stopwords.words('english')
+stopwords[0:10]
+['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', "you're"]
+#defining the function to remove stopwords from tokenized text
+def remove_stopwords(text):
+    output= [i for i in text if i not in stopwords]
+    return output
+#defining the function to remove stopwords from tokenized text
+def remove_stopwords(text):
+    output= [i for i in text if i not in stopwords]
+    return output
+#applying the function
+data['no_stopwords']= data['msg_tokenied'].apply(lambda x:remove_stopwords(x))
+#applying the function
+data['no_stopwords']= data['msg_tokenied'].apply(lambda x:remove_stopwords(x))
+Output: Stop words in the nltk library, such as in, until, to, I, and here, are removed from the tokenized text, and the rest are stored in the no_stopwords column.
+Stemming
+This step, known as text standardization, stems or reduces words to their root or base form. For example, we stem words like ‘programmer,’ ‘programming,’ and ‘program’ to ‘program.’
+However,stemmingcan cause the root form to lose its meaning or not be reduced to a proper English word. We will see this in the steps below.
+#importing the Stemming function from nltk library
+from nltk.stem.porter import PorterStemmer
+#defining the object for stemming
+porter_stemmer = PorterStemmer()
+#importing the Stemming function from nltk library
+from nltk.stem.porter import PorterStemmer
+#defining the object for stemming
+porter_stemmer = PorterStemmer()
+#defining a function for stemming
+def stemming(text):
+stem_text = [porter_stemmer.stem(word) for word in text]
+    return stem_text
+data['msg_stemmed']=data['no_sw_msg'].apply(lambda x: stemming(x))
+#defining a function for stemming
+def stemming(text):
+stem_text = [porter_stemmer.stem(word) for word in text]
+    return stem_text
+data['msg_stemmed']=data['no_sw_msg'].apply(lambda x: stemming(x))
+Output:In the below image, we can see how some words stem from their base.
+crazy-> crazi
+available-> avail
+entry-> entri
+early-> earli
+Now, let’s see how Lemmatization is different from Stemming.
+Also Read:Stemming vs Lemmatization in NLP: Must-Know Differences
+Lemmatization
+It stems from the word lemmatize, which means reducing the different forms of a word to one single form. However, one must ensure that it does not lose meaning.  Lemmatization has a pre-defined dictionary that stores the context of words and checks the word in the dictionary while diminishing.
+Let us now understand the difference between after stemming and after lemmatization:
+Original Word
+After Stemming
+After Lemmatization
+goose
+goos
+goose
+geese
+gees
+goose
+from nltk.stem import WordNetLemmatizer
+#defining the object for Lemmatization
+wordnet_lemmatizer = WordNetLemmatizer()
+from nltk.stem import WordNetLemmatizer
+#defining the object for Lemmatization
+wordnet_lemmatizer = WordNetLemmatizer()
+#defining the function for lemmatization
+def lemmatizer(text):
+lemm_text = [wordnet_lemmatizer.lemmatize(word) for word in text]
+    return lemm_text
+data['msg_lemmatized']=data['no_stopwords'].apply(lambda x:lemmatizer(x))
+#defining the function for lemmatization
+def lemmatizer(text):
+lemm_text = [wordnet_lemmatizer.lemmatize(word) for word in text]
+    return lemm_text
+data['msg_lemmatized']=data['no_stopwords'].apply(lambda x:lemmatizer(x))
+Output:The difference between stemming and lemmatization can be seen in the output below.
+In the first row- crazy has been changed to crazi which has no meaning, but for lemmatization, it remained the same, i.e. crazy.
+In the last row- goes has changed to goe while stemming, but for lemmatization, it has converted into go, which is meaningful.
+After performing all the text processing steps, we convert the final acquired data into numeric form usingBag of WordsorTF-IDF.
+Conclusion
+Apart from the steps in this article, many other steps are a part oftext processing NLP. Some of them are URL removal, HTML tags removal, Rare words removal, Frequent words removal, Spelling checking, and many more. You must choose the steps based on the dataset you are working on and what is necessary for the project.
+Also Read:Text Cleaning Methods in NLP
+Frequently Asked Questions
+A. Text preprocessing in Python involves cleaning and transforming raw text data to make it suitable for analysis or machine learning tasks. It includes steps like removing punctuation, tokenization (splitting text into words or phrases), converting text to lowercase, removing stop words (common words that add little value), and stemming or lemmatization (reducing words to their base forms). Python libraries such as NLTK, SpaCy, and pandas are commonly used for these tasks.
+A. Preprocessing large text data in Python requires efficient handling of datasets using libraries like pandas for data manipulation and NLTK or SpaCy for text operations. Key steps include reading the data in chunks to manage memory, multiprocessing to parallelize tasks, and employing optimized methods like vectorized operations. Distributed computing frameworks like Apache Spark with PySpark to handle extremely large datasets can enhance performance.
+A. Lemmatization in data preprocessing reduces words to their base or root form (lemma) by considering the context and part of speech. Unlike stemming, which often cuts off word endings, lemmatization uses a dictionary to transform words into meaningful forms. For example, “running” becomes “run,” and “better” becomes “good.” It helps maintain meaningful word variants, improving the quality of text analysis and model performance.
+A. Text preprocessing in NLP faces context sensitivity, scalability, language diversity, and data quality challenges.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+Stemming vs Lemmatization in NLP: Must-Know Dif...
+Stemming vs Lemmatization in NLP: Must-Know Dif...
+Sentiment Analysis Using Python
+Sentiment Analysis Using Python
+NLP Preprocessing Steps in Easy Way
+NLP Preprocessing Steps in Easy Way
+Essential Text Pre-processing Techniques for NLP!
+Essential Text Pre-processing Techniques for NLP!
+Why must text data be pre-processed ?
+Why must text data be pre-processed ?
+Text Preprocessing made easy!
+Text Preprocessing made easy!
+Must Known Techniques for text preprocessing in...
+Must Known Techniques for text preprocessing in...
+A Quick Guide to Text Cleaning Using the nltk L...
+A Quick Guide to Text Cleaning Using the nltk L...
+NLP Essentials: Removing Stopwords and Performi...
+NLP Essentials: Removing Stopwords and Performi...
+Pre-Processing of Text Data in NLP
+Pre-Processing of Text Data in NLP
+Responses From Readers
+i have used spaCy to split text in a document into sentences. Is there a way to print accuracy score ?
+its would be better if you provise the dataset for this example
+I like the new design! 
+I'm working on datasets of savant art drawings and the motor skill videos with tracking for datasets.
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__0.webp
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__1.webp
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__2.png
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__3.webp
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__4.webp
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__5.webp
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__6.webp
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__7.webp
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__8.webp
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__9.webp
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__10.webp
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__11.webp
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__12.webp
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__13.webp
+www.analyticsvidhya.com_blog_2021_06_text-preprocessing-in-nlp-with-python-codes__14.webp

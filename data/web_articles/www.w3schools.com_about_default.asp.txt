@@ -1,0 +1,97 @@
+AboutUs
+About W3Schools
+W3Schools
+The World's Largest Web Developer Site
+3BN+
+Pages Displayed Yearly
+70M+
+Monthly Visitors
+25+
+Years in Business
+Join millions of learners worldwide in mastering web development through interactive tutorials and hands-on practice.
+What is W3Schools?
+We create simplified and interactive learning experiences.
+Learning web development should be easy to understand and available for everyone, everywhere!
+W3Schools is a school for web developers, covering all the aspects of web development:HTML TutorialCSS TutorialJavaScript TutorialPHP TutorialSQL TutorialPython TutorialJava TutorialC TutorialC++ TutorialC# TutorialR TutorialReact TutorialTypeScript TutorialBootstrap TutorialW3.CSS TutorialjQuery TutorialGit TutorialXML TutorialExcel TutorialDSA TutorialAnd Much More ...W3Schools was created in 1998, and derives its name from the World Wide Web (WWW) but is not affiliated with the W3C.Easy LearningW3Schools has focus on simplicity.W3Schools practice easy learning.W3Schools uses simple code examples and simple illustrations of how to use it.W3Schools' tutorials start from basic level and move all the way up to professional references.Try It YourselfW3schools presents thousands of code examples.By using our online editor,Try it Yourself,
+you can edit examples and execute computer code experimentally, to see what works and what does not, before 
+implementing it.W3Schools is FreeW3Schools is, and will always be, a completely free 
+developers resource.ChatGPTThis is how ChatGPT describes W3Schools:"W3Schools is a popular online platform that provides web development tutorials and references for various web technologies. It serves as a comprehensive resource for individuals who are learning or looking to enhance their skills in HTML, CSS, JavaScript, and other related technologies.The website offers a wide range of educational materials, including beginner-friendly tutorials, interactive examples, and hands-on exercises. These resources are designed to help users understand the fundamentals of web development and gain practical experience. Users can learn about topics such as web design, front-end development, back-end development, database management, and more.One of the notable features of W3Schools is its "Try it Yourself" editor, which allows users to experiment with code directly within their web browser. This interactive environment enables learners to test out different code snippets, modify them, and see the results in real-time, providing an effective way to practice and reinforce their understanding.In addition to tutorials, W3Schools also provides comprehensive references for various web technologies, which serve as handy guides for developers when they need quick information or syntax references. The platform covers a wide range of subjects, including HTML elements, CSS properties, JavaScript functions, SQL queries, and more.Overall, W3Schools is a well-regarded resource that has been utilized by numerous individuals seeking to learn web development concepts or refresh their knowledge. However, it's worth noting that while W3Schools is a valuable learning platform, it is not affiliated with the official World Wide Web Consortium (W3C), the international standards organization for the web."
+HTML Tutorial
+CSS Tutorial
+JavaScript Tutorial
+PHP Tutorial
+SQL Tutorial
+Python Tutorial
+Java Tutorial
+C Tutorial
+C++ Tutorial
+C# Tutorial
+R Tutorial
+React Tutorial
+TypeScript Tutorial
+Bootstrap Tutorial
+W3.CSS Tutorial
+jQuery Tutorial
+Git Tutorial
+XML Tutorial
+Excel Tutorial
+DSA Tutorial
+And Much More ...
+W3Schools was created in 1998, and derives its name from the World Wide Web (WWW) but is not affiliated with the W3C.
+Easy Learning
+W3Schools has focus on simplicity.
+W3Schools practice easy learning.
+W3Schools uses simple code examples and simple illustrations of how to use it.
+W3Schools' tutorials start from basic level and move all the way up to professional references.
+Try It Yourself
+W3schools presents thousands of code examples.
+By using our online editor,Try it Yourself,
+you can edit examples and execute computer code experimentally, to see what works and what does not, before 
+implementing it.
+W3Schools is Free
+W3Schools is, and will always be, a completely free 
+developers resource.
+ChatGPT
+This is how ChatGPT describes W3Schools:
+"W3Schools is a popular online platform that provides web development tutorials and references for various web technologies. It serves as a comprehensive resource for individuals who are learning or looking to enhance their skills in HTML, CSS, JavaScript, and other related technologies.
+The website offers a wide range of educational materials, including beginner-friendly tutorials, interactive examples, and hands-on exercises. These resources are designed to help users understand the fundamentals of web development and gain practical experience. Users can learn about topics such as web design, front-end development, back-end development, database management, and more.
+One of the notable features of W3Schools is its "Try it Yourself" editor, which allows users to experiment with code directly within their web browser. This interactive environment enables learners to test out different code snippets, modify them, and see the results in real-time, providing an effective way to practice and reinforce their understanding.
+In addition to tutorials, W3Schools also provides comprehensive references for various web technologies, which serve as handy guides for developers when they need quick information or syntax references. The platform covers a wide range of subjects, including HTML elements, CSS properties, JavaScript functions, SQL queries, and more.
+Overall, W3Schools is a well-regarded resource that has been utilized by numerous individuals seeking to learn web development concepts or refresh their knowledge. However, it's worth noting that while W3Schools is a valuable learning platform, it is not affiliated with the official World Wide Web Consortium (W3C), the international standards organization for the web."
+You Can Help
+Many people work very hard to ensure w3schools remains useful, updated, and interesting.
+If
+you find an error, or a broken link, please tell us about
+it.
+You can send us a message using the "CONTACT US" link at the bottom of any page.
+Add a Link to Us
+If you want others to discover W3schools, please add a link to us.
+To add a simple text link, insert the following HTML code on your site:
+If you want to link with a banner, please choose from:Banners and Buttons
+W3Schools Demographics
+Origin
+Percent
+Asia
+38 %
+Americas
+30 %
+Europe
+27 %
+Africa
+3 %
+Oceania
+2 %
+Source: Google Analytics
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_about_default.asp_0.png
+www.w3schools.com_about_default.asp_1.png
