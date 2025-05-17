@@ -8,3 +8,6 @@ datetime
 google-generativeai
 faiss-cpu
 sentence-transformers
+opencv-python
+numpy   
+pandas
